@@ -4,18 +4,16 @@ title: Topics
 permalink: /topics/
 ---
 
-The topics that have been aggregated across many discussions.
+The topics that have been aggregated across many discussions.  The table is sorted but the details are not, so please 'search' for them until that is fixed.
 
-## Topic Links
-
-| Topic             | Link                                                                                                                              |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Topic             | Link                                                                                                                                |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | 3-D Printed Liver | [Colorado.Edu : Printed Livers](https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past) |
-| Gougol            | https://med.stanford.edu/profiles/amir-gougol                                                                                     |
-| Liver Circle      | https://www.thelivercircle.org                                                                                                    |
-| Transplant Games  | https://www.transplantgamesofamerica.org                                                                                          |
-| Tumeric           | https://www.ynhhs.org/articles/supplements-liver-damage                                                                           |
-| Xifaxan           | https://www.rxconnected.com/drug/xifaxan                                                                                          |
+| Gougol            | <https://med.stanford.edu/profiles/amir-gougol>                                                                                     |
+| Liver Circle      | <https://www.thelivercircle.org >                                                                                                   |
+| Transplant Games  | <https://www.transplantgamesofamerica.org  >                                                                                        |
+| Tumeric           | <https://www.ynhhs.org/articles/supplements-liver-damage >                                                                          |
+| Xifaxan           | <https://www.rxconnected.com/drug/xifaxan >                                                                                         |
 
 ## Topic Details
 
