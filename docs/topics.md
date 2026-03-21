@@ -51,14 +51,26 @@ The topics that have been aggregated across many discussions (2026-02-20 onward)
 | XIAFLEX                                                                              | <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>                                                                                                            |
 | Xifaxan                      [&darr;](#xifaxan)                                      | <https://www.rxconnected.com/drug/xifaxan >                                                                                                                                    |
 
-
 ## Topic Details
+
+{% comment %}
+====================================================================================
+====================================================================================
+====================================================================================
+{% endcomment %}
 
 ### 3-D Printed Liver
 
 Could 3D-printed livers make transplant lists a thing of the past?
 
 <https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past>
+
+### Bausch PAP
+
+Bausch Health PAP Summary (2026)
+What it is: A program that provides Xifaxan at no cost for up to one year for eligible patients
+
+* <https://www.bauschhealthpap.com/globalassets/pi/xifaxan550-pi.pdf>
 
 ### Donor Info
 
@@ -139,7 +151,24 @@ You must avoid all of the following:
 
 <https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx>
 
-### TIPS 
+### Safety Net
+Apparently the main UNOS page is gone, and the information is only in the archive until the new site provides the information (if it ever does).
+
+### Skin Cancer Risk
+
+At least need yearly skin checks, although someone heard it needs to be four times per year.
+
+### Tacrolimus Skin Cancer
+
+«Tacrolimus is a potent immunosuppressant used in liver transplants that significantly increases the risk of skin cancer—often by 10- to 30-fold—due to suppressed immune surveillance. Risk is linked to cumulative exposure, with higher doses in the first year increasing cancer likelihood. Regular dermatological monitoring is vital»
+
+<https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext>
+
+### Tacrolimus vs. CellCept
+«Tacrolimus (a calcineurin inhibitor) is generally more potent at preventing acute rejection, while CellCept is often better tolerated with fewer metabolic side effects» [AI]
+
+
+### TIPS
 «TIPS procedures typically take one to two hours. Your team will move you to a recovery room after the procedure. They’ll check on you as you wake up from anesthesia» — <https://my.clevelandclinic.org/health/procedures/tips-procedure>
 
 
@@ -156,28 +185,4 @@ Xifaxan is now available as a generic (Rifaxamin) in Canada.  The patent protect
 Other brand names are: Xifaxanta/Zaxine
 
 
-
-### Skin Cancer Risk
-
-At least need yearly skin checks, although someone heard it needs to be four times per year.
-
-### Safety Net
-Apparently the main UNOS page is gone, and the information is only in the archive until the new site provides the information (if it ever does).
-
-### Tacrolimus vs. CellCept
-«Tacrolimus (a calcineurin inhibitor) is generally more potent at preventing acute rejection, while CellCept is often better tolerated with fewer metabolic side effects» [AI]  
-
-
-### Bausch PAP
-
-Bausch Health PAP Summary (2026)
-What it is: A program that provides Xifaxan at no cost for up to one year for eligible patients
-
-* <https://www.bauschhealthpap.com/globalassets/pi/xifaxan550-pi.pdf>
-
-## Tacrolimus Skin Cancer
-
-«Tacrolimus is a potent immunosuppressant used in liver transplants that significantly increases the risk of skin cancer—often by 10- to 30-fold—due to suppressed immune surveillance. Risk is linked to cumulative exposure, with higher doses in the first year increasing cancer likelihood. Regular dermatological monitoring is vital»
-
-<https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext>
 
