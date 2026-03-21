@@ -24,7 +24,7 @@ The most recent posts on [r/liverspot](http://reddit.com/r/liverspot) are:
 
    * [The Best I Read: May-21](https://www.reddit.com/r/liverspot/comments/1rxsbyl/the_best_i_read_20260321/) 
    * LifeRing ['The Liver Spot'](https://meetings.lifering.org/meetings/?title=liver){:target="_blank"}&#8599;  Meeting Links
-     * [XYZ — May-20](https://www.reddit.com/r/liverspot/comments/1rzcwmc/lifering_meeting_20260320_liverspot_xyz/) #Todo
+     * [XYZ — May-20](https://www.reddit.com/r/liverspot/comments/1rzcwmc/lifering_meeting_20260320_liverspot_xyz/) 
      * [OG — May-18](https://www.reddit.com/r/liverspot/comments/1rxlslb/lifering_meeting_20260318_liverspot_og/)
      * [PT — May-17](https://www.reddit.com/r/liverspot/comments/1rwork9/lifering_meeting_20260317_liverspot_posttransplant/)
 
