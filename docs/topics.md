@@ -43,6 +43,14 @@ The topics that have been aggregated across many discussions (2026-02-20 onward)
 | Umbilical Hernia                                                                     | <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>                                                                                                              |
 | XIAFLEX                                                                              | <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>                                                                                                            |
 | Xifaxan                      [&darr;](#xifaxan)                                      | <https://www.rxconnected.com/drug/xifaxan >                                                                                                                                    |
+| LiverSpot.org                                                                        | <https://liverspot.org>       |
+| HPMV                                                                                 |  <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv> |
+| Topical Tacrolimus                                                                   | <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159> |
+| Tacrolimus Skin Cancer[&darr;](#tacrolimus-skin-cancer)                              |  <https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext>
+| Tacrolimus-induced Ascites                                                           | <https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/> |
+| BUN Test                                                                             | <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821> |
+| Creatine Test                                                                        | <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646> |
+
 
 ## Topic Details
 
@@ -166,3 +174,10 @@ Bausch Health PAP Summary (2026)
 What it is: A program that provides Xifaxan at no cost for up to one year for eligible patients
 
 * <https://www.bauschhealthpap.com/globalassets/pi/xifaxan550-pi.pdf>
+
+## Tacrolimus Skin Cancer
+
+«Tacrolimus is a potent immunosuppressant used in liver transplants that significantly increases the risk of skin cancer—often by 10- to 30-fold—due to suppressed immune surveillance. Risk is linked to cumulative exposure, with higher doses in the first year increasing cancer likelihood. Regular dermatological monitoring is vital»
+
+<https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext>
+
