@@ -8,4 +8,4 @@ Terminology used throughout discussions here.
 
 Currently see:
    * [Topics](/topics)
-   * [Glossary](http://www.dairbook.com/glossary) &#8599; 
+   * [Glossary](http://www.dairbook.com/glossary){:target="_blank"}&#8599; 
