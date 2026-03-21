@@ -6,7 +6,7 @@ permalink: /topics/
 
 The topics that have been aggregated across many discussions (2026-02-20 onward)
 
-Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t)
+Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Details](#topic-details)
 
 
 | Topic                                                                                | Link                                                                                                                                                                           |
