@@ -20,7 +20,7 @@ At the moment, the main benefit of this site is the collection of [Topics](/topi
 
 ### Recent Updates
 
-The most recent posts on [r/liverspot](http://reddit.com/r/liverspot) are:
+The most recent posts on [r/liverspot](http://reddit.com/r/liverspot) by category:
 
    * [The Best I Read](https://www.reddit.com/r/liverspot/?f=flair_name%3A%22Recommended%22)
    * [LifeRing Meeting Topics](https://www.reddit.com/r/liverspot/?f=flair_name%3A%22LifeRing%22)
