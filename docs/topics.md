@@ -23,8 +23,10 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Gabapentin                        <a id="g"></a>                                     | <https://my.clevelandclinic.org/health/drugs/21561-gabapentin     >                                                                                                            | 
 | Gallbladder  [&darr;](#gallbladder)                                                  | <https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>                                                                           |
 | Gougol     [&darr;](#gougol)                                                         | <https://med.stanford.edu/profiles/amir-gougol>                                                                                                                                |
-| HPMV                                                                                 | <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv>                                                                                              |
+| HCC GALAD Model  [&darr;](#hcc-galad-model)                                          |  <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>                                                                                                 |
 | HPMV                                                                                 | <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv                         >                                                                     |
+| HPMV                                                                                 | <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv>                                                                                              |
+| Hypomagnesium  [&darr;](#hypomagnesium)                                              | <https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia> |
 | Ketorolac                                                                            | <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882      >                                                             |
 | Liver Circle   [&darr;](#liver-circle)                                               | <https://www.thelivercircle.org >                                                                                                                                              |
 | Liver Pain                                                                           | <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain  >                                                                                                 |
@@ -53,7 +55,6 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Umbilical Hernia                                                                     | <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>                                                                                                              |
 | XIAFLEX                                                                              | <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>                                                                                                            |
 | Xifaxan                      [&darr;](#xifaxan)                                      | <https://www.rxconnected.com/drug/xifaxan >                                                                                                                                    |
-| HCC GALAD Model  [&darr;](#hcc-galad-model)                                          |  <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>                                                                                                 |
 
 ## Topic Details
 
@@ -106,6 +107,8 @@ A DXA scan is an imaging test that measures the strength of your bones. It uses 
 
 ### Gougol
 
+<https://med.stanford.edu/profiles/amir-gougol>     
+
 Professional Education
 * Fellowship: UCSF Dept of Gastroenterology (2023) CA
 * Fellowship: University of Pittsburgh Medical Center Division of Gastroenterology (2022) PA
@@ -114,6 +117,20 @@ Professional Education
 * Board Certification: American Board of Internal Medicine, Internal Medicine (2019)
 * Residency: University of Pittsburgh Medical Center Internal Medicine (2019) PA
 * Medical Education: Tehran University of Medical Sciences (2011) Iran
+
+
+### HCC GALAD model
+
+The GALAD model:
+
+* <https://www.mayocliniclabs.com/test-catalog/overview/606585>
+* <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>
+
+Seems pretty well endorsed: « The GALAD model has been demonstrated to have higher diagnostic accuracy for the detection of hepatocellular carcinoma (HCC) when compared to the use AFP, AFP-L3, and DCP markers alone or in combination. The performance of the GALAD score has also been reported to be superior to ultrasound for HCC detection»
+
+### Hypomagnesium
+Magnesium oxide, sodium bicarbonate, Sucralfate, or other antacids should not be taken within two hours of taking tacrolimus. For example, if your child takes tacrolimus at 8:00 a.m., magnesium oxide should not be given until 10:00 a.m. or later.
+
 
 ### Liver Circle
 Imagine a world where a liver disease diagnosis isn't a dead end, but a new beginning. Where the fear of a "transplant" is replaced by the power of knowledge and a supportive community.
@@ -188,13 +205,4 @@ Xifaxan is now available as a generic (Rifaxamin) in Canada.  The patent protect
 
 Other brand names are: Xifaxanta/Zaxine
 
-
-### HCC GALAD model 
-
-The GALAD model:
-
-* <https://www.mayocliniclabs.com/test-catalog/overview/606585>
-* <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>
-
-Seems pretty well endorsed: « The GALAD model has been demonstrated to have higher diagnostic accuracy for the detection of hepatocellular carcinoma (HCC) when compared to the use AFP, AFP-L3, and DCP markers alone or in combination. The performance of the GALAD score has also been reported to be superior to ultrasound for HCC detection»
 
