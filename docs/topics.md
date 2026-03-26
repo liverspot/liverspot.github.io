@@ -14,6 +14,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | 3-D Printed Liver [&darr;](#3-d-printed-liver)  <a id="a"></a>                       | [Colorado.Edu : Printed Livers](https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past)                                            |
 | BUN Test                                                                             | <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>                                                                                           |
 | Bausch PAP  [&darr;](#bausch-pap)                                                    | <https://www.bauschhealthpap.com/eligible-medications/    >                                                                                                                    |
+| CPMC | <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>                                                                                        | 
 | Creatine Test                                                                        | <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>                                                                                               |
 | DXA scan         [&darr;](#dxa-scan)                                                 | <https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test         >                                                                             |
 | Donor Info  [&darr;](#donor-info)                                                    | [See below](#donor-info)                                                                                                                                                       |
@@ -23,14 +24,14 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Gabapentin                        <a id="g"></a>                                     | <https://my.clevelandclinic.org/health/drugs/21561-gabapentin     >                                                                                                            | 
 | Gallbladder  [&darr;](#gallbladder)                                                  | <https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>                                                                           |
 | Gougol     [&darr;](#gougol)                                                         | <https://med.stanford.edu/profiles/amir-gougol>                                                                                                                                |
-| HCC GALAD Model  [&darr;](#hcc-galad-model)                                          |  <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>                                                                                                 |
+| HCC GALAD Model  [&darr;](#hcc-galad-model)                                          | <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>                                                                                                   |
 | HPMV                                                                                 | <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv                         >                                                                     |
-| Hypomagnesium  [&darr;](#hypomagnesium)                                              | <https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia> |
+| Hypomagnesium  [&darr;](#hypomagnesium)                                              | <https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia>                                                                                                          |
 | Ketorolac                                                                            | <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882      >                                                             |
 | Liver Circle   [&darr;](#liver-circle)                                               | <https://www.thelivercircle.org >                                                                                                                                              |
 | Liver Pain                                                                           | <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain  >                                                                                                 |
 | LiverSpot.org                                                                        | <https://liverspot.org>                                                                                                                                                        |
-| MELD  [&darr;](#meld)                         <a id="m"></a>                         | <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>                                                                                      |
+| MELD  [&darr;](#meld)                         <a id="m"></a>                         | [See Below](#meld)                                                           |
 | Neutropenia  [&darr;](#neutropenia)                                                  | <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>                                                                                                             |
 | Osmolite                                                                             | <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>                                                                                 |
 | Oxycodone                                                                            | <https://medlineplus.gov/druginfo/meds/a682132.html   >                                                                                                                        |
@@ -75,6 +76,9 @@ Bausch Health PAP Summary (2026)
 What it is: A program that provides Xifaxan at no cost for up to one year for eligible patients
 
 * <https://www.bauschhealthpap.com/globalassets/pi/xifaxan550-pi.pdf>
+
+### CPMC
+California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
 
 ### Donor Info
 
@@ -143,6 +147,16 @@ This is the world The Liver Circle, Inc. (TLC) is building.  We're more than an 
 Only really relevant if a transplant is indicated, but used somewhat to produce an aggregate sickness level.
 
 There are statistical correlations between level of liver illness (e.g. the MELD score) and the chance of survival for a period of time (E.g. « A MELD score above 30 indicates a 50% chance of dying in three months.» — <https://www.dairbook.com/glossary/meld> ).
+
+#### Links:
+
+* Mayo Clinic: <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
+
+* Very Well Health: «A MELD score of 25 indicates a high risk of mortality, with estimated 3-month mortality rates typically falling within the range of 19.6% to 45.5%. » — <https://www.verywellhealth.com/meld-score-4783410>
+
+* UPMC: «Understanding Your MELD Score for Liver Transplant» — <https://www.upmc.com/services/transplant/patients/resources/meld-score>
+
+* DAIR: <https://www.dairbook.com/glossary/meld>
 
 ### Neutropenia
 
