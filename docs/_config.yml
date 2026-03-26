@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The LiverSpot
-#email: your-email@example.com
+#author: The Spots
+#email: info@liverspot.org
 description: >- # this means to ignore newlines until "baseurl:"
   A community for people with a diseased 
   liver, kidney, or other organ who want to provide knowledge 
