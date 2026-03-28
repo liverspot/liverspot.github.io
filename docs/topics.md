@@ -4,7 +4,7 @@ title: Topics
 permalink: /topics/
 ---
 
-The topics that have been aggregated across many discussions (2026-02-20 onward)
+The following contains topics that have been brought up during discussions related to organ disease and treatments.  This page contains both a quick-link table and a more detailed section containing more details on some of the topics.
 
 Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Details](#topic-details)
 
