@@ -25,5 +25,5 @@ The most recent posts on [r/liverspot](http://reddit.com/r/liverspot) by categor
    * [The Best I Read](https://www.reddit.com/r/liverspot/?f=flair_name%3A%22Recommended%22)
    * [LifeRing Meeting Topics](https://www.reddit.com/r/liverspot/?f=flair_name%3A%22LifeRing%22)
 
-The collation from all of the above are in [Topics](/topics)
+The collation from all of the above (and more!) are in [Topics](/topics)
 
