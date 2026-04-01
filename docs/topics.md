@@ -8,21 +8,25 @@ permalink: /topics/
   tbody>:nth-child(1){ /*3*/
     color: #2e6da4;
     font-weight: bold;
+    background-color: #deedf4;
   }
 
   tbody>:nth-child(15){ /*G*/
     color: #2e6da4;
     font-weight: bold;
+    background-color: #deedf4;
   }
 
   tbody>:nth-child(25){  /*M*/
     color:#2e6da4;
     font-weight: bold;
+    background-color: #deedf4;
   }
 
   tbody>:nth-child(41){ /*T*/
     color:#2e6da4;
     font-weight: bold;
+    background-color: #deedf4;
   }
 
 </style>
