@@ -4,6 +4,30 @@ title: Topics
 permalink: /topics/
 ---
 
+<style>
+  tbody>:nth-child(1){ /*3*/
+    color: #2e6da4;
+    font-weight: bold;
+  }
+
+  tbody>:nth-child(15){ /*G*/
+    color: #2e6da4;
+    font-weight: bold;
+  }
+
+  tbody>:nth-child(25){  /*M*/
+    color:#2e6da4;
+    font-weight: bold;
+  }
+
+  tbody>:nth-child(41){ /*T*/
+    color:#2e6da4;
+    font-weight: bold;
+  }
+
+</style>
+
+
 The following contains topics that have been brought up during discussions related to organ disease and treatments.  This page contains both a quick-link table and a section further below with more details on some of the topics.
 
 Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Details](#topic-details)
