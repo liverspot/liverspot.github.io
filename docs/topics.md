@@ -12,9 +12,11 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Topic                                                                               | Link                                                                                                                                                                           |
 |-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 3-D Printed Liver [&darr;](#3-d-printed-liver)  <a id="a"></a>                      | [Colorado.Edu : Printed Livers](https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past)                                            |
+| AFP [&darr;](#afp)  | [See Below: AFP](#afp) |
 | Atrophy [&darr;](#atrophy)                                                          | [See below: Atrophy](#atrophy)                                                                                                                                                 |
 | BUN Test                                                                            | <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>                                                                                           |
 | Bausch PAP  [&darr;](#bausch-pap)                                                   | <https://www.bauschhealthpap.com/eligible-medications/    >                                                                                                                    |
+| CMV [&darr;](#cmv) | [See Below: CMV](#cmv) |
 | CPMC                                                                                | <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>                                                                                        | 
 | Creatine Test                                                                       | <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>                                                                                               |
 | DXA scan         [&darr;](#dxa-scan)                                                | <https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test         >                                                                             |
@@ -22,6 +24,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Dupuytren's contracture                                                             | <https://pubmed.ncbi.nlm.nih.gov/6672504/>                                                                                                                                     |
 | El Camino    [&darr;](#el-camino-car)                                               | <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm                >                                                                                      | 
 | Excess Protein                                                                      | <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                           |
+| Filgrastim [&darr;](#filgrastim) | [See Below: Filgrastim](#filgrastim) |
 | Gabapentin                        <a id="g"></a>                                    | <https://my.clevelandclinic.org/health/drugs/21561-gabapentin     >                                                                                                            | 
 | Gallbladder  [&darr;](#gallbladder)                                                 | <https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>                                                                           |
 | Gougol     [&darr;](#gougol)                                                        | <https://med.stanford.edu/profiles/amir-gougol>                                                                                                                                |
@@ -33,6 +36,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Liver Pain                                                                          | <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain  >                                                                                                 |
 | LiverSpot.org                                                                       | <https://liverspot.org>                                                                                                                                                        |
 | MELD  [&darr;](#meld)                         <a id="m"></a>                        | [See Below: MELD](#meld)                                                                                                                                                       |
+| NIVESTYM [&darr;](#nivestym) | [See Below: NIVESTYM](#nivestym) |
 | Neutropenia  [&darr;](#neutropenia)                                                 | <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>                                                                                                             |
 | Nurse Treats [&darr;](#nurse-treats)                                                | [See below: Nurse Treats](#nurse-treats)                                                                                                                                       |
 | Osmolite                                                                            | <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>                                                                                 |
@@ -41,6 +45,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Pink Cloud                                                                          | <https://www.healthline.com/health/pink-cloud>                                                                                                                                 |
 | Recteq                                                                              | <https://www.recteq.com/        >                                                                                                                                              |
 | Reddit for Transplant Support Study   [&darr;](#reddit-for-transplant-support-study) | [https://journals.lww.com/transplantationdirect](https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx) |
+| Retacrit [&darr;](#retracrit) | [See Below: Retacrit](#retacrit) |
 | SRTR                                                                                | <https://www.srtr.org/    >                                                                                                                                                    |
 | Safety net                    [&darr;](#safety-net)                                 | <https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>                                                                                               |
 | Safety net (2)                    [&darr;](#safety-net)                             | <https://web.archive.org/web/20251016005146/https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>                                                    |
@@ -56,8 +61,11 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Transplant Games            [&darr;](#transplant-games)                             | <https://www.transplantgamesofamerica.org  >                                                                                                                                   |
 | Tumeric                                                                             | <https://www.ynhhs.org/articles/supplements-liver-damage >                                                                                                                     |
 | Umbilical Hernia                                                                    | <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>                                                                                                              |
+| Valcyte [&darr;](#valcyte) | [See Below: Valcyte](#valcyte) |
 | XIAFLEX                                                                             | <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>                                                                                                            |
 | Xifaxan                      [&darr;](#xifaxan)                                     | <https://www.rxconnected.com/drug/xifaxan >                                                                                                                                    |
+
+
 
 ## Topic Details
 
@@ -72,6 +80,12 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 Could 3D-printed livers make transplant lists a thing of the past?
 
 <https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past>
+
+
+### AFP
+
+AFP — «An AFP tumor marker test is a blood test that measures the level of AFP (alpha-fetoprotein) in a sample of your blood. It's usually used to help diagnose certain types of cancer and to check how well treatment is working.» —  <https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/>
+
 
 ### Atrophy
 
@@ -88,6 +102,17 @@ Bausch Health PAP Summary (2026)
 What it is: A program that provides Xifaxan at no cost for up to one year for eligible patients
 
 * <https://www.bauschhealthpap.com/globalassets/pi/xifaxan550-pi.pdf>
+
+
+### CMV
+
+CMV — <https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358>
+
+A cytomegalovirus (CMV) infection is a condition caused by a common virus. The CMV virus stays in the body for life after infection.
+[…]
+For people who have weakened immune systems, CMV infection can be fatal. The risk is especially high for people who've had an organ, stem cell or bone marrow transplant.
+
+Autoimmune Impacts: <https://pubmed.ncbi.nlm.nih.gov/33567734/>
 
 ### CPMC
 California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
@@ -111,6 +136,12 @@ A DXA scan is an imaging test that measures the strength of your bones. It uses 
 * <https://bringatrailer.com/wp-content/uploads/2020/10/1969_chevrolet_el_camino_1610759018e4004ffa83572fda1IMG_3657.jpg?w=1790>
 
 
+
+### Filgrastim
+
+«Filgrastim injection is used to treat neutropenia (low white blood cells) that is caused by cancer medicines. It is a synthetic (man-made) form of a substance that is naturally produced in your body called a colony stimulating factor. Filgrastim helps the bone marrow to make new white blood cells. » — <https://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547>
+
+* <https://www.mayoclinic.org/drugs-supplements/filgrastim-aafi-intravenous-route-subcutaneous-route/description/drg-20443903>
 
 
 ### Gallbladder
@@ -188,6 +219,11 @@ You must avoid all of the following:
   » —
   <https://hillman.upmc.com/patients/community-support/education/miscellaneous/neutropenia>
 
+### NIVESTYM
+
+«NIVESTYM (filgrastim-aafi) is a biosimilar to Neupogen (filgrastim) and part of the largest oncology biosimilars portfolio, brought to you by Pfizer» — So it is a brand name related to filgrastim
+
+
 ### Nurse Treats
 
 Possible treats that the medical team might like and appreciate from patients in gratitude for their service:
@@ -218,6 +254,13 @@ Paracentesis is the process of draining water from the abdominal cavity. A long 
 
 <https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx>
 
+
+### retacrit
+
+<https://retacrit.pfizerpro.com>
+
+«This medication is used to treat anemia (low red blood cell count) in people with long-term serious kidney disease (chronic kidney failure), people receiving zidovudine to treat HIV, and people receiving chemotherapy for some types of cancer (cancer that does not involve the bone marrow or blood cells). It may also be used in anemic patients to reduce the need for blood transfusions before certain planned surgeries that have a high risk of blood loss (usually given with an anticoagulant/"blood thinner" medication such as warfarin to lower the risk of serious blood clots).» — https://www.healio.com/clinical-guidance/drugs/retacrit
+
 ### Safety Net
 Apparently the main UNOS page is gone, and the information is only in the archive until the new site provides the information (if it ever does).
 
@@ -243,6 +286,15 @@ At least need yearly skin checks, although someone heard it needs to be four tim
 ### Transplant Games
 
 <https://www.transplantgamesofamerica.org>
+
+
+### Valcyte
+
+Valcyte: <https://www.mayoclinic.org/drugs-supplements/valganciclovir-oral-route/description/drg-20066642>  —
+
+Generic name: Valganciclovir
+
+Valganciclovir is used to treat symptoms of cytomegalovirus (CMV) retinitis, an infection in the eyes of people with acquired immunodeficiency syndrome (AIDS). Valganciclovir will not cure this eye infection, but it may help to keep the symptoms from becoming worse.
 
 
 
