@@ -23,61 +23,69 @@ The following contains topics that have been brought up during discussions relat
 Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Details](#topic-details)
 
 
-| Topic                                                                               | Link                                                                                                                                                                           |
-|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3-D Printed Liver [&darr;](#3-d-printed-liver)  <a id="a"></a>                      | [Colorado.Edu : Printed Livers](https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past)                                            |
-| AFP [&darr;](#afp)  | [See Below: AFP](#afp) |
-| Atrophy [&darr;](#atrophy)                                                          | [See below: Atrophy](#atrophy)                                                                                                                                                 |
-| BUN Test                                                                            | <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>                                                                                           |
-| Bausch PAP  [&darr;](#bausch-pap)                                                   | <https://www.bauschhealthpap.com/eligible-medications/    >                                                                                                                    |
-| CMV [&darr;](#cmv) | [See Below: CMV](#cmv) |
-| CPMC                                                                                | <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>                                                                                        | 
-| Creatine Test                                                                       | <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>                                                                                               |
-| DXA scan         [&darr;](#dxa-scan)                                                | <https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test         >                                                                             |
-| Donor Info  [&darr;](#donor-info)                                                   | [See below: Donor Info](#donor-info)                                                                                                                                           |
-| Dupuytren's contracture                                                             | <https://pubmed.ncbi.nlm.nih.gov/6672504/>                                                                                                                                     |
-| El Camino    [&darr;](#el-camino-car)                                               | <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm                >                                                                                      | 
-| Excess Protein                                                                      | <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                           |
-| Filgrastim [&darr;](#filgrastim) | [See Below: Filgrastim](#filgrastim) |
-| Gabapentin                        <a id="g"></a>                                    | <https://my.clevelandclinic.org/health/drugs/21561-gabapentin     >                                                                                                            | 
-| Gallbladder  [&darr;](#gallbladder)                                                 | <https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>                                                                           |
-| Gougol     [&darr;](#gougol)                                                        | <https://med.stanford.edu/profiles/amir-gougol>                                                                                                                                |
-| HCC GALAD Model  [&darr;](#hcc-galad-model)                                         | <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>                                                                                                   |
-| HPMV                                                                                | <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv                         >                                                                     |
-| Hypomagnesium  [&darr;](#hypomagnesium)                                             | <https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia>                                                                                                          |
-| Ketorolac                                                                           | <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882      >                                                             |
-| Liver Circle   [&darr;](#liver-circle)                                              | <https://www.thelivercircle.org >                                                                                                                                              |
-| Liver Pain                                                                          | <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain  >                                                                                                 |
-| LiverSpot.org                                                                       | <https://liverspot.org>                                                                                                                                                        |
-| MELD  [&darr;](#meld)                         <a id="m"></a>                        | [See Below: MELD](#meld)                                                                                                                                                       |
-| NIVESTYM [&darr;](#nivestym) | [See Below: NIVESTYM](#nivestym) |
-| Neutropenia  [&darr;](#neutropenia)                                                 | <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>                                                                                                             |
-| Nurse Treats [&darr;](#nurse-treats)                                                | [See below: Nurse Treats](#nurse-treats)                                                                                                                                       |
-| Osmolite                                                                            | <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>                                                                                 |
-| Oxycodone                                                                           | <https://medlineplus.gov/druginfo/meds/a682132.html   >                                                                                                                        |
-| Paracentesis [&darr;](#paracentesis)                                                | <https://my.clevelandclinic.org/health/procedures/paracentesis>                                                                                                                | 
-| Pink Cloud                                                                          | <https://www.healthline.com/health/pink-cloud>                                                                                                                                 |
-| Recteq                                                                              | <https://www.recteq.com/        >                                                                                                                                              |
+| Topic                                                                                | Link                                                                                                                                                                           |
+|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3-D Printed Liver [&darr;](#3-d-printed-liver)  <a id="a"></a>                       | [Colorado.Edu : Printed Livers](https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past)                                            |
+| AFP [&darr;](#afp)                                                                   | [See Below: AFP](#afp)                                                                                                                                                         |
+| Atrophy [&darr;](#atrophy)                                                           | [See below: Atrophy](#atrophy)                                                                                                                                                 |
+| BUN Test                                                                             | <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>                                                                                           |
+| Bausch PAP  [&darr;](#bausch-pap)                                                    | <https://www.bauschhealthpap.com/eligible-medications/    >                                                                                                                    |
+| CMV [&darr;](#cmv)                                                                   | [See Below: CMV](#cmv)                                                                                                                                                         |
+| CPMC                                                                                 | <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>                                                                                        | 
+| Creatine Test                                                                        | <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>                                                                                               |
+| DXA scan         [&darr;](#dxa-scan)                                                 | <https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test         >                                                                             |
+| Donor Info  [&darr;](#donor-info)                                                    | [See below: Donor Info](#donor-info)                                                                                                                                           |
+| Dupuytren's contracture                                                              | <https://pubmed.ncbi.nlm.nih.gov/6672504/>                                                                                                                                     |
+| El Camino    [&darr;](#el-camino-car)                                                | <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm                >                                                                                      | 
+| Excess Protein                                                                       | <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                           |
+| Filgrastim [&darr;](#filgrastim)                                                     | [See Below: Filgrastim](#filgrastim)                                                                                                                                           |
+| Gabapentin                        <a id="g"></a>                                     | <https://my.clevelandclinic.org/health/drugs/21561-gabapentin     >                                                                                                            | 
+| Gallbladder  [&darr;](#gallbladder)                                                  | <https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>                                                                           |
+| Gougol     [&darr;](#gougol)                                                         | <https://med.stanford.edu/profiles/amir-gougol>                                                                                                                                |
+| HCC GALAD Model  [&darr;](#hcc-galad-model)                                          | <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>                                                                                                   |
+| HE    [&darr;](#he)                                                                                | [See Below: Hepatic Encephalopathy](#he)                                                                                                                                       |
+| HPMV                                                                                 | <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv                         >                                                                     |
+| Hypomagnesium  [&darr;](#hypomagnesium)                                              | <https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia>                                                                                                          |
+| IOP  [&darr;](#iop)                                                                  | [See Below: Intense Outpatient Program](#iop)                                                                                                                                  | 
+| Ketorolac                                                                            | <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882      >                                                             |
+| Liver Circle   [&darr;](#liver-circle)                                               | <https://www.thelivercircle.org >                                                                                                                                              |
+| Liver Pain                                                                           | <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain  >                                                                                                 |
+| LiverSpot.org                                                                        | <https://liverspot.org>                                                                                                                                                        |
+| MELD  [&darr;](#meld)                         <a id="m"></a>                         | [See Below: MELD](#meld)                                                                                                                                                       |
+| NIVESTYM [&darr;](#nivestym)                                                         | [See Below: NIVESTYM](#nivestym)                                                                                                                                               |
+| Naltrexone                                                                           | <https://www.drugs.com/naltrexone.html>                                                                                                                                        |
+| Neutropenia  [&darr;](#neutropenia)                                                  | <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>                                                                                                             |
+| Nurse Treats [&darr;](#nurse-treats)                                                 | [See below: Nurse Treats](#nurse-treats)                                                                                                                                       |
+| Osmolite                                                                             | <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>                                                                                 |
+| Oxycodone                                                                            | <https://medlineplus.gov/druginfo/meds/a682132.html   >                                                                                                                        |
+| Paracentesis [&darr;](#paracentesis)                                                 | <https://my.clevelandclinic.org/health/procedures/paracentesis>                                                                                                                | 
+| Pink Cloud                                                                           | <https://www.healthline.com/health/pink-cloud>                                                                                                                                 |
+| Recteq                                                                               | <https://www.recteq.com/        >                                                                                                                                              |
 | Reddit for Transplant Support Study   [&darr;](#reddit-for-transplant-support-study) | [https://journals.lww.com/transplantationdirect](https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx) |
-| Retacrit [&darr;](#retracrit) | [See Below: Retacrit](#retacrit) |
-| SRTR                                                                                | <https://www.srtr.org/    >                                                                                                                                                    |
-| Safety net                    [&darr;](#safety-net)                                 | <https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>                                                                                               |
-| Safety net (2)                    [&darr;](#safety-net)                             | <https://web.archive.org/web/20251016005146/https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>                                                    |
-| Skin Cancer Risk           [&darr;](#skin-cancer-risk)                              | <https://www.ucsfhealth.org/education/organ-transplant-and-skin-cancer-risk>                                                                                                   | 
-| St. Mary's                                                                          | <https://saintmarysreno.com    >                                                                                                                                               |
-| TIPS                          [&darr;](#tips)     <a id="t"></a>                    | <https://my.clevelandclinic.org/health/procedures/tips-procedure>                                                                                                              |
-| TIPS (2)                       [&darr;](#tips)                                      | <https://www.dairbook.com/glossary/tips>                                                                                                                                       |
-| Tacrolimus Skin Cancer[&darr;](#tacrolimus-skin-cancer)                             | <https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext>                                                                                                         
-| Tacrolimus vs. CellCept          [&darr;](#tacrolimus-vs-cellcept)                  | <https://www.amjtransplant.org/article/S1600-6135(22)03862-X/fulltext>                                                                                                         |
-| Tacrolimus-induced Ascites                                                          | <https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/>                                                                                                                            |
-| Topical Tacrolimus                                                                  | <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159>                                                                               |
-| Tramadol                                                                            | 	<https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050  >                                                                                 |
-| Transplant Games            [&darr;](#transplant-games)                             | <https://www.transplantgamesofamerica.org  >                                                                                                                                   |
-| Tumeric                                                                             | <https://www.ynhhs.org/articles/supplements-liver-damage >                                                                                                                     |
-| Umbilical Hernia                                                                    | <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>                                                                                                              |
-| Valcyte [&darr;](#valcyte) | [See Below: Valcyte](#valcyte) |
-| XIAFLEX                                                                             | <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>                                                                                                            |
-| Xifaxan                      [&darr;](#xifaxan)                                     | <https://www.rxconnected.com/drug/xifaxan >                                                                                                                                    |
+| Retacrit [&darr;](#retacrit)                                                         | [See Below: Retacrit](#retacrit)                                                                                                                                               |
+| SRTR                                                                                 | <https://www.srtr.org/    >                                                                                                                                                    |
+| Safety net                    [&darr;](#safety-net)                                  | <https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>                                                                                               |
+| Safety net (2)                    [&darr;](#safety-net)                              | <https://web.archive.org/web/20251016005146/https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>                                                    |
+| Skin Cancer Risk           [&darr;](#skin-cancer-risk)                               | <https://www.ucsfhealth.org/education/organ-transplant-and-skin-cancer-risk>                                                                                                   | 
+| St. Mary's                                                                           | <https://saintmarysreno.com    >                                                                                                                                               |
+| TIPS                          [&darr;](#tips)     <a id="t"></a>                     | <https://my.clevelandclinic.org/health/procedures/tips-procedure>                                                                                                              |
+| TIPS (2)                       [&darr;](#tips)                                       | <https://www.dairbook.com/glossary/tips>                                                                                                                                       |
+| Tacrolimus Skin Cancer[&darr;](#tacrolimus-skin-cancer)                              | <https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext>                                                                                                         
+| Tacrolimus vs. CellCept          [&darr;](#tacrolimus-vs-cellcept)                   | <https://www.amjtransplant.org/article/S1600-6135(22)03862-X/fulltext>                                                                                                         |
+| Tacrolimus-induced Ascites                                                           | <https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/>                                                                                                                            |
+| Thoracentisis [&darr;](#thoracentisis)                                               | [See Below: Thoracentisis](#thoracentisis)                                                                                                                                     |
+| Topical Tacrolimus                                                                   | <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159>                                                                               |
+| Tramadol                                                                             | 	<https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050  >                                                                                 |
+| Transplant Games            [&darr;](#transplant-games)                              | <https://www.transplantgamesofamerica.org  >                                                                                                                                   |
+| Tumeric                                                                              | <https://www.ynhhs.org/articles/supplements-liver-damage >                                                                                                                     |
+| Umbilical Hernia                                                                     | <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>                                                                                                              |
+| Valcyte [&darr;](#valcyte)                                                           | [See Below: Valcyte](#valcyte)                                                                                                                                                 |
+| Vivitrol  [&darr;](#vivitrol)                                                        | [See Below: Vivitrol](#vivitrol)                                                                                                                                               | 
+| XIAFLEX                                                                              | <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>                                                                                                            |
+| Xifaxan                      [&darr;](#xifaxan)                                      | <https://www.rxconnected.com/drug/xifaxan >                                                                                                                                    |
+
+
+
 
 
 
@@ -127,6 +135,7 @@ A cytomegalovirus (CMV) infection is a condition caused by a common virus. The C
 For people who have weakened immune systems, CMV infection can be fatal. The risk is especially high for people who've had an organ, stem cell or bone marrow transplant.
 
 Autoimmune Impacts: <https://pubmed.ncbi.nlm.nih.gov/33567734/>
+
 
 ### CPMC
 California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
@@ -188,8 +197,25 @@ The GALAD model:
 
 Seems pretty well endorsed: « The GALAD model has been demonstrated to have higher diagnostic accuracy for the detection of hepatocellular carcinoma (HCC) when compared to the use AFP, AFP-L3, and DCP markers alone or in combination. The performance of the GALAD score has also been reported to be superior to ultrasound for HCC detection»
 
+### HE
+
+HE is short for Hepatic Encephalopathy.
+
+Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (about the brain) and ‘pathos’ (disease). Depending on severity encephalopathy can show up as symptoms from headaches to coma. Hepatic encephalopathy (HE) is caused by liver problems and accumulated toxins in the blood.
+
+* <https://my.clevelandclinic.org/health/diseases/encephalopathy>
+* <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
+
+
 ### Hypomagnesium
 Magnesium oxide, sodium bicarbonate, Sucralfate, or other antacids should not be taken within two hours of taking tacrolimus. For example, if your child takes tacrolimus at 8:00 a.m., magnesium oxide should not be given until 10:00 a.m. or later.
+
+### IOP
+
+An Intensive Outpatient Program (IOP) is a hospital program that meets several times a week for several hours at a time. IOPs are supposed to be as effective as residential programs and can also function as a transition from an inpatient program to normal life surroundings.
+
+* <https://en.wikipedia.org/wiki/Intensive_outpatient_program>
+* <https://americanaddictioncenters.org/intensive-outpatient-programs>
 
 
 ### Liver Circle
@@ -214,6 +240,11 @@ There are statistical correlations between level of liver illness (e.g. the MELD
 * UPMC: «Understanding Your MELD Score for Liver Transplant» — <https://www.upmc.com/services/transplant/patients/resources/meld-score>
 
 * DAIR: <https://www.dairbook.com/glossary/meld>
+
+### Naltrexone
+
+* <https://www.drugs.com/naltrexone.html>
+
 
 ### Neutropenia
 
@@ -296,6 +327,12 @@ At least need yearly skin checks, although someone heard it needs to be four tim
 «TIPS procedures typically take one to two hours. Your team will move you to a recovery room after the procedure. They’ll check on you as you wake up from anesthesia» — <https://my.clevelandclinic.org/health/procedures/tips-procedure>
 
 
+### Thoracentesis
+
+Thoracentesis is a procedure to remove excess fluid (pleural effusion) from the space between the lungs and chest wall,
+
+* <https://my.clevelandclinic.org/health/treatments/24254-thoracentesis>
+
 
 ### Transplant Games
 
@@ -310,6 +347,13 @@ Generic name: Valganciclovir
 
 Valganciclovir is used to treat symptoms of cytomegalovirus (CMV) retinitis, an infection in the eyes of people with acquired immunodeficiency syndrome (AIDS). Valganciclovir will not cure this eye infection, but it may help to keep the symptoms from becoming worse.
 
+
+### Vivitrol
+
+«Vivitrol is a long-acting injectable form of naltrexone, which is a medication used to treat two substance use disorders - opioid use disorder and alcohol use disorder (alcoholism). Vivitrol is used as part of a treatment program. It helps prevent people with alcohol or opioid dependence from feeling like they need to use these substances.» — <https://www.drugs.com/vivitrol.html>
+
+* <https://www.vivitrol.com/>
+* <https://www.drugs.com/vivitrol.html>
 
 
 ### Xifaxan
