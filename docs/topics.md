@@ -7,8 +7,8 @@ permalink: /topics/
 <style>
   tbody>:nth-child(1), /*3*/
     tbody>:nth-child(15), /*G*/ 
-    tbody>:nth-child(25),  /*M*/
-    tbody>:nth-child(41) /*T*/
+    tbody>:nth-child(27),  /*M*/
+    tbody>:nth-child(44) /*T*/
     {   
     color: #2e6da4;
     font-weight: bold;
