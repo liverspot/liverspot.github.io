@@ -7,8 +7,8 @@ permalink: /topics/
 <style>
   tbody>:nth-child(1), /*3*/
     tbody>:nth-child(18), /*G*/ 
-    tbody>:nth-child(30),  /*M*/
-    tbody>:nth-child(49) /*T*/
+    tbody>:nth-child(31),  /*M*/
+    tbody>:nth-child(50) /*T*/
     {   
     color: #2e6da4;
     font-weight: bold;
@@ -44,6 +44,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Filgrastim [&darr;](#filgrastim)                                                     | [See Below: Filgrastim](#filgrastim)                                                                                                                                           |
 | Gabapentin                        <a id="g"></a>                                     | <https://my.clevelandclinic.org/health/drugs/21561-gabapentin     >                                                                                                            | 
 | Gallbladder  [&darr;](#gallbladder)                                                  | <https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>                                                                           |
+| Gallbladder Cancer  [&darr;](#gallbladder-cancer)                                               | [See Below: Gallbladder Cancer](#gallbladder-cancer ) |
 | Gougol     [&darr;](#gougol)                                                         | <https://med.stanford.edu/profiles/amir-gougol>                                                                                                                                |
 | HCC GALAD Model  [&darr;](#hcc-galad-model)                                          | <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>                                                                                                   |
 | HE    [&darr;](#he)                                                                  | [See Below: Hepatic Encephalopathy](#he)                                                                                                                                       |
@@ -55,7 +56,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Liver Pain                                                                           | <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain  >                                                                                                 |
 | LiverSpot.org                                                                        | <https://liverspot.org>                                                                                                                                                        |
 | MELD  [&darr;](#meld)                         <a id="m"></a>                         | [See Below: MELD](#meld)                                                                                                                                                       |
-| Multiple Listing    [&darr;](#multiple-listing)                                                      | [See Below: Multiple Listing](#multiple-listing) |
+| Multiple Listing    [&darr;](#multiple-listing)                                      | [See Below: Multiple Listing](#multiple-listing) |
 | NIVESTYM [&darr;](#nivestym)                                                         | [See Below: NIVESTYM](#nivestym)                                                                                                                                               |
 | Naltrexone                                                                           | <https://www.drugs.com/naltrexone.html>                                                                                                                                        |
 | Neutropenia  [&darr;](#neutropenia)                                                  | <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>                                                                                                             |
@@ -68,7 +69,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Recteq                                                                               | <https://www.recteq.com/        >                                                                                                                                              |
 | Reddit for Transplant Support Study   [&darr;](#reddit-for-transplant-support-study) | [https://journals.lww.com/transplantationdirect](https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx) |
 | Retacrit [&darr;](#retacrit)                                                         | [See Below: Retacrit](#retacrit)                                                                                                                                               |
-| SRTR          [&darr;](#srtr)                                                                        | <https://www.srtr.org/   |
+| SRTR          [&darr;](#srtr)                                                        | <https://www.srtr.org/   |
 | Safety net                    [&darr;](#safety-net)                                  | <https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>                                                                                               |
 | Safety net (2)                    [&darr;](#safety-net)                              | <https://web.archive.org/web/20251016005146/https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>                                                    |
 | Skin Cancer Risk           [&darr;](#skin-cancer-risk)                               | <https://www.ucsfhealth.org/education/organ-transplant-and-skin-cancer-risk>                                                                                                   | 
@@ -185,6 +186,13 @@ A DXA scan is an imaging test that measures the strength of your bones. It uses 
 
 <https://pmc.ncbi.nlm.nih.gov/articles/PMC6230845/>
 
+### Gallbladder Cancer
+
+«Hilar/perihilar cholangiocarcinoma (pCCA), or gallbladder cancer involving the bile ducts, is recognized as a specific MELD exception condition, often receiving a score equal to the median MELD at transplant (MMaT) minus 3 points, subject to National Liver Review Board (NLRB) approval. »
+
+«To qualify, the tumor must be unresectable, liver-limited, and meet strict »
+
+*  <https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/>
 
 ### Gougol
 
