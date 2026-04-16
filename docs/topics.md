@@ -6,9 +6,9 @@ permalink: /topics/
 
 <style>
   tbody>:nth-child(1), /*3*/
-    tbody>:nth-child(18), /*G*/ 
-    tbody>:nth-child(31),  /*M*/
-    tbody>:nth-child(51) /*T*/
+    tbody>:nth-child(20), /*G*/ 
+    tbody>:nth-child(35),  /*M*/
+    tbody>:nth-child(56) /*T*/
     {   
     color: #2e6da4;
     font-weight: bold;
@@ -34,18 +34,22 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | CMV [&darr;](#cmv)                                                                   | [See Below: CMV](#cmv)                                                                                                                                                         |
 | CPMC                                                                                 | <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>                                                                                        | 
 | Camino Hospital IOP [&darr;](#mino-hospital-iop)                                     | [See Below: Camino Hospital IOP](#camino-hospital-iop)                                                                                                                         | 
+| CostPlus  [&darr;](#costplus)                                                                           | [See Below: CostPlus](#costplus) |
 | Creatine Test                                                                        | <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>                                                                                               |
 | DXA scan         [&darr;](#dxa-scan)                                                 | <https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test         >                                                                             |
 | Donor Info  [&darr;](#donor-info)                                                    | [See below: Donor Info](#donor-info)                                                                                                                                           |
+| Duncan Mills    [&darr;](#duncan-mills)                                                                     | [See Below: Duncan Mills](#duncan-mills) |
 | Dupuytren's contracture                                                              | <https://pubmed.ncbi.nlm.nih.gov/6672504/>                                                                                                                                     |
 | El Camino    [&darr;](#el-camino-car)                                                | <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm                >                                                                                      | 
 | Excess Protein                                                                       | <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                           |
 | Fibroscan                                                                            | <https://www.mskcc.org/cancer-care/patient-education/understanding-your-fibroscan-results>                                                                                     |
 | Filgrastim [&darr;](#filgrastim)                                                     | [See Below: Filgrastim](#filgrastim)                                                                                                                                           |
+| GGT  [&darr;](#ggt)                                                                                | [See Below: GGT](#ggt) |
 | Gabapentin                        <a id="g"></a>                                     | <https://my.clevelandclinic.org/health/drugs/21561-gabapentin     >                                                                                                            | 
 | Gallbladder  [&darr;](#gallbladder)                                                  | <https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>                                                                           |
-| Gallbladder Cancer  [&darr;](#gallbladder-cancer)                                               | [See Below: Gallbladder Cancer](#gallbladder-cancer )                                                                                                                          |
+| Gallbladder Cancer  [&darr;](#gallbladder-cancer)                                    | [See Below: Gallbladder Cancer](#gallbladder-cancer )                                                                                                                          |
 | Gougol     [&darr;](#gougol)                                                         | <https://med.stanford.edu/profiles/amir-gougol>                                                                                                                                |
+| Gynecomastia   [&darr;](#gynecomastia)                                                                      | [See Below: Gynecomastia](#gynecomastia) |
 | HCC GALAD Model  [&darr;](#hcc-galad-model)                                          | <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>                                                                                                   |
 | HE    [&darr;](#he)                                                                  | [See Below: Hepatic Encephalopathy](#he)                                                                                                                                       |
 | HPMV                                                                                 | <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv                         >                                                                     |
@@ -56,7 +60,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Liver Pain                                                                           | <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain  >                                                                                                 |
 | LiverSpot.org                                                                        | <https://liverspot.org>                                                                                                                                                        |
 | MELD  [&darr;](#meld)                         <a id="m"></a>                         | [See Below: MELD](#meld)                                                                                                                                                       |
-| Medical Marijuana | <https://disa.com/marijuana-legality-by-state/>                                                                                                                                | 
+| Medical Marijuana                                                                    | <https://disa.com/marijuana-legality-by-state/>                                                                                                                                | 
 | Multiple Listing    [&darr;](#multiple-listing)                                      | [See Below: Multiple Listing](#multiple-listing)                                                                                                                               |
 | NIVESTYM [&darr;](#nivestym)                                                         | [See Below: NIVESTYM](#nivestym)                                                                                                                                               |
 | Naltrexone                                                                           | <https://www.drugs.com/naltrexone.html>                                                                                                                                        |
@@ -73,6 +77,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | SRTR          [&darr;](#srtr)                                                        | <https://www.srtr.org/                                                                                                                                                         |
 | Safety net                    [&darr;](#safety-net)                                  | <https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>                                                                                               |
 | Safety net (2)                    [&darr;](#safety-net)                              | <https://web.archive.org/web/20251016005146/https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>                                                    |
+| Scar Tissue [&darr;](#scar-tissue)                                                       | [See Below: Scar Tissue](#scar-tissue) |
 | Skin Cancer Risk           [&darr;](#skin-cancer-risk)                               | <https://www.ucsfhealth.org/education/organ-transplant-and-skin-cancer-risk>                                                                                                   | 
 | St. Mary's                                                                           | <https://saintmarysreno.com    >                                                                                                                                               |
 | TIPS                          [&darr;](#tips)     <a id="t"></a>                     | <https://my.clevelandclinic.org/health/procedures/tips-procedure>                                                                                                              |
@@ -92,6 +97,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Vivitrol  [&darr;](#vivitrol)                                                        | [See Below: Vivitrol](#vivitrol)                                                                                                                                               | 
 | XIAFLEX                                                                              | <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>                                                                                                            |
 | Xifaxan                      [&darr;](#xifaxan)                                      | <https://www.rxconnected.com/drug/xifaxan >                                                                                                                                    |
+
 
 
 
@@ -150,6 +156,9 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 
 Autoimmune Impacts: <https://pubmed.ncbi.nlm.nih.gov/33567734/>
 
+### CostPlus
+
+« We started Mark Cuban Cost Plus Drug Company because every American should have access to safe, affordable medicines. If you don’t have insurance or have a high deductible plan, you know that even the most basic medications can cost a fortune. Many people are spending crazy amounts of money each month just to stay healthy. No American should have to suffer—or worse—because they can’t afford basic prescription medications» — <https://www.costplusdrugs.com/>
 
 ### CPMC
 California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
@@ -160,6 +169,12 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 * <https://www.kidney.org/kidney-topics/writing-to-donor-families-and-living-donors-simple-guide-kidney-transplant-recipients>
 * <https://patient.uwhealth.org/education/writing-your-donor-family>
 * <https://caringconnectionsneds.org>
+
+### Duncan Mills
+
+* <https://duncansmillsvillage.com>
+* <https://duncansmillsvillage.com/directions/>
+
 
 ### DXA scan
 
@@ -195,6 +210,11 @@ A DXA scan is an imaging test that measures the strength of your bones. It uses 
 
 *  <https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/>
 
+### GGT
+
+«A gamma-glutamyl transferase (GGT) test measures the amount of GGT in your blood GGT is an enzyme. Enzymes are proteins that speed up certain chemical reactions in your body. Thousands of enzymes play an important role in all of your body functions. The GGT enzyme is found throughout your body, but it is mainly found in your liver.» — <GGT: https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/>
+
+
 ### Gougol
 
 <https://med.stanford.edu/profiles/amir-gougol>     
@@ -207,6 +227,10 @@ Professional Education
 * Board Certification: American Board of Internal Medicine, Internal Medicine (2019)
 * Residency: University of Pittsburgh Medical Center Internal Medicine (2019) PA
 * Medical Education: Tehran University of Medical Sciences (2011) Iran
+
+### Gynecomastia
+
+«Gynecomastia (guy-nuh-koh-MAS-tee-uh) is an increase in the amount of breast gland tissue in boys or men. An imbalance of the hormones estrogen and testosterone causes it. Gynecomastia can affect one or both breasts, sometimes unevenly.» — <https://www.mayoclinic.org/diseases-conditions/gynecomastia/symptoms-causes/syc-20351793>
 
 
 ### HCC GALAD model
@@ -345,6 +369,10 @@ Phosphatidylethanol (PEth) testing is a reliable method to help create a picture
 
 ### Safety Net
 Apparently the main UNOS page is gone, and the information is only in the archive until the new site provides the information (if it ever does).
+
+### Scar Tissue
+
+Scar tissue reaches approximately 50% of original skin strength at 6 weeks and up to 80% at 3 months, but it never regains the full elasticity or strength of uninjured skin. — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3840475/>
 
 ### Skin Cancer Risk
 
