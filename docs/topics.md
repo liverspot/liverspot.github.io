@@ -64,7 +64,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Multiple Listing    [&darr;](#multiple-listing)                                      | [See Below: Multiple Listing](#multiple-listing)                                                                                                                               |
 | NIVESTYM [&darr;](#nivestym)                                                         | [See Below: NIVESTYM](#nivestym)                                                                                                                                               |
 | Naltrexone                                                                           | <https://www.drugs.com/naltrexone.html>                                                                                                                                        |
-| Neuropathy | [See below: Neuropathy](#neuropathy) |
+| Neuropathy [&darr;](#neuropathy)                                                     | [See below: Neuropathy](#neuropathy) |
 | Neutropenia  [&darr;](#neutropenia)                                                  | <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>                                                                                                             |
 | Nurse Treats [&darr;](#nurse-treats)                                                 | [See below: Nurse Treats](#nurse-treats)                                                                                                                                       |
 | Osmolite                                                                             | <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>                                                                                 |
@@ -90,6 +90,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Thoracentesis [&darr;](#thoracentesis)                                               | [See Below: Thoracentesis](#thoracentesis)                                                                                                                                     |
 | Topical Tacrolimus                                                                   | <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159>                                                                               |
 | Tramadol                                                                             | 	<https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050  >                                                                                 |
+| Transplant Age [&darr;](#transplant-age)                                                                      | [See below: Transplant Age](#transplant-age) |
 | Transplant Games            [&darr;](#transplant-games)                              | <https://www.transplantgamesofamerica.org  >                                                                                                                                   |
 | Tumeric                                                                              | <https://www.ynhhs.org/articles/supplements-liver-damage >                                                                                                                     |
 | UNOS Regions                                                                         | <https://www.hrsa.gov/optn/about/governance/regions>                                                                                                                           |
@@ -98,7 +99,6 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Vivitrol  [&darr;](#vivitrol)                                                        | [See Below: Vivitrol](#vivitrol)                                                                                                                                               | 
 | XIAFLEX                                                                              | <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>                                                                                                            |
 | Xifaxan                      [&darr;](#xifaxan)                                      | <https://www.rxconnected.com/drug/xifaxan >                                                                                                                                    |
-
 
 
 
@@ -416,6 +416,13 @@ The SRTR website provides access to a very detailed group of reports and tools t
 Thoracentesis is a procedure that a provider uses to drain extra fluid from around the lungs (pleural space) with a needle. It’s used to test the fluid for infection or other illnesses and to relieve chest pressure that makes it tough to breathe. Thoracentesis is a short, low-risk procedure done while you’re awake.
 
 * <https://my.clevelandclinic.org/health/treatments/24254-thoracentesis>
+
+
+### Transplant Age
+«There is no strict, universal maximum age for a liver transplant, as candidacy is based on physiological, not chronological, age. » — AI Summary
+
+<https://pmc.ncbi.nlm.nih.gov/articles/PMC1421173/>
+
 
 
 ### Transplant Games
