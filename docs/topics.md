@@ -5,14 +5,14 @@ permalink: /topics/
 ---
 
 <style>
-  tbody>:nth-child(1), /*3*/
-    tbody>:nth-child(14), /*D*/ 
-    tbody>:nth-child(24), /*G*/ 
-    tbody>:nth-child(35),  /*I*/
-    tbody>:nth-child(42),  /*M*/
-    tbody>:nth-child(52),  /*P*/
-    tbody>:nth-child(65), /*T*/
-    tbody>:nth-child(80) /*V*/
+  table tr:nth-child(1), /*3*/
+    table tr:nth-child(14), /*D*/ 
+    table tr:nth-child(24), /*G*/ 
+    table tr:nth-child(35),  /*I*/
+    table tr:nth-child(42),  /*M*/
+    table tr:nth-child(52),  /*P*/
+    table tr:nth-child(65), /*T*/
+    table tr:nth-child(80) /*V*/
     {   
     color: #2e6da4;
     font-weight: bold;
