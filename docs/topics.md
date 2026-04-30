@@ -6,9 +6,9 @@ permalink: /topics/
 
 <style>
   tbody>:nth-child(1), /*3*/
-    tbody>:nth-child(20), /*G*/ 
-    tbody>:nth-child(35),  /*M*/
-    tbody>:nth-child(57) /*T*/
+    tbody>:nth-child(24), /*G*/ 
+    tbody>:nth-child(42),  /*M*/
+    tbody>:nth-child(65) /*T*/
     {   
     color: #2e6da4;
     font-weight: bold;
@@ -27,6 +27,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 |--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 3-D Printed Liver [&darr;](#3-d-printed-liver)  <a id="a"></a>                       | [Colorado.Edu : Printed Livers](https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past)                                            |
 | AFP [&darr;](#afp)                                                                   | [See Below: AFP](#afp)                                                                                                                                                         |
+| ALP (Alkaline phosphatase) | [See Below: ALP](#alp) |
 | Angioplasty                                                                          | <https://my.clevelandclinic.org/health/treatments/22060-angioplasty>                                                                                                           |
 | Atrophy [&darr;](#atrophy)                                                           | [See below: Atrophy](#atrophy)                                                                                                                                                 |
 | BUN Test                                                                             | <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>                                                                                           |
@@ -34,16 +35,20 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | CMV [&darr;](#cmv)                                                                   | [See Below: CMV](#cmv)                                                                                                                                                         |
 | CPMC                                                                                 | <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>                                                                                        | 
 | Camino Hospital IOP [&darr;](#mino-hospital-iop)                                     | [See Below: Camino Hospital IOP](#camino-hospital-iop)                                                                                                                         | 
+| Corewell Health | [See Below: Corewell Health](#corewell-health) |
 | CostPlus  [&darr;](#costplus)                                                        | [See Below: CostPlus](#costplus)                                                                                                                                               |
 | Creatine Test                                                                        | <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>                                                                                               |
 | DXA scan         [&darr;](#dxa-scan)                                                 | <https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test         >                                                                             |
+| Diverticulitis | [See Below: Diverticulitis](#diverticulitis) |
 | Donor Info  [&darr;](#donor-info)                                                    | [See below: Donor Info](#donor-info)                                                                                                                                           |
 | Duncan Mills    [&darr;](#duncan-mills)                                              | [See Below: Duncan Mills](#duncan-mills)                                                                                                                                       |
 | Dupuytren's contracture                                                              | <https://pubmed.ncbi.nlm.nih.gov/6672504/>                                                                                                                                     |
 | El Camino    [&darr;](#el-camino-car)                                                | <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm                >                                                                                      | 
+| Erica Storm | [See Below: Erica Storm](#erica-storm) |
 | Excess Protein                                                                       | <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                           |
 | Fibroscan                                                                            | <https://www.mskcc.org/cancer-care/patient-education/understanding-your-fibroscan-results>                                                                                     |
 | Filgrastim [&darr;](#filgrastim)                                                     | [See Below: Filgrastim](#filgrastim)                                                                                                                                           |
+| GFR and Aging | [See Below: GFR and Aging](#gfr-and-aging) |
 | GGT  [&darr;](#ggt)                                                                  | [See Below: GGT](#ggt)                                                                                                                                                         |
 | Gabapentin                        <a id="g"></a>                                     | <https://my.clevelandclinic.org/health/drugs/21561-gabapentin     >                                                                                                            | 
 | Gallbladder  [&darr;](#gallbladder)                                                  | <https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>                                                                           |
@@ -55,7 +60,9 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | HPMV                                                                                 | <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv                         >                                                                     |
 | Hypomagnesium  [&darr;](#hypomagnesium)                                              | <https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia>                                                                                                          |
 | IOP  [&darr;](#iop)                                                                  | [See Below: Intense Outpatient Program](#iop)                                                                                                                                  | 
+| Immunosuppression | [See Below: Immunosuppression](#immunosuppression) |
 | Ketorolac                                                                            | <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882      >                                                             |
+| LOLA | [See Below: LOLA](#lola) |
 | Liver Circle   [&darr;](#liver-circle)                                               | <https://www.thelivercircle.org >                                                                                                                                              |
 | Liver Pain                                                                           | <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain  >                                                                                                 |
 | LiverSpot.org                                                                        | <https://liverspot.org>                                                                                                                                                        |
@@ -72,6 +79,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | PEth [&darr;](#peth)                                                                 | [See below: PEth](#peth)                                                                                                                                                       |
 | Paracentesis [&darr;](#paracentesis)                                                 | <https://my.clevelandclinic.org/health/procedures/paracentesis>                                                                                                                | 
 | Pink Cloud                                                                           | <https://www.healthline.com/health/pink-cloud>                                                                                                                                 |
+| Post-Transplant Relapse | [See below: Post-Transplant Relapse](#post-transplant-relapse) |
 | Recteq                                                                               | <https://www.recteq.com/        >                                                                                                                                              |
 | Reddit for Transplant Support Study   [&darr;](#reddit-for-transplant-support-study) | [https://journals.lww.com/transplantationdirect](https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx) |
 | Retacrit [&darr;](#retacrit)                                                         | [See Below: Retacrit](#retacrit)                                                                                                                                               |
@@ -91,6 +99,7 @@ Sections:  &nbsp; [3-F](#a) • [G-L](#g) • [M-S](#m) • [T-Z](#t) • [Detai
 | Topical Tacrolimus                                                                   | <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159>                                                                               |
 | Tramadol                                                                             | 	<https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050  >                                                                                 |
 | Transplant Age [&darr;](#transplant-age)                                                                      | [See below: Transplant Age](#transplant-age) |
+| Transplant Age | [See below: Transplant Age](#transplant-age) |
 | Transplant Games            [&darr;](#transplant-games)                              | <https://www.transplantgamesofamerica.org  >                                                                                                                                   |
 | Tumeric                                                                              | <https://www.ynhhs.org/articles/supplements-liver-damage >                                                                                                                     |
 | UNOS Regions                                                                         | <https://www.hrsa.gov/optn/about/governance/regions>                                                                                                                           |
@@ -122,6 +131,12 @@ Could 3D-printed livers make transplant lists a thing of the past?
 ### AFP
 
 AFP — «An AFP tumor marker test is a blood test that measures the level of AFP (alpha-fetoprotein) in a sample of your blood. It's usually used to help diagnose certain types of cancer and to check how well treatment is working.» —  <https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/>
+
+### ALP
+
+* [1] <https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp>
+
+  «Alkaline phosphatase (ALP) is an enzyme that’s found throughout your body. ALP blood tests measure the level of ALP in your blood that comes from your liver and bones, and it’s one of the tests included in a comprehensive metabolic panel. High levels of ALP in your blood may indicate liver disease or certain bone disorders» — [1]
 
 
 ### Atrophy
@@ -157,12 +172,29 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 
 Autoimmune Impacts: <https://pubmed.ncbi.nlm.nih.gov/33567734/>
 
+### Corewell Health
+
+* <https://corewellhealth.org>
+* <https://corewellhealth.org/care-and-specialties/transplant>
+* <https://corewellhealth.org/locations/LOC0000193218/corewell-health-william-beaumont-university-hospital>
+
+3535 W. 13 Mile Road Suite 644, Royal Oak, MI 48073
+
+
 ### CostPlus
 
 « We started Mark Cuban Cost Plus Drug Company because every American should have access to safe, affordable medicines. If you don’t have insurance or have a high deductible plan, you know that even the most basic medications can cost a fortune. Many people are spending crazy amounts of money each month just to stay healthy. No American should have to suffer—or worse—because they can’t afford basic prescription medications» — <https://www.costplusdrugs.com/>
 
 ### CPMC
 California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
+
+### Diverticulitis
+
+* [1] <https://www.mayoclinic.org/diseases-conditions/diverticulitis/symptoms-causes/syc-20371758>
+
+«Diverticula are common, especially after age 50. They are usually found in the lower part of the colon. Most often, they don't cause problems. The presence of diverticula is called diverticulosis. Diverticulosis isn't a disease condition.
+When these pouches become inflamed, the condition is called diverticulitis. Inflammation is immune system activity that increases blood flow and fluids to a site in the body and delivers disease-fighting cells. Inflammation of diverticula can cause severe pain, fever, nausea and changes in your stool habits.» — [1]
+
 
 ### Donor Info
 
@@ -189,6 +221,10 @@ A DXA scan is an imaging test that measures the strength of your bones. It uses 
 * <https://bringatrailer.com/wp-content/uploads/2020/10/1969_chevrolet_el_camino_1610759018e4004ffa83572fda1IMG_3657.jpg?w=1790>
 
 
+### Erica Storm
+
+* <https://www.linkedin.com/in/erica-storm-787597159/>
+
 
 ### Filgrastim
 
@@ -210,6 +246,13 @@ A DXA scan is an imaging test that measures the strength of your bones. It uses 
 «To qualify, the tumor must be unresectable, liver-limited, and meet strict »
 
 *  <https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/>
+
+### GFR and Aging
+
+* [1] Ageing and the Glomerular Filtration Rate: Truths and Consequences —  <https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/>
+
+«This paper discusses the known effects of ageing on GFR and the consequences of using a classification system for defining CKD that does not take into account the normal decline of GFR with ageing» — [1]
+
 
 ### GGT
 
@@ -256,6 +299,13 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 ### Hypomagnesium
 Magnesium oxide, sodium bicarbonate, Sucralfate, or other antacids should not be taken within two hours of taking tacrolimus. For example, if your child takes tacrolimus at 8:00 a.m., magnesium oxide should not be given until 10:00 a.m. or later.
 
+### Immunosuppression
+
+
+* <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
+
+
+
 ### IOP
 
 An Intensive Outpatient Program (IOP) is a hospital program that meets several times a week for several hours at a time. IOPs are supposed to be as effective as residential programs and can also function as a transition from an inpatient program to normal life surroundings.
@@ -270,6 +320,22 @@ Imagine a world where a liver disease diagnosis isn't a dead end, but a new begi
 This is the world The Liver Circle, Inc. (TLC) is building.  We're more than an organization; we're a vital connection for patients, advocates, and medical professionals. We elevate the conversation around liver health and organ donation from the ordinary to the extraordinary, ensuring no one faces this journey alone.
 
 <https://www.thelivercircle.org>
+
+### LOLA
+
+L‐ornithine‐L‐aspartate for hepatic encephalopathy
+
+
+* [1] <https://pmc.ncbi.nlm.nih.gov/articles/PMC6478143/>
+* [2] <https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1581792/full>
+* [3] <https://www.nature.com/articles/s41598-024-62293-8>
+* [4] <https://practicalgastro.com/2022/05/18/hepatic-encephalopathy-treatment-beyond-lactulose-and-rifaximin/>
+* [5] <https://pmc.ncbi.nlm.nih.gov/articles/PMC9257922/>
+
+«Results: A total of 12 articles were ultimately included, involving 858 patients, with 433 in the treatment group and 425 in the control group. Meta-analysis results: In terms of the total effective rate (RR: 1.31, 95%CI: 1.22, 1.42), the result is statistically significant (Z = 7.15, P = 0.00001 < 0.05), and for AST, ALT, NH3, TBIL, P = 0.00001 < 0.05. The pooled (RR: 1.31 [95% CI = 1.22, 1.42]), which is statistically significant, LOLA and Lactulose is 31% more effective than Lactulose alone in the control group in treating HE.» — [2]
+
+LOLA is not FDA approved for HE at all, although it wouldn't really be possible to prevent oral administration using foreign dispensaries.  It appears that the studies have been viewed as very weak and the usage of LOLA is always in addition to Lactulose (alone) or with Rifaximin.  So it is unclear what the benefits are if you are on L+R (which is FDA approved).
+
 
 ### MELD
 
@@ -356,6 +422,13 @@ Phosphatidylethanol (PEth) testing is a reliable method to help create a picture
 * <https://lextox.co.uk/blog-posts/phosphatidylethanol-peth-testing/>
 * [Proving Sober](https://www.dairbook.com/stories/mark-20240223a)
 
+### Post-Transplant Relapse
+
+* [1] <https://pmc.ncbi.nlm.nih.gov/articles/PMC10934278/>
+
+«The prevalence rate of alcohol relapse in liver transplant patients with ALD varies across studies. Reported post-transplant alcohol relapse rates in recipients with ALD range from 15% to 50% [5].» — [1]
+
+
 ### Reddit for Transplant Support Study
 
 « Consulting r/Transplant: Assessment of Reddit Use and Sentiment in Solid Organ Transplantation»
@@ -422,6 +495,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 «There is no strict, universal maximum age for a liver transplant, as candidacy is based on physiological, not chronological, age. » — AI Summary
 
 <https://pmc.ncbi.nlm.nih.gov/articles/PMC1421173/>
+
 
 
 
