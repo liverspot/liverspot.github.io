@@ -19,6 +19,12 @@ permalink: /topics/
     background-color: #deedf4;
   }
 
+  #3-d-printed-liver {
+    color: #2e6da4;
+    font-weight: bold;
+    background-color: #deedf4;
+  }
+
 </style>
 
 
