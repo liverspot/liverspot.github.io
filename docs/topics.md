@@ -19,7 +19,7 @@ permalink: /topics/
     background-color: #deedf4;
   }
 
-  #3-d-printed-liver {
+  h4 {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
@@ -131,6 +131,7 @@ The following contains topics that have been brought up during discussions relat
 ====================================================================================
 {% endcomment %}
 
+
 ### 3-D Printed Liver
 
 Could 3D-printed livers make transplant lists a thing of the past?
@@ -198,6 +199,8 @@ Autoimmune Impacts: <https://pubmed.ncbi.nlm.nih.gov/33567734/>
 ### CPMC
 California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
 
+#### &nbsp;
+
 ### Diverticulitis
 
 * [1] <https://www.mayoclinic.org/diseases-conditions/diverticulitis/symptoms-causes/syc-20371758>
@@ -242,6 +245,7 @@ A DXA scan is an imaging test that measures the strength of your bones. It uses 
 
 * <https://www.mayoclinic.org/drugs-supplements/filgrastim-aafi-intravenous-route-subcutaneous-route/description/drg-20443903>
 
+#### &nbsp;
 
 ### Gallbladder
 
@@ -309,6 +313,8 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 ### Hypomagnesium
 Magnesium oxide, sodium bicarbonate, Sucralfate, or other antacids should not be taken within two hours of taking tacrolimus. For example, if your child takes tacrolimus at 8:00 a.m., magnesium oxide should not be given until 10:00 a.m. or later.
 
+#### &nbsp;
+
 ### Immunosuppression
 
 
@@ -346,6 +352,7 @@ L‐ornithine‐L‐aspartate for hepatic encephalopathy
 
 LOLA is not FDA approved for HE at all, although it wouldn't really be possible to prevent oral administration using foreign dispensaries.  It appears that the studies have been viewed as very weak and the usage of LOLA is always in addition to Lactulose (alone) or with Rifaximin.  So it is unclear what the benefits are if you are on L+R (which is FDA approved).
 
+#### &nbsp;
 
 ### MELD
 
@@ -416,6 +423,7 @@ Possible treats that the medical team might like and appreciate from patients in
 * Jelly Belly Sours Mix 5 Flavors Jelly Beans
 * Jelly Belly Fruit Bowl Jelly Beans, Assorted Fruit Flavors, 9.8-oz 
 
+#### &nbsp;
 
 ### Paracentesis
 
@@ -473,6 +481,7 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 * <https://www.srtr.org>
 
+#### &nbsp;
 
 ### Tacrolimus Skin Cancer
 
@@ -513,6 +522,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 <https://www.transplantgamesofamerica.org>
 
+#### &nbsp;
 
 ### Valcyte
 
