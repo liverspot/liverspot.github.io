@@ -19,7 +19,7 @@ permalink: /topics/
     background-color: #deedf4;
   }
 
-/*No 'A'*/
+  #\33 -d-printed-liver, /*Nasty Escape*/
   #dxa-scan, #gfr-and-aging, #iop, #meld, #peth, #tips, #valcyte  {
     color: #2e6da4;
     font-weight: bold;
