@@ -19,7 +19,8 @@ permalink: /topics/
     background-color: #deedf4;
   }
 
-  h4 {
+/*No 'A'*/
+  #dxa-scan, #gfr-and-aging, #iop, #meld, #peth, #tips, #valcyte  {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
@@ -198,7 +199,11 @@ Autoimmune Impacts: <https://pubmed.ncbi.nlm.nih.gov/33567734/>
 ### CPMC
 California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
 
-#### &nbsp;
+### DXA scan
+
+A DXA scan is an imaging test that measures the strength of your bones. It uses X-rays to measure your bone density. DXA is an abbreviation for dual-energy X-ray absorptiometry.
+
+<https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test>
 
 ### Diverticulitis
 
@@ -221,11 +226,7 @@ When these pouches become inflamed, the condition is called diverticulitis. Infl
 * <https://duncansmillsvillage.com/directions/>
 
 
-### DXA scan
 
-A DXA scan is an imaging test that measures the strength of your bones. It uses X-rays to measure your bone density. DXA is an abbreviation for dual-energy X-ray absorptiometry.
-
-<https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test>
 
 ### El Camino [Car]
 
@@ -244,7 +245,11 @@ A DXA scan is an imaging test that measures the strength of your bones. It uses 
 
 * <https://www.mayoclinic.org/drugs-supplements/filgrastim-aafi-intravenous-route-subcutaneous-route/description/drg-20443903>
 
-#### &nbsp;
+### GFR and Aging
+
+* [1] Ageing and the Glomerular Filtration Rate: Truths and Consequences —  <https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/>
+
+«This paper discusses the known effects of ageing on GFR and the consequences of using a classification system for defining CKD that does not take into account the normal decline of GFR with ageing» — [1]
 
 ### Gallbladder
 
@@ -260,17 +265,9 @@ A DXA scan is an imaging test that measures the strength of your bones. It uses 
 
 *  <https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/>
 
-### GFR and Aging
-
-* [1] Ageing and the Glomerular Filtration Rate: Truths and Consequences —  <https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/>
-
-«This paper discusses the known effects of ageing on GFR and the consequences of using a classification system for defining CKD that does not take into account the normal decline of GFR with ageing» — [1]
-
-
 ### GGT
 
 «A gamma-glutamyl transferase (GGT) test measures the amount of GGT in your blood GGT is an enzyme. Enzymes are proteins that speed up certain chemical reactions in your body. Thousands of enzymes play an important role in all of your body functions. The GGT enzyme is found throughout your body, but it is mainly found in your liver.» — <GGT: https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/>
-
 
 ### Gougol
 
@@ -312,14 +309,6 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 ### Hypomagnesium
 Magnesium oxide, sodium bicarbonate, Sucralfate, or other antacids should not be taken within two hours of taking tacrolimus. For example, if your child takes tacrolimus at 8:00 a.m., magnesium oxide should not be given until 10:00 a.m. or later.
 
-#### &nbsp;
-
-### Immunosuppression
-
-
-* <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
-
-
 
 ### IOP
 
@@ -327,6 +316,13 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 
 * <https://en.wikipedia.org/wiki/Intensive_outpatient_program>
 * <https://americanaddictioncenters.org/intensive-outpatient-programs>
+
+### Immunosuppression
+
+
+* <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
+
+
 
 
 ### Liver Circle
@@ -350,8 +346,6 @@ L‐ornithine‐L‐aspartate for hepatic encephalopathy
 «Results: A total of 12 articles were ultimately included, involving 858 patients, with 433 in the treatment group and 425 in the control group. Meta-analysis results: In terms of the total effective rate (RR: 1.31, 95%CI: 1.22, 1.42), the result is statistically significant (Z = 7.15, P = 0.00001 < 0.05), and for AST, ALT, NH3, TBIL, P = 0.00001 < 0.05. The pooled (RR: 1.31 [95% CI = 1.22, 1.42]), which is statistically significant, LOLA and Lactulose is 31% more effective than Lactulose alone in the control group in treating HE.» — [2]
 
 LOLA is not FDA approved for HE at all, although it wouldn't really be possible to prevent oral administration using foreign dispensaries.  It appears that the studies have been viewed as very weak and the usage of LOLA is always in addition to Lactulose (alone) or with Rifaximin.  So it is unclear what the benefits are if you are on L+R (which is FDA approved).
-
-#### &nbsp;
 
 ### MELD
 
@@ -422,7 +416,13 @@ Possible treats that the medical team might like and appreciate from patients in
 * Jelly Belly Sours Mix 5 Flavors Jelly Beans
 * Jelly Belly Fruit Bowl Jelly Beans, Assorted Fruit Flavors, 9.8-oz 
 
-#### &nbsp;
+
+### PEth
+
+Phosphatidylethanol (PEth) testing is a reliable method to help create a picture of alcohol consumption.
+
+* <https://lextox.co.uk/blog-posts/phosphatidylethanol-peth-testing/>
+* [Proving Sober](https://www.dairbook.com/stories/mark-20240223a)
 
 ### Paracentesis
 
@@ -431,13 +431,6 @@ Paracentesis is the process of draining water from the abdominal cavity. A long 
 * <https://my.clevelandclinic.org/health/procedures/paracentesis>
 * <https://en.wikipedia.org/wiki/Paracentesis>
 
-
-### PEth
-
-Phosphatidylethanol (PEth) testing is a reliable method to help create a picture of alcohol consumption.
-
-* <https://lextox.co.uk/blog-posts/phosphatidylethanol-peth-testing/>
-* [Proving Sober](https://www.dairbook.com/stories/mark-20240223a)
 
 ### Post-Transplant Relapse
 
@@ -480,7 +473,10 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 * <https://www.srtr.org>
 
-#### &nbsp;
+
+### TIPS
+«TIPS procedures typically take one to two hours. Your team will move you to a recovery room after the procedure. They’ll check on you as you wake up from anesthesia» — <https://my.clevelandclinic.org/health/procedures/tips-procedure>
+
 
 ### Tacrolimus Skin Cancer
 
@@ -496,10 +492,6 @@ The SRTR website provides access to a very detailed group of reports and tools t
 * «Getting a tattoo if you have a weakened immune system could put you at risk of complications, doctors have warned. The caution comes after a woman with cystic fibrosis and lung transplants developed thigh and knee pain after having body art inked on her leg.» — <https://www.theguardian.com/fashion/2018/jun/18/tattoo-health-warning-for-people-with-weakened-immune-systems>
 
 * «Tattoos and piercings are common forms of expression that many individuals wish to get post-transplant, but there are mixed reviews on whether or not these are safe to receive post-transplant.» — <https://www.transplantunwrapped.org/additional-topics-1/tattoos-and-piercings>
-
-
-### TIPS
-«TIPS procedures typically take one to two hours. Your team will move you to a recovery room after the procedure. They’ll check on you as you wake up from anesthesia» — <https://my.clevelandclinic.org/health/procedures/tips-procedure>
 
 
 ### Thoracentesis
@@ -520,8 +512,6 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 ### Transplant Games
 
 <https://www.transplantgamesofamerica.org>
-
-#### &nbsp;
 
 ### Valcyte
 
