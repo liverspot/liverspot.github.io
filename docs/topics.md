@@ -316,6 +316,10 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 * <https://en.wikipedia.org/wiki/Intensive_outpatient_program>
 * <https://americanaddictioncenters.org/intensive-outpatient-programs>
 
+#### Virtual IOP
+
+https://www.hazeldenbettyford.org/research-studies/addiction-research/virtual-intensive-outpatient-outcomes
+
 ### Immunosuppression
 
 
