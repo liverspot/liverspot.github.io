@@ -391,6 +391,11 @@ Peripheral neuropathy happens when the nerves that are located outside of the br
 
 ### Neutropenia
 
+«Neutropenia involves having lower-than-normal levels of neutrophils (a type of white blood cell) in your blood. It’s especially common among people receiving cancer treatments, like chemotherapy. Neutrophils help fight infections. If you have neutropenia, it’s important to take extra precautions to avoid germs that may make you sick.» — [2]
+
+  * [1] <https://hillman.upmc.com/patients/community-support/education/miscellaneous/neutropenia>
+  * [2] https://my.clevelandclinic.org/health/diseases/21058-neutropenia
+
 «
 Hand washing should be done:
 Before eating, drinking, and taking medicine
@@ -404,8 +409,8 @@ You must avoid all of the following:
 * Grooming pets or cleaning bird cages, litter boxes, and fish tanks
   Long periods of bed rest
   Hot and humid environments, such as saunas, greenhouses, and pools
-  » —
-  <https://hillman.upmc.com/patients/community-support/education/miscellaneous/neutropenia>
+  » — [1]
+ 
 
 ### NIVESTYM
 
