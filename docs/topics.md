@@ -26,7 +26,7 @@ permalink: /topics/
     background-color: #deedf4;
   }
 
-  p { 
+  p, h4 { /*Shift contents of details right*/
     margin-left: 20px; 
   } 
   ul { 
@@ -263,25 +263,25 @@ When these pouches become inflamed, the condition is called diverticulitis. Infl
 
 ### Gallbladder
 
-« gallbladder attached to the donor liver will be detached to ensure that it does not cause problems with your new liver, and your gallbladder will also be removed. »
+« gallbladder attached to the donor liver will be detached to ensure that it does not cause problems with your new liver, and your gallbladder will also be removed. » — [1]
 
-<https://pmc.ncbi.nlm.nih.gov/articles/PMC6230845/>
+* [1] <https://pmc.ncbi.nlm.nih.gov/articles/PMC6230845/>
 
 ### Gallbladder Cancer
 
-«Hilar/perihilar cholangiocarcinoma (pCCA), or gallbladder cancer involving the bile ducts, is recognized as a specific MELD exception condition, often receiving a score equal to the median MELD at transplant (MMaT) minus 3 points, subject to National Liver Review Board (NLRB) approval. »
+«Hilar/perihilar cholangiocarcinoma (pCCA), or gallbladder cancer involving the bile ducts, is recognized as a specific MELD exception condition, often receiving a score equal to the median MELD at transplant (MMaT) minus 3 points, subject to National Liver Review Board (NLRB) approval. » — [1]
 
-«To qualify, the tumor must be unresectable, liver-limited, and meet strict »
+«To qualify, the tumor must be unresectable, liver-limited, and meet strict » — [1]
 
-*  <https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/>
+* [1] <https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/>
 
 ### GGT
 
-«A gamma-glutamyl transferase (GGT) test measures the amount of GGT in your blood GGT is an enzyme. Enzymes are proteins that speed up certain chemical reactions in your body. Thousands of enzymes play an important role in all of your body functions. The GGT enzyme is found throughout your body, but it is mainly found in your liver.» — <GGT: https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/>
+«A gamma-glutamyl transferase (GGT) test measures the amount of GGT in your blood GGT is an enzyme. Enzymes are proteins that speed up certain chemical reactions in your body. Thousands of enzymes play an important role in all of your body functions. The GGT enzyme is found throughout your body, but it is mainly found in your liver.» — <https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/>
 
 ### Gougol
 
-<https://med.stanford.edu/profiles/amir-gougol>     
+* <https://med.stanford.edu/profiles/amir-gougol>     
 
 Professional Education
 * Fellowship: UCSF Dept of Gastroenterology (2023) CA
@@ -299,12 +299,13 @@ Professional Education
 
 ### HCC GALAD model
 
+
 The GALAD model:
 
-* <https://www.mayocliniclabs.com/test-catalog/overview/606585>
-* <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>
+* [1] <https://www.mayocliniclabs.com/test-catalog/overview/606585>
+* [2] <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>
 
-Seems pretty well endorsed: « The GALAD model has been demonstrated to have higher diagnostic accuracy for the detection of hepatocellular carcinoma (HCC) when compared to the use AFP, AFP-L3, and DCP markers alone or in combination. The performance of the GALAD score has also been reported to be superior to ultrasound for HCC detection»
+Seems pretty well endorsed: « The GALAD model has been demonstrated to have higher diagnostic accuracy for the detection of hepatocellular carcinoma (HCC) when compared to the use AFP, AFP-L3, and DCP markers alone or in combination. The performance of the GALAD score has also been reported to be superior to ultrasound for HCC detection» — [1]
 
 ### HE
 
@@ -447,7 +448,7 @@ Possible treats that the medical team might like and appreciate from patients in
 Phosphatidylethanol (PEth) testing is a reliable method to help create a picture of alcohol consumption.
 
 * <https://lextox.co.uk/blog-posts/phosphatidylethanol-peth-testing/>
-* [Proving Sober](https://www.dairbook.com/stories/mark-20240223a)
+* [DAIR: Proving Sober](https://www.dairbook.com/stories/mark-20240223a)
 
 ### Paracentesis
 
@@ -468,17 +469,17 @@ Paracentesis is the process of draining water from the abdominal cavity. A long 
 
 « Consulting r/Transplant: Assessment of Reddit Use and Sentiment in Solid Organ Transplantation»
 
-« Solid organ transplants are life-changing experiences that impact recipients, donors, care partners, medical teams, communities, and popular media. Social media is an influential part of modern life and provides a platform for healthcare experiences. This study assessed perspectives on solid organ transplantation by exploring the transplant community’s utilization of the social media site Reddit.»
+« Solid organ transplants are life-changing experiences that impact recipients, donors, care partners, medical teams, communities, and popular media. Social media is an influential part of modern life and provides a platform for healthcare experiences. This study assessed perspectives on solid organ transplantation by exploring the transplant community’s utilization of the social media site Reddit.» — [1]
 
-
-<https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx>
+* [1] <https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx>
 
 
 ### retacrit
 
-<https://retacrit.pfizerpro.com>
+* [1] <https://retacrit.pfizerpro.com>
+* [2] <https://www.healio.com/clinical-guidance/drugs/retacrit>
 
-«This medication is used to treat anemia (low red blood cell count) in people with long-term serious kidney disease (chronic kidney failure), people receiving zidovudine to treat HIV, and people receiving chemotherapy for some types of cancer (cancer that does not involve the bone marrow or blood cells). It may also be used in anemic patients to reduce the need for blood transfusions before certain planned surgeries that have a high risk of blood loss (usually given with an anticoagulant/"blood thinner" medication such as warfarin to lower the risk of serious blood clots).» — https://www.healio.com/clinical-guidance/drugs/retacrit
+«This medication is used to treat anemia (low red blood cell count) in people with long-term serious kidney disease (chronic kidney failure), people receiving zidovudine to treat HIV, and people receiving chemotherapy for some types of cancer (cancer that does not involve the bone marrow or blood cells). It may also be used in anemic patients to reduce the need for blood transfusions before certain planned surgeries that have a high risk of blood loss (usually given with an anticoagulant/"blood thinner" medication such as warfarin to lower the risk of serious blood clots).» — [2]
 
 ### Safety Net
 Apparently the main UNOS page is gone, and the information is only in the archive until the new site provides the information (if it ever does).
@@ -509,12 +510,12 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 ### Tacrolimus Skin Cancer
 
-«Tacrolimus is a potent immunosuppressant used in liver transplants that significantly increases the risk of skin cancer—often by 10- to 30-fold—due to suppressed immune surveillance. Risk is linked to cumulative exposure, with higher doses in the first year increasing cancer likelihood. Regular dermatological monitoring is vital»
+«Tacrolimus is a potent immunosuppressant used in liver transplants that significantly increases the risk of skin cancer—often by 10- to 30-fold—due to suppressed immune surveillance. Risk is linked to cumulative exposure, with higher doses in the first year increasing cancer likelihood. Regular dermatological monitoring is vital» — [1]
 
-<https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext>
+* [1] <https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext>
 
 ### Tacrolimus vs. CellCept
-«Tacrolimus (a calcineurin inhibitor) is generally more potent at preventing acute rejection, while CellCept is often better tolerated with fewer metabolic side effects» [AI]
+«Tacrolimus (a calcineurin inhibitor) is generally more potent at preventing acute rejection, while CellCept is often better tolerated with fewer metabolic side effects» — [AI]
 
 ### Tattoos
 
@@ -533,14 +534,14 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 ### Transplant Age
 «There is no strict, universal maximum age for a liver transplant, as candidacy is based on physiological, not chronological, age. » — AI Summary
 
-<https://pmc.ncbi.nlm.nih.gov/articles/PMC1421173/>
+* <https://pmc.ncbi.nlm.nih.gov/articles/PMC1421173/>
 
 
 
 
 ### Transplant Games
 
-<https://www.transplantgamesofamerica.org>
+* <https://www.transplantgamesofamerica.org>
 
 ### Valcyte
 
@@ -553,10 +554,10 @@ Valganciclovir is used to treat symptoms of cytomegalovirus (CMV) retinitis, an 
 
 ### Vivitrol
 
-«Vivitrol is a long-acting injectable form of naltrexone, which is a medication used to treat two substance use disorders - opioid use disorder and alcohol use disorder (alcoholism). Vivitrol is used as part of a treatment program. It helps prevent people with alcohol or opioid dependence from feeling like they need to use these substances.» — <https://www.drugs.com/vivitrol.html>
+«Vivitrol is a long-acting injectable form of naltrexone, which is a medication used to treat two substance use disorders - opioid use disorder and alcohol use disorder (alcoholism). Vivitrol is used as part of a treatment program. It helps prevent people with alcohol or opioid dependence from feeling like they need to use these substances.» — [2]
 
-* <https://www.vivitrol.com/>
-* <https://www.drugs.com/vivitrol.html>
+* [1] <https://www.vivitrol.com/>
+* [2] <https://www.drugs.com/vivitrol.html>
 
 
 ### Xifaxan
