@@ -26,6 +26,13 @@ permalink: /topics/
     background-color: #deedf4;
   }
 
+  p { 
+    margin-left: 20px; 
+  } 
+  ul { 
+    padding-inline-start: 20px; 
+  }
+
 </style>
 
 
@@ -140,23 +147,27 @@ Could 3D-printed livers make transplant lists a thing of the past?
 
 ### AFP
 
-AFP — «An AFP tumor marker test is a blood test that measures the level of AFP (alpha-fetoprotein) in a sample of your blood. It's usually used to help diagnose certain types of cancer and to check how well treatment is working.» —  <https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/>
+* [1] <https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/>
+
+«An AFP tumor marker test is a blood test that measures the level of AFP (alpha-fetoprotein) in a sample of your blood. It's usually used to help diagnose certain types of cancer and to check how well treatment is working.» —  [1]
 
 ### ALP
 
 * [1] <https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp>
 
-  «Alkaline phosphatase (ALP) is an enzyme that’s found throughout your body. ALP blood tests measure the level of ALP in your blood that comes from your liver and bones, and it’s one of the tests included in a comprehensive metabolic panel. High levels of ALP in your blood may indicate liver disease or certain bone disorders» — [1]
+«Alkaline phosphatase (ALP) is an enzyme that’s found throughout your body. ALP blood tests measure the level of ALP in your blood that comes from your liver and bones, and it’s one of the tests included in a comprehensive metabolic panel. High levels of ALP in your blood may indicate liver disease or certain bone disorders» — [1]
 
 
 ### Atrophy
 
-«Muscle loss during hospitalization is a major clinical concern, as it has been associated with reduced physical function, quality of life, and increased mortality. This review outlines the key causes of muscle wasting and highlights practical strategies to support muscle mass preservation during hospitalization.»
+* [1] <https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx>
+* [2] <https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/>
 
-«National Institutes of Health. Critical care patients can lose up to 3% of leg muscle mass per day.»
+«Muscle loss during hospitalization is a major clinical concern, as it has been associated with reduced physical function, quality of life, and increased mortality. This review outlines the key causes of muscle wasting and highlights practical strategies to support muscle mass preservation during hospitalization.» — [1]
 
-* <https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx>
-* «showing an average loss of about 1 kg (2.2 lbs) within 24 hours of acute care and up to 2.3 kg (5 lbs) by discharge,» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/>
+«National Institutes of Health. Critical care patients can lose up to 3% of leg muscle mass per day.» — [1]
+
+«showing an average loss of about 1 kg (2.2 lbs) within 24 hours of acute care and up to 2.3 kg (5 lbs) by discharge,» — [2]
 
 ### Bausch PAP
 
