@@ -19,12 +19,26 @@ permalink: /topics/
     background-color: #deedf4;
   }
 
+.h3 {
+    background-color: #deedf4;
+    width: fit-content;
+    padding: 10px 10px; /* Optional: adds space around the text */
+    font-weight: normal;
+}
+
+h3 {
+  border-top: 2px solid #2e6da4; 
+  color: #2e6da4;
+}
+
   #\33 -d-printed-liver, /*Nasty Escape*/
   #dxa-scan, #gfr-and-aging, #iop, #meld, #peth, #tips, #valcyte  {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
-  }
+    width: 100%;
+    padding: 10px 10px; 
+}
 
   p, h4 { /*Shift contents of details right*/
     margin-left: 20px; 
