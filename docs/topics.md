@@ -32,7 +32,7 @@ h3 {
 }
 
   #\33 -d-printed-liver, /*Nasty Escape*/
-  #bausch-pap, #camino-hospital-iop, #dxa-scan, #el-camino-car, #filgrastim, #gfr-and-aging, #hcc-galad-model, #iop, #liver-circle, #meld, #naltrexone, #peth, #reddit-for-transplant-support-study, #safety-net,  #tips, #valcyte, #xifaxan  {
+  #afp, #bausch-pap, #camino-hospital-iop, #dxa-scan, #el-camino-car, #filgrastim, #gfr-and-aging, #hcc-galad-model, #iop, #liver-circle, #meld, #naltrexone, #peth, #reddit-for-transplant-support-study, #safety-net,  #tips, #valcyte, #xifaxan  {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
