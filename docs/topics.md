@@ -357,6 +357,7 @@ L‐ornithine‐L‐aspartate for hepatic encephalopathy
 * [3] <https://www.nature.com/articles/s41598-024-62293-8>
 * [4] <https://practicalgastro.com/2022/05/18/hepatic-encephalopathy-treatment-beyond-lactulose-and-rifaximin/>
 * [5] <https://pmc.ncbi.nlm.nih.gov/articles/PMC9257922/>
+* [6] <https://www.reddit.com/r/Cirrhosis/comments/1oox3h7/to_the_mod_who_locked_the_thread_on_lola/>
 
 «Results: A total of 12 articles were ultimately included, involving 858 patients, with 433 in the treatment group and 425 in the control group. Meta-analysis results: In terms of the total effective rate (RR: 1.31, 95%CI: 1.22, 1.42), the result is statistically significant (Z = 7.15, P = 0.00001 < 0.05), and for AST, ALT, NH3, TBIL, P = 0.00001 < 0.05. The pooled (RR: 1.31 [95% CI = 1.22, 1.42]), which is statistically significant, LOLA and Lactulose is 31% more effective than Lactulose alone in the control group in treating HE.» — [2]
 
