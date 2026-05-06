@@ -5,6 +5,10 @@ permalink: /topics/
 ---
 
 <style>
+  a {
+    overflow-wrap: break-word; 
+  }
+
   table tr:nth-child(1), /*3*/
     table tr:nth-child(15), /*D*/ 
     table tr:nth-child(25), /*G*/ 
