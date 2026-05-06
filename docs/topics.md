@@ -11,8 +11,8 @@ permalink: /topics/
     table tr:nth-child(36),  /*I*/
     table tr:nth-child(43),  /*M*/
     table tr:nth-child(53),  /*P*/
-    table tr:nth-child(66), /*T*/
-    table tr:nth-child(79) /*V*/
+    table tr:nth-child(65), /*T*/
+    table tr:nth-child(78) /*V*/
     {   
     color: #2e6da4;
     font-weight: bold;
@@ -60,7 +60,7 @@ The following contains topics that have been brought up during discussions relat
 | 3-D Printed Liver [&darr;](#3-d-printed-liver)  <a id="a"></a>                       | [Colorado.Edu : Printed Livers](https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past)                                            |
 | AFP [&darr;](#afp)                                                                   | [See Below: AFP](#afp)                                                                                                                                                         |
 | ALP (Alkaline phosphatase)  [&darr;](#alp)                                                         | [See Below: ALP](#alp)                                                                                                                                                         |
-| Acyclovir | [See Below: Acyclovir](#acyclovir) |
+| Acyclovir | [See Below: Acyclovir](#acyclovir)                                                                                                                                             |
 | Angioplasty                                                                          | <https://my.clevelandclinic.org/health/treatments/22060-angioplasty>                                                                                                           |
 | Atrophy [&darr;](#atrophy)                                                           | [See below: Atrophy](#atrophy)                                                                                                                                                 |
 | BUN Test                                                                             | <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>                                                                                           |
@@ -117,8 +117,7 @@ The following contains topics that have been brought up during discussions relat
 | Reddit for Transplant Support Study   [&darr;](#reddit-for-transplant-support-study) | [https://journals.lww.com/transplantationdirect](https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx) |
 | Retacrit [&darr;](#retacrit)                                                         | [See Below: Retacrit](#retacrit)                                                                                                                                               |
 | SRTR          [&darr;](#srtr)                                                        | <https://www.srtr.org/                                                                                                                                                         |
-| Safety net                    [&darr;](#safety-net)                                  | <https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>                                                                                               |
-| Safety net (2)                    [&darr;](#safety-net)                              | <https://web.archive.org/web/20251016005146/https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>                                                    |
+| Safety net                    [&darr;](#safety-net)                                  | [See Below: Safety Net](#safety-net)                                                                                                                                           |
 | Scar Tissue [&darr;](#scar-tissue)                                                   | [See Below: Scar Tissue](#scar-tissue)                                                                                                                                         |
 | Skin Cancer Risk           [&darr;](#skin-cancer-risk)                               | <https://www.ucsfhealth.org/education/organ-transplant-and-skin-cancer-risk>                                                                                                   | 
 | St. Mary's                                                                           | <https://saintmarysreno.com    >                                                                                                                                               |
@@ -506,7 +505,14 @@ Paracentesis is the process of draining water from the abdominal cavity. A long 
 «This medication is used to treat anemia (low red blood cell count) in people with long-term serious kidney disease (chronic kidney failure), people receiving zidovudine to treat HIV, and people receiving chemotherapy for some types of cancer (cancer that does not involve the bone marrow or blood cells). It may also be used in anemic patients to reduce the need for blood transfusions before certain planned surgeries that have a high risk of blood loss (usually given with an anticoagulant/"blood thinner" medication such as warfarin to lower the risk of serious blood clots).» — [2]
 
 ### Safety Net
-Apparently the main UNOS page is gone, and the information is only in the archive until the new site provides the information (if it ever does).
+The website about the safety net program that was on UNOS was seriously messed up recently with an administrative change, but you can read about it here (if the archive works... can be slow) and some quotes are below
+
+[1] <https://web.archive.org/web/20251016005146/https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>
+
+« What is a safety net policy?
+
+A safety net policy is for candidates who may not meet eligibility criteria for a simultaneous organ transplant, or who were not listed for a multi-organ transplant. For candidates who need a heart or lung transplant and have some renal dysfunction, transplant programs may opt to proceed with a single organ transplant (in this case a heart or lung transplant) in order to allow the kidneys to recover. If the kidneys do not recover in a timely fashion, a candidate may be eligible to receive safety net priority for a kidney transplant.
+» — [1]
 
 ### Scar Tissue
 
