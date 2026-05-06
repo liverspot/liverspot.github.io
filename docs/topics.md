@@ -6,13 +6,13 @@ permalink: /topics/
 
 <style>
   table tr:nth-child(1), /*3*/
-    table tr:nth-child(14), /*D*/ 
-    table tr:nth-child(24), /*G*/ 
-    table tr:nth-child(35),  /*I*/
-    table tr:nth-child(42),  /*M*/
-    table tr:nth-child(52),  /*P*/
-    table tr:nth-child(65), /*T*/
-    table tr:nth-child(78) /*V*/
+    table tr:nth-child(15), /*D*/ 
+    table tr:nth-child(25), /*G*/ 
+    table tr:nth-child(36),  /*I*/
+    table tr:nth-child(43),  /*M*/
+    table tr:nth-child(53),  /*P*/
+    table tr:nth-child(66), /*T*/
+    table tr:nth-child(79) /*V*/
     {   
     color: #2e6da4;
     font-weight: bold;
@@ -60,6 +60,7 @@ The following contains topics that have been brought up during discussions relat
 | 3-D Printed Liver [&darr;](#3-d-printed-liver)  <a id="a"></a>                       | [Colorado.Edu : Printed Livers](https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past)                                            |
 | AFP [&darr;](#afp)                                                                   | [See Below: AFP](#afp)                                                                                                                                                         |
 | ALP (Alkaline phosphatase)  [&darr;](#alp)                                                         | [See Below: ALP](#alp)                                                                                                                                                         |
+| Acyclovir | [See Below: Acyclovir](#acyclovir) |
 | Angioplasty                                                                          | <https://my.clevelandclinic.org/health/treatments/22060-angioplasty>                                                                                                           |
 | Atrophy [&darr;](#atrophy)                                                           | [See below: Atrophy](#atrophy)                                                                                                                                                 |
 | BUN Test                                                                             | <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>                                                                                           |
@@ -142,7 +143,6 @@ The following contains topics that have been brought up during discussions relat
 
 
 
-
 ## Topic Details
 
 {% comment %}
@@ -170,6 +170,15 @@ Could 3D-printed livers make transplant lists a thing of the past?
 * [1] <https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp>
 
 «Alkaline phosphatase (ALP) is an enzyme that’s found throughout your body. ALP blood tests measure the level of ALP in your blood that comes from your liver and bones, and it’s one of the tests included in a comprehensive metabolic panel. High levels of ALP in your blood may indicate liver disease or certain bone disorders» — [1]
+
+
+### Acyclovir
+
+«Acyclovir is used to treat viral infections like chickenpox, herpes zoster (shingles) and genital herpes (a sexually transmitted disease). Acyclovir is in a class of medications called antivirals. It works by stopping the spread of the virus in the body.» — [2]
+
+* [1] <https://pubmed.ncbi.nlm.nih.gov/3912970/>
+* [2] <https://medlineplus.gov/druginfo/meds/a681045.html>
+* [3] <https://www.mayoclinic.org/drugs-supplements/acyclovir-oral-route-intravenous-route/description/drg-20068393>
 
 
 ### Atrophy
