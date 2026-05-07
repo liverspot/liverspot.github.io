@@ -499,6 +499,8 @@ Paracentesis is the process of draining water from the abdominal cavity. A long 
 
 «As highlighted previously, the term recompensated cirrhosis is only limited to aetiologies where a clear cause is identified and can be targeted. This limits the application of this term to aetiologies like viral cirrhosis and ALD. According to the present evidence, patients with NAFLD by definition cannot be categorized as recompensated despite fulfilling other criteria. This may limit the application of this term as NAFLD remains the most common form of liver disease and in the future may become the leading cause of cirrhosis and its complications worldwide. There is an evidence that sustained weight loss decreases hepatic steatosis and can cause reversal of fibrosis. Defining recompensation in the context of NAFLD may need modification of the criteria mentioned above in the future. However, the pertinent question in this aspect is whether or not a patient with NAFLD can ever be considered recompensated as data regarding recompensation in NAFLD does not exist unlike other aetiologies. Conceptualizing a model to define recompensation in NAFLD cirrhosis with the current backdrop of aetiological suppression would be challenging given the dynamics of metabolic risk factors once cirrhosis sets inpatients with NAFLD.» — [1]
 
+«Adapting a concept of recompensation can have its own ethical issues, especially in countries where disease-specific scores are used to decide the timing of transplantation. Labelling a patient recompensated may lead to delisting from transplant list.» — [1]
+
 ### Reddit for Transplant Support Study
 
 « Consulting r/Transplant: Assessment of Reddit Use and Sentiment in Solid Organ Transplantation»
