@@ -16,7 +16,7 @@ permalink: /topics/
     table tr:nth-child(43),  /*M*/
     table tr:nth-child(53),  /*P*/
     table tr:nth-child(65), /*T*/
-    table tr:nth-child(78) /*V*/
+    table tr:nth-child(79) /*V*/
     {   
     color: #2e6da4;
     font-weight: bold;
