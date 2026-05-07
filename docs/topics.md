@@ -213,13 +213,19 @@ The Scrivner Center for Mental Health & Addiction Services’ evening outpatient
 
 ### CMV
 
-CMV — <https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358>
+ * [1] Mayo Clini — <https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358>
+ * [2] Autoimmune Impacts: <https://pubmed.ncbi.nlm.nih.gov/33567734/>
+ * [3] <https://en.wikipedia.org/wiki/Human_cytomegalovirus>
 
-A cytomegalovirus (CMV) infection is a condition caused by a common virus. The CMV virus stays in the body for life after infection.
+«A cytomegalovirus (CMV) infection is a condition caused by a common virus. The CMV virus stays in the body for life after infection.
+
 […]
-For people who have weakened immune systems, CMV infection can be fatal. The risk is especially high for people who've had an organ, stem cell or bone marrow transplant.
 
-Autoimmune Impacts: <https://pubmed.ncbi.nlm.nih.gov/33567734/>
+For people who have weakened immune systems, CMV infection can be fatal. The risk is especially high for people who've had an organ, stem cell or bone marrow transplant.» — [1]
+
+
+#### Alternate name
+«Human cytomegalovirus (HCMV), also called human herpesvirus 5 (HHV-5), is a species of virus in the genus Cytomegalovirus» — [3]
 
 ### Corewell Health
 
