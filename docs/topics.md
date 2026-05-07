@@ -15,8 +15,8 @@ permalink: /topics/
     table tr:nth-child(36),  /*I*/
     table tr:nth-child(43),  /*M*/
     table tr:nth-child(53),  /*P*/
-    table tr:nth-child(65), /*T*/
-    table tr:nth-child(79) /*V*/
+    table tr:nth-child(66), /*T*/
+    table tr:nth-child(80) /*V*/
     {   
     color: #2e6da4;
     font-weight: bold;
@@ -117,6 +117,7 @@ The following contains topics that have been brought up during discussions relat
 | Paracentesis [&darr;](#paracentesis)                                                 | <https://my.clevelandclinic.org/health/procedures/paracentesis>                                                                                                                | 
 | Pink Cloud                                                                           | <https://www.healthline.com/health/pink-cloud>                                                                                                                                 |
 | Post-Transplant Relapse  [&darr;](#post-transplant-relapse)                          | [See below: Post-Transplant Relapse](#post-transplant-relapse)                                                                                                                 |
+| Recompensated [&darr;](#recompensated)                                                         | [See Below: Recompensated](#recompensated)                                                                                                                                               |
 | Recteq                                                                               | <https://www.recteq.com/        >                                                                                                                                              |
 | Reddit for Transplant Support Study   [&darr;](#reddit-for-transplant-support-study) | [https://journals.lww.com/transplantationdirect](https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx) |
 | Retacrit [&darr;](#retacrit)                                                         | [See Below: Retacrit](#retacrit)                                                                                                                                               |
@@ -492,6 +493,11 @@ Paracentesis is the process of draining water from the abdominal cavity. A long 
 
 «The prevalence rate of alcohol relapse in liver transplant patients with ALD varies across studies. Reported post-transplant alcohol relapse rates in recipients with ALD range from 15% to 50% [5].» — [1]
 
+### Recompensated
+
+* [1] <https://pmc.ncbi.nlm.nih.gov/articles/PMC10025679/>
+
+«As highlighted previously, the term recompensated cirrhosis is only limited to aetiologies where a clear cause is identified and can be targeted. This limits the application of this term to aetiologies like viral cirrhosis and ALD. According to the present evidence, patients with NAFLD by definition cannot be categorized as recompensated despite fulfilling other criteria. This may limit the application of this term as NAFLD remains the most common form of liver disease and in the future may become the leading cause of cirrhosis and its complications worldwide. There is an evidence that sustained weight loss decreases hepatic steatosis and can cause reversal of fibrosis. Defining recompensation in the context of NAFLD may need modification of the criteria mentioned above in the future. However, the pertinent question in this aspect is whether or not a patient with NAFLD can ever be considered recompensated as data regarding recompensation in NAFLD does not exist unlike other aetiologies. Conceptualizing a model to define recompensation in NAFLD cirrhosis with the current backdrop of aetiological suppression would be challenging given the dynamics of metabolic risk factors once cirrhosis sets inpatients with NAFLD.» — [1]
 
 ### Reddit for Transplant Support Study
 
