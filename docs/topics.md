@@ -9,15 +9,39 @@ permalink: /topics/
     overflow-wrap: break-word; 
   }
 
+  table th {
+    background-color: #2e6da4;
+    color: white;
+  }
+
   table tr:nth-child(1), /*3*/
+    table tr:nth-child(2), /*A*/ 
+    table tr:nth-child(9), /*B*/ 
+    table tr:nth-child(11), /*C*/ 
     table tr:nth-child(17), /*D*/ 
+    table tr:nth-child(22), /*E*/ 
+    table tr:nth-child(25), /*F*/ 
     table tr:nth-child(27), /*G*/ 
+    table tr:nth-child(34),  /*H*/
     table tr:nth-child(38),  /*I*/
+    table tr:nth-child(38),  /*J*/
+    table tr:nth-child(40),  /*K*/
+    table tr:nth-child(41),  /*L*/
     table tr:nth-child(45),  /*M*/
+    table tr:nth-child(48),  /*N*/
+    table tr:nth-child(53),  /*O*/
     table tr:nth-child(55),  /*P*/
+    table tr:nth-child(55),  /*Q*/
+    table tr:nth-child(59),  /*R*/
+    table tr:nth-child(63),  /*S*/
     table tr:nth-child(68), /*T*/
-    table tr:nth-child(82) /*V*/
-    {   
+    table tr:nth-child(80), /*U*/
+    table tr:nth-child(82), /*V*/
+    table tr:nth-child(82), /*W*/
+    table tr:nth-child(84), /*X*/
+    table tr:nth-child(82), /*Y*/
+    table tr:nth-child(82) /*Z*/
+   {   
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
