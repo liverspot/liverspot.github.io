@@ -169,7 +169,7 @@ Could 3D-printed livers make transplant lists a thing of the past?
 
 Acute cellular rejection
 
-* [1] https://pmc.ncbi.nlm.nih.gov/articles/PMC5715482/
+* [1] <https://pmc.ncbi.nlm.nih.gov/articles/PMC5715482/>
 
 «While antibody mediated hyper-acute vasculitic rejection is rare in liver transplant recipients, acute and chronic rejection have clinical significance. The liver allograft behaves differently to other solid organ transplants as acute rejection generally does not impair graft survival and chronic rejection (CR) is uncommon. The incidence of acute and chronic rejection has declined in current era due to improved immunosuppressive regimens. Acute rejection generally improves with steroid boluses and steroid resistant rejection is uncommon. CR may improve with escalation of immunosuppression or may result in irreversible loss of graft function leading to retransplantation or death. The current review discusses diagnosis and management of acute and chronic liver allograft rejection» — [1]
 
