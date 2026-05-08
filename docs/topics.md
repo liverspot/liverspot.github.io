@@ -14,24 +14,23 @@ permalink: /topics/
     color: white;
   }
 
-  table tr:nth-child(1), /*3*/
-    table tr:nth-child(2), /*A*/ 
-    table tr:nth-child(9), /*B*/ 
-    table tr:nth-child(11), /*C*/ 
-    table tr:nth-child(17), /*D*/ 
-    table tr:nth-child(22), /*E*/ 
-    table tr:nth-child(25), /*F*/ 
-    table tr:nth-child(27), /*G*/ 
-    table tr:nth-child(34),  /*H*/
-    table tr:nth-child(38),  /*I*/
-    table tr:nth-child(38),  /*J*/
-    table tr:nth-child(40),  /*K*/
-    table tr:nth-child(42),  /*L*/
-    table tr:nth-child(46),  /*M*/
-    table tr:nth-child(49),  /*N*/
-    table tr:nth-child(54),  /*O*/
-    table tr:nth-child(56),  /*P*/
-    table tr:nth-child(56),  /*Q*/
+    table tr:nth-child(1), /*A*/ 
+    table tr:nth-child(8), /*B*/ 
+    table tr:nth-child(10), /*C*/ 
+    table tr:nth-child(16), /*D*/ 
+    table tr:nth-child(21), /*E*/ 
+    table tr:nth-child(24), /*F*/ 
+    table tr:nth-child(26), /*G*/ 
+    table tr:nth-child(33),  /*H*/
+    table tr:nth-child(37),  /*I*/
+    table tr:nth-child(37),  /*J*/
+    table tr:nth-child(39),  /*K*/
+    table tr:nth-child(41),  /*L*/
+    table tr:nth-child(45),  /*M*/
+    table tr:nth-child(48),  /*N*/
+    table tr:nth-child(53),  /*O*/
+    table tr:nth-child(55),  /*P*/
+    table tr:nth-child(55),  /*Q*/
     table tr:nth-child(60),  /*R*/
     table tr:nth-child(64),  /*S*/
     table tr:nth-child(69), /*T*/
@@ -83,94 +82,94 @@ The following contains topics that have been brought up during discussions relat
 *Sections:*  &nbsp;&nbsp; [3-C](#a) &nbsp;•&nbsp; [D-F](#d) &nbsp;•&nbsp; [G-H](#g) &nbsp;•&nbsp; [I-L](#i) &nbsp;•&nbsp; [M-O](#m) &nbsp;•&nbsp; [P-S](#p) &nbsp;•&nbsp; [T-U](#t) &nbsp;•&nbsp; [V-Z](#v) &nbsp;•&nbsp; [Details](#topic-details)
 
 
-| Topic                                                                               | Link                                                                                                                                                                          |
-|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3-D Printed Liver [&darr;](#3-d-printed-liver)  <a id="a"></a>                      | [Colorado.Edu : Printed Livers](https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past)                                           |
-| ACR [&darr;](#acr)                                                                  | [See Below: ACR](#acr)                                                                                                                                                        |
-| AFP [&darr;](#afp)                                                                  | [See Below: AFP](#afp)                                                                                                                                                        |
-| ALP (Alkaline phosphatase)  [&darr;](#alp)                                          | [See Below: ALP](#alp)                                                                                                                                                        |
-| Acyclovir                                                                           | [See Below: Acyclovir](#acyclovir)                                                                                                                                            |
-| Ammonia Level                                                                       | [See Below: Ammonia Level](#ammonia-level)                                                                                                                                    |
-| Angioplasty                                                                         | <https://my.clevelandclinic.org/health/treatments/22060-angioplasty>                                                                                                          |
-| Atrophy [&darr;](#atrophy)                                                          | [See below: Atrophy](#atrophy)                                                                                                                                                |
-| BUN Test                                                                            | <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>                                                                                          |
-| Bausch PAP  [&darr;](#bausch-pap)                                                   | <https://www.bauschhealthpap.com/eligible-medications/    >                                                                                                                   |
-| CMV [&darr;](#cmv)                                                                  | [See Below: CMV](#cmv)                                                                                                                                                        |
-| CPMC                                                                                | <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>                                                                                       | 
-| Camino Hospital IOP [&darr;](#mino-hospital-iop)                                    | [See Below: Camino Hospital IOP](#camino-hospital-iop)                                                                                                                        | 
-| Corewell Health   [&darr;](#corewell-health)                                        | [See Below: Corewell Health](#corewell-health)                                                                                                                                |
-| CostPlus  [&darr;](#costplus)                                                       | [See Below: CostPlus](#costplus)                                                                                                                                              |
-| Creatine Test                                                                       | <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>                                                                                              |
-| DXA scan  <a id="d"></a>       [&darr;](#dxa-scan)                                  | <https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test         >                                                                            |
-| Diverticulitis   [&darr;](#diverticulitis)                                          | [See Below: Diverticulitis](#diverticulitis)                                                                                                                                  |
-| Donor Info  [&darr;](#donor-info)                                                   | [See below: Donor Info](#donor-info)                                                                                                                                          |
-| Duncan Mills    [&darr;](#duncan-mills)                                             | [See Below: Duncan Mills](#duncan-mills)                                                                                                                                      |
-| Dupuytren's contracture                                                             | <https://pubmed.ncbi.nlm.nih.gov/6672504/>                                                                                                                                    |
-| El Camino    [&darr;](#el-camino-car)                                               | <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm                >                                                                                     | 
-| Erica Storm     [&darr;](#erica-storm)                                              | [See Below: Erica Storm](#erica-storm)                                                                                                                                        |
-| Excess Protein                                                                      | <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                          |
-| Fibroscan  [&darr;](#fibroscan)                                                     | [See Below: Fibroscan](#fibroscan)                                                                                                                                            |
-| Filgrastim [&darr;](#filgrastim)                                                    | [See Below: Filgrastim](#filgrastim)                                                                                                                                          |
-| GFR and Aging <a id="g"></a>   [&darr;](#gfr-and-aging)                             | [See Below: GFR and Aging](#gfr-and-aging)                                                                                                                                    |
-| GGT  [&darr;](#ggt)                                                                 | [See Below: GGT](#ggt)                                                                                                                                                        |
-| Gabapentin                                                                          | <https://my.clevelandclinic.org/health/drugs/21561-gabapentin     >                                                                                                           | 
-| Gallbladder  [&darr;](#gallbladder)                                                 | <https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>                                                                          |
-| Gallbladder Cancer  [&darr;](#gallbladder-cancer)                                   | [See Below: Gallbladder Cancer](#gallbladder-cancer )                                                                                                                         |
-| Gougol     [&darr;](#gougol)                                                        | <https://med.stanford.edu/profiles/amir-gougol>                                                                                                                               |
-| Gynecomastia   [&darr;](#gynecomastia)                                              | [See Below: Gynecomastia](#gynecomastia)                                                                                                                                      |
-| HCC GALAD Model  [&darr;](#hcc-galad-model)                                         | <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>                                                                                                  |
-| HE    [&darr;](#he)                                                                 | [See Below: Hepatic Encephalopathy](#he)                                                                                                                                      |
-| HPMV                                                                                | <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv                         >                                                                    |
-| Hypomagnesium  [&darr;](#hypomagnesium)                                             | <https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia>                                                                                                         |
-| IOP <a id="i"></a>  [&darr;](#iop)                                                  | [See Below: Intense Outpatient Program](#iop)                                                                                                                                 | 
-| Immunosuppression    [&darr;](#immunosuppression)                                   | [See Below: Immunosuppression](#immunosuppression)                                                                                                                            |
-| Ketorolac                                                                           | <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882      >                                                            |
-| Kt/V      [&darr;](#ktv)                                                            | [See Below: Kt/V](#ktv)                                                                                                                                                       |
-| LOLA      [&darr;](#lola)                                                           | [See Below: LOLA](#lola)                                                                                                                                                      |
-| Liver Circle   [&darr;](#liver-circle)                                              | <https://www.thelivercircle.org >                                                                                                                                             |
-| Liver Pain                                                                          | <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain  >                                                                                                |
-| LiverSpot.org                                                                       | <https://liverspot.org>                                                                                                                                                       |
-| MELD   <a id="m"></a> [&darr;](#meld)                                               | [See Below: MELD](#meld)                                                                                                                                                      |
-| Medical Marijuana                                                                   | <https://disa.com/marijuana-legality-by-state/>                                                                                                                               | 
-| Multiple Listing    [&darr;](#multiple-listing)                                     | [See Below: Multiple Listing](#multiple-listing)                                                                                                                              |
-| NIVESTYM [&darr;](#nivestym)                                                        | [See Below: NIVESTYM](#nivestym)                                                                                                                                              |
-| Naltrexone                                                                          | <https://www.drugs.com/naltrexone.html>                                                                                                                                       |
-| Neuropathy [&darr;](#neuropathy)                                                    | [See below: Neuropathy](#neuropathy)                                                                                                                                          |
-| Neutropenia  [&darr;](#neutropenia)                                                 | <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>                                                                                                            |
-| Nurse Treats [&darr;](#nurse-treats)                                                | [See below: Nurse Treats](#nurse-treats)                                                                                                                                      |
-| Osmolite                                                                            | <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>                                                                                |
-| Oxycodone                                                                           | <https://medlineplus.gov/druginfo/meds/a682132.html   >                                                                                                                       |
-| PEth  <a id="p"></a> [&darr;](#peth)                                                | [See below: PEth](#peth)                                                                                                                                                      |
-| Paracentesis [&darr;](#paracentesis)                                                | <https://my.clevelandclinic.org/health/procedures/paracentesis>                                                                                                               | 
-| Pink Cloud                                                                          | <https://www.healthline.com/health/pink-cloud>                                                                                                                                |
-| Post-Transplant Relapse  [&darr;](#post-transplant-relapse)                         | [See below: Post-Transplant Relapse](#post-transplant-relapse)                                                                                                                |
-| Recompensated [&darr;](#recompensated)                                              | [See Below: Recompensated](#recompensated)                                                                                                                                    |
-| Recteq                                                                              | <https://www.recteq.com/        >                                                                                                                                             |
+| Topic                                                                            | Link                                                                                                                                                                          |
+|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ACR [&darr;](#acr)                                                               | [See Below: ACR](#acr)                                                                                                                                                        |
+| AFP [&darr;](#afp)                                                               | [See Below: AFP](#afp)                                                                                                                                                        |
+| ALP (Alkaline phosphatase)  [&darr;](#alp)                                       | [See Below: ALP](#alp)                                                                                                                                                        |
+| Acyclovir                                                                        | [See Below: Acyclovir](#acyclovir)                                                                                                                                            |
+| Ammonia Level                                                                    | [See Below: Ammonia Level](#ammonia-level)                                                                                                                                    |
+| Angioplasty                                                                      | <https://my.clevelandclinic.org/health/treatments/22060-angioplasty>                                                                                                          |
+| Atrophy [&darr;](#atrophy)                                                       | [See below: Atrophy](#atrophy)                                                                                                                                                |
+| BUN Test                                                                         | <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>                                                                                          |
+| Bausch PAP  [&darr;](#bausch-pap)                                                | <https://www.bauschhealthpap.com/eligible-medications/    >                                                                                                                   |
+| CMV [&darr;](#cmv)                                                               | [See Below: CMV](#cmv)                                                                                                                                                        |
+| CPMC                                                                             | <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>                                                                                       | 
+| Camino Hospital IOP [&darr;](#mino-hospital-iop)                                 | [See Below: Camino Hospital IOP](#camino-hospital-iop)                                                                                                                        | 
+| Corewell Health   [&darr;](#corewell-health)                                     | [See Below: Corewell Health](#corewell-health)                                                                                                                                |
+| CostPlus  [&darr;](#costplus)                                                    | [See Below: CostPlus](#costplus)                                                                                                                                              |
+| Creatine Test                                                                    | <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>                                                                                              |
+| DXA scan  <a id="d"></a>       [&darr;](#dxa-scan)                               | <https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test         >                                                                            |
+| Diverticulitis   [&darr;](#diverticulitis)                                       | [See Below: Diverticulitis](#diverticulitis)                                                                                                                                  |
+| Donor Info  [&darr;](#donor-info)                                                | [See below: Donor Info](#donor-info)                                                                                                                                          |
+| Duncan Mills    [&darr;](#duncan-mills)                                          | [See Below: Duncan Mills](#duncan-mills)                                                                                                                                      |
+| Dupuytren's contracture                                                          | <https://pubmed.ncbi.nlm.nih.gov/6672504/>                                                                                                                                    |
+| El Camino    [&darr;](#el-camino-car)                                            | <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm                >                                                                                     | 
+| Erica Storm     [&darr;](#erica-storm)                                           | [See Below: Erica Storm](#erica-storm)                                                                                                                                        |
+| Excess Protein                                                                   | <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                          |
+| Fibroscan  [&darr;](#fibroscan)                                                  | [See Below: Fibroscan](#fibroscan)                                                                                                                                            |
+| Filgrastim [&darr;](#filgrastim)                                                 | [See Below: Filgrastim](#filgrastim)                                                                                                                                          |
+| GFR and Aging <a id="g"></a>   [&darr;](#gfr-and-aging)                          | [See Below: GFR and Aging](#gfr-and-aging)                                                                                                                                    |
+| GGT  [&darr;](#ggt)                                                              | [See Below: GGT](#ggt)                                                                                                                                                        |
+| Gabapentin                                                                       | <https://my.clevelandclinic.org/health/drugs/21561-gabapentin     >                                                                                                           | 
+| Gallbladder  [&darr;](#gallbladder)                                              | <https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>                                                                          |
+| Gallbladder Cancer  [&darr;](#gallbladder-cancer)                                | [See Below: Gallbladder Cancer](#gallbladder-cancer )                                                                                                                         |
+| Gougol     [&darr;](#gougol)                                                     | <https://med.stanford.edu/profiles/amir-gougol>                                                                                                                               |
+| Gynecomastia   [&darr;](#gynecomastia)                                           | [See Below: Gynecomastia](#gynecomastia)                                                                                                                                      |
+| HCC GALAD Model  [&darr;](#hcc-galad-model)                                      | <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>                                                                                                  |
+| HE    [&darr;](#he)                                                              | [See Below: Hepatic Encephalopathy](#he)                                                                                                                                      |
+| HPMV                                                                             | <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv                         >                                                                    |
+| Hypomagnesium  [&darr;](#hypomagnesium)                                          | <https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia>                                                                                                         |
+| IOP <a id="i"></a>  [&darr;](#iop)                                               | [See Below: Intense Outpatient Program](#iop)                                                                                                                                 | 
+| Immunosuppression    [&darr;](#immunosuppression)                                | [See Below: Immunosuppression](#immunosuppression)                                                                                                                            |
+| Ketorolac                                                                        | <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882      >                                                            |
+| Kt/V      [&darr;](#ktv)                                                         | [See Below: Kt/V](#ktv)                                                                                                                                                       |
+| LOLA      [&darr;](#lola)                                                        | [See Below: LOLA](#lola)                                                                                                                                                      |
+| Liver Circle   [&darr;](#liver-circle)                                           | <https://www.thelivercircle.org >                                                                                                                                             |
+| Liver Pain                                                                       | <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain  >                                                                                                |
+| LiverSpot.org                                                                    | <https://liverspot.org>                                                                                                                                                       |
+| MELD   <a id="m"></a> [&darr;](#meld)                                            | [See Below: MELD](#meld)                                                                                                                                                      |
+| Medical Marijuana                                                                | <https://disa.com/marijuana-legality-by-state/>                                                                                                                               | 
+| Multiple Listing    [&darr;](#multiple-listing)                                  | [See Below: Multiple Listing](#multiple-listing)                                                                                                                              |
+| NIVESTYM [&darr;](#nivestym)                                                     | [See Below: NIVESTYM](#nivestym)                                                                                                                                              |
+| Naltrexone                                                                       | <https://www.drugs.com/naltrexone.html>                                                                                                                                       |
+| Neuropathy [&darr;](#neuropathy)                                                 | [See below: Neuropathy](#neuropathy)                                                                                                                                          |
+| Neutropenia  [&darr;](#neutropenia)                                              | <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>                                                                                                            |
+| Nurse Treats [&darr;](#nurse-treats)                                             | [See below: Nurse Treats](#nurse-treats)                                                                                                                                      |
+| Osmolite                                                                         | <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>                                                                                |
+| Oxycodone                                                                        | <https://medlineplus.gov/druginfo/meds/a682132.html   >                                                                                                                       |
+| PEth  <a id="p"></a> [&darr;](#peth)                                             | [See below: PEth](#peth)                                                                                                                                                      |
+| Paracentesis [&darr;](#paracentesis)                                             | <https://my.clevelandclinic.org/health/procedures/paracentesis>                                                                                                               | 
+| Pink Cloud                                                                       | <https://www.healthline.com/health/pink-cloud>                                                                                                                                |
+| Post-Transplant Relapse  [&darr;](#post-transplant-relapse)                      | [See below: Post-Transplant Relapse](#post-transplant-relapse)                                                                                                                |
+| Printed Liver [&darr;](#printed-liver)  <a id="a"></a>                           | [Colorado.Edu : Printed Livers](https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past)                                           |
+| Recompensated [&darr;](#recompensated)                                           | [See Below: Recompensated](#recompensated)                                                                                                                                    |
+| Recteq                                                                           | <https://www.recteq.com/        >                                                                                                                                             |
 | Reddit for Transplant Support Study   [&darr;](#reddit-for-transplant-support-study) | [https://journals.lww.com/transplantationdirect](https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx) |
-| Retacrit [&darr;](#retacrit)                                                        | [See Below: Retacrit](#retacrit)                                                                                                                                              |
-| SRTR          [&darr;](#srtr)                                                       | <https://www.srtr.org/                                                                                                                                                        |
-| Safety net                    [&darr;](#safety-net)                                 | [See Below: Safety Net](#safety-net)                                                                                                                                          |
-| Scar Tissue [&darr;](#scar-tissue)                                                  | [See Below: Scar Tissue](#scar-tissue)                                                                                                                                        |
-| Skin Cancer Risk           [&darr;](#skin-cancer-risk)                              | <https://www.ucsfhealth.org/education/organ-transplant-and-skin-cancer-risk>                                                                                                  | 
-| St. Mary's                                                                          | <https://saintmarysreno.com    >                                                                                                                                              |
-| TIPS   <a id="t"></a>                        [&darr;](#tips)                        | [See Below: TIPS](#tips)                                                                                                                                                      |
-| Tacrolimus Skin Cancer[&darr;](#tacrolimus-skin-cancer)                             | <https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext>                                                                                                        
-| Tacrolimus vs. CellCept          [&darr;](#tacrolimus-vs-cellcept)                  | <https://www.amjtransplant.org/article/S1600-6135(22)03862-X/fulltext>                                                                                                        |
-| Tacrolimus-induced Ascites                                                          | <https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/>                                                                                                                           |
-| Tattoos  [&darr;](#tattoos)                                                         | [See Below: Tattoos](#tattoos)                                                                                                                                                |
-| Thoracentesis [&darr;](#thoracentesis)                                              | [See Below: Thoracentesis](#thoracentesis)                                                                                                                                    |
-| Topical Tacrolimus                                                                  | <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159>                                                                              |
-| Tramadol                                                                            | 	<https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050  >                                                                                |
-| Transplant Age [&darr;](#transplant-age)                                            | [See below: Transplant Age](#transplant-age)                                                                                                                                  |
-| Transplant Games            [&darr;](#transplant-games)                             | <https://www.transplantgamesofamerica.org  >                                                                                                                                  |
-| Transplant Survival Benefit            [&darr;](#transplant-survival-benefit)       | [See below: Transplant Survival Benefit](#transplant-survival-benefit)                                                                                                        |
-| Tumeric                                                                             | <https://www.ynhhs.org/articles/supplements-liver-damage >                                                                                                                    |
-| UNOS Regions                                                                        | <https://www.hrsa.gov/optn/about/governance/regions>                                                                                                                          |
-| Umbilical Hernia                                                                    | <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>                                                                                                             |
-| Valcyte <a id="v"></a> [&darr;](#valcyte)                                           | [See Below: Valcyte](#valcyte)                                                                                                                                                |
-| Vivitrol  [&darr;](#vivitrol)                                                       | [See Below: Vivitrol](#vivitrol)                                                                                                                                              | 
-| XIAFLEX                                                                             | <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>                                                                                                           |
-| Xifaxan                      [&darr;](#xifaxan)                                     | <https://www.rxconnected.com/drug/xifaxan >                                                                                                                                   |
+| Retacrit [&darr;](#retacrit)                                                     | [See Below: Retacrit](#retacrit)                                                                                                                                              |
+| SRTR          [&darr;](#srtr)                                                    | <https://www.srtr.org/                                                                                                                                                        |
+| Safety net                    [&darr;](#safety-net)                              | [See Below: Safety Net](#safety-net)                                                                                                                                          |
+| Scar Tissue [&darr;](#scar-tissue)                                               | [See Below: Scar Tissue](#scar-tissue)                                                                                                                                        |
+| Skin Cancer Risk           [&darr;](#skin-cancer-risk)                           | <https://www.ucsfhealth.org/education/organ-transplant-and-skin-cancer-risk>                                                                                                  | 
+| St. Mary's                                                                       | <https://saintmarysreno.com    >                                                                                                                                              |
+| TIPS   <a id="t"></a>                        [&darr;](#tips)                     | [See Below: TIPS](#tips)                                                                                                                                                      |
+| Tacrolimus Skin Cancer[&darr;](#tacrolimus-skin-cancer)                          | <https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext>                                                                                                        
+| Tacrolimus vs. CellCept          [&darr;](#tacrolimus-vs-cellcept)               | <https://www.amjtransplant.org/article/S1600-6135(22)03862-X/fulltext>                                                                                                        |
+| Tacrolimus-induced Ascites                                                       | <https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/>                                                                                                                           |
+| Tattoos  [&darr;](#tattoos)                                                      | [See Below: Tattoos](#tattoos)                                                                                                                                                |
+| Thoracentesis [&darr;](#thoracentesis)                                           | [See Below: Thoracentesis](#thoracentesis)                                                                                                                                    |
+| Topical Tacrolimus                                                               | <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159>                                                                              |
+| Tramadol                                                                         | 	<https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050  >                                                                                |
+| Transplant Age [&darr;](#transplant-age)                                         | [See below: Transplant Age](#transplant-age)                                                                                                                                  |
+| Transplant Games            [&darr;](#transplant-games)                          | <https://www.transplantgamesofamerica.org  >                                                                                                                                  |
+| Transplant Survival Benefit            [&darr;](#transplant-survival-benefit)    | [See below: Transplant Survival Benefit](#transplant-survival-benefit)                                                                                                        |
+| Tumeric                                                                          | <https://www.ynhhs.org/articles/supplements-liver-damage >                                                                                                                    |
+| UNOS Regions                                                                     | <https://www.hrsa.gov/optn/about/governance/regions>                                                                                                                          |
+| Umbilical Hernia                                                                 | <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>                                                                                                             |
+| Valcyte <a id="v"></a> [&darr;](#valcyte)                                        | [See Below: Valcyte](#valcyte)                                                                                                                                                |
+| Vivitrol  [&darr;](#vivitrol)                                                    | [See Below: Vivitrol](#vivitrol)                                                                                                                                              | 
+| XIAFLEX                                                                          | <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>                                                                                                           |
+| Xifaxan                      [&darr;](#xifaxan)                                  | <https://www.rxconnected.com/drug/xifaxan >                                                                                                                                   |
 
 
 
@@ -184,11 +183,7 @@ The following contains topics that have been brought up during discussions relat
 {% endcomment %}
 
 
-### 3-D Printed Liver
 
-Could 3D-printed livers make transplant lists a thing of the past?
-
-<https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past>
 
 ### ACR
 
@@ -684,6 +679,12 @@ Paracentesis is the process of draining water from the abdominal cavity. A long 
 * [1] <https://pmc.ncbi.nlm.nih.gov/articles/PMC10934278/>
 
 «The prevalence rate of alcohol relapse in liver transplant patients with ALD varies across studies. Reported post-transplant alcohol relapse rates in recipients with ALD range from 15% to 50% [5].» — [1]
+
+### Printed Liver
+
+Could 3D-printed livers make transplant lists a thing of the past?
+
+<https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past>
 
 ### Recompensated
 
