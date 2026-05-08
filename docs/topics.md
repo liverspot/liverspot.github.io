@@ -36,7 +36,7 @@ h3 {
 }
 
   #\33 -d-printed-liver, /*Nasty Escape*/
-  #afp, #bausch-pap, #cmv, #dsa, #el-camino-car, #filgrastim, #gfr-and-aging, #hcc-galad-model, #iop, #liver-circle, #meld, #naltrexone, #peth, #recompensated, #safety-net,  #tips, #valcyte, #xifaxan  {
+  #afp, #bausch-pap, #cmv, #dsa, #esld, #filgrastim, #gfr-and-aging, #hcc-galad-model, #iop, #lola, #meld, #naltrexone, #peth, #recompensated, #safety-net,  #tips, #valcyte, #xifaxan  {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
@@ -370,6 +370,11 @@ Dysphagia is an inability to swallow properly. Food and liquids orally taken can
 
 * [1] <https://www.mayoclinic.org/diseases-conditions/dysphagia/symptoms-causes/syc-20372028>
 
+### ESLD
+End-Stage Liver Disease (ESLD) is when the liver is damaged beyond repair due to chronic liver disease or acute liver failure.
+
+* <https://www.nhsbt.nhs.uk/organ-transplantation/liver/is-a-liver-transplant-right-for-you/end-stage-liver-disease/>
+
 ### El Camino [Car]
 
 * <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm>
@@ -399,6 +404,10 @@ Dysphagia is an inability to swallow properly. Food and liquids orally taken can
 
 «This paper discusses the known effects of ageing on GFR and the consequences of using a classification system for defining CKD that does not take into account the normal decline of GFR with ageing» — [1]
 
+### GGT
+
+«A gamma-glutamyl transferase (GGT) test measures the amount of GGT in your blood GGT is an enzyme. Enzymes are proteins that speed up certain chemical reactions in your body. Thousands of enzymes play an important role in all of your body functions. The GGT enzyme is found throughout your body, but it is mainly found in your liver.» — <https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/>
+
 ### Gallbladder
 
 « gallbladder attached to the donor liver will be detached to ensure that it does not cause problems with your new liver, and your gallbladder will also be removed. » — [1]
@@ -413,9 +422,6 @@ Dysphagia is an inability to swallow properly. Food and liquids orally taken can
 
 * [1] <https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/>
 
-### GGT
-
-«A gamma-glutamyl transferase (GGT) test measures the amount of GGT in your blood GGT is an enzyme. Enzymes are proteins that speed up certain chemical reactions in your body. Thousands of enzymes play an important role in all of your body functions. The GGT enzyme is found throughout your body, but it is mainly found in your liver.» — <https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/>
 
 ### Gougol
 
@@ -477,14 +483,6 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 
 
 
-
-### Liver Circle
-Imagine a world where a liver disease diagnosis isn't a dead end, but a new beginning. Where the fear of a "transplant" is replaced by the power of knowledge and a supportive community.
-
-This is the world The Liver Circle, Inc. (TLC) is building.  We're more than an organization; we're a vital connection for patients, advocates, and medical professionals. We elevate the conversation around liver health and organ donation from the ordinary to the extraordinary, ensuring no one faces this journey alone.
-
-<https://www.thelivercircle.org>
-
 ### LOLA
 
 L‐ornithine‐L‐aspartate for hepatic encephalopathy
@@ -500,6 +498,14 @@ L‐ornithine‐L‐aspartate for hepatic encephalopathy
 «Results: A total of 12 articles were ultimately included, involving 858 patients, with 433 in the treatment group and 425 in the control group. Meta-analysis results: In terms of the total effective rate (RR: 1.31, 95%CI: 1.22, 1.42), the result is statistically significant (Z = 7.15, P = 0.00001 < 0.05), and for AST, ALT, NH3, TBIL, P = 0.00001 < 0.05. The pooled (RR: 1.31 [95% CI = 1.22, 1.42]), which is statistically significant, LOLA and Lactulose is 31% more effective than Lactulose alone in the control group in treating HE.» — [2]
 
 LOLA is not FDA approved for HE at all, although it wouldn't really be possible to prevent oral administration using foreign dispensaries.  It appears that the studies have been viewed as very weak and the usage of LOLA is always in addition to Lactulose (alone) or with Rifaximin.  So it is unclear what the benefits are if you are on L+R (which is FDA approved).
+
+### Liver Circle
+Imagine a world where a liver disease diagnosis isn't a dead end, but a new beginning. Where the fear of a "transplant" is replaced by the power of knowledge and a supportive community.
+
+This is the world The Liver Circle, Inc. (TLC) is building.  We're more than an organization; we're a vital connection for patients, advocates, and medical professionals. We elevate the conversation around liver health and organ donation from the ordinary to the extraordinary, ensuring no one faces this journey alone.
+
+<https://www.thelivercircle.org>
+
 
 ### MELD
 
