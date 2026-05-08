@@ -554,7 +554,7 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 ### Kt/V
 The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo or peritoneal)
 
-* [1] <‍https://en.wikipedia.org/wiki/Kt/V‍>
+* [1] <https://en.wikipedia.org/wiki/Kt/V>
 * [2] <https://www.sciencedirect.com/topics/medicine-and-dentistry/kt-v>
 * [3] <https://pubmed.ncbi.nlm.nih.gov/18617306/>
 * [4] <https://advancingdialysis.org/standardized-kt-v-home-hemodialysis-matter/>
