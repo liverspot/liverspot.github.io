@@ -36,7 +36,7 @@ h3 {
 }
 
   #\33 -d-printed-liver, /*Nasty Escape*/
-  #afp, #bausch-pap, #camino-hospital-iop, #dxa-scan, #el-camino-car, #filgrastim, #gfr-and-aging, #hcc-galad-model, #iop, #liver-circle, #meld, #naltrexone, #peth, #recompensated, #safety-net,  #tips, #valcyte, #xifaxan  {
+  #afp, #bausch-pap, #cmv, #dsa, #el-camino-car, #filgrastim, #gfr-and-aging, #hcc-galad-model, #iop, #liver-circle, #meld, #naltrexone, #peth, #recompensated, #safety-net,  #tips, #valcyte, #xifaxan  {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
@@ -178,6 +178,7 @@ Acute cellular rejection
 ### AFP
 
 * [1] <https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/>
+* [2] <https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&contentid=alpha_fetoprotein_tumor_marker>
 
 «An AFP tumor marker test is a blood test that measures the level of AFP (alpha-fetoprotein) in a sample of your blood. It's usually used to help diagnose certain types of cancer and to check how well treatment is working.» —  [1]
 
@@ -202,6 +203,26 @@ Acute cellular rejection
 
 «A blood ammonia level of 200 micromol /L is associated with coma and convulsions.» — [1]
 
+### Albumin
+«Albumin is responsible for transporting vitamins, enzymes and hormones throughout your body. Albumin makes up 50% of the proteins found in your plasma. When your albumin levels are low, hormones and other important compounds aren’t able to get to where they need to go in your body to fulfill their duties.» — [2]
+
+* [1] <https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia>
+* [2] <https://www.dairbook.com/glossary/albumin>
+
+### Ascites
+«Ascites is the accumulation of water in the abdomen, commonly due to leakage from the liver’s portal vein. Ascites adds significant body weight as the water accumulates, making movement more difficult. It also pushes on internal organs, and this compression can affect ability to breath, eat, and other body activities.» — [3]
+
+* [1] <https://en.wikipedia.org/wiki/Ascites>
+* [2] <https://britishlivertrust.org.uk/what-is-ascites/>
+* [3] <https://www.dairbook.com/glossary/ascites>
+
+### Asterixis
+«Asterixis is an inability to maintain sustained posture, commonly causing hands to flap when the wrist is extended. It is a symptom of hepatic encephalopathy and is why a doctor may ask a patient to hold out their hands.» — [3]
+
+* [1] <https://en.wikipedia.org/wiki/Asterixis>
+* [2] <https://www.osmosis.org/answers/asterixis>
+* [3] <https://www.dairbook.com/glossary/asterixis>
+
 ### Atrophy
 
 * [1] <https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx>
@@ -220,18 +241,22 @@ What it is: A program that provides Xifaxan at no cost for up to one year for el
 
 * <https://www.bauschhealthpap.com/globalassets/pi/xifaxan550-pi.pdf>
 
+### Bilirubin
+«Bilirubin is a yellowish substance made during your body's normal process of breaking down old red blood cells. Bilirubin is found in bile, a fluid your liver makes that helps you digest food. If your liver is healthy, it will remove most of the bilirubin from your body.» — [1]
 
-### Camino Hospital IOP
+* [1] <https://medlineplus.gov/lab-tests/bilirubin-blood-test/>
+* [2] <https://www.dairbook.com/glossary/bilirubin>
 
-The Scrivner Center for Mental Health & Addiction Services’ evening outpatient Addiction Services Program offers expert care and support for adults seeking help for a substance-use disorder or chemical dependency.
+### BK Virus
+«The BK virus is a virus that most people get in childhood. Symptoms can feel like a common cold. Once you get a BK virus infection, the virus stays in your system for good but in an inactive state.
 
-* <https://www.elcaminohealth.org/services/mental-health/specialty-programs/addiction-services>
+When you take anti-rejection medications due to an organ transplant, the BK Virus can become active to the point that it will damage kidneys.» — [3]
+
+* [1] <https://www.kidney.org/atoz/content/bk-virus-what-transplant-patients-need-know>
+* [2] <https://en.wikipedia.org/wiki/BK_virus>
+* [3] <https://www.dairbook.com/glossary/bk-virus>
 
 ### CMV
-
- * [1] Mayo Clini — <https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358>
- * [2] Autoimmune Impacts: <https://pubmed.ncbi.nlm.nih.gov/33567734/>
- * [3] <https://en.wikipedia.org/wiki/Human_cytomegalovirus>
 
 «A cytomegalovirus (CMV) infection is a condition caused by a common virus. The CMV virus stays in the body for life after infection.
 
@@ -239,9 +264,31 @@ The Scrivner Center for Mental Health & Addiction Services’ evening outpatient
 
 For people who have weakened immune systems, CMV infection can be fatal. The risk is especially high for people who've had an organ, stem cell or bone marrow transplant.» — [1]
 
+* [1] Mayo Clinic — <https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358>
+* [2] Autoimmune Impacts: <https://pubmed.ncbi.nlm.nih.gov/33567734/>
+* [3] <https://en.wikipedia.org/wiki/Human_cytomegalovirus>
+
 
 #### Alternate name
 «Human cytomegalovirus (HCMV), also called human herpesvirus 5 (HHV-5), is a species of virus in the genus Cytomegalovirus» — [3]
+
+### CPMC
+California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
+
+### Camino Hospital IOP
+
+«The Scrivner Center for Mental Health & Addiction Services’ evening outpatient Addiction Services Program offers expert care and support for adults seeking help for a substance-use disorder or chemical dependency.» — [1]
+
+* [1] <https://www.elcaminohealth.org/services/mental-health/specialty-programs/addiction-services>
+
+### Cirrhosis
+«Cirrhosis is a condition in which your liver is scarred and permanently damaged. Scar tissue replaces healthy liver tissue and prevents your liver from working normally. As cirrhosis gets worse, your liver begins to fail.» — [5]
+
+* [1] <https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis>
+* [2] <https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487>
+* [3] <https://en.wikipedia.org/wiki/Cirrhosis>
+* [4] <https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=aa67653>
+* [5] <https://www.dairbook.com/glossary/cirrhosis>
 
 ### Corewell Health
 
@@ -256,14 +303,38 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 
 « We started Mark Cuban Cost Plus Drug Company because every American should have access to safe, affordable medicines. If you don’t have insurance or have a high deductible plan, you know that even the most basic medications can cost a fortune. Many people are spending crazy amounts of money each month just to stay healthy. No American should have to suffer—or worse—because they can’t afford basic prescription medications» — <https://www.costplusdrugs.com/>
 
-### CPMC
-California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
+### Creatinine
+«Creatinine is the waste byproduct of the muscles processing energy from creatine. Properly functioning kidneys remove creatinine from the blood supply.» — [2]
+
+* [1] <https://www.mountsinai.org/health-library/tests/creatinine-blood-test>
+* [2] <https://www.dairbook.com/glossary/creatinine>
+
+### DSA
+A Donor Service Area (DSA) is a smaller portion of a UNOS Region in which organs can be transported successfully.
+
+* [1] https://www.organdonationalliance.org/glossary/dsa/
 
 ### DXA scan
 
 A DXA scan is an imaging test that measures the strength of your bones. It uses X-rays to measure your bone density. DXA is an abbreviation for dual-energy X-ray absorptiometry.
 
 <https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test>
+
+### Decompensated Cirrhosis
+«Decompensated cirrhosis is defined as an acute deterioration in liver function in a patient with cirrhosis and is characterized by jaundice, ascites, hepatic encephalopathy, hepatorenal syndrome or variceal haemorrhage.
+
+Liver damage and severe scarring can progress to the point where the liver can no longer function properly and the patient will begin to experience more severe symptoms. Liver function will continue to decrease with the patient being more at risk for more severe complications like internal bleeding, liver cancer and liver failure and the need for liver transplant.» — [3]
+
+* [1] <https://www.hepmag.com/blog/compensated-decompensated-cirrhosis>
+* [2] <https://www.hepatitis.va.gov/cirrhosis/patient/decompensated.asp>
+* [3] <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334027/>
+
+### Dialysis
+«Dialysis functions as a very effective but partial replacement for the processes of the kidneys. The main capability is the removal of waste products (e.g. see Creatinine above) from the blood supply. A secondary capability is the removal of water from the blood supply, and through that, from areas water is over-accumulating.» — [3]
+
+* [1] <https://www.nhs.uk/conditions/dialysis/>
+* [2] <https://www.kidney.org/atoz/content/dialysisinfo>
+* [3] <https://www.dairbook.com/glossary/dialysis>
 
 ### Diverticulitis
 
@@ -280,6 +351,13 @@ When these pouches become inflamed, the condition is called diverticulitis. Infl
 * <https://patient.uwhealth.org/education/writing-your-donor-family>
 * <https://caringconnectionsneds.org>
 
+### Drug Regimen
+«A drug regimen describes the specific instructions and schedule for administering one or more drugs to a patient. It includes factors such as drug dosage, frequency, route of administration, and duration of treatment.» — [2]
+
+* [1] <https://www.jove.com/science-education/14419/drug-dosage-regimen-overview>
+* [2] <https://www.dairbook.com/glossary/drug-regimen>
+
+
 ### Duncan Mills
 
 * <https://duncansmillsvillage.com>
@@ -287,12 +365,22 @@ When these pouches become inflamed, the condition is called diverticulitis. Infl
 
 
 
+### Dysphagia
+Dysphagia is an inability to swallow properly. Food and liquids orally taken can be aspirated (inhaled) and cause pneumonia and other illness.
+
+* [1] <https://www.mayoclinic.org/diseases-conditions/dysphagia/symptoms-causes/syc-20372028>
 
 ### El Camino [Car]
 
 * <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm>
 * <https://bringatrailer.com/wp-content/uploads/2020/10/1969_chevrolet_el_camino_1610759018e4004ffa83572fda1IMG_3657.jpg?w=1790>
 
+### Encephalopathy
+«Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (about the brain) and ‘pathos’ (disease). Depending on severity encephalopathy can show up as symptoms from headaches to coma. Hepatic encephalopathy (HE) is caused by liver problems and accumulated toxins in the blood.» — [3]
+
+* [1] <https://my.clevelandclinic.org/health/diseases/encephalopathy>
+* [2] <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
+* [3] <https://www.dairbook.com/glossary/encephalopathy>
 
 ### Erica Storm
 
