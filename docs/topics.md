@@ -26,21 +26,21 @@ permalink: /topics/
     table tr:nth-child(38),  /*I*/
     table tr:nth-child(38),  /*J*/
     table tr:nth-child(40),  /*K*/
-    table tr:nth-child(41),  /*L*/
-    table tr:nth-child(45),  /*M*/
-    table tr:nth-child(48),  /*N*/
-    table tr:nth-child(53),  /*O*/
-    table tr:nth-child(55),  /*P*/
-    table tr:nth-child(55),  /*Q*/
-    table tr:nth-child(59),  /*R*/
-    table tr:nth-child(63),  /*S*/
-    table tr:nth-child(68), /*T*/
-    table tr:nth-child(80), /*U*/
-    table tr:nth-child(82), /*V*/
-    table tr:nth-child(82), /*W*/
-    table tr:nth-child(84), /*X*/
-    table tr:nth-child(82), /*Y*/
-    table tr:nth-child(82) /*Z*/
+    table tr:nth-child(42),  /*L*/
+    table tr:nth-child(46),  /*M*/
+    table tr:nth-child(49),  /*N*/
+    table tr:nth-child(54),  /*O*/
+    table tr:nth-child(56),  /*P*/
+    table tr:nth-child(56),  /*Q*/
+    table tr:nth-child(60),  /*R*/
+    table tr:nth-child(64),  /*S*/
+    table tr:nth-child(69), /*T*/
+    table tr:nth-child(81), /*U*/
+    table tr:nth-child(83), /*V*/
+    table tr:nth-child(83), /*W*/
+    table tr:nth-child(85), /*X*/
+    table tr:nth-child(85), /*Y*/
+    table tr:nth-child(85) /*Z*/
    {   
     color: #2e6da4;
     font-weight: bold;
@@ -109,7 +109,7 @@ The following contains topics that have been brought up during discussions relat
 | El Camino    [&darr;](#el-camino-car)                                                | <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm                >                                                                                      | 
 | Erica Storm     [&darr;](#erica-storm)                                               | [See Below: Erica Storm](#erica-storm)                                                                                                                                         |
 | Excess Protein                                                                       | <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                           |
-| Fibroscan  [&darr;](#fibroscan)                                                      | [See Below: Fibroscan](#fibroscan)                                                                                            |
+| Fibroscan  [&darr;](#fibroscan)                                                      | [See Below: Fibroscan](#fibroscan)                                                                                                                                             |
 | Filgrastim [&darr;](#filgrastim)                                                     | [See Below: Filgrastim](#filgrastim)                                                                                                                                           |
 | GFR and Aging <a id="g"></a>   [&darr;](#gfr-and-aging)                              | [See Below: GFR and Aging](#gfr-and-aging)                                                                                                                                     |
 | GGT  [&darr;](#ggt)                                                                  | [See Below: GGT](#ggt)                                                                                                                                                         |
@@ -125,6 +125,7 @@ The following contains topics that have been brought up during discussions relat
 | IOP <a id="i"></a>  [&darr;](#iop)                                                   | [See Below: Intense Outpatient Program](#iop)                                                                                                                                  | 
 | Immunosuppression    [&darr;](#immunosuppression)                                    | [See Below: Immunosuppression](#immunosuppression)                                                                                                                             |
 | Ketorolac                                                                            | <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882      >                                                             |
+| Kt/V      [&darr;](#kt-v)                                                            | [See Below: Kt/V](#kt-v)                                                                                                                                                       |
 | LOLA      [&darr;](#lola)                                                            | [See Below: LOLA](#lola)                                                                                                                                                       |
 | Liver Circle   [&darr;](#liver-circle)                                               | <https://www.thelivercircle.org >                                                                                                                                              |
 | Liver Pain                                                                           | <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain  >                                                                                                 |
@@ -550,7 +551,13 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 
 * <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
 
+### Kt/V
+The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo or peritoneal)
 
+* [1] <‍https://en.wikipedia.org/wiki/Kt/V‍>
+* [2] <https://www.sciencedirect.com/topics/medicine-and-dentistry/kt-v>
+* [3] <https://pubmed.ncbi.nlm.nih.gov/18617306/>
+* [4] <https://advancingdialysis.org/standardized-kt-v-home-hemodialysis-matter/>
 
 ### LOLA
 
