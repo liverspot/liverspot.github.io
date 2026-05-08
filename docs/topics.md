@@ -59,7 +59,7 @@ h3 {
 }
 
   #\33 -d-printed-liver, /*Nasty Escape*/
-  #afp, #bausch-pap, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #iop, #lola, #meld, #naltrexone, #peth, #recompensated, #safety-net,  #tips, #valcyte, #xifaxan  {
+  #acr, #bausch-pap, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #iop, #lola, #meld, #naltrexone, #peth, #recompensated, #safety-net,  #tips, #valcyte, #xifaxan  {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
