@@ -36,7 +36,7 @@ h3 {
 }
 
   #\33 -d-printed-liver, /*Nasty Escape*/
-  #afp, #bausch-pap, #cmv, #dsa, #esld, #filgrastim, #gfr-and-aging, #hcc-galad-model, #iop, #lola, #meld, #naltrexone, #peth, #recompensated, #safety-net,  #tips, #valcyte, #xifaxan  {
+  #afp, #bausch-pap, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #iop, #lola, #meld, #naltrexone, #peth, #recompensated, #safety-net,  #tips, #valcyte, #xifaxan  {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
@@ -85,7 +85,7 @@ The following contains topics that have been brought up during discussions relat
 | El Camino    [&darr;](#el-camino-car)                                                | <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm                >                                                                                      | 
 | Erica Storm     [&darr;](#erica-storm)                                               | [See Below: Erica Storm](#erica-storm)                                                                                                                                         |
 | Excess Protein                                                                       | <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                           |
-| Fibroscan                                                                            | <https://www.mskcc.org/cancer-care/patient-education/understanding-your-fibroscan-results>                                                                                     |
+| Fibroscan  [&darr;](#fibroscan)                                                      | [See Below: Fibroscan](#fibroscan)                                                                                            |
 | Filgrastim [&darr;](#filgrastim)                                                     | [See Below: Filgrastim](#filgrastim)                                                                                                                                           |
 | GFR and Aging <a id="g"></a>   [&darr;](#gfr-and-aging)                              | [See Below: GFR and Aging](#gfr-and-aging)                                                                                                                                     |
 | GGT  [&darr;](#ggt)                                                                  | [See Below: GGT](#ggt)                                                                                                                                                         |
@@ -375,10 +375,23 @@ End-Stage Liver Disease (ESLD) is when the liver is damaged beyond repair due to
 
 * <https://www.nhsbt.nhs.uk/organ-transplantation/liver/is-a-liver-transplant-right-for-you/end-stage-liver-disease/>
 
+### Edema
+Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tissues. Edema can affect any part of the body. But it's more likely to show up in the legs and feet.
+
+* [1] <https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493>
+* [2] <https://en.wikipedia.org/wiki/Edema>
+
 ### El Camino [Car]
 
 * <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm>
 * <https://bringatrailer.com/wp-content/uploads/2020/10/1969_chevrolet_el_camino_1610759018e4004ffa83572fda1IMG_3657.jpg?w=1790>
+
+### Encephalitis
+«Encephalitis is swelling of the brain. Frequently also used as an easier to pronounce version of encephalopathy by laymen, myself included.» — [4]
+* [1] <https://www.ninds.nih.gov/health-information/disorders/encephalitis>
+* [2] <https://www.mayoclinic.org/diseases-conditions/encephalitis/symptoms-causes/syc-20356136>
+* [3] <https://en.wikipedia.org/wiki/Encephalitis>
+* [4] <https://www.dairbook.com/glossary/encephalitis>
 
 ### Encephalopathy
 «Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (about the brain) and ‘pathos’ (disease). Depending on severity encephalopathy can show up as symptoms from headaches to coma. Hepatic encephalopathy (HE) is caused by liver problems and accumulated toxins in the blood.» — [3]
@@ -391,12 +404,38 @@ End-Stage Liver Disease (ESLD) is when the liver is damaged beyond repair due to
 
 * <https://www.linkedin.com/in/erica-storm-787597159/>
 
+### Esophageal Varices
+Esophageal varices are enlarged veins in the esophagus, the tube that connects the throat and stomach. Esophageal varices most often happen in people with serious liver diseases.
+
+* [1] <https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538>
+
+### FIB-4
+Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarring in HCV and HBV patients, to assess need for biopsy.
+
+«We use FIB-4 as an initial assessment. In chronic HCV, when combined with APRI, it has excellent negative predictive value for excluding advanced fibrosis. The positive predictive value is less clear.  Those with FIB-4 >1.5 and/or APRI >0.5 often go on to liver elastography.» — [1]
+
+* [1] <https://www.mdcalc.com/calc/2200/fibrosis-4-fib-4-index-liver-fibrosis>
+
+### Fibroscan
+«FibroScan is a special ultrasound technology that measures liver stiffness (hardness) and fatty changes in your liver. These measurements help your healthcare provider learn more about your liver disease» — [1]
+
+* [1] <https://www.mskcc.org/cancer-care/patient-education/understanding-your-fibroscan-results
+* [2] <https://agcosprings.com/procedures/fibroscan/
+* [3] <https://tawazunhealth.com/fibrosscan-stiffness-results/
+* [4] <https://tawazunhealth.com/wp-content/uploads/2021/03/Wbe-Stiffness-2021.png
 
 ### Filgrastim
 
 «Filgrastim injection is used to treat neutropenia (low white blood cells) that is caused by cancer medicines. It is a synthetic (man-made) form of a substance that is naturally produced in your body called a colony stimulating factor. Filgrastim helps the bone marrow to make new white blood cells. » — <https://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547>
 
 * <https://www.mayoclinic.org/drugs-supplements/filgrastim-aafi-intravenous-route-subcutaneous-route/description/drg-20443903>
+
+### Fistula
+«An Arteriovenous (AV) fistula is a direct connection between an artery and a vein. Normal blood flow goes from arteries through capillaries and then into veins. The fistula’s direct connection causes much more blood flow into a vein. Surgically creating a fistula in a chronic hemodialysis patient enables more effective and safer treatment compared to using a central venous catheter.» — [3]
+
+* [1] <https://www.yalemedicine.org/conditions/preparing-dialysis-av-fistula>
+* [2] <https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567>
+* [3] <https://www.dairbook.com/glossary/fistula>
 
 ### GFR and Aging
 
@@ -407,6 +446,12 @@ End-Stage Liver Disease (ESLD) is when the liver is damaged beyond repair due to
 ### GGT
 
 «A gamma-glutamyl transferase (GGT) test measures the amount of GGT in your blood GGT is an enzyme. Enzymes are proteins that speed up certain chemical reactions in your body. Thousands of enzymes play an important role in all of your body functions. The GGT enzyme is found throughout your body, but it is mainly found in your liver.» — <https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/>
+
+### Gabapentin
+«Gabapentin works in the brain to prevent seizures and relieve pain for certain conditions in the nervous system. It can also be used for controlling the effects of neuropathy.» — [2]
+
+* [1] <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452908/>
+* [2] <https://www.mayoclinic.org/drugs-supplements/gabapentin-oral-route/description/drg-20064011>
 
 ### Gallbladder
 
