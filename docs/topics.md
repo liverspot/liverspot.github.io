@@ -59,7 +59,7 @@ h3 {
 }
 
   #\33 -d-printed-liver, /*Nasty Escape*/
-  #acr, #bausch-pap, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #inr, #ktv, #lola, #meld, #nash, #optn, #peth, #recompensated, #srtr,  #tace, #unos, #valcyte, #xifaxan  {
+  #acr, #bausch-pap, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #inr, #j-tube, #ktv, #lola, #meld, #nash, #optn, #peth, #recompensated, #srtr,  #tace, #unos, #valcyte, #xifaxan  {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
@@ -635,11 +635,20 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 * [1]&nbsp;<https://www.healthline.com/health/liver-disease-and-itching>
 * [2]&nbsp;<https://www.dairbook.com/glossary/itching>
 
+
+### J-Tube
+A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to your duodenum (small intestine). It is used to deliver food and medicines to people who are incapable of orally consuming them.
+
+* [1]&nbsp;<https://starship.org.nz/guidelines/gastrostomy-transgastric-jejunal-jejunal-tube-care/>
+* [2]&nbsp;<https://medlineplus.gov/ency/patientinstructions/000181.htm>
+* [3]&nbsp;<https://www.chop.edu/treatments/jejunostomy-tubes>
+
 ### Jaundice
 
 «Jaundice is a yellow color of the skin, mucus membranes, or eyes. The yellow coloring comes from bilirubin, a byproduct of old red blood cells. Jaundice can be a symptom of several health problems.»
 
 * [1]&nbsp;<https://medlineplus.gov/ency/article/000210.htm>
+
 
 ### Kt/V
 The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo or peritoneal)
@@ -648,13 +657,6 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 * [2]&nbsp;<https://www.sciencedirect.com/topics/medicine-and-dentistry/kt-v>
 * [3]&nbsp;<https://pubmed.ncbi.nlm.nih.gov/18617306/>
 * [4]&nbsp;<https://advancingdialysis.org/standardized-kt-v-home-hemodialysis-matter/>
-
-### J-Tube
-A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to your duodenum (small intestine). It is used to deliver food and medicines to people who are incapable of orally consuming them.
-
-* [1]&nbsp;<https://starship.org.nz/guidelines/gastrostomy-transgastric-jejunal-jejunal-tube-care/>
-* [2]&nbsp;<https://medlineplus.gov/ency/patientinstructions/000181.htm>
-* [3]&nbsp;<https://www.chop.edu/treatments/jejunostomy-tubes>
 
 
 ### LOLA
@@ -756,7 +758,7 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 ### Neuropathy
 Peripheral neuropathy happens when the nerves that are located outside of the brain and spinal cord (peripheral nerves) are damaged.
 
-<https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/symptoms-causes/syc-20352061>
+* <https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/symptoms-causes/syc-20352061>
 
 ### Neutropenia
 
@@ -836,7 +838,7 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 
 Could 3D-printed livers make transplant lists a thing of the past?
 
-<https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past>
+* <https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past>
 
 ### Recompensated
 
@@ -856,7 +858,7 @@ Could 3D-printed livers make transplant lists a thing of the past?
 * [1]&nbsp;<https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx>
 
 
-### retacrit
+### Retacrit
 
 * [1]&nbsp;<https://retacrit.pfizerpro.com>
 * [2]&nbsp;<https://www.healio.com/clinical-guidance/drugs/retacrit>
