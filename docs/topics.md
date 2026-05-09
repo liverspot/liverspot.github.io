@@ -59,7 +59,7 @@ h3 {
 }
 
   #\33 -d-printed-liver, /*Nasty Escape*/
-  #acr, #bausch-pap, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #inr, #ktv, #lola, #meld, #nash, #optn, #peth, #recompensated, #srtr,  #tace, #valcyte, #xifaxan  {
+  #acr, #bausch-pap, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #inr, #ktv, #lola, #meld, #nash, #optn, #peth, #recompensated, #srtr,  #tace, #unos, #valcyte, #xifaxan  {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
@@ -914,6 +914,17 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S160061352203550X-gr3_lrg.jpg"> — [2]
 
+### UNOS
+«United Network for Organ Sharing (UNOS) manages the transplant system for the United States.» — [2]
+
+* [1] <https://unos.org>
+* [2] <https://www.dairbook.com/glossary/unos>
+
+### Ursodiol
+Ursodiol is a bile thinner that helps your body recover from the removal of the gallbladder.
+
+* [1] <https://medlineplus.gov/druginfo/meds/a699047.html>
+
 ### Valcyte
 
 Valcyte: <https://www.mayoclinic.org/drugs-supplements/valganciclovir-oral-route/description/drg-20066642>  —
@@ -932,6 +943,11 @@ Valganciclovir is used to treat symptoms of cytomegalovirus (CMV) retinitis, an 
 
 
 ### Xifaxan
+Rifaximin (tradename Xifaxan) treats traveler's diarrhea and irritable bowel syndrome by stopping the growth of the bacteria that cause diarrhea. Rifaximin treats hepatic encephalopathy by stopping the growth of bacteria that produce toxins and that may worsen liver disease.
+
+* [1] <https://medlineplus.gov/druginfo/meds/a604027.html>
+* [2] <https://www.xifaxan.com/he/about-xifaxan-he/>
+
 Xifaxan is now available as a generic (Rifaxamin) in Canada.  The patent protection in the US (Until 2029?) did not happen in Canada.
 
 Other brand names are: Xifaxanta/Zaxine
