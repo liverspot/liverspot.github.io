@@ -59,7 +59,7 @@ h3 {
 }
 
   #\33 -d-printed-liver, /*Nasty Escape*/
-  #acr, #bausch-pap, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #iop, #lola, #meld, #naltrexone, #peth, #recompensated, #safety-net,  #tips, #valcyte, #xifaxan  {
+  #acr, #bausch-pap, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #inr, #ktv, #lola, #meld, #nash, #optn, #peth, #recompensated, #srtr,  #tace, #valcyte, #xifaxan  {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
@@ -525,10 +525,42 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 * <https://my.clevelandclinic.org/health/diseases/encephalopathy>
 * <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
 
+### HIDA Scan
+
+«A hepatobiliary iminodiacetic acid (HIDA) scan is an imaging procedure that shows how well your liver, bile ducts and gallbladder are functioning. It can help diagnose certain conditions, such as cholecystitis, biliary leak and biliary atresia.» — [1]
+
+* [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/17099-hida-scan>
+* [2] <https://www.mayoclinic.org/tests-procedures/hida-scan/about/pac-20384701>
+
+### Hemochromatosis
+Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much iron from the food you eat. Excess iron is stored in your organs, especially your liver, heart and pancreas. Too much iron can lead to life-threatening conditions, such as liver disease, heart problems and diabetes.
+
+* <https://www.mayoclinic.org/diseases-conditions/hemochromatosis/symptoms-causes/syc-20351443>
+
+### Hemodialysis
+
+«Hemodialysis is dialysis done by pulling blood from the body and running it through a dialyzer (filter) along with a dialysate (solution) to filter the blood of toxins.» — [2]
+
+* [1]&nbsp;<https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/hemodialysis>
+* [2]&nbsp;<https://www.dairbook.com/glossary/hemodialysis>
+
+### Hepatitis
+«Hepatitis means inflammation of the liver. Usually the term is short for one of the five Viral Hepatitis strains: Hepatitis A, B, C, D and E.»
+
+* [1]&nbsp;<https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis>
+* [2] <https://www.cdc.gov/hepatitis/abc/index.htm>
+* [3] <https://www.dairbook.com/glossary/hepatitis>
 
 ### Hypomagnesium
 Magnesium oxide, sodium bicarbonate, Sucralfate, or other antacids should not be taken within two hours of taking tacrolimus. For example, if your child takes tacrolimus at 8:00 a.m., magnesium oxide should not be given until 10:00 a.m. or later.
 
+
+### INR
+«An International Normalized Ratio (INR) test calculates how long it takes for blood to clot compared to a normal healthy person (with a value of ‘1’). Blood thinners and illness can cause blood to take several times longer than normal to clot.» — [3]
+
+* [1]&nbsp;<https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/>
+* [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
+* [3]&nbsp;<https://www.dairbook.com/glossary/inr>
 
 ### IOP
 
@@ -541,10 +573,24 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 
 * <https://www.hazeldenbettyford.org/research-studies/addiction-research/virtual-intensive-outpatient-outcomes>
 
+### Immunosuppressant
+«Immunosuppressants are drugs or medicines that lower the body's ability to reject a transplanted organ. Another term for these drugs is anti-rejection drugs.» — [5]
+
+* [1] <https://www.kidney.org/atoz/content/immuno>
+* [2] <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8987166/>
+* [3] <https://my.clevelandclinic.org/health/treatments/10418-immunosuppressants>
+* [4] <https://en.wikipedia.org/wiki/Immunosuppressive_drug>
+* [5] <https://www.dairbook.com/glossary/immunosuppressant>
+
 ### Immunosuppression
 
-
 * <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
+
+### Itching
+«Itching is a common symptom from liver damage. Possible helpful treatments include: Cholestyramime Powder,  Hydroxyzine, and Sarna lotion .» — [2]
+
+* [1] <https://www.healthline.com/health/liver-disease-and-itching>
+* [2] <https://www.dairbook.com/glossary/itching>
 
 ### Kt/V
 The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo or peritoneal)
@@ -553,6 +599,14 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 * [2] <https://www.sciencedirect.com/topics/medicine-and-dentistry/kt-v>
 * [3] <https://pubmed.ncbi.nlm.nih.gov/18617306/>
 * [4] <https://advancingdialysis.org/standardized-kt-v-home-hemodialysis-matter/>
+
+### J-Tube
+A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to your duodenum (small intestine). It is used to deliver food and medicines to people who are incapable of orally consuming them.
+
+* [1] <https://starship.org.nz/guidelines/gastrostomy-transgastric-jejunal-jejunal-tube-care/>
+* [2]&nbsp;<https://medlineplus.gov/ency/patientinstructions/000181.htm>
+* [3] <https://www.chop.edu/treatments/jejunostomy-tubes>
+
 
 ### LOLA
 
@@ -570,13 +624,24 @@ L‐ornithine‐L‐aspartate for hepatic encephalopathy
 
 LOLA is not FDA approved for HE at all, although it wouldn't really be possible to prevent oral administration using foreign dispensaries.  It appears that the studies have been viewed as very weak and the usage of LOLA is always in addition to Lactulose (alone) or with Rifaximin.  So it is unclear what the benefits are if you are on L+R (which is FDA approved).
 
+### Lactulose
+«Lactulose (sometimes called 'The L-Word') is a laxative with a secondary treatment for Hepatic Encephalopathy. Its chief mechanism of action is by decreasing the intestinal production and absorption of ammonia.» — [2]
+
+* [1]&nbsp;<https://www.ncbi.nlm.nih.gov/books/NBK536930/>
+* [2]&nbsp;<https://www.dairbook.com/glossary/lactulose>
+
 ### Liver Circle
 Imagine a world where a liver disease diagnosis isn't a dead end, but a new beginning. Where the fear of a "transplant" is replaced by the power of knowledge and a supportive community.
 
 This is the world The Liver Circle, Inc. (TLC) is building.  We're more than an organization; we're a vital connection for patients, advocates, and medical professionals. We elevate the conversation around liver health and organ donation from the ordinary to the extraordinary, ensuring no one faces this journey alone.
 
-<https://www.thelivercircle.org>
+* <https://www.thelivercircle.org>
 
+### Liver In A Box
+The transportation of a donated liver by placing it into a 'box' (machine) that provide 'normothermic' (standard temperature) perfusion.
+
+* [1]&nbsp;<https://www.mayoclinic.org/medical-professionals/transplant-medicine/news/liver-in-a-box-offers-potential-for-providing-liver-transplant-to-more-patients/mac-20533186>
+* [2]&nbsp;<https://news.ohsu.edu/2023/08/16/liver-in-a-box-helps-save-more-lives-can-improve-transplant-outcomes>
 
 ### MELD
 
@@ -599,7 +664,21 @@ There are statistical correlations between level of liver illness (e.g. the MELD
 
 «A MELD score of 25 indicates a high risk of mortality, with estimated 3-month mortality rates typically falling within the range of 19.6% to 45.5%. » — [6] 
 
+### MELD Exception Score
+A MELD Exception Score is a modifier to the calculated MELD score. Some transplant candidates have a medical condition, such as cancer or rare forms of chronic liver disease, where MELD or PELD will not accurately predict their short-term transplant need. If so, they may qualify for an exception score — a separately assigned score to be used instead of their calculated MELD or PELD in matching the person for available organ offers. The goal of exception scores is to make access to transplant more equitable among patients with similar levels of medical urgency.
 
+* [1] <https://unos.org/policy/liver/exception-scores/>
+
+### MRE
+Magnetic resonance elastography (MRE) is a technology that combines MRI imaging with low-frequency vibrations to create a visual map (elastogram) that shows stiffness of body tissues.
+
+* [1] <https://www.mayoclinic.org/tests-procedures/magnetic-resonance-elastography/about/pac-20385177>
+
+### MRI
+Magnetic resonance imaging (MRI) is a type of diagnostic test that can create detailed images of nearly every structure and organ inside the body. MRI uses magnets and radio waves to produce images on a computer.
+
+* [1] <https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/magnetic-resonance-imaging-mri>
+* [2] <https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768>
 
 ### Multiple Listing
 
@@ -607,6 +686,19 @@ Multiple listing involves registering at two or more transplant hospitals.
 In general, candidates listed at hospitals closest to the donor hospital will get more matching priority than other candidates who are in similar medical condition, but listed at transplant hospitals farther away.
 
 * <https://www.hrsa.gov/optn/patients/organ-transplants/multiple-listing>
+
+### Mycophenolate Mofetil
+«Mycophenolate Mofetil is an immunosuppressant that prevents rejection of transplanted organs and augments Tacrolimus.» — [3]
+
+* [1] <https://www.mayoclinic.org/drugs-supplements/mycophenolate-mofetil-oral-route/description/drg-20073191>
+* [2] <https://en.wikipedia.org/wiki/Mycophenolic_acid>
+* [3] <https://www.dairbook.com/glossary/mycophenolate-mofetil>
+
+### NASH
+«Nonalcoholic steatohepatitis (NASH) is the most severe form of nonalcoholic fatty liver disease (NAFLD), a condition in which the liver builds up excessive fat deposits.» — [2]
+
+* [1] <https://www.pfizer.com/disease-and-conditions/nash>
+* [2] <https://www.acsh.org/news/2024/03/12/new-drug-offers-hope-common-life-threatening-liver-disease-17662>
 
 ### Naltrexone
 
@@ -658,21 +750,32 @@ Possible treats that the medical team might like and appreciate from patients in
 * Jelly Belly Sours Mix 5 Flavors Jelly Beans
 * Jelly Belly Fruit Bowl Jelly Beans, Assorted Fruit Flavors, 9.8-oz 
 
+### OPTN
+«Organ Procurement and Transplantation Network (OPTN) is a unique public-private partnership that links all professionals involved in the U.S. donation and transplantation system. Also crucial to the system are individuals who sign organ donor cards, people who comment on policy proposals and countless volunteers who support donation and transplantation, among many others.» — [1]
+
+* [1] <https://www.hrsa.gov/optn>
+* [2] <https://optn.transplant.hrsa.gov/about/>
 
 ### PEth
 
-Phosphatidylethanol (PEth) testing is a reliable method to help create a picture of alcohol consumption.
+«Phosphatidylethanol (PEth) testing is a reliable method to help create a picture of alcohol consumption.» — [2]
 
-* <https://lextox.co.uk/blog-posts/phosphatidylethanol-peth-testing/>
-* [DAIR: Proving Sober](https://www.dairbook.com/stories/mark-20240223a)
+* [1] <https://lextox.co.uk/blog-posts/phosphatidylethanol-peth-testing/>
+* [2] <https://www.dairbook.com/glossary/peth>>
+
+### PT
+Prothrombin Time (PT) is a measure of blood coagulation.
+
+* [1] <https://en.m.wikipedia.org/wiki/Prothrombin_time>
+* [2] <https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
 
 ### Paracentesis
 
-Paracentesis is the process of draining water from the abdominal cavity. A long needle is inserted into a pocket of water (commonly found through ultrasound) and the water drained into vacuum bottles. With severe ascites, several liters can be removed. Beyond the comfort from draining excess water, the fluid can be analyzed for infections or other causes.
+«Paracentesis is the process of draining water from the abdominal cavity. A long needle is inserted into a pocket of water (commonly found through ultrasound) and the water drained into vacuum bottles. With severe ascites, several liters can be removed. Beyond the comfort from draining excess water, the fluid can be analyzed for infections or other causes.» — [3]
 
-* <https://my.clevelandclinic.org/health/procedures/paracentesis>
-* <https://en.wikipedia.org/wiki/Paracentesis>
-
+* [1]&nbsp;<https://my.clevelandclinic.org/health/procedures/paracentesis>
+* [2] <https://en.wikipedia.org/wiki/Paracentesis>
+* [3] <https://www.dairbook.com/glossary/paracentesis>
 
 ### Post-Transplant Relapse
 
@@ -689,6 +792,7 @@ Could 3D-printed livers make transplant lists a thing of the past?
 ### Recompensated
 
 * [1] <https://pmc.ncbi.nlm.nih.gov/articles/PMC10025679/>
+* [2] <https://bmcgastroenterol.biomedcentral.com/articles/10.1186/s12876-023-02956-4>
 
 «As highlighted previously, the term recompensated cirrhosis is only limited to aetiologies where a clear cause is identified and can be targeted. This limits the application of this term to aetiologies like viral cirrhosis and ALD. According to the present evidence, patients with NAFLD by definition cannot be categorized as recompensated despite fulfilling other criteria. This may limit the application of this term as NAFLD remains the most common form of liver disease and in the future may become the leading cause of cirrhosis and its complications worldwide. There is an evidence that sustained weight loss decreases hepatic steatosis and can cause reversal of fibrosis. Defining recompensation in the context of NAFLD may need modification of the criteria mentioned above in the future. However, the pertinent question in this aspect is whether or not a patient with NAFLD can ever be considered recompensated as data regarding recompensation in NAFLD does not exist unlike other aetiologies. Conceptualizing a model to define recompensation in NAFLD cirrhosis with the current backdrop of aetiological suppression would be challenging given the dynamics of metabolic risk factors once cirrhosis sets inpatients with NAFLD.» — [1]
 
@@ -710,6 +814,14 @@ Could 3D-printed livers make transplant lists a thing of the past?
 
 «This medication is used to treat anemia (low red blood cell count) in people with long-term serious kidney disease (chronic kidney failure), people receiving zidovudine to treat HIV, and people receiving chemotherapy for some types of cancer (cancer that does not involve the bone marrow or blood cells). It may also be used in anemic patients to reduce the need for blood transfusions before certain planned surgeries that have a high risk of blood loss (usually given with an anticoagulant/"blood thinner" medication such as warfarin to lower the risk of serious blood clots).» — [2]
 
+### SRTR
+«The Scientific Registry of Transplant Recipients (SRTR) supports the transplant community with analyses, in an effort to better patient results and experience. Through the evaluation of national data collected by the Organ Procurement and Transplant Network (OPTN) on transplant programs and organ procurement organizations…» — [1,2]
+
+The SRTR website provides access to a very detailed group of reports and tools to review organ transplant data. This information can be used by patients, family members / caregivers, and living donors / potential living donors, as well as transplant professionals, industry professionals, government regulators, and others.
+
+* [1] <https://www.srtr.org>
+* [2] <https://www.dairbook.com/glossary/srtr>
+
 ### Safety Net
 The website about the safety net program that was on UNOS was seriously messed up recently with an administrative change, but you can read about it here (if the archive works... can be slow) and some quotes are below
 
@@ -729,20 +841,34 @@ Scar tissue reaches approximately 50% of original skin strength at 6 weeks and u
 At least need yearly skin checks, although someone heard it needs to be four times per year.
 
 
-### SRTR
+### TACE
+«Transarterial chemoembolization (TACE) places chemotherapy and synthetic materials called embolic agents into a blood vessel feeding a cancerous tumor to cut off the tumor's blood supply and trap the chemotherapy within the tumor. It is most often used to treat liver cancer but may also be used in patients whose cancer has spread to other areas of the body. Chemoembolization may be used as a standalone treatment or in combination with surgery, ablation, chemotherapy or radiation therapy.» — [1]
 
-The SRTR website provides access to a very detailed group of reports and tools to review organ transplant data. This information can be used by patients, family members / caregivers, and living donors / potential living donors, as well as transplant professionals, industry professionals, government regulators, and others.
+«Y-90 therapy, also known as selective internal radiation therapy or SIRT, is a minimally invasive, image-guided approach treating malignant lesions in the liver. The procedure uses a catheter to deliver tiny radioactive beads into the blood vessels that lead directly to the tumor. This allows doctors to treat tumors that are not accessible using conventional surgery or radiation treatments. A Y-90 procedure typically takes about two hours, but requires an overnight stay for observation.» — [2]
 
-* <https://www.srtr.org>
-
+* [1]&nbsp;<https://www.radiologyinfo.org/en/info/chemoembol>
+* [2]&nbsp;<https://www.massgeneral.org/interventional-radiology/treatments-and-services/y-90>
+* [3]&nbsp;<https://www.columbiaradiology.org/patients/services/interventional-radiology/y90-treatment-radioembolization>
 
 ### TIPS
 
+«Transjugular intrahepatic portosystemic shunt (TIPS) is a procedure to create new connections between two blood vessels in your liver. You may need this procedure if you have severe liver problems.» — [2]
+
+
   * [1] <https://my.clevelandclinic.org/health/procedures/tips-procedure>
   * [2] <https://www.dairbook.com/glossary/tips>
+* [3] <https://www.mountsinai.org/health-library/surgery/transjugular-intrahepatic-portosystemic-shunt-tips>
+* [4] <https://www.radiologyinfo.org/en/info/tips>
+* [5] <https://medlineplus.gov/ency/images/ency/fullsize/21742.jpg>
+* [6] <https://gastroliver.medicine.ufl.edu/files/2012/07/TIPS1.jpg>
 
 «TIPS procedures typically take one to two hours. Your team will move you to a recovery room after the procedure. They’ll check on you as you wake up from anesthesia» — [1]
 
+### Tacrolimus
+«Tacrolimus is a very powerful immunosuppressant that prevents rejection of transplanted organs.» — [2]
+
+* [1] <https://www.mayoclinic.org/drugs-supplements/tacrolimus-oral-route/description/drg-20068314>
+* [2] <https://www.dairbook.com/glossary/tacrolimus>
 
 ### Tacrolimus Skin Cancer
 
