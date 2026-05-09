@@ -24,22 +24,22 @@ permalink: /topics/
     table tr:nth-child(55),  /*H*/
     table tr:nth-child(63),  /*I*/
     table tr:nth-child(68),  /*J*/
-    table tr:nth-child(69),  /*K*/
-    table tr:nth-child(71),  /*L*/
-    table tr:nth-child(77),  /*M*/
-    table tr:nth-child(84),  /*N*/
-    table tr:nth-child(90),  /*O*/
-    table tr:nth-child(93),  /*P*/
-    table tr:nth-child(93),  /*Q*/
-    table tr:nth-child(99),  /*R*/
-    table tr:nth-child(103),  /*S*/
-    table tr:nth-child(108), /*T*/
-    table tr:nth-child(122), /*U*/
-    table tr:nth-child(126), /*V*/
-    table tr:nth-child(126), /*W*/
-    table tr:nth-child(128), /*X*/
-    table tr:nth-child(128), /*Y*/
-    table tr:nth-child(128) /*Z*/
+    table tr:nth-child(70),  /*K*/
+    table tr:nth-child(72),  /*L*/
+    table tr:nth-child(78),  /*M*/
+    table tr:nth-child(85),  /*N*/
+    table tr:nth-child(91),  /*O*/
+    table tr:nth-child(94),  /*P*/
+    table tr:nth-child(94),  /*Q*/
+    table tr:nth-child(100),  /*R*/
+    table tr:nth-child(104),  /*S*/
+    table tr:nth-child(109), /*T*/
+    table tr:nth-child(123), /*U*/
+    table tr:nth-child(127), /*V*/
+    table tr:nth-child(127), /*W*/
+    table tr:nth-child(129), /*X*/
+    table tr:nth-child(129), /*Y*/
+    table tr:nth-child(129) /*Z*/
    {   
     color: #2e6da4;
     font-weight: bold;
@@ -152,6 +152,7 @@ The following contains topics that have been brought up during discussions relat
 | Immunosuppression    [&darr;](#immunosuppression)                                    | [See Below: Immunosuppression](#immunosuppression)                                                                                                                             |
 | Itching [&darr;](#itching)                                                           | [See Below: Itching](#itching)                                                                                                                                                 |
 | J-Tube [&darr;](#j-tube)                                                             | [See Below: J-Tube](#j-tube)                                                                                                                                                   |
+| Jaundice [&darr;](#jaundice)                                                             | [See Below: Jaundice](#jaundice)                                                                                                                                                   |
 | Ketorolac                                                                            | <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882      >                                                             |
 | Kt/V      [&darr;](#ktv)                                                             | [See Below: Kt/V](#ktv)                                                                                                                                                        |
 | LOLA      [&darr;](#lola)                                                            | [See Below: LOLA](#lola)                                                                                                                                                       |
@@ -633,6 +634,12 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 
 * [1]&nbsp;<https://www.healthline.com/health/liver-disease-and-itching>
 * [2]&nbsp;<https://www.dairbook.com/glossary/itching>
+
+### Jaundice
+
+«Jaundice is a yellow color of the skin, mucus membranes, or eyes. The yellow coloring comes from bilirubin, a byproduct of old red blood cells. Jaundice can be a symptom of several health problems.»
+
+* [1]&nbsp;<https://medlineplus.gov/ency/article/000210.htm>
 
 ### Kt/V
 The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo or peritoneal)
