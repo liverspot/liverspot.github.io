@@ -59,7 +59,7 @@ h3 {
 }
 
   #\33 -d-printed-liver, /*Nasty Escape*/
-  #acr, #bausch-pap, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #inr, #j-tube, #ktv, #lola, #meld, #nash, #optn, #peth, #recompensated, #srtr,  #tace, #unos, #valcyte, #xifaxan  {
+  #acr, #bk-virus, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #inr, #j-tube, #ktv, #lola, #meld, #nash, #optn, #peth, #recompensated, #srtr,  #tace, #unos, #valcyte, #xifaxan  {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
@@ -296,6 +296,16 @@ Acute cellular rejection
 
 «showing an average loss of about 1 kg (2.2 lbs) within 24 hours of acute care and up to 2.3 kg (5 lbs) by discharge,» — [2]
 
+
+### BK Virus
+«The BK virus is a virus that most people get in childhood. Symptoms can feel like a common cold. Once you get a BK virus infection, the virus stays in your system for good but in an inactive state.
+
+When you take anti-rejection medications due to an organ transplant, the BK Virus can become active to the point that it will damage kidneys.» — [3]
+
+* [1]&nbsp;<https://www.kidney.org/atoz/content/bk-virus-what-transplant-patients-need-know>
+* [2]&nbsp;<https://en.wikipedia.org/wiki/BK_virus>
+* [3]&nbsp;<https://www.dairbook.com/glossary/bk-virus>
+
 ### Bausch PAP
 
 Bausch Health PAP Summary (2026)
@@ -308,15 +318,6 @@ What it is: A program that provides Xifaxan at no cost for up to one year for el
 
 * [1]&nbsp;<https://medlineplus.gov/lab-tests/bilirubin-blood-test/>
 * [2]&nbsp;<https://www.dairbook.com/glossary/bilirubin>
-
-### BK Virus
-«The BK virus is a virus that most people get in childhood. Symptoms can feel like a common cold. Once you get a BK virus infection, the virus stays in your system for good but in an inactive state.
-
-When you take anti-rejection medications due to an organ transplant, the BK Virus can become active to the point that it will damage kidneys.» — [3]
-
-* [1]&nbsp;<https://www.kidney.org/atoz/content/bk-virus-what-transplant-patients-need-know>
-* [2]&nbsp;<https://en.wikipedia.org/wiki/BK_virus>
-* [3]&nbsp;<https://www.dairbook.com/glossary/bk-virus>
 
 ### CMV
 
