@@ -21,25 +21,25 @@ permalink: /topics/
     table tr:nth-child(33), /*E*/ 
     table tr:nth-child(41), /*F*/ 
     table tr:nth-child(46), /*G*/ 
-    table tr:nth-child(55),  /*H*/
-    table tr:nth-child(63),  /*I*/
-    table tr:nth-child(68),  /*J*/
-    table tr:nth-child(70),  /*K*/
-    table tr:nth-child(72),  /*L*/
-    table tr:nth-child(78),  /*M*/
-    table tr:nth-child(85),  /*N*/
-    table tr:nth-child(91),  /*O*/
-    table tr:nth-child(94),  /*P*/
-    table tr:nth-child(94),  /*Q*/
-    table tr:nth-child(100),  /*R*/
-    table tr:nth-child(104),  /*S*/
-    table tr:nth-child(109), /*T*/
-    table tr:nth-child(123), /*U*/
-    table tr:nth-child(127), /*V*/
-    table tr:nth-child(127), /*W*/
-    table tr:nth-child(129), /*X*/
-    table tr:nth-child(129), /*Y*/
-    table tr:nth-child(129) /*Z*/
+    table tr:nth-child(54),  /*H*/
+    table tr:nth-child(62),  /*I*/
+    table tr:nth-child(67),  /*J*/
+    table tr:nth-child(69),  /*K*/
+    table tr:nth-child(71),  /*L*/
+    table tr:nth-child(77),  /*M*/
+    table tr:nth-child(84),  /*N*/
+    table tr:nth-child(90),  /*O*/
+    table tr:nth-child(93),  /*P*/
+    table tr:nth-child(93),  /*Q*/
+    table tr:nth-child(99),  /*R*/
+    table tr:nth-child(103),  /*S*/
+    table tr:nth-child(108), /*T*/
+    table tr:nth-child(122), /*U*/
+    table tr:nth-child(126), /*V*/
+    table tr:nth-child(126), /*W*/
+    table tr:nth-child(128), /*X*/
+    table tr:nth-child(128), /*Y*/
+    table tr:nth-child(128) /*Z*/
    {   
     color: #2e6da4;
     font-weight: bold;
@@ -132,7 +132,6 @@ The following contains topics that have been brought up during discussions relat
 | GFR and Aging <a id="g"></a>   [&darr;](#gfr-and-aging)                              | [See Below: GFR and Aging](#gfr-and-aging)                                                                                                                                     |
 | GGT  [&darr;](#ggt)                                                                  | [See Below: GGT](#ggt)                                                                                                                                                         |
 | GGT [&darr;](#ggt)                                                                   | [See Below: GGT](#ggt)                                                                                                                                                         |
-| Gabapentin                                                                           | <https://my.clevelandclinic.org/health/drugs/21561-gabapentin     >                                                                                                            | 
 | Gabapentin [&darr;](#gabapentin)                                                     | [See Below: Gabapentin](#gabapentin)                                                                                                                                           |
 | Gallbladder  [&darr;](#gallbladder)                                                  | <https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>                                                                           |
 | Gallbladder Cancer  [&darr;](#gallbladder-cancer)                                    | [See Below: Gallbladder Cancer](#gallbladder-cancer )                                                                                                                          |
@@ -515,6 +514,7 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 
 * [1]&nbsp;<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452908/>
 * [2]&nbsp;<https://www.mayoclinic.org/drugs-supplements/gabapentin-oral-route/description/drg-20064011>
+* [3]&nbsp;<https://my.clevelandclinic.org/health/drugs/21561-gabapentin>
 
 ### Gallbladder
 
