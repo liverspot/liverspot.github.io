@@ -993,6 +993,20 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 * [1]&nbsp;<https://medlineplus.gov/druginfo/meds/a699047.html>
 
+### uACR
+
+uACR is a way to deal with the sampling issue witha point-in-time urine tests, where the 'Liters' is highly variable.  So instead it simply uses a formula that describes excretion of Albumin given the excretion of Creatinine in any given sample of urine.
+
+So if you have:
+   * Urine Albumin 'A' in mg/dL
+   * Urine Creatinine 'C' in g/dL
+   * uACR is simply A/C in mg/g
+
+“Albumin Creatinine Ratio = Albumin in mg/dL / Creatinine in g/dL» — [2]
+
+   * [1]&nbsp;<https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr>
+   * [2]&nbsp;<https://www.mdapp.co/albumin-creatinine-ratio-calculator-461/>
+
 ### Valcyte
 
 Valcyte: <https://www.mayoclinic.org/drugs-supplements/valganciclovir-oral-route/description/drg-20066642>  —
