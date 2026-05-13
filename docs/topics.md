@@ -596,10 +596,6 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 * [3]&nbsp;<https://www.dairbook.com/glossary/hepatitis>
 
 ### Hypomagnesium
-Magnesium oxide, sodium bicarbonate, Sucralfate, or other antacids should not be taken within two hours of taking tacrolimus. For example, if your child takes tacrolimus at 8:00 a.m., magnesium oxide should not be given until 10:00 a.m. or later.
-
-
-«By consuming foods high in magnesium, such as green vegetables, fruit, whole grains, cereals, and legumes, one can meet the RDA for this mineral. In order of highest to lowest magnesium concentration, some foods include Trusted Source:» — [1]
 
 «
 How is hypomagnesemia treated?
@@ -611,9 +607,13 @@ How is hypomagnesemia treated?
 Your provider will also prescribe a treatment plan to manage the underlying cause.
 » — [2]
 
+«Magnesium oxide, sodium bicarbonate, Sucralfate, or other antacids should not be taken within two hours of taking tacrolimus. For example, if your child takes tacrolimus at 8:00 a.m., magnesium oxide should not be given until 10:00 a.m. or later.» — [3]
+
+«By consuming foods high in magnesium, such as green vegetables, fruit, whole grains, cereals, and legumes, one can meet the RDA for this mineral. In order of highest to lowest magnesium concentration, some foods include Trusted Source:» — [1]
+
 * [1]&nbsp;<https://www.relainstitute.com/articles/magnesium-deficiency-foods-to-eat-and-treatment-options/>
 * [2]&nbsp;<https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia>
-
+* [3]&nbsp;<https://www.chp.edu/our-services/transplant/liver/education/medications/tacrolimus-prograf#:~:text=Tacrolimus%20Drug%20Interactions>
 
 ### INR
 «An International Normalized Ratio (INR) test calculates how long it takes for blood to clot compared to a normal healthy person (with a value of ‘1’). Blood thinners and illness can cause blood to take several times longer than normal to clot.» — [3]
