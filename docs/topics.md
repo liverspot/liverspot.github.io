@@ -35,11 +35,11 @@ permalink: /topics/
     table tr:nth-child(103),  /*S*/
     table tr:nth-child(108), /*T*/
     table tr:nth-child(122), /*U*/
-    table tr:nth-child(126), /*V*/
-    table tr:nth-child(126), /*W*/
-    table tr:nth-child(128), /*X*/
-    table tr:nth-child(128), /*Y*/
-    table tr:nth-child(128) /*Z*/
+    table tr:nth-child(127), /*V*/
+    table tr:nth-child(127), /*W*/
+    table tr:nth-child(129), /*X*/
+    table tr:nth-child(129), /*Y*/
+    table tr:nth-child(129) /*Z*/
    {   
     color: #2e6da4;
     font-weight: bold;
@@ -151,7 +151,7 @@ The following contains topics that have been brought up during discussions relat
 | Immunosuppression    [&darr;](#immunosuppression)                                    | [See Below: Immunosuppression](#immunosuppression)                                                                                                                             |
 | Itching [&darr;](#itching)                                                           | [See Below: Itching](#itching)                                                                                                                                                 |
 | J-Tube [&darr;](#j-tube)                                                             | [See Below: J-Tube](#j-tube)                                                                                                                                                   |
-| Jaundice [&darr;](#jaundice)                                                             | [See Below: Jaundice](#jaundice)                                                                                                                                               |
+| Jaundice [&darr;](#jaundice)                                                         | [See Below: Jaundice](#jaundice)                                                                                                                                               |
 | Ketorolac                                                                            | <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882      >                                                             |
 | Kt/V      [&darr;](#ktv)                                                             | [See Below: Kt/V](#ktv)                                                                                                                                                        |
 | LOLA      [&darr;](#lola)                                                            | [See Below: LOLA](#lola)                                                                                                                                                       |
@@ -209,6 +209,7 @@ The following contains topics that have been brought up during discussions relat
 | UNOS Regions                                                                         | <https://www.hrsa.gov/optn/about/governance/regions>                                                                                                                           |
 | Umbilical Hernia                                                                     | <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>                                                                                                              |
 | Ursodiol  [&darr;](#ursodiol)                                                        | [See Below: Ursodiol](#ursodiol)                                                                                                                                               |
+| uACR  [&darr;](#uacr)                                                                | [See Below: uACR](#uacr)                                                                                                                                               |
 | Valcyte <a id="v"></a> [&darr;](#valcyte)                                            | [See Below: Valcyte](#valcyte)                                                                                                                                                 |
 | Vivitrol  [&darr;](#vivitrol)                                                        | [See Below: Vivitrol](#vivitrol)                                                                                                                                               | 
 | XIAFLEX                                                                              | <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>                                                                                                            |
@@ -995,7 +996,7 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 ### uACR
 
-uACR is a way to deal with the sampling issue witha point-in-time urine tests, where the 'Liters' is highly variable.  So instead it simply uses a formula that describes excretion of Albumin given the excretion of Creatinine in any given sample of urine.
+uACR is a way to deal with the sampling issue with a point-in-time urine tests, where the 'Liters' is highly variable.  So instead it simply uses a formula that describes excretion of Albumin given the excretion of Creatinine in any given sample of urine.
 
 So if you have:
    * Urine Albumin 'A' in mg/dL
