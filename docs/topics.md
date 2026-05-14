@@ -996,7 +996,7 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 ### uACR
 
-uACR is a way to deal with the sampling issue with a point-in-time urine tests, where the 'Liters' is highly variable.  So instead it simply uses a formula that describes excretion of Albumin given the excretion of Creatinine in any given sample of urine.
+Urine Albumine Creatinine Ratio (uACR) is a calculated value that deals with the sampling issue with a point-in-time urine tests, where the 'Liters' is highly-variable so the amounts of excretions within the urine in absolute terms are highly-variable.  So instead uACR is a formula that calculates the excretion of Albumin given the excretion of Creatinine in any given sample of urine.
 
 So if you have:
    * Urine Albumin 'A' in mg/dL
