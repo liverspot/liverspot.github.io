@@ -835,7 +835,7 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 * find cancer or track its progress,
 * assess brain damage or disorders such as tumors, seizures, or cognitive issues,
 * evaluate damage to the heart following a heart attack, or
-*  assess the state of coronary artery disease.
+* assess the state of coronary artery disease.
 » — [1]
 
 
