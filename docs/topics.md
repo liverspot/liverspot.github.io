@@ -31,15 +31,15 @@ permalink: /topics/
     table tr:nth-child(90),  /*O*/
     table tr:nth-child(93),  /*P*/
     table tr:nth-child(93),  /*Q*/
-    table tr:nth-child(99),  /*R*/
-    table tr:nth-child(103),  /*S*/
-    table tr:nth-child(108), /*T*/
-    table tr:nth-child(122), /*U*/
-    table tr:nth-child(127), /*V*/
-    table tr:nth-child(127), /*W*/
-    table tr:nth-child(129), /*X*/
-    table tr:nth-child(129), /*Y*/
-    table tr:nth-child(129) /*Z*/
+    table tr:nth-child(100),  /*R*/
+    table tr:nth-child(104),  /*S*/
+    table tr:nth-child(109), /*T*/
+    table tr:nth-child(123), /*U*/
+    table tr:nth-child(128), /*V*/
+    table tr:nth-child(128), /*W*/
+    table tr:nth-child(130), /*X*/
+    table tr:nth-child(130), /*Y*/
+    table tr:nth-child(130) /*Z*/
    {   
     color: #2e6da4;
     font-weight: bold;
@@ -59,7 +59,7 @@ h3 {
 }
 
   #\33 -d-printed-liver, /*Nasty Escape*/
-  #acr, #bk-virus, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #inr, #j-tube, #ktv, #lola, #meld, #nash, #optn, #peth, #recompensated, #srtr,  #tace, #unos, #valcyte, #xifaxan  {
+  #acr, #bk-virus, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #inr, #j-tube, #ktv, #lola, #meld, #nash, #optn, #pet, #recompensated, #srtr,  #tace, #unos, #valcyte, #xifaxan  {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
@@ -144,7 +144,7 @@ The following contains topics that have been brought up during discussions relat
 | Hemochromatosis [&darr;](#hemochromatosis)                                           | [See Below: Hemochromatosis](#hemochromatosis)                                                                                                                                 |
 | Hemodialysis [&darr;](#hemodialysis)                                                 | [See Below: Hemodialysis](#hemodialysis)                                                                                                                                       |
 | Hepatitis [&darr;](#hepatitis)                                                       | [See Below: Hepatitis](#hepatitis)                                                                                                                                             |
-| Hypomagnesium  [&darr;](#hypomagnesium)                                              | [See Below: Hypomagnesium](#hypomagnesium)                                                                    |
+| Hypomagnesium  [&darr;](#hypomagnesium)                                              | [See Below: Hypomagnesium](#hypomagnesium)                                                                                                                                     |
 | INR <a id="i"></a> [&darr;](#inr)                                                    | [See Below: INR](#inr)                                                                                                                                                         |
 | IOP   [&darr;](#iop)                                                                 | [See Below: Intense Outpatient Program](#iop)                                                                                                                                  | 
 | Immunosuppressant [&darr;](#immunosuppressant)                                       | [See Below: Immunosuppressant](#immunosuppressant)                                                                                                                             |
@@ -176,7 +176,8 @@ The following contains topics that have been brought up during discussions relat
 | OPTN  [&darr;](#optn)                                                                | [See Below: OPTN](#optn)                                                                                                                                                       |
 | Osmolite                                                                             | <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>                                                                                 |
 | Oxycodone                                                                            | <https://medlineplus.gov/druginfo/meds/a682132.html   >                                                                                                                        |
-| PEth  <a id="p"></a> [&darr;](#peth)                                                 | [See below: PEth](#peth)                                                                                                                                                       |
+| PET  <a id="p"></a> [&darr;](#pet)                                                                  | [See below: PET](#pet)                                                                                                                                                         |
+| PEth  [&darr;](#peth)                                                 | [See below: PEth](#peth)                                                                                                                                                       |
 | PT  [&darr;](#pt)                                                                    | [See Below: PT](#pt)                                                                                                                                                           |
 | Paracentesis [&darr;](#paracentesis)                                                 | <https://my.clevelandclinic.org/health/procedures/paracentesis>                                                                                                                | 
 | Pink Cloud                                                                           | <https://www.healthline.com/health/pink-cloud>                                                                                                                                 |
@@ -209,7 +210,7 @@ The following contains topics that have been brought up during discussions relat
 | UNOS Regions                                                                         | <https://www.hrsa.gov/optn/about/governance/regions>                                                                                                                           |
 | Umbilical Hernia                                                                     | <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>                                                                                                              |
 | Ursodiol  [&darr;](#ursodiol)                                                        | [See Below: Ursodiol](#ursodiol)                                                                                                                                               |
-| uACR  [&darr;](#uacr)                                                                | [See Below: uACR](#uacr)                                                                                                                                               |
+| uACR  [&darr;](#uacr)                                                                | [See Below: uACR](#uacr)                                                                                                                                                       |
 | Valcyte <a id="v"></a> [&darr;](#valcyte)                                            | [See Below: Valcyte](#valcyte)                                                                                                                                                 |
 | Vivitrol  [&darr;](#vivitrol)                                                        | [See Below: Vivitrol](#vivitrol)                                                                                                                                               | 
 | XIAFLEX                                                                              | <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>                                                                                                            |
@@ -824,6 +825,21 @@ Possible treats that the medical team might like and appreciate from patients in
 
 * [1]&nbsp;<https://www.hrsa.gov/optn>
 * [2]&nbsp;<https://optn.transplant.hrsa.gov/about/>
+
+### PET
+
+PET (positron emission tomography) scans producse pictures of the inside of the body
+
+«A PET scan uses a radioactive chemical called a radiotracer (or tracer) and a PET scan machine to produce images that help a doctor understand how tissues or organs are functioning. PET scans are most often used to:
+
+* find cancer or track its progress,
+* assess brain damage or disorders such as tumors, seizures, or cognitive issues,
+* evaluate damage to the heart following a heart attack, or
+*  assess the state of coronary artery disease.
+» — [1]
+
+
+* [1]&nbsp;<https://www.baptisthealth.com/blog/health-and-wellness/pet-scan-vs-mri-what-s-the-difference>
 
 ### PEth
 
