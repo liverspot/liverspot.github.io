@@ -1059,7 +1059,7 @@ Rifaximin (tradename Xifaxan) treats traveler's diarrhea and irritable bowel syn
 * [1]&nbsp;<https://medlineplus.gov/druginfo/meds/a604027.html>
 * [2]&nbsp;<https://www.xifaxan.com/he/about-xifaxan-he/>
 * [3]&nbsp;<https://www.canadianmedcenter.com/drug/xifaxan>
-* [4]&nbps;<https://www.canadapharmacy.com/products/xifaxan>
+* [4]&nbsp;<https://www.canadapharmacy.com/products/xifaxan>
 
 Xifaxan is now available as a generic (Rifaxamin) in Canada.  The patent protection in the US (Until 2029?) did not happen in Canada.
 
