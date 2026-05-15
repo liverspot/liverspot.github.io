@@ -734,6 +734,14 @@ There are statistical correlations between level of liver illness (e.g. the MELD
 
 «A MELD score of 25 indicates a high risk of mortality, with estimated 3-month mortality rates typically falling within the range of 19.6% to 45.5%. » — [6] 
 
+«Here are typical MELD scores and how often they're recalculated:
+
+* 25 or higher — Every week.
+* 19 to 24 — Every 30 days.
+* 11 to 18 — Every three months.
+* 10 or less — Once a year.
+» — [7]
+
 ### MELD Exception Score
 A MELD Exception Score is a modifier to the calculated MELD score. Some transplant candidates have a medical condition, such as cancer or rare forms of chronic liver disease, where MELD or PELD will not accurately predict their short-term transplant need. If so, they may qualify for an exception score — a separately assigned score to be used instead of their calculated MELD or PELD in matching the person for available organ offers. The goal of exception scores is to make access to transplant more equitable among patients with similar levels of medical urgency.
 
