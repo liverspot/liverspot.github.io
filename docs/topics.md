@@ -1002,10 +1002,14 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 * [1]&nbsp;<https://www.sciencedirect.com/science/article/pii/S160061352203550X>
 * [2]&nbsp;<https://ars.els-cdn.com/content/image/1-s2.0-S160061352203550X-gr3_lrg.jpg>
+* [3]&nbsp;<https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
 
 «With 1 year of available post-transplant follow-up, MELD category 15–17 represented a transition point. Posttransplant mortality risk was more than three times higher than waiting list mortality for MELD scores 6–11 (hazard ratio = 3.64; 95% confidence interval = 2.23–5.95; p < 0.001). The hazard ratio was also greater than 1.0 among patients with MELD 12–14 (hazard ratio = 2.35; 95% confidence interval 1.48–3.76; p < 0.001). Conversely, significant transplant survival benefit was observed at MELD scores 18 and higher, and the magnitude of transplant benefit increased with increasing MELD score» — [1]
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S160061352203550X-gr3_lrg.jpg"> — [2]
+
+«Typically, people with MELD scores of 15 or higher are more likely to live longer [[about a year longer if MELD < 20]] if they receive new livers. This is known as life expectancy» — [3]
+
 
 ### UNOS
 «United Network for Organ Sharing (UNOS) manages the transplant system for the United States.» — [2]
