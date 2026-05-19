@@ -51,15 +51,19 @@ permalink: /topics/
     width: fit-content;
     padding: 10px 10px; /* Optional: adds space around the text */
     font-weight: normal;
+    break-after: avoid;
+    page-break-after: avoid; /* Safari fallback */
 }
 
 h3 {
   border-top: 2px solid #2e6da4; 
   color: #2e6da4;
+  break-after: avoid;
+  page-break-after: avoid; /* Safari fallback */
 }
 
   #\33 -d-printed-liver, /*Nasty Escape*/
-  #acr, #bk-virus, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #inr, #j-tube, #ktv, #lola, #meld, #nash, #optn, #pet, #recompensated, #srtr,  #tace, #unos, #valcyte, #xifaxan  {
+  #acr, #bk-virus, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #inr, #j-tube, #ketorolac, #lola, #meld, #nash, #optn, #pet, #recompensated, #srtr,  #tace, #unos, #valcyte, #xifaxan  {
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
@@ -81,99 +85,101 @@ The following contains topics that have been brought up during discussions relat
 
 *Sections:*  &nbsp;&nbsp; [A-C](#a) &nbsp;•&nbsp; [D-F](#d) &nbsp;•&nbsp; [G-H](#g) &nbsp;•&nbsp; [I-L](#i) &nbsp;•&nbsp; [M-O](#m) &nbsp;•&nbsp; [P-S](#p) &nbsp;•&nbsp; [T-U](#t) &nbsp;•&nbsp; [V-Z](#v) &nbsp;•&nbsp; [Details](#topic-details)
 
+| Topic                                                      | Acronym Expanded           | 
+|------------------------------------------------------------|----------------------------|
+| [ACR &darr;](#acr) <a id="a"></a>                          | Acute cellular rejection   |
+| [AFP &darr;](#afp)                                         | Alpha-fetoprotein          |
+| [ALP &darr;](#alp)                                         | Alkaline phosphatase       |
+| [Acyclovir &darr;](#acyclovir)                             |                            |
+| [Albumin &darr;](#albumin)                                 |                            |
+| [Ammonia Level &darr;](#ammonia-level)                     |                            |
+| [Angioplasty &darr;](#angioplasty)                         |                            |
+| [Ascites &darr;](#ascites)                                 |                            |
+| [Asterixis &darr;](#asterixis)                             |                            |
+| [Atrophy &darr;](#atrophy)                                 |                            |
+| [BK Virus &darr;](#bK-virus)  <a id="b"></a>               |                            |
+| [BUN Test &darr;](#bun-test)                               | Blood-urea-nitrogen        |
+| [Bausch PAP &darr;](#bausch-pap)                           | Patient Assistance Program |
+| [Bilirubin &darr;](#bilirubin)                             |                            |
+| [CMV &darr;](#cmv)                                         | [Human] CytoMegaloVirus    |
+| [CPMC &darr;](#cmv)                                        | California Pacific Medical Center    |
+| [Camino Hospital IOP &darr;](#camino-hospital-iop)         | Intensive OutPatient
+| [Cirrhosis &darr;](#cirrhosis)                             |
+| [Corewell Health &darr;](#corewell-health)                 |
+| [CostPlus &darr;](#costplus)                               |
+| [Creatine &darr;](#creatine)                               |
+| [Creatine Test &darr;](#creatine-test)                     |
+| [DSA &darr;](#dsa)    <a id="d"></a>                       | Donor Service Area
+| [DXA scan &darr;](#dxa-scan)                               | Dual-Energy X-Ray Absorptiometry
+| [Decompensated Cirrhosis &darr;](#decompensated-cirrhosis) |
+| [Dialysis &darr;](#dialysis)                               |
+| [Diverticulitis &darr;](#diverticulitis)                   |
+| [Donor Info &darr;](#donor-info)                           |
+| [Drug Regimen &darr;](#drug-regimen)                       |
+| [Duncan Mills &darr;](#duncan-mills)                       |
+| [Dupuytren's contracture &darr;](#dupuytren's-contracture) |
+| [Dysphagia &darr;](#dysphagia)                             |
+| [ESLD &darr;](#esld)                                       | End-Stage Liver Disease 
+| [Edema &darr;](#edema)                                     |
+| [El Camino &darr;](#el-camino-car)                         |
+| [Encephalitis &darr;](#encephalitis)                       |
+| [Encephalopathy &darr;](#encephalopathy)                   |
+| [Erica Storm &darr;](#erica-storm)                         |
+| [Esophageal Varices &darr;](#esophageal-varices)           |
+| [Excess Protein &darr;](#excess-protein)                   |
+| [FIB-4 &darr;](#fib-4)                                     | Fibrosis-4 
+| [Fibroscan &darr;](#fibroscan)                             |
+| [Fibroscan &darr;](#fibroscan)                             |
+| [Filgrastim &darr;](#filgrastim)                           |
+| [Fistula &darr;](#fistula)                                 |
+| [GFR and Aging &darr;](#gfr-and-aging)  <a id="g"></a>     |
+| [GGT &darr;](#ggt)                                         |
+| [GGT &darr;](#ggt)                                         |
+| [Gabapentin &darr;](#gabapentin)                           |
+| [Gallbladder &darr;](#gallbladder)                         |
+| [Gallbladder Cancer &darr;](#gallbladder-cancer)           |
+| [Gougol &darr;](#gougol)                                   |
+| [Gynecomastia &darr;](#gynecomastia)                       |
+| [HCC GALAD Model &darr;](#hcc-galad-model)                 | Hepatocellular Carcinoma • Gender, Age, ...
+| [HE &darr;](#he)                                           | Hepatic Encephalopathy
+| [HIDA Scan &darr;](#hida-scan)                             | Hepatobiliary iminodiacetic acid
+| [HPMV &darr;](#hpmv)                                       | Human Metapneumovirus
+| [Hemochromatosis &darr;](#hemochromatosis)                 |
+| [Hemodialysis &darr;](#hemodialysis)                       |
+| [Hepatitis &darr;](#hepatitis)                             |
+| [Hypomagnesium &darr;](#hypomagnesium)                     |
+| [INR &darr;](#inr)    <a id="i"></a>                       | International Normalized Ratio 
+| [IOP &darr;](#iop)                                         | Intense Outpatient Program 
+| [Immunosuppressant &darr;](#immunosuppressant)             |
+| [Immunosuppression &darr;](#immunosuppression)             |
+| [Itching &darr;](#itching)                                 |
+| [J-Tube &darr;](#j-tube)                                   | Jejunal Tube
+| [Jaundice &darr;](#jaundice)                               | 
+| [Ketorolac &darr;](#ketorolac)                             |
+| [Kt/V &darr;](#ktv)                                        |
+| [LOLA &darr;](#lola)                                       | L‐ornithine‐L‐aspartate
+| [Lactulose &darr;](#lactulose)                             |
+| [Liver Circle &darr;](#liver-circle)                       |
+| [Liver In A Box &darr;](#liver-in-a-box)                   |
+| [Liver Pain &darr;](#liver-pain)                           |
+| [LiverSpot.org &darr;](#https://liverspot.org)             |
+| [MELD &darr;](#meld)    <a id="m"></a>                     | model for end-stage liver disease
+| [MELD Exception Score &darr;](#meld-exception-score)       |
+| [MRE &darr;](#mr)                                          | Magnetic resonance elastography
+| [MRI &darr;](#mri)                                         | Magnetic resonance imaging
+| [Medical Marijuana &darr;](#medical-marijuana)             |
+| [Multiple Listing &darr;](#multiple-listing)               |
+| [Mycophenolate Mofetil &darr;](#mycophenolate-mofetil)     |
+| [NASH Mofetil &darr;](#nash)                               | Nonalcoholic steatohepatitis 
+| [NIVESTYM Mofetil &darr;](#nivestym)                       |
+| [Naltrexone &darr;](#naltrexone)                           |
+| [Neuropathy &darr;](#neuropathy)                           |
+| [Neutropenia &darr;](#neutropenia)                         |
+| [Nurse Treats &darr;](#nurse-treats)                       |
+| [OPTN &darr;](#optn)                                       | Organ Procurement and Transplantation Network
+| [Osmolite &darr;](#osmolite)                               | 
 
-| Topic                                                                                | Link                                                                                                                                                                           |
-|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ACR <a id="a"></a> [&darr;](#acr)                                                    | [See Below: ACR](#acr)                                                                                                                                                         |
-| AFP [&darr;](#afp)                                                                   | [See Below: AFP](#afp)                                                                                                                                                         |
-| ALP (Alkaline phosphatase)  [&darr;](#alp)                                           | [See Below: ALP](#alp)                                                                                                                                                         |
-| Acyclovir                                                                            | [See Below: Acyclovir](#acyclovir)                                                                                                                                             |
-| Albumin [&darr;](#albumin)                                                           | [See Below: Albumin](#albumin)                                                                                                                                                 |
-| Ammonia Level                                                                        | [See Below: Ammonia Level](#ammonia-level)                                                                                                                                     |
-| Angioplasty                                                                          | <https://my.clevelandclinic.org/health/treatments/22060-angioplasty>                                                                                                           |
-| Ascites [&darr;](#ascites)                                                           | [See Below: Ascites](#ascites)                                                                                                                                                 |
-| Asterixis [&darr;](#asterixis)                                                       | [See Below: Asterixis](#asterixis)                                                                                                                                             |
-| Atrophy [&darr;](#atrophy)                                                           | [See below: Atrophy](#atrophy)                                                                                                                                                 |
-| BK Virus [&darr;](#bk-virus)                                                         | [See Below: BK Virus](#bk-virus)                                                                                                                                               |
-| BUN Test                                                                             | <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>                                                                                           |
-| Bausch PAP  [&darr;](#bausch-pap)                                                    | <https://www.bauschhealthpap.com/eligible-medications/    >                                                                                                                    |
-| Bilirubin [&darr;](#bilirubin)                                                       | [See Below: Bilirubin](#bilirubin)                                                                                                                                             |
-| CMV [&darr;](#cmv)                                                                   | [See Below: CMV](#cmv)                                                                                                                                                         |
-| CPMC                                                                                 | <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>                                                                                        | 
-| Camino Hospital IOP [&darr;](#mino-hospital-iop)                                     | [See Below: Camino Hospital IOP](#camino-hospital-iop)                                                                                                                         | 
-| Cirrhosis [&darr;](#cirrhosis)                                                       | [See Below: Cirrhosis](#cirrhosis)                                                                                                                                             |
-| Corewell Health   [&darr;](#corewell-health)                                         | [See Below: Corewell Health](#corewell-health)                                                                                                                                 |
-| CostPlus  [&darr;](#costplus)                                                        | [See Below: CostPlus](#costplus)                                                                                                                                               |
-| Creatine Test                                                                        | <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>                                                                                               |
-| Creatinine [&darr;](#creatinine)                                                     | [See Below: Creatinine](#creatinine)                                                                                                                                           |
-| DSA <a id="d"></a> [&darr;](#dsa)                                                    | [See Below: DSA](#dsa)                                                                                                                                                         |
-| DXA scan         [&darr;](#dxa-scan)                                                 | <https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test         >                                                                             |
-| Decompensated Cirrhosis [&darr;](#decompensated-cirrhosis)                           | [See Below: Decompensated Cirrhosis](#decompensated-cirrhosis)                                                                                                                 |
-| Dialysis [&darr;](#dialysis)                                                         | [See Below: Dialysis](#dialysis)                                                                                                                                               |
-| Diverticulitis   [&darr;](#diverticulitis)                                           | [See Below: Diverticulitis](#diverticulitis)                                                                                                                                   |
-| Donor Info  [&darr;](#donor-info)                                                    | [See below: Donor Info](#donor-info)                                                                                                                                           |
-| Drug Regimen [&darr;](#drug-regimen)                                                 | [See Below: Drug Regimen](#drug-regimen)                                                                                                                                       |
-| Duncan Mills    [&darr;](#duncan-mills)                                              | [See Below: Duncan Mills](#duncan-mills)                                                                                                                                       |
-| Dupuytren's contracture                                                              | <https://pubmed.ncbi.nlm.nih.gov/6672504/>                                                                                                                                     |
-| Dysphagia [&darr;](#dysphagia)                                                       | [See Below: Dysphagia](#dysphagia)                                                                                                                                             |
-| ESLD [&darr;](#esld)                                                                 | [See Below: ESLD](#esld)                                                                                                                                                       |
-| Edema [&darr;](#edema)                                                               | [See Below: Edema](#edema)                                                                                                                                                     |
-| El Camino    [&darr;](#el-camino-car)                                                | <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm                >                                                                                      | 
-| Encephalitis [&darr;](#encephalitis)                                                 | [See Below: Encephalitis](#encephalitis)                                                                                                                                       |
-| Encephalopathy [&darr;](#encephalopathy)                                             | [See Below: Encephalopathy](#encephalopathy)                                                                                                                                   |
-| Erica Storm     [&darr;](#erica-storm)                                               | [See Below: Erica Storm](#erica-storm)                                                                                                                                         |
-| Esophageal Varices [&darr;](#esophageal-varices)                                     | [See Below: Esophageal Varices](#esophageal-varices)                                                                                                                           |
-| Excess Protein                                                                       | <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                           |
-| FIB-4 [&darr;](#fib-4)                                                               | [See Below: FIB-4](#fib-4)                                                                                                                                                     |
-| Fibroscan  [&darr;](#fibroscan)                                                      | [See Below: Fibroscan](#fibroscan)                                                                                                                                             |
-| Fibroscan [&darr;](#fibroscan)                                                       | [See Below: Fibroscan](#fibroscan)                                                                                                                                             |
-| Filgrastim [&darr;](#filgrastim)                                                     | [See Below: Filgrastim](#filgrastim)                                                                                                                                           |
-| Fistula [&darr;](#fistula)                                                           | [See Below: Fistula](#fistula)                                                                                                                                                 |
-| GFR and Aging <a id="g"></a>   [&darr;](#gfr-and-aging)                              | [See Below: GFR and Aging](#gfr-and-aging)                                                                                                                                     |
-| GGT  [&darr;](#ggt)                                                                  | [See Below: GGT](#ggt)                                                                                                                                                         |
-| GGT [&darr;](#ggt)                                                                   | [See Below: GGT](#ggt)                                                                                                                                                         |
-| Gabapentin [&darr;](#gabapentin)                                                     | [See Below: Gabapentin](#gabapentin)                                                                                                                                           |
-| Gallbladder  [&darr;](#gallbladder)                                                  | <https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>                                                                           |
-| Gallbladder Cancer  [&darr;](#gallbladder-cancer)                                    | [See Below: Gallbladder Cancer](#gallbladder-cancer )                                                                                                                          |
-| Gougol     [&darr;](#gougol)                                                         | <https://med.stanford.edu/profiles/amir-gougol>                                                                                                                                |
-| Gynecomastia   [&darr;](#gynecomastia)                                               | [See Below: Gynecomastia](#gynecomastia)                                                                                                                                       |
-| HCC GALAD Model  [&darr;](#hcc-galad-model)                                          | <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>                                                                                                   |
-| HE    [&darr;](#he)                                                                  | [See Below: Hepatic Encephalopathy](#he)                                                                                                                                       |
-| HIDA Scan [&darr;](#hida-scan)                                                       | [See Below: HIDA Scan](#hida-scan)                                                                                                                                             |
-| HPMV                                                                                 | <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv                         >                                                                     |
-| Hemochromatosis [&darr;](#hemochromatosis)                                           | [See Below: Hemochromatosis](#hemochromatosis)                                                                                                                                 |
-| Hemodialysis [&darr;](#hemodialysis)                                                 | [See Below: Hemodialysis](#hemodialysis)                                                                                                                                       |
-| Hepatitis [&darr;](#hepatitis)                                                       | [See Below: Hepatitis](#hepatitis)                                                                                                                                             |
-| Hypomagnesium  [&darr;](#hypomagnesium)                                              | [See Below: Hypomagnesium](#hypomagnesium)                                                                                                                                     |
-| INR <a id="i"></a> [&darr;](#inr)                                                    | [See Below: INR](#inr)                                                                                                                                                         |
-| IOP   [&darr;](#iop)                                                                 | [See Below: Intense Outpatient Program](#iop)                                                                                                                                  | 
-| Immunosuppressant [&darr;](#immunosuppressant)                                       | [See Below: Immunosuppressant](#immunosuppressant)                                                                                                                             |
-| Immunosuppression    [&darr;](#immunosuppression)                                    | [See Below: Immunosuppression](#immunosuppression)                                                                                                                             |
-| Itching [&darr;](#itching)                                                           | [See Below: Itching](#itching)                                                                                                                                                 |
-| J-Tube [&darr;](#j-tube)                                                             | [See Below: J-Tube](#j-tube)                                                                                                                                                   |
-| Jaundice [&darr;](#jaundice)                                                         | [See Below: Jaundice](#jaundice)                                                                                                                                               |
-| Ketorolac                                                                            | <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882      >                                                             |
-| Kt/V      [&darr;](#ktv)                                                             | [See Below: Kt/V](#ktv)                                                                                                                                                        |
-| LOLA      [&darr;](#lola)                                                            | [See Below: LOLA](#lola)                                                                                                                                                       |
-| Lactulose [&darr;](#lactulose)                                                       | [See Below: Lactulose](#lactulose)                                                                                                                                             |
-| Liver Circle   [&darr;](#liver-circle)                                               | <https://www.thelivercircle.org >                                                                                                                                              |
-| Liver In A Box [&darr;](#liver-in-a-box)                                             | [See Below: Liver In A Box](#liver-in-a-box)                                                                                                                                   |
-| Liver Pain                                                                           | <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain  >                                                                                                 |
-| LiverSpot.org                                                                        | <https://liverspot.org>                                                                                                                                                        |
-| MELD  <a id="m"></a> [&darr;](#meld)                                                 | [See Below: MELD](#meld)                                                                                                                                                       |
-| MELD Exception Score [&darr;](#meld-exception-score)                                 | [See Below: MELD Exception Score](#meld-exception-score)                                                                                                                       |
-| MRE  [&darr;](#mre)                                                                  | [See Below: MRE](#mre)                                                                                                                                                         |
-| MRI  [&darr;](#mri)                                                                  | [See Below: MRI](#mri)                                                                                                                                                         |
-| Medical Marijuana                                                                    | <https://disa.com/marijuana-legality-by-state/>                                                                                                                                | 
-| Multiple Listing    [&darr;](#multiple-listing)                                      | [See Below: Multiple Listing](#multiple-listing)                                                                                                                               |
-| Mycophenolate Mofetil  [&darr;](#mycophenolate-mofetil)                              | [See Below: Mycophenolate Mofetil](#mycophenolate-mofetil)                                                                                                                     |
-| NASH  [&darr;](#nash)                                                                | [See Below: NASH](#nash)                                                                                                                                                       |
-| NIVESTYM [&darr;](#nivestym)                                                         | [See Below: NIVESTYM](#nivestym)                                                                                                                                               |
-| Naltrexone                                                                           | <https://www.drugs.com/naltrexone.html>                                                                                                                                        |
-| Neuropathy [&darr;](#neuropathy)                                                     | [See below: Neuropathy](#neuropathy)                                                                                                                                           |
-| Neutropenia  [&darr;](#neutropenia)                                                  | <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>                                                                                                             |
-| Nurse Treats [&darr;](#nurse-treats)                                                 | [See below: Nurse Treats](#nurse-treats)                                                                                                                                       |
-| OPTN  [&darr;](#optn)                                                                | [See Below: OPTN](#optn)                                                                                                                                                       |
+                                                                            |
 | Osmolite                                                                             | <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>                                                                                 |
 | Oxycodone                                                                            | <https://medlineplus.gov/druginfo/meds/a682132.html   >                                                                                                                        |
 | PET  <a id="p"></a> [&darr;](#pet)                                                   | [See below: PET](#pet)                                                                                                                                                         |
@@ -275,6 +281,11 @@ Acute cellular rejection
 * [1]&nbsp;<https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia>
 * [2]&nbsp;<https://www.dairbook.com/glossary/albumin>
 
+
+### Angioplasty
+
+* <https://my.clevelandclinic.org/health/treatments/22060-angioplasty>
+
 ### Ascites
 «Ascites is the accumulation of water in the abdomen, commonly due to leakage from the liver’s portal vein. Ascites adds significant body weight as the water accumulates, making movement more difficult. It also pushes on internal organs, and this compression can affect ability to breath, eat, and other body activities.» — [3]
 
@@ -322,6 +333,10 @@ What it is: A program that provides Xifaxan at no cost for up to one year for el
 
 * [1]&nbsp;<https://medlineplus.gov/lab-tests/bilirubin-blood-test/>
 * [2]&nbsp;<https://www.dairbook.com/glossary/bilirubin>
+
+### BUN Test
+
+* <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>
 
 ### CMV
 
@@ -375,6 +390,10 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 
 * [1]&nbsp;<https://www.mountsinai.org/health-library/tests/creatinine-blood-test>
 * [2]&nbsp;<https://www.dairbook.com/glossary/creatinine>
+
+### Creatinine Test
+
+* <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>  
 
 ### DSA
 A Donor Service Area (DSA) is a smaller portion of a UNOS Region in which organs can be transported successfully.
@@ -431,6 +450,9 @@ When these pouches become inflamed, the condition is called diverticulitis. Infl
 * <https://duncansmillsvillage.com/directions/>
 
 
+### Dupuytren's contracture 
+
+* <https://pubmed.ncbi.nlm.nih.gov/6672504/>                                                                                                                                     |
 
 ### Dysphagia
 Dysphagia is an inability to swallow properly. Food and liquids orally taken can be aspirated (inhaled) and cause pneumonia and other illness.
@@ -475,6 +497,10 @@ Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tis
 Esophageal varices are enlarged veins in the esophagus, the tube that connects the throat and stomach. Esophageal varices most often happen in people with serious liver diseases.
 
 * [1]&nbsp;<https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538>
+
+### Excess Protein                                                           
+
+* <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                           |
 
 ### FIB-4
 Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarring in HCV and HBV patients, to assess need for biopsy.
@@ -526,6 +552,7 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 « gallbladder attached to the donor liver will be detached to ensure that it does not cause problems with your new liver, and your gallbladder will also be removed. » — [1]
 
 * [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC6230845/>
+* [2]&nbsp;<https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>
 
 ### Gallbladder Cancer
 
@@ -579,6 +606,10 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 
 * [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/17099-hida-scan>
 * [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/hida-scan/about/pac-20384701>
+
+### HPMV                                                                     
+
+* <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv>                                                                     
 
 ### Hemochromatosis
 Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much iron from the food you eat. Excess iron is stored in your organs, especially your liver, heart and pancreas. Too much iron can lead to life-threatening conditions, such as liver disease, heart problems and diabetes.
@@ -671,6 +702,10 @@ A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to 
 * [1]&nbsp;<https://medlineplus.gov/ency/article/000210.htm>
 
 
+### Ketorolac                                                                
+
+* <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882> 
+
 ### Kt/V
 The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo or peritoneal)
 
@@ -714,6 +749,9 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 
 * [1]&nbsp;<https://www.mayoclinic.org/medical-professionals/transplant-medicine/news/liver-in-a-box-offers-potential-for-providing-liver-transplant-to-more-patients/mac-20533186>
 * [2]&nbsp;<https://news.ohsu.edu/2023/08/16/liver-in-a-box-helps-save-more-lives-can-improve-transplant-outcomes>
+
+### Liver Pain                                                                         
+* <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain>                                                                                                
 
 ### MELD
 
@@ -759,6 +797,10 @@ Magnetic resonance imaging (MRI) is a type of diagnostic test that can create de
 * [1]&nbsp;<https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/magnetic-resonance-imaging-mri>
 * [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768>
 
+### Medical Marijuana  
+
+* <https://disa.com/marijuana-legality-by-state/>                                                                                                                               
+
 ### Multiple Listing
 
 Multiple listing involves registering at two or more transplant hospitals.
@@ -793,7 +835,7 @@ Peripheral neuropathy happens when the nerves that are located outside of the br
 «Neutropenia involves having lower-than-normal levels of neutrophils (a type of white blood cell) in your blood. It’s especially common among people receiving cancer treatments, like chemotherapy. Neutrophils help fight infections. If you have neutropenia, it’s important to take extra precautions to avoid germs that may make you sick.» — [2]
 
   * [1]&nbsp;<https://hillman.upmc.com/patients/community-support/education/miscellaneous/neutropenia>
-  * [2] https://my.clevelandclinic.org/health/diseases/21058-neutropenia
+  * [2] <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>
 
 «
 Hand washing should be done:
