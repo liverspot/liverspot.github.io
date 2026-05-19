@@ -715,8 +715,6 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 
 ### MELD
 
-A model for end-stage liver disease
-
 «The model for end-stage liver disease (MELD) score helps decide how urgently someone needs a liver transplant in the next three months. The score ranges from 6 to 40. A person with a higher score needs a liver transplant sooner than does a person with a lower score.» — [1]
 
   * [1] Mayo Clinic — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
@@ -726,8 +724,9 @@ A model for end-stage liver disease
   * [5]&nbsp;<https://www.dairbook.com/stories/mark-20240219a>
   * [6] Very Well Health — <https://www.verywellhealth.com/meld-score-4783410>
   * [7] UPMC: «Understanding Your MELD Score for Liver Transplant» — <https://www.upmc.com/services/transplant/patients/resources/meld-score>
+  * [8] «MELD 3.0 adequately predicts mortality and renal replacement therapy» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10339256/>
 
-Only really relevant if a transplant is indicated, but used somewhat to produce an aggregate sickness level.
+The MELD score is really only relevant if a transplant (renal replacement therapy) is indicated, but used somewhat to produce an approximate  sickness level for someone with Cirrhosis.
 
 There are statistical correlations between level of liver illness (e.g. the MELD score) and the chance of survival for a period of time (E.g. « A MELD score above 30 indicates a 50% chance of dying in three months.» — [2] ).
 
