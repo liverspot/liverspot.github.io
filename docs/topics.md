@@ -20,26 +20,26 @@ permalink: /topics/
     table tr:nth-child(23), /*D*/ 
     table tr:nth-child(33), /*E*/ 
     table tr:nth-child(41), /*F*/ 
-    table tr:nth-child(46), /*G*/ 
-    table tr:nth-child(54),  /*H*/
-    table tr:nth-child(62),  /*I*/
-    table tr:nth-child(67),  /*J*/
-    table tr:nth-child(69),  /*K*/
-    table tr:nth-child(71),  /*L*/
-    table tr:nth-child(77),  /*M*/
-    table tr:nth-child(84),  /*N*/
-    table tr:nth-child(90),  /*O*/
-    table tr:nth-child(93),  /*P*/
-    table tr:nth-child(93),  /*Q*/
-    table tr:nth-child(100),  /*R*/
-    table tr:nth-child(104),  /*S*/
-    table tr:nth-child(110), /*T*/
-    table tr:nth-child(125), /*U*/
-    table tr:nth-child(130), /*V*/
-    table tr:nth-child(130), /*W*/
-    table tr:nth-child(132), /*X*/
-    table tr:nth-child(132), /*Y*/
-    table tr:nth-child(132) /*Z*/
+    table tr:nth-child(45), /*G*/ 
+    table tr:nth-child(52),  /*H*/
+    table tr:nth-child(60),  /*I*/
+    table tr:nth-child(65),  /*J*/
+    table tr:nth-child(67),  /*K*/
+    table tr:nth-child(69),  /*L*/
+    table tr:nth-child(75),  /*M*/
+    table tr:nth-child(82),  /*N*/
+    table tr:nth-child(88),  /*O*/
+    table tr:nth-child(91),  /*P*/
+    table tr:nth-child(91),  /*Q*/
+    table tr:nth-child(98),  /*R*/
+    table tr:nth-child(102),  /*S*/
+    table tr:nth-child(108), /*T*/
+    table tr:nth-child(123), /*U*/
+    table tr:nth-child(128), /*V*/
+    table tr:nth-child(128), /*W*/
+    table tr:nth-child(130), /*X*/
+    table tr:nth-child(130), /*Y*/
+    table tr:nth-child(130) /*Z*/
    {   
     color: #2e6da4;
     font-weight: bold;
@@ -141,12 +141,10 @@ The following contains topics that have been brought up during discussions relat
 | [Excess Protein &darr;](#excess-protein)                                           |
 | [FIB-4 &darr;](#fib-4)                                                             | Fibrosis-4                                    
 | [Fibroscan &darr;](#fibroscan)                                                     |
-| [Fibroscan &darr;](#fibroscan)                                                     |
 | [Filgrastim &darr;](#filgrastim)                                                   |
 | [Fistula &darr;](#fistula)                                                         |
-| [GFR and Aging &darr;](#gfr-and-aging)  <a id="g"></a>                             |
+| [GFR and Aging &darr;](#gfr-and-aging)  <a id="g"></a>                             | Glomerular Filtration Rate
 | [GGT &darr;](#ggt)                                                                 | gamma-glutamyl transferase                    
-| [GGT &darr;](#ggt)                                                                 |
 | [Gabapentin &darr;](#gabapentin)                                                   |
 | [Gallbladder &darr;](#gallbladder)                                                 |
 | [Gallbladder Cancer &darr;](#gallbladder-cancer)                                   |
@@ -542,7 +540,7 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 
 * [1] Ageing and the Glomerular Filtration Rate: Truths and Consequences —  <https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/>
 
-«This paper discusses the known effects of ageing on GFR and the consequences of using a classification system for defining CKD that does not take into account the normal decline of GFR with ageing» — [1]
+«This paper discusses the known effects of ageing on GFR ‹Glomerular Filtration Rate› and the consequences of using a classification system for defining CKD that does not take into account the normal decline of GFR with ageing» — [1]
 
 ### GGT
 
