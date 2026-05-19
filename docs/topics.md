@@ -406,7 +406,7 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 ### DSA
 A Donor Service Area (DSA) is a smaller portion of a UNOS Region in which organs can be transported successfully.
 
-* [1] https://www.organdonationalliance.org/glossary/dsa/
+* [1] <https://www.organdonationalliance.org/glossary/dsa/>
 
 ### DXA scan
 
@@ -520,10 +520,10 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 ### Fibroscan
 «FibroScan is a special ultrasound technology that measures liver stiffness (hardness) and fatty changes in your liver. These measurements help your healthcare provider learn more about your liver disease» — [1]
 
-* [1]&nbsp;<https://www.mskcc.org/cancer-care/patient-education/understanding-your-fibroscan-results
-* [2]&nbsp;<https://agcosprings.com/procedures/fibroscan/
-* [3]&nbsp;<https://tawazunhealth.com/fibrosscan-stiffness-results/
-* [4]&nbsp;<https://tawazunhealth.com/wp-content/uploads/2021/03/Wbe-Stiffness-2021.png
+* [1]&nbsp;<https://www.mskcc.org/cancer-care/patient-education/understanding-your-fibroscan-results>
+* [2]&nbsp;<https://agcosprings.com/procedures/fibroscan/>
+* [3]&nbsp;<https://tawazunhealth.com/fibrosscan-stiffness-results/>
+* [4]&nbsp;<https://tawazunhealth.com/wp-content/uploads/2021/03/Wbe-Stiffness-2021.png>
 
 ### Filgrastim
 
