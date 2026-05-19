@@ -33,13 +33,13 @@ permalink: /topics/
     table tr:nth-child(93),  /*Q*/
     table tr:nth-child(100),  /*R*/
     table tr:nth-child(104),  /*S*/
-    table tr:nth-child(109), /*T*/
-    table tr:nth-child(123), /*U*/
-    table tr:nth-child(128), /*V*/
-    table tr:nth-child(128), /*W*/
-    table tr:nth-child(130), /*X*/
-    table tr:nth-child(130), /*Y*/
-    table tr:nth-child(130) /*Z*/
+    table tr:nth-child(110), /*T*/
+    table tr:nth-child(125), /*U*/
+    table tr:nth-child(130), /*V*/
+    table tr:nth-child(130), /*W*/
+    table tr:nth-child(132), /*X*/
+    table tr:nth-child(132), /*Y*/
+    table tr:nth-child(132) /*Z*/
    {   
     color: #2e6da4;
     font-weight: bold;
@@ -176,8 +176,8 @@ The following contains topics that have been brought up during discussions relat
 | OPTN  [&darr;](#optn)                                                                | [See Below: OPTN](#optn)                                                                                                                                                       |
 | Osmolite                                                                             | <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>                                                                                 |
 | Oxycodone                                                                            | <https://medlineplus.gov/druginfo/meds/a682132.html   >                                                                                                                        |
-| PET  <a id="p"></a> [&darr;](#pet)                                                                  | [See below: PET](#pet)                                                                                                                                                         |
-| PEth  [&darr;](#peth)                                                 | [See below: PEth](#peth)                                                                                                                                                       |
+| PET  <a id="p"></a> [&darr;](#pet)                                                   | [See below: PET](#pet)                                                                                                                                                         |
+| PEth  [&darr;](#peth)                                                                | [See below: PEth](#peth)                                                                                                                                                       |
 | PT  [&darr;](#pt)                                                                    | [See Below: PT](#pt)                                                                                                                                                           |
 | Paracentesis [&darr;](#paracentesis)                                                 | <https://my.clevelandclinic.org/health/procedures/paracentesis>                                                                                                                | 
 | Pink Cloud                                                                           | <https://www.healthline.com/health/pink-cloud>                                                                                                                                 |
@@ -191,6 +191,7 @@ The following contains topics that have been brought up during discussions relat
 | Safety net                    [&darr;](#safety-net)                                  | [See Below: Safety Net](#safety-net)                                                                                                                                           |
 | Scar Tissue [&darr;](#scar-tissue)                                                   | [See Below: Scar Tissue](#scar-tissue)                                                                                                                                         |
 | Skin Cancer Risk           [&darr;](#skin-cancer-risk)                               | <https://www.ucsfhealth.org/education/organ-transplant-and-skin-cancer-risk>                                                                                                   | 
+| Skin Changes           [&darr;](#skin-changes)                                       | [See Below: Skin Changes](#skin-changes)                                                                                                   | 
 | St. Mary's                                                                           | <https://saintmarysreno.com    >                                                                                                                                               |
 | TACE  <a id="t"></a> [&darr;](#tace)                                                 | [See Below: TACE](#tace)                                                                                                                                                       |
 | TIPS                           [&darr;](#tips)                                       | [See Below: TIPS](#tips)                                                                                                                                                       |
@@ -204,6 +205,7 @@ The following contains topics that have been brought up during discussions relat
 | Tramadol                                                                             | 	<https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050  >                                                                                 |
 | Transplant Age [&darr;](#transplant-age)                                             | [See below: Transplant Age](#transplant-age)                                                                                                                                   |
 | Transplant Games            [&darr;](#transplant-games)                              | <https://www.transplantgamesofamerica.org  >                                                                                                                                   |
+| Transplant Gender            [&darr;](#transplant-gender)                            | [See below: Transplant Gender](#transplant-gender)                                                                                                                                    |
 | Transplant Survival Benefit            [&darr;](#transplant-survival-benefit)        | [See below: Transplant Survival Benefit](#transplant-survival-benefit)                                                                                                         |
 | Tumeric                                                                              | <https://www.ynhhs.org/articles/supplements-liver-damage >                                                                                                                     |
 | UNOS  [&darr;](#unos)                                                                | [See Below: UNOS](#unos)                                                                                                                                                       |
@@ -932,6 +934,12 @@ Scar tissue reaches approximately 50% of original skin strength at 6 weeks and u
 
 At least need yearly skin checks, although someone heard it needs to be four times per year.
 
+### Skin Changes
+
+Cirrhosis can cause nutrient deficiencies that make skin more susceptible to cuts and tears.  Especially 'paper skin' where whole swaths of skin come off are 'disturbing', especially when combined with poor blood clotting (see INR or PT) that can also accompany cirrhosis.  
+
+* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC9257870/>
+* [2]&nbsp;<https://www.mypbcteam.com/resources/thin-skin-and-easy-bruising-are-they-symptoms-of-pbc>
 
 ### TACE
 «Transarterial chemoembolization (TACE) places chemotherapy and synthetic materials called embolic agents into a blood vessel feeding a cancerous tumor to cut off the tumor's blood supply and trap the chemotherapy within the tumor. It is most often used to treat liver cancer but may also be used in patients whose cancer has spread to other areas of the body. Chemoembolization may be used as a standalone treatment or in combination with surgery, ablation, chemotherapy or radiation therapy.» — [1]
@@ -996,6 +1004,10 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 ### Transplant Games
 
 * <https://www.transplantgamesofamerica.org>
+
+### Transplant Gender Correlations
+
+* Gender gap study: <https://pmc.ncbi.nlm.nih.gov/articles/PMC4964018/>
 
 ### Transplant Survival Benefit
 
