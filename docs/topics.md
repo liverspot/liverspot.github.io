@@ -129,7 +129,7 @@ The following contains topics that have been brought up during discussions relat
 | [Donor Info &darr;](#donor-info)                                                   |
 | [Drug Regimen &darr;](#drug-regimen)                                               |
 | [Duncan Mills &darr;](#duncan-mills)                                               |
-| [Dupuytren's contracture &darr;](#dupuytren's-contracture)                         |
+| [Dupuytren's contracture &darr;](#dupuytrens-contracture)                         |
 | [Dysphagia &darr;](#dysphagia)                                                     |
 | [ESLD &darr;](#esld)                                                               | End-Stage Liver Disease                       
 | [Edema &darr;](#edema)                                                             |
@@ -460,7 +460,7 @@ When these pouches become inflamed, the condition is called diverticulitis. Infl
 
 ### Dupuytren's contracture 
 
-* <https://pubmed.ncbi.nlm.nih.gov/6672504/>                                                                                                                                     |
+* <https://pubmed.ncbi.nlm.nih.gov/6672504/>                                                                                                                                    
 
 ### Dysphagia
 Dysphagia is an inability to swallow properly. Food and liquids orally taken can be aspirated (inhaled) and cause pneumonia and other illness.
@@ -508,7 +508,7 @@ Esophageal varices are enlarged veins in the esophagus, the tube that connects t
 
 ### Excess Protein                                                           
 
-* <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                           |
+* <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                           
 
 ### FIB-4
 Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarring in HCV and HBV patients, to assess need for biopsy.
