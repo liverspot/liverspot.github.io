@@ -227,7 +227,7 @@ The following contains topics that have been brought up during discussions relat
 | [UNOS Regions &darr;](#unos-regions)                                               |
 | [Umbilical Hernia &darr;](#umbilical-hernia)                                       |
 | [Ursodiol &darr;](#ursodiol)                                                       |
-| [uACR &darr;](#uacr)                                                               | Urine Albumine Creatinine Ratio (
+| [uACR &darr;](#uacr)                                                               | Urine Albumine Creatinine Ratio 
 | [Valcyte &darr;](#valcyte)   <a id="v"></a>                                        |
 | [Vivitrol &darr;](#vivitrol)                                                       |
 | [XIAFLEX &darr;](#xiaflex)                                                         |
@@ -1052,7 +1052,8 @@ Cirrhosis can cause nutrient deficiencies that make skin more susceptible to cut
 ### Tacrolimus vs. CellCept
 «Tacrolimus (a calcineurin inhibitor) is generally more potent at preventing acute rejection, while CellCept is often better tolerated with fewer metabolic side effects» — [AI]
 
-* <https://www.amjtransplant.org/article/S1600-6135(22)03862-X/fulltext>                                                                                                        
+* <https://www.amjtransplant.org/article/S1600-6135(22)03862-X/fulltext>
+
 ### Tacrolimus-induced Ascites
 
 * <https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/>                                                                                                                            
@@ -1073,7 +1074,8 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 ### Topical Tacrolimus 
 
-* <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159>                                                                              
+* <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159>      
+
 ### Tramadol
 
 * <https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050  >                                                                                 
