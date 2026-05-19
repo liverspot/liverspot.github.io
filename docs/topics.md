@@ -78,12 +78,24 @@ h3 {
     padding-inline-start: 20px; 
   }
 
+table td, th {
+    padding: 2px 6px; /* Or a small value like 2px */
+}
+
+/* 9.999999999px 15px */
+
+/*div {*/
+/*column-count: 3;*/
+/*}*/
+
 </style>
 
 
 The following contains topics that have been brought up during discussions related to organ disease and treatments.  This page contains both a quick-link table and a section further below with more details on some of the topics.
 
 *Sections:*  &nbsp;&nbsp; [A-C](#a) &nbsp;•&nbsp; [D-F](#d) &nbsp;•&nbsp; [G-H](#g) &nbsp;•&nbsp; [I-L](#i) &nbsp;•&nbsp; [M-O](#m) &nbsp;•&nbsp; [P-S](#p) &nbsp;•&nbsp; [T-U](#t) &nbsp;•&nbsp; [V-Z](#v) &nbsp;•&nbsp; [Details](#topic-details)
+
+
 
 | Topic                                                                              | Acronym Expanded                              | 
 |------------------------------------------------------------------------------------|-----------------------------------------------|
