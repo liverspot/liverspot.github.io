@@ -79,7 +79,7 @@ h3 {
   }
 
 table td, th {
-    padding: 2px 6px; /* Or a small value like 2px */
+    padding: 2px 15px; /* Or a small value like 2px */
 }
 
 /* 9.999999999px 15px */
