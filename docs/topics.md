@@ -651,7 +651,7 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 
 * [1] Ageing and the Glomerular Filtration Rate: Truths and Consequences —  <https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/>
 
-«This paper discusses the known effects of ageing on GFR ‹Glomerular Filtration Rate› and the consequences of using a classification system for defining CKD that does not take into account the normal decline of GFR with ageing» — [1]
+«This paper discusses the known effects of ageing on GFR 〚Glomerular Filtration Rate〛and the consequences of using a classification system for defining CKD that does not take into account the normal decline of GFR with ageing» — [1]
 
 ### GGT
 
