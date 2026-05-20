@@ -14,32 +14,139 @@ permalink: /topics/
     color: white;
   }
 
-    table tr:nth-child(1), /*A*/ 
-    table tr:nth-child(11), /*B*/ 
-    table tr:nth-child(15), /*C*/ 
-    table tr:nth-child(23), /*D*/ 
-    table tr:nth-child(33), /*E*/ 
-    table tr:nth-child(41), /*F*/ 
-    table tr:nth-child(45), /*G*/ 
-    table tr:nth-child(52),  /*H*/
-    table tr:nth-child(60),  /*I*/
-    table tr:nth-child(65),  /*J*/
-    table tr:nth-child(67),  /*K*/
-    table tr:nth-child(69),  /*L*/
-    table tr:nth-child(75),  /*M*/
-    table tr:nth-child(82),  /*N*/
-    table tr:nth-child(88),  /*O*/
-    table tr:nth-child(91),  /*P*/
-    table tr:nth-child(91),  /*Q*/
-    table tr:nth-child(98),  /*R*/
-    table tr:nth-child(102),  /*S*/
-    table tr:nth-child(108), /*T*/
-    table tr:nth-child(123), /*U*/
-    table tr:nth-child(128), /*V*/
-    table tr:nth-child(128), /*W*/
-    table tr:nth-child(130), /*X*/
-    table tr:nth-child(130), /*Y*/
-    table tr:nth-child(130) /*Z*/
+table tr:nth-child(1), /*A*/
+
+
+
+
+
+
+
+
+
+table tr:nth-child(11), /*B*/
+
+
+
+table tr:nth-child(15), /*C*/
+
+
+
+
+
+
+
+table tr:nth-child(23), /*D*/
+
+
+
+
+
+
+
+
+
+table tr:nth-child(33), /*E*/
+
+
+
+
+
+
+
+table tr:nth-child(41), /*F*/
+
+
+
+table tr:nth-child(45), /*G*/
+
+
+
+
+
+
+table tr:nth-child(52), /*H*/
+
+
+
+
+
+
+
+table tr:nth-child(60), /*I*/
+
+
+
+
+table tr:nth-child(65), /*J*/
+
+table tr:nth-child(67), /*K*/
+
+table tr:nth-child(69), /*L*/
+
+
+
+
+
+table tr:nth-child(75), /*M*/
+
+
+
+
+
+
+table tr:nth-child(82), /*N*/
+
+
+
+
+
+table tr:nth-child(88), /*O*/
+
+
+table tr:nth-child(91), /*P*/
+
+
+
+
+
+
+table tr:nth-child(98), /*R*/
+
+
+
+table tr:nth-child(102), /*S*/
+
+
+
+
+
+table tr:nth-child(108), /*T*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table tr:nth-child(123), /*U*/
+
+
+
+
+table tr:nth-child(128), /*V*/
+
+table tr:nth-child(130), /*X*/
+
+table tr:nth-child(130), /*Y*/
+table tr:nth-child(130) /*Z*/
    {   
     color: #2e6da4;
     font-weight: bold;
