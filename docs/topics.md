@@ -54,75 +54,75 @@ table tr:nth-child(33), /*E*/
 
 
 
-table tr:nth-child(41), /*F*/
 
+table tr:nth-child(42), /*F*/
 
 
-table tr:nth-child(45), /*G*/
 
+table tr:nth-child(46), /*G*/
 
 
 
 
 
-table tr:nth-child(52), /*H*/
 
+table tr:nth-child(53), /*H*/
 
 
 
 
 
 
-table tr:nth-child(60), /*I*/
 
+table tr:nth-child(61), /*I*/
 
 
 
-table tr:nth-child(65), /*J*/
 
-table tr:nth-child(67), /*K*/
+table tr:nth-child(66), /*J*/
 
-table tr:nth-child(69), /*L*/
+table tr:nth-child(68), /*K*/
 
+table tr:nth-child(70), /*L*/
 
 
 
 
-table tr:nth-child(75), /*M*/
 
+table tr:nth-child(76), /*M*/
 
 
 
 
 
-table tr:nth-child(82), /*N*/
 
+table tr:nth-child(83), /*N*/
 
 
 
 
-table tr:nth-child(88), /*O*/
 
+table tr:nth-child(89), /*O*/
 
-table tr:nth-child(91), /*P*/
 
+table tr:nth-child(92), /*P*/
 
 
 
 
 
-table tr:nth-child(98), /*R*/
 
+table tr:nth-child(99), /*R*/
 
 
-table tr:nth-child(102), /*S*/
 
+table tr:nth-child(103), /*S*/
 
 
 
 
-table tr:nth-child(108), /*T*/
 
+table tr:nth-child(109), /*T*/
 
 
 
@@ -137,14 +137,15 @@ table tr:nth-child(108), /*T*/
 
 
 
-table tr:nth-child(124), /*U*/
 
+table tr:nth-child(125), /*U*/
 
 
 
-table tr:nth-child(129), /*V*/
 
-table tr:nth-child(131), /*X*/
+table tr:nth-child(130), /*V*/
+
+table tr:nth-child(132), /*X*/
 
 
 table tr:nth-child(1), /*Y*/
@@ -248,6 +249,7 @@ The following entries contain information on topics that have been brought up du
 |[Encephalopathy &darr;](#encephalopathy)||
 |[Erica Storm &darr;](#erica-storm)||
 |[Esophageal Varices &darr;](#esophageal-varices)||
+|[Everolimus &darr;](#everolimus)||
 |[Excess Protein &darr;](#excess-protein)||
 |[FIB-4 &darr;](#fib-4) <a id="f"></a>|Fibrosis-4|
 |[Fibroscan &darr;](#fibroscan)||
@@ -282,7 +284,7 @@ The following entries contain information on topics that have been brought up du
 |[Liver Circle &darr;](#liver-circle)||
 |[Liver In A Box &darr;](#liver-in-a-box)||
 |[Liver Pain &darr;](#liver-pain)||
-| [LiverSpot.org &darr;](https://liverspot.org)                                      |                                               |
+|[LiverSpot.org &darr;](#liverspotorg)||
 |[MELD &darr;](#meld) <a id="m"></a>|model for end-stage liver disease|
 |[MELD Exception Score &darr;](#meld-exception-score)||
 |[MRE &darr;](#mre)|Magnetic resonance elastography|
@@ -614,6 +616,19 @@ Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tis
 Esophageal varices are enlarged veins in the esophagus, the tube that connects the throat and stomach. Esophageal varices most often happen in people with serious liver diseases.
 
 * [1]&nbsp;<https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538>
+
+### Everolimus
+
+«Everolimus is used to treat advanced (late-stage) cancers or noncancerous tumors, such as kidney and breast cancer, subependymal giant cell astrocytoma (SEGA, a brain tumor), renal angiomyolipoma (kidney tumor), and partial-onset seizures (epilepsy) with tuberous sclerosis complex (TSC), and neuroendocrine tumors of the pancreas, stomach or bowels, and lungs. It is used for patients who have already received other medicines that did not work well or those who will not be treated with surgery.
+
+Everolimus works by interfering with the growth of cancer cells, which are eventually destroyed by the body. Since the growth of normal body cells may also be affected, other unwanted effects will also occur. It belongs to the group of medicines known as antineoplastics (cancer medicines).
+» — [2]
+
+«Efficacy and safety of everolimus with reduced tacrolimus» — [1]
+
+* [1]&nbsp;<https://pubmed.ncbi.nlm.nih.gov/41110610/>
+* [2]&nbsp;<https://www.mayoclinic.org/drugs-supplements/everolimus-oral-route/description/drg-20072842>
+
 
 ### Excess Protein                                                           
 
