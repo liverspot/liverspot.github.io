@@ -200,11 +200,12 @@ table td, th {
 </style>
 
 
-The following contains topics that have been brought up during discussions related to organ disease and treatments.  This page contains both a quick-link table and a section further below with more details on some of the topics.
+The following entries contain information on topics that have been brought up during discussions related to organ disease and treatments.  
 
-*Sections:*  &nbsp;&nbsp; [A-C](#a) &nbsp;•&nbsp; [D-F](#d) &nbsp;•&nbsp; [G-H](#g) &nbsp;•&nbsp; [I-L](#i) &nbsp;•&nbsp; [M-O](#m) &nbsp;•&nbsp; [P-S](#p) &nbsp;•&nbsp; [T-U](#t) &nbsp;•&nbsp; [V-Z](#v) &nbsp;•&nbsp; [Details](#topic-details)
+* *Index:*  &nbsp;&nbsp; [A-C](#a) &nbsp;•&nbsp; [D-F](#d) &nbsp;•&nbsp; [G-H](#g) &nbsp;•&nbsp; [I-L](#i) &nbsp;•&nbsp; [M-O](#m) &nbsp;•&nbsp; [P-S](#p) &nbsp;•&nbsp; [T-U](#t) &nbsp;•&nbsp; [V-Z](#v)  
+* *[Entries](#entries)*
 
-
+## Index
 
 | Topic                                                                              | Acronym Expanded                              | 
 |------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -342,7 +343,7 @@ The following contains topics that have been brought up during discussions relat
 |[Xifaxan &darr;](#xifaxan)||
 
 
-## Topic Details
+## Entries
 
 {% comment %}
 ====================================================================================
