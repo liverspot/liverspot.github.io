@@ -1069,6 +1069,12 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 * <https://my.clevelandclinic.org/health/treatments/24254-thoracentesis>
 
+### Tinnitus
+
+«Tinnitus is when you experience ringing or other noises in one or both of your ears.» — [1]
+
+* [1]&nbsp;<https://www.mayoclinic.org/diseases-conditions/tinnitus/symptoms-causes/syc-20350156>
+
 
 ### Topical Tacrolimus 
 
