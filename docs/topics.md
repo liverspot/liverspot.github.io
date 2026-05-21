@@ -213,46 +213,46 @@ The following entries contain information on topics that have been brought up du
 
 | Topic                                                                              | Acronym Expanded                              | 
 |------------------------------------------------------------------------------------|-----------------------------------------------|
-|[ACR &darr;](#acr) <a id="a"></a>|Acute cellular rejection|
-|[AFP &darr;](#afp)|Alpha-fetoprotein|
-|[ALP &darr;](#alp)|Alkaline phosphatase|
+|[ACR &darr;](#acr) <a id="a"></a>|Acute Cellular Rejection|
 |[Acyclovir &darr;](#acyclovir)||
+|[AFP &darr;](#afp)|Alpha-Fetoprotein|
 |[Albumin &darr;](#albumin)||
+|[ALP &darr;](#alp)|Alkaline phosphatase|
 |[Ammonia Level &darr;](#ammonia-level)||
 |[Angioplasty &darr;](#angioplasty)||
 |[Ascites &darr;](#ascites)||
 |[Asterixis &darr;](#asterixis)||
 |[Atrophy &darr;](#atrophy)||
-|[BK Virus &darr;](#bk-virus) <a id="b"></a>|'BK' are initials|
-|[BUN Test &darr;](#bun-test)|Blood-urea-nitrogen|
-|[Bausch PAP &darr;](#bausch-pap)|Patient Assistance Program|
+|[Bausch PAP &darr;](#bausch-pap) <a id="b"></a>|Patient Assistance Program|
 |[Bilirubin &darr;](#bilirubin)||
-|[CMV &darr;](#cmv) <a id="c"></a>|[Human] CytoMegaloVirus|
-|[CPMC &darr;](#cpmc)|California Pacific Medical Center|
-|[Camino Hospital IOP &darr;](#camino-hospital-iop)|Intensive OutPatient|
+|[BK Virus &darr;](#bk-virus)|'BK' are initials|
+|[BUN Test &darr;](#bun-test)|Blood-urea-nitrogen|
+|[Camino Hospital IOP &darr;](#camino-hospital-iop) <a id="c"></a>|Intensive OutPatient|
 |[Cirrhosis &darr;](#cirrhosis)||
+|[CMV &darr;](#cmv)|[Human] CytoMegaloVirus|
 |[Corewell Health &darr;](#corewell-health)||
 |[CostPlus &darr;](#costplus)||
+|[CPMC &darr;](#cpmc)|California Pacific Medical Center|
 |[Creatinine &darr;](#creatinine)||
 |[Creatinine Test &darr;](#creatinine-test)||
-|[DSA &darr;](#dsa) <a id="d"></a>|Donor Service Area|
-|[DXA scan &darr;](#dxa-scan)|Dual-Energy X-Ray Absorptiometry|
+|[Deceased Organ Donation &darr;](#deceased-organ-donation) <a id="d"></a>||
 |[Deceased-Donor Liver Size &darr;](#deceased-donor-liver-size)||
-|[Deceased Organ Donation &darr;](#deceased-organ-donation)||
 |[Decompensated Cirrhosis &darr;](#decompensated-cirrhosis)||
 |[Dialysis &darr;](#dialysis)||
 |[Diverticulitis &darr;](#diverticulitis)||
 |[Donor Info &darr;](#donor-info)||
 |[Drug Regimen &darr;](#drug-regimen)||
+|[DSA &darr;](#dsa)|Donor Service Area|
 |[Duncan Mills &darr;](#duncan-mills)||
 |[Dupuytren's contracture &darr;](#dupuytrens-contracture)||
+|[DXA scan &darr;](#dxa-scan)|Dual-Energy X-Ray Absorptiometry|
 |[Dysphagia &darr;](#dysphagia)||
-|[ESLD &darr;](#esld) <a id="e"></a>|End-Stage Liver Disease|
-|[Edema &darr;](#edema)||
+|[Edema &darr;](#edema) <a id="e"></a>||
 |[El Camino Car &darr;](#el-camino-car)||
 |[Encephalitis &darr;](#encephalitis)||
 |[Encephalopathy &darr;](#encephalopathy)||
 |[Erica Storm &darr;](#erica-storm)||
+|[ESLD &darr;](#esld)|End-Stage Liver Disease|
 |[Esophageal Varices &darr;](#esophageal-varices)||
 |[Everolimus &darr;](#everolimus)||
 |[Excess Protein &darr;](#excess-protein)||
@@ -260,71 +260,70 @@ The following entries contain information on topics that have been brought up du
 |[Fibroscan &darr;](#fibroscan)||
 |[Filgrastim &darr;](#filgrastim)||
 |[Fistula &darr;](#fistula)||
-|[GFR and Aging &darr;](#gfr-and-aging) <a id="g"></a>|Glomerular Filtration Rate|
-|[GGT &darr;](#ggt)|gamma-glutamyl transferase|
-|[Gabapentin &darr;](#gabapentin)||
+|[Gabapentin &darr;](#gabapentin) <a id="g"></a>||
 |[Gallbladder &darr;](#gallbladder)||
 |[Gallbladder Cancer &darr;](#gallbladder-cancer)||
+|[GFR and Aging &darr;](#gfr-and-aging)|Glomerular Filtration Rate|
+|[GGT &darr;](#ggt)|gamma-glutamyl transferase|
 |[Gougol &darr;](#gougol)||
 |[Gynecomastia &darr;](#gynecomastia)||
 |[HCC GALAD Model &darr;](#hcc-galad-model) <a id="h"></a>|Hepatocellular Carcinoma • Gender, Age, ...|
 |[HE &darr;](#he)|Hepatic Encephalopathy|
-|[HIDA Scan &darr;](#hida-scan)|Hepatobiliary iminodiacetic acid|
-|[HPMV &darr;](#hpmv)|Human Metapneumovirus|
 |[Hemochromatosis &darr;](#hemochromatosis)||
 |[Hemodialysis &darr;](#hemodialysis)||
 |[Hepatitis &darr;](#hepatitis)||
+|[HIDA Scan &darr;](#hida-scan)|Hepatobiliary iminodiacetic acid|
+|[HPMV &darr;](#hpmv)|Human Metapneumovirus|
 |[Hypomagnesium &darr;](#hypomagnesium)||
-|[INR &darr;](#inr) <a id="i"></a>|International Normalized Ratio|
-|[IOP &darr;](#iop)|Intense Outpatient Program|
-|[Immunosuppressant &darr;](#immunosuppressant)||
+|[Immunosuppressant &darr;](#immunosuppressant) <a id="i"></a>||
 |[Immunosuppression &darr;](#immunosuppression)||
+|[INR &darr;](#inr)|International Normalized Ratio|
+|[IOP &darr;](#iop)|Intense Outpatient Program|
 |[Itching &darr;](#itching)||
 |[J-Tube &darr;](#j-tube) <a id="j"></a>|Jejunal Tube|
 |[Jaundice &darr;](#jaundice)||
 |[Ketorolac &darr;](#ketorolac) <a id="k"></a>||
 |[Kt/V &darr;](#ktv)||
-|[LOLA &darr;](#lola) <a id="l"></a>|L‐ornithine‐L‐aspartate|
-|[Lactulose &darr;](#lactulose)||
+|[Lactulose &darr;](#lactulose) <a id="l"></a>||
 |[Liver Circle &darr;](#liver-circle)||
 |[Liver In A Box &darr;](#liver-in-a-box)||
 |[Liver Pain &darr;](#liver-pain)||
-| [LiverSpot.org &darr;](https://liverspot.org)                                      |                                               |
-|[MELD &darr;](#meld) <a id="m"></a>|model for end-stage liver disease|
+|[LiverSpot.org &darr;](#liverspotorg)||
+|[LOLA &darr;](#lola)|L‐ornithine‐L‐aspartate|
+|[Medical Marijuana &darr;](#medical-marijuana) <a id="m"></a>||
+|[MELD &darr;](#meld)|Model for end-stage liver disease|
 |[MELD Exception Score &darr;](#meld-exception-score)||
 |[MRE &darr;](#mre)|Magnetic resonance elastography|
 |[MRI &darr;](#mri)|Magnetic resonance imaging|
-|[Medical Marijuana &darr;](#medical-marijuana)||
 |[Multiple Listing &darr;](#multiple-listing)||
 |[Mycophenolate Mofetil &darr;](#mycophenolate-mofetil)||
-|[NASH &darr;](#nash) <a id="n"></a>|Nonalcoholic steatohepatitis|
-|[NIVESTYM &darr;](#nivestym)||
-|[Naltrexone &darr;](#naltrexone)||
+|[Naltrexone &darr;](#naltrexone) <a id="n"></a>||
+|[NASH &darr;](#nash)|Nonalcoholic steatohepatitis|
 |[Neuropathy &darr;](#neuropathy)||
 |[Neutropenia &darr;](#neutropenia)||
+|[NIVESTYM &darr;](#nivestym)||
 |[Nurse Treats &darr;](#nurse-treats)||
 |[OPTN &darr;](#optn) <a id="o"></a>|Organ Procurement and Transplantation Network|
 |[Osmolite &darr;](#osmolite)||
 |[Oxycodone &darr;](#oxycodone)||
-|[PET &darr;](#pet) <a id="p"></a>|positron emission tomography|
+|[Paracentesis &darr;](#paracentesis) <a id="p"></a>||
+|[PET &darr;](#pet)|Positron emission tomography|
 |[PEth &darr;](#peth)|Phosphatidylethanol|
-|[PT &darr;](#pt)|Prothrombin Time|
-|[Paracentesis &darr;](#paracentesis)||
 |[Pink Cloud &darr;](#pink-cloud)||
 |[Post-Transplant Relapse &darr;](#post-transplant-relapse)||
 |[Printed Liver &darr;](#printed-liver)||
+|[PT &darr;](#pt)|Prothrombin Time|
 |[Recompensated &darr;](#recompensated) <a id="r"></a>||
 |[Recteq &darr;](#recteq)||
 |[Reddit for Transplant Support Study &darr;](#reddit-for-transplant-support-study)||
 |[Retacrit &darr;](#retacrit)||
-|[SRTR &darr;](#srtr) <a id="s"></a>|Scientific Registry of Transplant Recipients|
-|[Safety net &darr;](#safety-net)||
+|[Safety net &darr;](#safety-net) <a id="s"></a>||
 |[Scar Tissue &darr;](#scar-tissue)||
 |[Skin Cancer Risk &darr;](#skin-cancer-risk)||
 |[Skin Changes &darr;](#skin-changes)||
+|[SRTR &darr;](#srtr)|Scientific Registry of Transplant Recipients|
 |[St. Mary's Reno &darr;](#st-marys-reno)||
 |[TACE &darr;](#tace) <a id="t"></a>|Transarterial chemoembolization|
-|[TIPS &darr;](#tips)|Transjugular intrahepatic portosystemic shunt|
 |[Tacrolimus &darr;](#tacrolimus)||
 |[Tacrolimus Skin Cancer &darr;](#tacrolimus-skin-cancer)||
 |[Tacrolimus vs. CellCept &darr;](#tacrolimus-vs-cellcept)||
@@ -332,6 +331,7 @@ The following entries contain information on topics that have been brought up du
 |[Tattoos &darr;](#tattoos)||
 |[Thoracentesis &darr;](#thoracentesis)||
 |[Tinnitus &darr;](#tinnitus)||
+|[TIPS &darr;](#tips)|Transjugular intrahepatic portosystemic shunt|
 |[Topical Tacrolimus &darr;](#topical-tacrolimus)||
 |[Tramadol &darr;](#tramadol)||
 |[Transplant Age &darr;](#transplant-age)||
@@ -339,11 +339,11 @@ The following entries contain information on topics that have been brought up du
 |[Transplant Gender Correlations &darr;](#transplant-gender-correlations)||
 |[Transplant Survival Benefit &darr;](#transplant-survival-benefit)||
 |[Tumeric &darr;](#tumeric)||
-|[UNOS &darr;](#unos) <a id="u"></a>|United Network for Organ Sharing|
-|[UNOS Regions &darr;](#unos-regions)||
+|[uACR &darr;](#uacr) <a id="u"></a>|Urine Albumine Creatinine Ratio|
 |[Umbilical Hernia &darr;](#umbilical-hernia)||
+|[UNOS &darr;](#unos)|United Network for Organ Sharing|
+|[UNOS Regions &darr;](#unos-regions)||
 |[Ursodiol &darr;](#ursodiol)||
-|[uACR &darr;](#uacr)|Urine Albumine Creatinine Ratio|
 |[Valcyte &darr;](#valcyte) <a id="v"></a>||
 |[Vivitrol &darr;](#vivitrol)||
 |[XIAFLEX &darr;](#xiaflex) <a id="x"></a>||
@@ -887,11 +887,11 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
 * [2]&nbsp;<https://www.dairbook.com/glossary/lactulose>
 
 ### Liver Circle
-Imagine a world where a liver disease diagnosis isn't a dead end, but a new beginning. Where the fear of a "transplant" is replaced by the power of knowledge and a supportive community.
+«Imagine a world where a liver disease diagnosis isn't a dead end, but a new beginning. Where the fear of a "transplant" is replaced by the power of knowledge and a supportive community.
 
-This is the world The Liver Circle, Inc. (TLC) is building.  We're more than an organization; we're a vital connection for patients, advocates, and medical professionals. We elevate the conversation around liver health and organ donation from the ordinary to the extraordinary, ensuring no one faces this journey alone.
+This is the world The Liver Circle, Inc. (TLC) is building.  We're more than an organization; we're a vital connection for patients, advocates, and medical professionals. We elevate the conversation around liver health and organ donation from the ordinary to the extraordinary, ensuring no one faces this journey alone.» — [1]
 
-* <https://www.thelivercircle.org>
+* [1] <https://www.thelivercircle.org>
 
 ### Liver In A Box
 The transportation of a donated liver by placing it into a 'box' (machine) that provide 'normothermic' (standard temperature) perfusion.
@@ -1286,7 +1286,7 @@ So if you have:
    * Urine Creatinine 'C' in g/dL
    * uACR is simply A/C in mg/g
 
-“Albumin Creatinine Ratio = Albumin in mg/dL / Creatinine in g/dL» — [2]
+«Albumin Creatinine Ratio = Albumin in mg/dL / Creatinine in g/dL» — [2]
 
    * [1]&nbsp;<https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr>
    * [2]&nbsp;<https://www.mdapp.co/albumin-creatinine-ratio-calculator-461/>
