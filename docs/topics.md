@@ -371,20 +371,6 @@ Acute cellular rejection
 
 «High dose corticosteroids are standard of care for ACR and doses vary at different centers. Usually 500–1000 mg pulse of methylprednisolone is given for 1–3 days followed by taper» — [1]
 
-### AFP
-
-* [1]&nbsp;<https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/>
-* [2]&nbsp;<https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&contentid=alpha_fetoprotein_tumor_marker>
-
-«An AFP tumor marker test is a blood test that measures the level of AFP (alpha-fetoprotein) in a sample of your blood. It's usually used to help diagnose certain types of cancer and to check how well treatment is working.» —  [1]
-
-### ALP
-
-* [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp>
-
-«Alkaline phosphatase (ALP) is an enzyme that’s found throughout your body. ALP blood tests measure the level of ALP in your blood that comes from your liver and bones, and it’s one of the tests included in a comprehensive metabolic panel. High levels of ALP in your blood may indicate liver disease or certain bone disorders» — [1]
-
-
 ### Acyclovir
 
 «Acyclovir is used to treat viral infections like chickenpox, herpes zoster (shingles) and genital herpes (a sexually transmitted disease). Acyclovir is in a class of medications called antivirals. It works by stopping the spread of the virus in the body.» — [2]
@@ -393,11 +379,12 @@ Acute cellular rejection
 * [2]&nbsp;<https://medlineplus.gov/druginfo/meds/a681045.html>
 * [3]&nbsp;<https://www.mayoclinic.org/drugs-supplements/acyclovir-oral-route-intravenous-route/description/drg-20068393>
 
-### Ammonia Level
+### AFP
 
-* [1]&nbsp;<https://my.clevelandclinic.org/health/articles/22686-ammonia-levels>
+* [1]&nbsp;<https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/>
+* [2]&nbsp;<https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&contentid=alpha_fetoprotein_tumor_marker>
 
-«A blood ammonia level of 200 micromol /L is associated with coma and convulsions.» — [1]
+«An AFP tumor marker test is a blood test that measures the level of AFP (alpha-fetoprotein) in a sample of your blood. It's usually used to help diagnose certain types of cancer and to check how well treatment is working.» —  [1]
 
 ### Albumin
 «Albumin is responsible for transporting vitamins, enzymes and hormones throughout your body. Albumin makes up 50% of the proteins found in your plasma. When your albumin levels are low, hormones and other important compounds aren’t able to get to where they need to go in your body to fulfill their duties.» — [2]
@@ -405,6 +392,19 @@ Acute cellular rejection
 * [1]&nbsp;<https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia>
 * [2]&nbsp;<https://www.dairbook.com/glossary/albumin>
 
+
+### ALP
+
+* [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp>
+
+«Alkaline phosphatase (ALP) is an enzyme that’s found throughout your body. ALP blood tests measure the level of ALP in your blood that comes from your liver and bones, and it’s one of the tests included in a comprehensive metabolic panel. High levels of ALP in your blood may indicate liver disease or certain bone disorders» — [1]
+
+
+### Ammonia Level
+
+* [1]&nbsp;<https://my.clevelandclinic.org/health/articles/22686-ammonia-levels>
+
+«A blood ammonia level of 200 micromol /L is associated with coma and convulsions.» — [1]
 
 ### Angioplasty
 
@@ -436,15 +436,6 @@ Acute cellular rejection
 «showing an average loss of about 1 kg (2.2 lbs) within 24 hours of acute care and up to 2.3 kg (5 lbs) by discharge,» — [2]
 
 
-### BK Virus
-«The BK virus is a virus that most people get in childhood. Symptoms can feel like a common cold. Once you get a BK virus infection, the virus stays in your system for good but in an inactive state.
-
-When you take anti-rejection medications due to an organ transplant, the BK Virus can become active to the point that it will damage kidneys.» — [3]
-
-* [1]&nbsp;<https://www.kidney.org/atoz/content/bk-virus-what-transplant-patients-need-know>
-* [2]&nbsp;<https://en.wikipedia.org/wiki/BK_virus>
-* [3]&nbsp;<https://www.dairbook.com/glossary/bk-virus>
-
 ### Bausch PAP
 
 Bausch Health PAP Summary (2026)
@@ -458,9 +449,33 @@ What it is: A program that provides Xifaxan at no cost for up to one year for el
 * [1]&nbsp;<https://medlineplus.gov/lab-tests/bilirubin-blood-test/>
 * [2]&nbsp;<https://www.dairbook.com/glossary/bilirubin>
 
+### BK Virus
+«The BK virus is a virus that most people get in childhood. Symptoms can feel like a common cold. Once you get a BK virus infection, the virus stays in your system for good but in an inactive state.
+
+When you take anti-rejection medications due to an organ transplant, the BK Virus can become active to the point that it will damage kidneys.» — [3]
+
+* [1]&nbsp;<https://www.kidney.org/atoz/content/bk-virus-what-transplant-patients-need-know>
+* [2]&nbsp;<https://en.wikipedia.org/wiki/BK_virus>
+* [3]&nbsp;<https://www.dairbook.com/glossary/bk-virus>
+
 ### BUN Test
 
 * <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>
+
+### Camino Hospital IOP
+
+«The Scrivner Center for Mental Health & Addiction Services’ evening outpatient Addiction Services Program offers expert care and support for adults seeking help for a substance-use disorder or chemical dependency.» — [1]
+
+* [1]&nbsp;<https://www.elcaminohealth.org/services/mental-health/specialty-programs/addiction-services>
+
+### Cirrhosis
+«Cirrhosis is a condition in which your liver is scarred and permanently damaged. Scar tissue replaces healthy liver tissue and prevents your liver from working normally. As cirrhosis gets worse, your liver begins to fail.» — [5]
+
+* [1]&nbsp;<https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis>
+* [2]&nbsp;<https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487>
+* [3]&nbsp;<https://en.wikipedia.org/wiki/Cirrhosis>
+* [4]&nbsp;<https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=aa67653>
+* [5]&nbsp;<https://www.dairbook.com/glossary/cirrhosis>
 
 ### CMV
 
@@ -478,24 +493,6 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 #### Alternate name
 «Human cytomegalovirus (HCMV), also called human herpesvirus 5 (HHV-5), is a species of virus in the genus Cytomegalovirus» — [3]
 
-### CPMC
-California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
-
-### Camino Hospital IOP
-
-«The Scrivner Center for Mental Health & Addiction Services’ evening outpatient Addiction Services Program offers expert care and support for adults seeking help for a substance-use disorder or chemical dependency.» — [1]
-
-* [1]&nbsp;<https://www.elcaminohealth.org/services/mental-health/specialty-programs/addiction-services>
-
-### Cirrhosis
-«Cirrhosis is a condition in which your liver is scarred and permanently damaged. Scar tissue replaces healthy liver tissue and prevents your liver from working normally. As cirrhosis gets worse, your liver begins to fail.» — [5]
-
-* [1]&nbsp;<https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis>
-* [2]&nbsp;<https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487>
-* [3]&nbsp;<https://en.wikipedia.org/wiki/Cirrhosis>
-* [4]&nbsp;<https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=aa67653>
-* [5]&nbsp;<https://www.dairbook.com/glossary/cirrhosis>
-
 ### Corewell Health
 
 * <https://corewellhealth.org>
@@ -509,6 +506,9 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 
 « We started Mark Cuban Cost Plus Drug Company because every American should have access to safe, affordable medicines. If you don’t have insurance or have a high deductible plan, you know that even the most basic medications can cost a fortune. Many people are spending crazy amounts of money each month just to stay healthy. No American should have to suffer—or worse—because they can’t afford basic prescription medications» — <https://www.costplusdrugs.com/>
 
+### CPMC
+California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
+
 ### Creatinine
 «Creatinine is the waste byproduct of the muscles processing energy from creatine. Properly functioning kidneys remove creatinine from the blood supply.» — [2]
 
@@ -519,21 +519,6 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 
 * <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>  
 
-### DSA
-A Donor Service Area (DSA) is a smaller portion of a UNOS Region in which organs can be transported successfully.
-
-* [1] <https://www.organdonationalliance.org/glossary/dsa/>
-
-### DXA scan
-
-A DXA scan is an imaging test that measures the strength of your bones. It uses X-rays to measure your bone density. DXA is an abbreviation for dual-energy X-ray absorptiometry.
-
-<https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test>
-
-### Deceased-Donor Liver Size 
-
-* [1]&nbsp;<https://journals.lww.com/transplantjournal/fulltext/2017/11000/deceased_donor_liver_size_and_the_sex_based.9.aspx>
-
 ### Deceased Organ Donation
 
 «Deceased organ donation occurs in two ways: Donation after Brain Death (DBD) and Donation after Circulatory Death (DCD, sometimes called cardiac death).» — [AI:Google]
@@ -541,6 +526,10 @@ A DXA scan is an imaging test that measures the strength of your bones. It uses 
 * [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC3372912/>
 * [2]&nbsp;<https://unos.org/news/understanding-donation-after-circulatory-death-dcd/>
 * [3]&nbsp;<https://giftoflifemichigan.org/blog/the-facts-brain-death-and-dcd>
+
+### Deceased-Donor Liver Size
+
+* [1]&nbsp;<https://journals.lww.com/transplantjournal/fulltext/2017/11000/deceased_donor_liver_size_and_the_sex_based.9.aspx>
 
 ### Decompensated Cirrhosis
 «Decompensated cirrhosis is defined as an acute deterioration in liver function in a patient with cirrhosis and is characterized by jaundice, ascites, hepatic encephalopathy, hepatorenal syndrome or variceal haemorrhage.
@@ -580,6 +569,11 @@ When these pouches become inflamed, the condition is called diverticulitis. Infl
 * [2]&nbsp;<https://www.dairbook.com/glossary/drug-regimen>
 
 
+### DSA
+A Donor Service Area (DSA) is a smaller portion of a UNOS Region in which organs can be transported successfully.
+
+* [1] <https://www.organdonationalliance.org/glossary/dsa/>
+
 ### Duncan Mills
 
 * <https://duncansmillsvillage.com>
@@ -590,15 +584,16 @@ When these pouches become inflamed, the condition is called diverticulitis. Infl
 
 * <https://pubmed.ncbi.nlm.nih.gov/6672504/>                                                                                                                                    
 
+### DXA scan
+
+A DXA scan is an imaging test that measures the strength of your bones. It uses X-rays to measure your bone density. DXA is an abbreviation for dual-energy X-ray absorptiometry.
+
+<https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test>
+
 ### Dysphagia
 Dysphagia is an inability to swallow properly. Food and liquids orally taken can be aspirated (inhaled) and cause pneumonia and other illness.
 
 * [1]&nbsp;<https://www.mayoclinic.org/diseases-conditions/dysphagia/symptoms-causes/syc-20372028>
-
-### ESLD
-End-Stage Liver Disease (ESLD) is when the liver is damaged beyond repair due to chronic liver disease or acute liver failure.
-
-* <https://www.nhsbt.nhs.uk/organ-transplantation/liver/is-a-liver-transplant-right-for-you/end-stage-liver-disease/>
 
 ### Edema
 Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tissues. Edema can affect any part of the body. But it's more likely to show up in the legs and feet.
@@ -628,6 +623,11 @@ Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tis
 ### Erica Storm
 
 * <https://www.linkedin.com/in/erica-storm-787597159/>
+
+### ESLD
+End-Stage Liver Disease (ESLD) is when the liver is damaged beyond repair due to chronic liver disease or acute liver failure.
+
+* <https://www.nhsbt.nhs.uk/organ-transplantation/liver/is-a-liver-transplant-right-for-you/end-stage-liver-disease/>
 
 ### Esophageal Varices
 Esophageal varices are enlarged veins in the esophagus, the tube that connects the throat and stomach. Esophageal varices most often happen in people with serious liver diseases.
@@ -679,16 +679,6 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 * [2]&nbsp;<https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567>
 * [3]&nbsp;<https://www.dairbook.com/glossary/fistula>
 
-### GFR and Aging
-
-* [1] Ageing and the Glomerular Filtration Rate: Truths and Consequences —  <https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/>
-
-«This paper discusses the known effects of ageing on GFR 〚Glomerular Filtration Rate〛and the consequences of using a classification system for defining CKD that does not take into account the normal decline of GFR with ageing» — [1]
-
-### GGT
-
-«A gamma-glutamyl transferase (GGT) test measures the amount of GGT in your blood GGT is an enzyme. Enzymes are proteins that speed up certain chemical reactions in your body. Thousands of enzymes play an important role in all of your body functions. The GGT enzyme is found throughout your body, but it is mainly found in your liver.» — <https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/>
-
 ### Gabapentin
 «Gabapentin works in the brain to prevent seizures and relieve pain for certain conditions in the nervous system. It can also be used for controlling the effects of neuropathy.» — [2]
 
@@ -711,6 +701,16 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 
 * [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/>
 
+
+### GFR and Aging
+
+* [1] Ageing and the Glomerular Filtration Rate: Truths and Consequences —  <https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/>
+
+«This paper discusses the known effects of ageing on GFR 〚Glomerular Filtration Rate〛and the consequences of using a classification system for defining CKD that does not take into account the normal decline of GFR with ageing» — [1]
+
+### GGT
+
+«A gamma-glutamyl transferase (GGT) test measures the amount of GGT in your blood GGT is an enzyme. Enzymes are proteins that speed up certain chemical reactions in your body. Thousands of enzymes play an important role in all of your body functions. The GGT enzyme is found throughout your body, but it is mainly found in your liver.» — <https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/>
 
 ### Gougol
 
@@ -749,17 +749,6 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 * <https://my.clevelandclinic.org/health/diseases/encephalopathy>
 * <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
 
-### HIDA Scan
-
-«A hepatobiliary iminodiacetic acid (HIDA) scan is an imaging procedure that shows how well your liver, bile ducts and gallbladder are functioning. It can help diagnose certain conditions, such as cholecystitis, biliary leak and biliary atresia.» — [1]
-
-* [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/17099-hida-scan>
-* [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/hida-scan/about/pac-20384701>
-
-### HPMV                                                                     
-
-* <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv>                                                                     
-
 ### Hemochromatosis
 Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much iron from the food you eat. Excess iron is stored in your organs, especially your liver, heart and pancreas. Too much iron can lead to life-threatening conditions, such as liver disease, heart problems and diabetes.
 
@@ -778,6 +767,17 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 * [1]&nbsp;<https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis>
 * [2]&nbsp;<https://www.cdc.gov/hepatitis/abc/index.htm>
 * [3]&nbsp;<https://www.dairbook.com/glossary/hepatitis>
+
+### HIDA Scan
+
+«A hepatobiliary iminodiacetic acid (HIDA) scan is an imaging procedure that shows how well your liver, bile ducts and gallbladder are functioning. It can help diagnose certain conditions, such as cholecystitis, biliary leak and biliary atresia.» — [1]
+
+* [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/17099-hida-scan>
+* [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/hida-scan/about/pac-20384701>
+
+### HPMV
+
+* <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv>
 
 ### Hypomagnesium
 
@@ -799,6 +799,19 @@ Your provider will also prescribe a treatment plan to manage the underlying caus
 * [2]&nbsp;<https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia>
 * [3]&nbsp;<https://www.chp.edu/our-services/transplant/liver/education/medications/tacrolimus-prograf#:~:text=Tacrolimus%20Drug%20Interactions>
 
+### Immunosuppressant
+«Immunosuppressants are drugs or medicines that lower the body's ability to reject a transplanted organ. Another term for these drugs is anti-rejection drugs.» — [5]
+
+* [1]&nbsp;<https://www.kidney.org/atoz/content/immuno>
+* [2]&nbsp;<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8987166/>
+* [3]&nbsp;<https://my.clevelandclinic.org/health/treatments/10418-immunosuppressants>
+* [4]&nbsp;<https://en.wikipedia.org/wiki/Immunosuppressive_drug>
+* [5]&nbsp;<https://www.dairbook.com/glossary/immunosuppressant>
+
+### Immunosuppression
+
+* <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
+
 ### INR
 «An International Normalized Ratio (INR) test calculates how long it takes for blood to clot compared to a normal healthy person (with a value of ‘1’). Blood thinners and illness can cause blood to take several times longer than normal to clot.» — [3]
 
@@ -816,19 +829,6 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 #### Virtual IOP
 
 * <https://www.hazeldenbettyford.org/research-studies/addiction-research/virtual-intensive-outpatient-outcomes>
-
-### Immunosuppressant
-«Immunosuppressants are drugs or medicines that lower the body's ability to reject a transplanted organ. Another term for these drugs is anti-rejection drugs.» — [5]
-
-* [1]&nbsp;<https://www.kidney.org/atoz/content/immuno>
-* [2]&nbsp;<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8987166/>
-* [3]&nbsp;<https://my.clevelandclinic.org/health/treatments/10418-immunosuppressants>
-* [4]&nbsp;<https://en.wikipedia.org/wiki/Immunosuppressive_drug>
-* [5]&nbsp;<https://www.dairbook.com/glossary/immunosuppressant>
-
-### Immunosuppression
-
-* <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
 
 ### Itching
 «Itching is a common symptom from liver damage. Possible helpful treatments include: Cholestyramime Powder,  Hydroxyzine, and Sarna lotion .» — [2]
@@ -864,22 +864,6 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 * [4]&nbsp;<https://advancingdialysis.org/standardized-kt-v-home-hemodialysis-matter/>
 
 
-### LOLA
-
-L‐ornithine‐L‐aspartate for hepatic encephalopathy
-
-
-* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC6478143/>
-* [2]&nbsp;<https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1581792/full>
-* [3]&nbsp;<https://www.nature.com/articles/s41598-024-62293-8>
-* [4]&nbsp;<https://practicalgastro.com/2022/05/18/hepatic-encephalopathy-treatment-beyond-lactulose-and-rifaximin/>
-* [5]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC9257922/>
-* [6]&nbsp;<https://www.reddit.com/r/Cirrhosis/comments/1oox3h7/to_the_mod_who_locked_the_thread_on_lola/>
-
-«Results: A total of 12 articles were ultimately included, involving 858 patients, with 433 in the treatment group and 425 in the control group. Meta-analysis results: In terms of the total effective rate (RR: 1.31, 95%CI: 1.22, 1.42), the result is statistically significant (Z = 7.15, P = 0.00001 < 0.05), and for AST, ALT, NH3, TBIL, P = 0.00001 < 0.05. The pooled (RR: 1.31 [95% CI = 1.22, 1.42]), which is statistically significant, LOLA and Lactulose is 31% more effective than Lactulose alone in the control group in treating HE.» — [2]
-
-LOLA is not FDA approved for HE at all, although it wouldn't really be possible to prevent oral administration using foreign dispensaries.  It appears that the studies have been viewed as very weak and the usage of LOLA is always in addition to Lactulose (alone) or with Rifaximin.  So it is unclear what the benefits are if you are on L+R (which is FDA approved).
-
 ### Lactulose
 «Lactulose (sometimes called 'The L-Word') is a laxative with a secondary treatment for Hepatic Encephalopathy. Its chief mechanism of action is by decreasing the intestinal production and absorption of ammonia.» — [2]
 
@@ -901,7 +885,29 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 
 ### Liver Pain                                                                         
 * <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain>                                                                                                
+### LiverSpot.org
 
+* <https://liverspot.org>
+
+### LOLA
+
+L‐ornithine‐L‐aspartate for hepatic encephalopathy
+
+
+* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC6478143/>
+* [2]&nbsp;<https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1581792/full>
+* [3]&nbsp;<https://www.nature.com/articles/s41598-024-62293-8>
+* [4]&nbsp;<https://practicalgastro.com/2022/05/18/hepatic-encephalopathy-treatment-beyond-lactulose-and-rifaximin/>
+* [5]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC9257922/>
+* [6]&nbsp;<https://www.reddit.com/r/Cirrhosis/comments/1oox3h7/to_the_mod_who_locked_the_thread_on_lola/>
+
+«Results: A total of 12 articles were ultimately included, involving 858 patients, with 433 in the treatment group and 425 in the control group. Meta-analysis results: In terms of the total effective rate (RR: 1.31, 95%CI: 1.22, 1.42), the result is statistically significant (Z = 7.15, P = 0.00001 < 0.05), and for AST, ALT, NH3, TBIL, P = 0.00001 < 0.05. The pooled (RR: 1.31 [95% CI = 1.22, 1.42]), which is statistically significant, LOLA and Lactulose is 31% more effective than Lactulose alone in the control group in treating HE.» — [2]
+
+LOLA is not FDA approved for HE at all, although it wouldn't really be possible to prevent oral administration using foreign dispensaries.  It appears that the studies have been viewed as very weak and the usage of LOLA is always in addition to Lactulose (alone) or with Rifaximin.  So it is unclear what the benefits are if you are on L+R (which is FDA approved).
+
+### Medical Marijuana
+
+* <https://disa.com/marijuana-legality-by-state/>                                                                                    
 ### MELD
 
 «The model for end-stage liver disease (MELD) score helps decide how urgently someone needs a liver transplant in the next three months. The score ranges from 6 to 40. A person with a higher score needs a liver transplant sooner than does a person with a lower score.» — [1]
@@ -946,9 +952,7 @@ Magnetic resonance imaging (MRI) is a type of diagnostic test that can create de
 * [1]&nbsp;<https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/magnetic-resonance-imaging-mri>
 * [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768>
 
-### Medical Marijuana  
-
-* <https://disa.com/marijuana-legality-by-state/>                                                                                                                               
+                                           
 
 ### Multiple Listing
 
@@ -964,15 +968,16 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 * [2]&nbsp;<https://en.wikipedia.org/wiki/Mycophenolic_acid>
 * [3]&nbsp;<https://www.dairbook.com/glossary/mycophenolate-mofetil>
 
+
+### Naltrexone
+
+* <https://www.drugs.com/naltrexone.html>
+
 ### NASH
 «Nonalcoholic steatohepatitis (NASH) is the most severe form of nonalcoholic fatty liver disease (NAFLD), a condition in which the liver builds up excessive fat deposits.» — [2]
 
 * [1]&nbsp;<https://www.pfizer.com/disease-and-conditions/nash>
 * [2]&nbsp;<https://www.acsh.org/news/2024/03/12/new-drug-offers-hope-common-life-threatening-liver-disease-17662>
-
-### Naltrexone
-
-* <https://www.drugs.com/naltrexone.html>
 
 ### Neuropathy
 Peripheral neuropathy happens when the nerves that are located outside of the brain and spinal cord (peripheral nerves) are damaged.
@@ -1034,6 +1039,14 @@ Possible treats that the medical team might like and appreciate from patients in
 
 * <https://medlineplus.gov/druginfo/meds/a682132.html   >                                                                                                                      
 
+### Paracentesis
+
+«Paracentesis is the process of draining water from the abdominal cavity. A long needle is inserted into a pocket of water (commonly found through ultrasound) and the water drained into vacuum bottles. With severe ascites, several liters can be removed. Beyond the comfort from draining excess water, the fluid can be analyzed for infections or other causes.» — [3]
+
+* [1]&nbsp;<https://my.clevelandclinic.org/health/procedures/paracentesis>
+* [2]&nbsp;<https://en.wikipedia.org/wiki/Paracentesis>
+* [3]&nbsp;<https://www.dairbook.com/glossary/paracentesis>
+
 ### PET
 
 PET (positron emission tomography) scans producse pictures of the inside of the body
@@ -1044,7 +1057,7 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 * assess brain damage or disorders such as tumors, seizures, or cognitive issues,
 * evaluate damage to the heart following a heart attack, or
 * assess the state of coronary artery disease.
-» — [1]
+  » — [1]
 
 
 * [1]&nbsp;<https://www.baptisthealth.com/blog/health-and-wellness/pet-scan-vs-mri-what-s-the-difference>
@@ -1055,20 +1068,6 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 
 * [1]&nbsp;<https://lextox.co.uk/blog-posts/phosphatidylethanol-peth-testing/>
 * [2]&nbsp;<https://www.dairbook.com/glossary/peth>>
-
-### PT
-Prothrombin Time (PT) is a measure of blood coagulation.
-
-* [1]&nbsp;<https://en.m.wikipedia.org/wiki/Prothrombin_time>
-* [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
-
-### Paracentesis
-
-«Paracentesis is the process of draining water from the abdominal cavity. A long needle is inserted into a pocket of water (commonly found through ultrasound) and the water drained into vacuum bottles. With severe ascites, several liters can be removed. Beyond the comfort from draining excess water, the fluid can be analyzed for infections or other causes.» — [3]
-
-* [1]&nbsp;<https://my.clevelandclinic.org/health/procedures/paracentesis>
-* [2]&nbsp;<https://en.wikipedia.org/wiki/Paracentesis>
-* [3]&nbsp;<https://www.dairbook.com/glossary/paracentesis>
 
 ### Pink Cloud
 
@@ -1085,6 +1084,12 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 Could 3D-printed livers make transplant lists a thing of the past?
 
 * <https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past>
+
+### PT
+Prothrombin Time (PT) is a measure of blood coagulation.
+
+* [1]&nbsp;<https://en.m.wikipedia.org/wiki/Prothrombin_time>
+* [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
 
 ### Recompensated
 
@@ -1115,14 +1120,6 @@ Could 3D-printed livers make transplant lists a thing of the past?
 
 «This medication is used to treat anemia (low red blood cell count) in people with long-term serious kidney disease (chronic kidney failure), people receiving zidovudine to treat HIV, and people receiving chemotherapy for some types of cancer (cancer that does not involve the bone marrow or blood cells). It may also be used in anemic patients to reduce the need for blood transfusions before certain planned surgeries that have a high risk of blood loss (usually given with an anticoagulant/"blood thinner" medication such as warfarin to lower the risk of serious blood clots).» — [2]
 
-### SRTR
-«The Scientific Registry of Transplant Recipients (SRTR) supports the transplant community with analyses, in an effort to better patient results and experience. Through the evaluation of national data collected by the Organ Procurement and Transplant Network (OPTN) on transplant programs and organ procurement organizations…» — [1,2]
-
-The SRTR website provides access to a very detailed group of reports and tools to review organ transplant data. This information can be used by patients, family members / caregivers, and living donors / potential living donors, as well as transplant professionals, industry professionals, government regulators, and others.
-
-* [1]&nbsp;<https://www.srtr.org>
-* [2]&nbsp;<https://www.dairbook.com/glossary/srtr>
-
 ### Safety Net
 The website about the safety net program that was on UNOS was seriously messed up recently with an administrative change, but you can read about it here (if the archive works... can be slow) and some quotes are below
 
@@ -1150,6 +1147,14 @@ Cirrhosis can cause nutrient deficiencies that make skin more susceptible to cut
 * [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC9257870/>
 * [2]&nbsp;<https://www.mypbcteam.com/resources/thin-skin-and-easy-bruising-are-they-symptoms-of-pbc>
 
+### SRTR
+«The Scientific Registry of Transplant Recipients (SRTR) supports the transplant community with analyses, in an effort to better patient results and experience. Through the evaluation of national data collected by the Organ Procurement and Transplant Network (OPTN) on transplant programs and organ procurement organizations…» — [1,2]
+
+The SRTR website provides access to a very detailed group of reports and tools to review organ transplant data. This information can be used by patients, family members / caregivers, and living donors / potential living donors, as well as transplant professionals, industry professionals, government regulators, and others.
+
+* [1]&nbsp;<https://www.srtr.org>
+* [2]&nbsp;<https://www.dairbook.com/glossary/srtr>
+
 ### St. Mary's Reno
 
 * <https://saintmarysreno.com    >                                                                                                                                               
@@ -1162,20 +1167,6 @@ Cirrhosis can cause nutrient deficiencies that make skin more susceptible to cut
 * [1]&nbsp;<https://www.radiologyinfo.org/en/info/chemoembol>
 * [2]&nbsp;<https://www.massgeneral.org/interventional-radiology/treatments-and-services/y-90>
 * [3]&nbsp;<https://www.columbiaradiology.org/patients/services/interventional-radiology/y90-treatment-radioembolization>
-
-### TIPS
-
-«Transjugular intrahepatic portosystemic shunt (TIPS) is a procedure to create new connections between two blood vessels in your liver. You may need this procedure if you have severe liver problems.» — [2]
-
-
-  * [1]&nbsp;<https://my.clevelandclinic.org/health/procedures/tips-procedure>
-  * [2]&nbsp;<https://www.dairbook.com/glossary/tips>
-* [3]&nbsp;<https://www.mountsinai.org/health-library/surgery/transjugular-intrahepatic-portosystemic-shunt-tips>
-* [4]&nbsp;<https://www.radiologyinfo.org/en/info/tips>
-* [5]&nbsp;<https://medlineplus.gov/ency/images/ency/fullsize/21742.jpg>
-* [6]&nbsp;<https://gastroliver.medicine.ufl.edu/files/2012/07/TIPS1.jpg>
-
-«TIPS procedures typically take one to two hours. Your team will move you to a recovery room after the procedure. They’ll check on you as you wake up from anesthesia» — [1]
 
 ### Tacrolimus
 «Tacrolimus is a very powerful immunosuppressant that prevents rejection of transplanted organs.» — [2]
@@ -1219,6 +1210,20 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 * [1]&nbsp;<https://www.mayoclinic.org/diseases-conditions/tinnitus/symptoms-causes/syc-20350156>
 
 
+### TIPS
+
+«Transjugular intrahepatic portosystemic shunt (TIPS) is a procedure to create new connections between two blood vessels in your liver. You may need this procedure if you have severe liver problems.» — [2]
+
+
+* [1]&nbsp;<https://my.clevelandclinic.org/health/procedures/tips-procedure>
+* [2]&nbsp;<https://www.dairbook.com/glossary/tips>
+* [3]&nbsp;<https://www.mountsinai.org/health-library/surgery/transjugular-intrahepatic-portosystemic-shunt-tips>
+* [4]&nbsp;<https://www.radiologyinfo.org/en/info/tips>
+* [5]&nbsp;<https://medlineplus.gov/ency/images/ency/fullsize/21742.jpg>
+* [6]&nbsp;<https://gastroliver.medicine.ufl.edu/files/2012/07/TIPS1.jpg>
+
+«TIPS procedures typically take one to two hours. Your team will move you to a recovery room after the procedure. They’ll check on you as you wake up from anesthesia» — [1]
+
 ### Topical Tacrolimus 
 
 * <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159>      
@@ -1258,6 +1263,25 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 ### Tumeric
 
 * <https://www.ynhhs.org/articles/supplements-liver-damage >                                                                                                                     
+### uACR
+
+Urine Albumine Creatinine Ratio (uACR) is a calculated value that deals with the sampling issue with a point-in-time urine tests, where the 'Liters' is highly-variable so the amounts of excretions within the urine in absolute terms are highly-variable.  So instead uACR is a formula that calculates the excretion of Albumin given the excretion of Creatinine in any given sample of urine.
+
+So if you have:
+* Urine Albumin 'A' in mg/dL
+* Urine Creatinine 'C' in g/dL
+* uACR is simply A/C in mg/g
+
+«Albumin Creatinine Ratio = Albumin in mg/dL / Creatinine in g/dL» — [2]
+
+* [1]&nbsp;<https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr>
+* [2]&nbsp;<https://www.mdapp.co/albumin-creatinine-ratio-calculator-461/>
+
+
+### Umbilical Hernia
+
+* <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>                                                                                                              
+
 
 ### UNOS
 «United Network for Organ Sharing (UNOS) manages the transplant system for the United States.» — [2]
@@ -1267,29 +1291,12 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 ### UNOS Regions
 
-* <https://www.hrsa.gov/optn/about/governance/regions>                                                                                                                           
-### Umbilical Hernia
-
-* <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>                                                                                                              
+* <https://www.hrsa.gov/optn/about/governance/regions>
 
 ### Ursodiol
 Ursodiol is a bile thinner that helps your body recover from the removal of the gallbladder.
 
 * [1]&nbsp;<https://medlineplus.gov/druginfo/meds/a699047.html>
-
-### uACR
-
-Urine Albumine Creatinine Ratio (uACR) is a calculated value that deals with the sampling issue with a point-in-time urine tests, where the 'Liters' is highly-variable so the amounts of excretions within the urine in absolute terms are highly-variable.  So instead uACR is a formula that calculates the excretion of Albumin given the excretion of Creatinine in any given sample of urine.
-
-So if you have:
-   * Urine Albumin 'A' in mg/dL
-   * Urine Creatinine 'C' in g/dL
-   * uACR is simply A/C in mg/g
-
-«Albumin Creatinine Ratio = Albumin in mg/dL / Creatinine in g/dL» — [2]
-
-   * [1]&nbsp;<https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr>
-   * [2]&nbsp;<https://www.mdapp.co/albumin-creatinine-ratio-calculator-461/>
 
 ### Valcyte
 
