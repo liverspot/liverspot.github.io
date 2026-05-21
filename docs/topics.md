@@ -1019,8 +1019,11 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 * [2]&nbsp;<https://news.ohsu.edu/2023/08/16/liver-in-a-box-helps-save-more-lives-can-improve-transplant-outcomes>
 
 ### Liver Pain                                                                         
-* <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain>                                                                                                
+* <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain>
+
 ### LiverSpot.org
+
+«Welcome! The LiverSpot is a community for people with a diseased liver, kidney, or other organ (“OrganSpot”) who want to provide knowledge and support to each other.»
 
 * <https://liverspot.org>
 
