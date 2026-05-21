@@ -176,7 +176,142 @@ h3 {
 }
 
   #\33 -d-printed-liver, /*Nasty Escape*/
-  #acr, #bk-virus, #cmv, #dsa, #esld, #fib-4, #gfr-and-aging, #hcc-galad-model, #inr, #j-tube, #ketorolac, #lola, #meld, #nash, #optn, #pet, #recompensated, #srtr,  #tace, #unos, #valcyte, #xiaflex  {
+#acr,
+
+
+
+
+
+
+
+
+
+#bausch-pap,
+
+
+
+#camino-hospital-iop,
+
+
+
+
+
+
+
+#deceased-organ-donation,
+
+
+
+
+
+
+
+
+
+
+
+#edema,
+
+
+
+
+
+
+
+
+#fib-4,
+
+
+
+#gabapentin,
+
+
+
+
+
+
+#hcc-galad-model,
+
+
+
+
+
+
+
+#immunosuppressant,
+
+
+
+
+#j-tube,
+
+#ketorolac,
+
+#lactulose,
+
+
+
+
+
+#medical-marijuana,
+
+
+
+
+
+
+#naltrexone,
+
+
+
+
+
+#optn,
+
+
+#paracentesis,
+
+
+
+
+
+
+#recompensated,
+
+
+
+#safety-net,
+
+
+
+
+
+#tace,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#uacr,
+
+
+
+
+#valcyte,
+
+#xiaflex,
+#zzz
+{
     color: #2e6da4;
     font-weight: bold;
     background-color: #deedf4;
@@ -907,7 +1042,9 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
 
 ### Medical Marijuana
 
-* <https://disa.com/marijuana-legality-by-state/>                                                                                    
+* <https://disa.com/marijuana-legality-by-state/>
+
+
 ### MELD
 
 «The model for end-stage liver disease (MELD) score helps decide how urgently someone needs a liver transplant in the next three months. The score ranges from 6 to 40. A person with a higher score needs a liver transplant sooner than does a person with a lower score.» — [1]
@@ -1262,7 +1399,8 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 ### Tumeric
 
-* <https://www.ynhhs.org/articles/supplements-liver-damage >                                                                                                                     
+* <https://www.ynhhs.org/articles/supplements-liver-damage >
+
 ### uACR
 
 Urine Albumine Creatinine Ratio (uACR) is a calculated value that deals with the sampling issue with a point-in-time urine tests, where the 'Liters' is highly-variable so the amounts of excretions within the urine in absolute terms are highly-variable.  So instead uACR is a formula that calculates the excretion of Albumin given the excretion of Creatinine in any given sample of urine.
