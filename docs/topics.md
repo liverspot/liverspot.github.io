@@ -237,8 +237,8 @@ The following entries contain information on topics that have been brought up du
 |[Creatinine Test &darr;](#creatinine-test)||
 |[DSA &darr;](#dsa) <a id="d"></a>|Donor Service Area|
 |[DXA scan &darr;](#dxa-scan)|Dual-Energy X-Ray Absorptiometry|
-|[Deceased-Donor Liver Size &darr;](#deceased-donor-liver-size)|Deceased-Donor Liver Size|
-|[Deceased Organ Donation &darr;](#deceased-organ-donation)|Deceased-Donor Liver Size|
+|[Deceased-Donor Liver Size &darr;](#deceased-donor-liver-size)||
+|[Deceased Organ Donation &darr;](#deceased-organ-donation)||
 |[Decompensated Cirrhosis &darr;](#decompensated-cirrhosis)||
 |[Dialysis &darr;](#dialysis)||
 |[Diverticulitis &darr;](#diverticulitis)||
