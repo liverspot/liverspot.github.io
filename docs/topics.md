@@ -46,85 +46,85 @@ table tr:nth-child(23), /*D*/
 
 
 
-table tr:nth-child(33), /*E*/
 
 
+table tr:nth-child(35), /*E*/
 
 
 
 
 
 
-table tr:nth-child(42), /*F*/
 
 
+table tr:nth-child(44), /*F*/
 
-table tr:nth-child(46), /*G*/
 
 
+table tr:nth-child(48), /*G*/
 
 
 
 
-table tr:nth-child(53), /*H*/
 
 
+table tr:nth-child(55), /*H*/
 
 
 
 
 
-table tr:nth-child(61), /*I*/
 
 
+table tr:nth-child(63), /*I*/
 
 
-table tr:nth-child(66), /*J*/
 
-table tr:nth-child(68), /*K*/
 
-table tr:nth-child(70), /*L*/
+table tr:nth-child(68), /*J*/
 
+table tr:nth-child(70), /*K*/
 
+table tr:nth-child(72), /*L*/
 
 
 
-table tr:nth-child(76), /*M*/
 
 
+table tr:nth-child(78), /*M*/
 
 
 
 
-table tr:nth-child(83), /*N*/
 
 
+table tr:nth-child(85), /*N*/
 
 
 
-table tr:nth-child(89), /*O*/
 
 
-table tr:nth-child(92), /*P*/
+table tr:nth-child(91), /*O*/
 
 
+table tr:nth-child(94), /*P*/
 
 
 
 
-table tr:nth-child(99), /*R*/
 
 
+table tr:nth-child(101), /*R*/
 
-table tr:nth-child(103), /*S*/
 
 
+table tr:nth-child(105), /*S*/
 
 
 
-table tr:nth-child(109), /*T*/
 
 
+table tr:nth-child(111), /*T*/
 
 
 
@@ -138,14 +138,17 @@ table tr:nth-child(109), /*T*/
 
 
 
-table tr:nth-child(125), /*U*/
 
 
+table tr:nth-child(127), /*U*/
 
 
-table tr:nth-child(130), /*V*/
 
-table tr:nth-child(132), /*X*/
+
+table tr:nth-child(132), /*V*/
+
+table tr:nth-child(134), /*X*/
+
 
 
 table tr:nth-child(1), /*Y*/
@@ -234,6 +237,8 @@ The following entries contain information on topics that have been brought up du
 |[Creatinine Test &darr;](#creatinine-test)||
 |[DSA &darr;](#dsa) <a id="d"></a>|Donor Service Area|
 |[DXA scan &darr;](#dxa-scan)|Dual-Energy X-Ray Absorptiometry|
+|[Deceased-Donor Liver Size &darr;](#deceased-donor-liver-size)|Deceased-Donor Liver Size|
+|[Deceased Organ Donation &darr;](#deceased-organ-donation)|Deceased-Donor Liver Size|
 |[Decompensated Cirrhosis &darr;](#decompensated-cirrhosis)||
 |[Dialysis &darr;](#dialysis)||
 |[Diverticulitis &darr;](#diverticulitis)||
@@ -284,7 +289,7 @@ The following entries contain information on topics that have been brought up du
 |[Liver Circle &darr;](#liver-circle)||
 |[Liver In A Box &darr;](#liver-in-a-box)||
 |[Liver Pain &darr;](#liver-pain)||
-|[LiverSpot.org &darr;](#liverspotorg)||
+| [LiverSpot.org &darr;](https://liverspot.org)                                      |                                               |
 |[MELD &darr;](#meld) <a id="m"></a>|model for end-stage liver disease|
 |[MELD Exception Score &darr;](#meld-exception-score)||
 |[MRE &darr;](#mre)|Magnetic resonance elastography|
@@ -524,6 +529,18 @@ A Donor Service Area (DSA) is a smaller portion of a UNOS Region in which organs
 A DXA scan is an imaging test that measures the strength of your bones. It uses X-rays to measure your bone density. DXA is an abbreviation for dual-energy X-ray absorptiometry.
 
 <https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test>
+
+### Deceased-Donor Liver Size 
+
+* [1]&nbsp;<https://journals.lww.com/transplantjournal/fulltext/2017/11000/deceased_donor_liver_size_and_the_sex_based.9.aspx>
+
+### Deceased Organ Donation
+
+«Deceased organ donation occurs in two ways: Donation after Brain Death (DBD) and Donation after Circulatory Death (DCD, sometimes called cardiac death).» — [AI:Google]
+
+* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC3372912/>
+* [2]&nbsp;<https://unos.org/news/understanding-donation-after-circulatory-death-dcd/>
+* [3]&nbsp;<https://giftoflifemichigan.org/blog/the-facts-brain-death-and-dcd>
 
 ### Decompensated Cirrhosis
 «Decompensated cirrhosis is defined as an acute deterioration in liver function in a patient with cirrhosis and is characterized by jaundice, ascites, hepatic encephalopathy, hepatorenal syndrome or variceal haemorrhage.
