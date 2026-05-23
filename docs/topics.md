@@ -2,6 +2,7 @@
 layout: page
 title: Topics
 permalink: /topics/
+author: "Mark Fussell"
 ---
 
 <style>
