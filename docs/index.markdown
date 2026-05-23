@@ -5,18 +5,21 @@
 layout: home
 ---
 
-Welcome!  The LiverSpot is a community for people with a diseased liver, kidney, or other organ ("OrganSpot") who want to provide knowledge and support to each other.
+Welcome!  The LiverSpot is a community for people with a diseased liver, kidney, lung, heart, or other organ ("OrganSpot") and their caretakers, who want to provide knowledge and support to each other.
 
-The main discussion and content is hosted at [r/liverspot](http://reddit.com/r/liverspot).  
+At the moment, the main benefit of this site is the collection of [Topics](/topics) that has been extracted from discussions and meetings.  It will eventually also host personal stories and insights from various authors similar to the [DAIR Stories](https://www.dairbook.com/stories)
+
+### Discussion
+
+The main discussion and content for the LiverSpot is hosted at [r/liverspot](http://reddit.com/r/liverspot).  
 
 Note that the following Reddit groups are the primary discussion groups on Reddit for people with diseased organs.  The LiverSpot is supplemental to them.
    * [r/cirrhosis](http://reddit.com/r/cirrhosis)
+   * [r/CysticFibrosis](https://www.reddit.com/r/CysticFibrosis/)
    * [r/dialysis](http://reddit.com/r/dialysis)
    * [r/kidneydisease](http://reddit.com/r/kidneydisease)
    * [r/transplant](http://reddit.com/r/transplant)
 
-
-At the moment, the main benefit of this site is the collection of [Topics](/topics) that has been extracted from discussions and meetings.
 
 ### Recent Updates
 
