@@ -521,6 +521,14 @@ Acute cellular rejection
 
 «An AFP tumor marker test is a blood test that measures the level of AFP (alpha-fetoprotein) in a sample of your blood. It's usually used to help diagnose certain types of cancer and to check how well treatment is working.» —  [1]
 
+### AIH
+
+«Autoimmune hepatitis 〚AIH〛 is a liver disease that happens when the body's immune system attacks the liver. This can cause swelling, irritation and damage to the liver. The exact cause of autoimmune hepatitis is unclear, but genetic and environmental factors appear to interact over time to trigger the disease.» — [1]
+
+* [1]&nbsp;<https://www.mayoclinic.org/diseases-conditions/autoimmune-hepatitis/symptoms-causes/syc-20352153>
+
+Interestingly, the treatment for AIH is similar to the treatment for a post-transplant renal replacement procedure: in both cases the body needs to be prevented from attacking the liver but still function effectively against pathogens.
+
 ### Albumin
 «Albumin is responsible for transporting vitamins, enzymes and hormones throughout your body. Albumin makes up 50% of the proteins found in your plasma. When your albumin levels are low, hormones and other important compounds aren’t able to get to where they need to go in your body to fulfill their duties.» — [2]
 
