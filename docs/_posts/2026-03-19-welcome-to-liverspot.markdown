@@ -8,3 +8,5 @@ author: John Doe
 ---
 
 Site is now kind of live!  See especially [Topics](/topics) which has been fleshed out a bit
+
+This is a second paragraph
