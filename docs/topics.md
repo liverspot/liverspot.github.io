@@ -37,8 +37,8 @@ table tr:nth-child(16), /*C*/
 
 
 
-table tr:nth-child(24), /*D*/
 
+table tr:nth-child(25), /*D*/
 
 
 
@@ -49,8 +49,8 @@ table tr:nth-child(24), /*D*/
 
 
 
-table tr:nth-child(36), /*E*/
 
+table tr:nth-child(37), /*E*/
 
 
 
@@ -58,76 +58,76 @@ table tr:nth-child(36), /*E*/
 
 
 
-table tr:nth-child(45), /*F*/
 
+table tr:nth-child(46), /*F*/
 
 
-table tr:nth-child(49), /*G*/
 
+table tr:nth-child(50), /*G*/
 
 
 
 
 
-table tr:nth-child(56), /*H*/
 
+table tr:nth-child(57), /*H*/
 
 
 
 
 
 
-table tr:nth-child(64), /*I*/
 
+table tr:nth-child(65), /*I*/
 
 
 
-table tr:nth-child(69), /*J*/
 
-table tr:nth-child(71), /*K*/
+table tr:nth-child(70), /*J*/
 
-table tr:nth-child(73), /*L*/
+table tr:nth-child(72), /*K*/
 
+table tr:nth-child(74), /*L*/
 
 
 
 
-table tr:nth-child(79), /*M*/
 
+table tr:nth-child(80), /*M*/
 
 
 
 
 
-table tr:nth-child(86), /*N*/
 
+table tr:nth-child(87), /*N*/
 
 
 
 
-table tr:nth-child(92), /*O*/
 
+table tr:nth-child(93), /*O*/
 
-table tr:nth-child(95), /*P*/
 
+table tr:nth-child(96), /*P*/
 
 
 
 
 
 
-table tr:nth-child(103), /*R*/
 
+table tr:nth-child(104), /*R*/
 
 
-table tr:nth-child(107), /*S*/
 
+table tr:nth-child(108), /*S*/
 
 
 
 
-table tr:nth-child(113), /*T*/
 
+table tr:nth-child(114), /*T*/
 
 
 
@@ -142,14 +142,15 @@ table tr:nth-child(113), /*T*/
 
 
 
-table tr:nth-child(129), /*u*/
 
+table tr:nth-child(130), /*u*/
 
 
 
-table tr:nth-child(134), /*V*/
 
-table tr:nth-child(136), /*X*/
+table tr:nth-child(135), /*V*/
+
+table tr:nth-child(137), /*X*/
 
 
 
@@ -369,6 +370,7 @@ The following entries contain information on topics that have been brought up du
 |[Camino Hospital IOP &darr;](#camino-hospital-iop) <a id="c"></a>|Intensive OutPatient|
 |[Cirrhosis &darr;](#cirrhosis)||
 |[CMV &darr;](#cmv)|[Human] CytoMegaloVirus|
+|[Compensated Cirrhosis &darr;](#compensated-cirrhosis)||
 |[Corewell Health &darr;](#corewell-health)||
 |[CostPlus &darr;](#costplus)||
 |[CPMC &darr;](#cpmc)|California Pacific Medical Center|
@@ -640,6 +642,13 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 
 #### Alternate name
 «Human cytomegalovirus (HCMV), also called human herpesvirus 5 (HHV-5), is a species of virus in the genus Cytomegalovirus» — [3]
+
+### Compensated Cirrhosis 
+
+«Someone with compensated cirrhosis doesn’t necessarily look or feel sick. Their symptoms of the disease may be mild or nonexistent even though the liver is severely scarred.» — [2]
+
+* [1] «Compensated liver cirrhosis: Natural course and disease-modifying strategies» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10523240/>
+* [2] <https://liverfoundation.org/about-your-liver/how-liver-diseases-progress/cirrhosis-severe-scarring/#:~:text=decompensated.%20Someone%20with-,compensated%20cirrhosis,-doesn’t%20necessarily%20look>
 
 ### Corewell Health
 
