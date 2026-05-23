@@ -24,20 +24,20 @@ table tr:nth-child(1), /*A*/
 
 
 
-table tr:nth-child(11), /*B*/
 
+table tr:nth-child(12), /*B*/
 
 
-table tr:nth-child(15), /*C*/
 
+table tr:nth-child(16), /*C*/
 
 
 
 
 
 
-table tr:nth-child(23), /*D*/
 
+table tr:nth-child(24), /*D*/
 
 
 
@@ -48,8 +48,8 @@ table tr:nth-child(23), /*D*/
 
 
 
-table tr:nth-child(35), /*E*/
 
+table tr:nth-child(36), /*E*/
 
 
 
@@ -57,76 +57,76 @@ table tr:nth-child(35), /*E*/
 
 
 
-table tr:nth-child(44), /*F*/
 
+table tr:nth-child(45), /*F*/
 
 
-table tr:nth-child(48), /*G*/
 
+table tr:nth-child(49), /*G*/
 
 
 
 
 
-table tr:nth-child(55), /*H*/
 
+table tr:nth-child(56), /*H*/
 
 
 
 
 
 
-table tr:nth-child(63), /*I*/
 
+table tr:nth-child(64), /*I*/
 
 
 
-table tr:nth-child(68), /*J*/
 
-table tr:nth-child(70), /*K*/
+table tr:nth-child(69), /*J*/
 
-table tr:nth-child(72), /*L*/
+table tr:nth-child(71), /*K*/
 
+table tr:nth-child(73), /*L*/
 
 
 
 
-table tr:nth-child(78), /*M*/
 
+table tr:nth-child(79), /*M*/
 
 
 
 
 
-table tr:nth-child(85), /*N*/
 
+table tr:nth-child(86), /*N*/
 
 
 
 
-table tr:nth-child(91), /*O*/
 
+table tr:nth-child(92), /*O*/
 
-table tr:nth-child(94), /*P*/
 
+table tr:nth-child(95), /*P*/
 
 
 
 
 
-table tr:nth-child(101), /*R*/
 
 
+table tr:nth-child(103), /*R*/
 
-table tr:nth-child(105), /*S*/
 
 
+table tr:nth-child(107), /*S*/
 
 
 
-table tr:nth-child(111), /*T*/
 
 
+table tr:nth-child(113), /*T*/
 
 
 
@@ -140,14 +140,17 @@ table tr:nth-child(111), /*T*/
 
 
 
-table tr:nth-child(127), /*U*/
 
 
+table tr:nth-child(129), /*u*/
 
 
-table tr:nth-child(132), /*V*/
 
-table tr:nth-child(134), /*X*/
+
+table tr:nth-child(134), /*V*/
+
+table tr:nth-child(136), /*X*/
+
 
 
 
@@ -351,6 +354,7 @@ The following entries contain information on topics that have been brought up du
 |[ACR &darr;](#acr) <a id="a"></a>|Acute Cellular Rejection|
 |[Acyclovir &darr;](#acyclovir)||
 |[AFP &darr;](#afp)|Alpha-Fetoprotein|
+|[AIH &darr;](#aih)|Autoimmune hepatitis|
 |[Albumin &darr;](#albumin)||
 |[ALP &darr;](#alp)|Alkaline phosphatase|
 |[Ammonia Level &darr;](#ammonia-level)||
@@ -442,6 +446,7 @@ The following entries contain information on topics that have been brought up du
 |[Osmolite &darr;](#osmolite)||
 |[Oxycodone &darr;](#oxycodone)||
 |[Paracentesis &darr;](#paracentesis) <a id="p"></a>||
+|[Persistent Ascites &darr;](#persistent-ascites)||
 |[PET &darr;](#pet)|Positron emission tomography|
 |[PEth &darr;](#peth)|Phosphatidylethanol|
 |[Pink Cloud &darr;](#pink-cloud)||
@@ -1194,6 +1199,13 @@ Possible treats that the medical team might like and appreciate from patients in
 * [1]&nbsp;<https://my.clevelandclinic.org/health/procedures/paracentesis>
 * [2]&nbsp;<https://en.wikipedia.org/wiki/Paracentesis>
 * [3]&nbsp;<https://www.dairbook.com/glossary/paracentesis>
+
+### Persistent Ascites 
+
+«Persistent ascites (PA) after liver transplantation (LT), commonly defined as ascites lasting more than 4 wk after LT, can be expected in up to 7% of patients. » — [1]
+
+* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC9521448/>
+
 
 ### PET
 
