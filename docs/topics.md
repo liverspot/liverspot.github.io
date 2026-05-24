@@ -979,6 +979,7 @@ Your provider will also prescribe a treatment plan to manage the underlying caus
 * [4]&nbsp;<https://en.wikipedia.org/wiki/Immunosuppressive_drug>
 * [5]&nbsp;<https://www.dairbook.com/glossary/immunosuppressant>
 
+<span class='topic-arrow' >[&rarr;](/topic/immunosuppression)</span>
 ### Immunosuppression
 
 * <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
