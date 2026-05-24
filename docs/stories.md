@@ -28,8 +28,8 @@ table td, th {
 
 </style>
 
-| Story | Date | Author |
-|-------|------|--------|
+| Story | Date  | Author |
+|-------|-------|--------|
 {% for post in site.posts -%}
 {% assign full_id = post.id | remove_first: '/' | replace: '/', '-' -%}
 {% assign author_name = 'Unknown' -%}
@@ -39,7 +39,7 @@ table td, th {
 {% assign author_url = person.url -%}
 {% endif -%}
 {% endfor -%}
-| [{{post.title}} &darr;](#{{full_id}}) | {{post.date | date: "%Y-%m-%d" }} | [{{author_name}}]({{author_url}}) |
+| [{{post.title}}]({{site.baseurl }}{{ post.url }}) &nbsp;  <span style="float: right; "> [&darr;](#{{full_id}})  </span> | {{post.date | date: "%Y-%m-%d" }} | [{{author_name}}]({{author_url}}) |
 {% endfor -%}
 |----|----|----|
 
