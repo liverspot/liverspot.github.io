@@ -8,6 +8,10 @@ title: Stories
     overflow-wrap: break-word; 
   }
 
+h2x {
+    background-color: #deedf4;
+}
+
 h3 {
   border-top: 2px solid #2e6da4; 
   color: #2e6da4;
