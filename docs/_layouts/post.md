@@ -26,6 +26,10 @@ h3x {
   font-weight: 400;
   line-height: 46px;
 }
+
+/*.post-content*/
+/*  font-size: 32px;*/
+
 h3 {
   border-top: 2px solid #2e6da4; 
   color: #2e6da4;
@@ -39,7 +43,7 @@ h4 {
   margin-bottom: 10px;
   font-size: 18px;
   font-weight: 600;
-  line-height: 38px;
+  line-height: 24px;
 }
 
 h5 {
