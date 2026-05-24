@@ -59,7 +59,7 @@ Soon after I woke up from a coma in 2021 I was told I needed to get on a liver t
             </p>
             <p>
                 Beyond being sober for at least six months, Stanford required proof that I would continue to be sober.  See 
-                <a href="/stories/mark-20240223a">Proving Sober</a>
+                <a href="/story/2024/02/22/proving-sober">Proving Sober</a>
                  for some of the details around that continued proof.
             </p>
             <h5>Psychiatric Conditions</h5>
