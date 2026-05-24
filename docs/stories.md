@@ -4,7 +4,17 @@ title: Stories
 ---
 
 <style>
-  a {
+    .topic-arrow {
+        float:right; 
+        border-top: 2px solid #2e6da4;
+        font-size:20px; 
+        font-weight: bold;
+        font-weight:700; 
+        color: #2e6da4;
+        background-color: #deedf4;
+    }
+
+a {
     overflow-wrap: break-word; 
   }
 
@@ -51,7 +61,7 @@ table td, th {
 
 {% for post in site.posts -%}
 {% assign full_id = post.id | remove_first: '/' | replace: '/', '-' -%}
-<div style="float:right"><a href="{{ site.baseurl }}{{ post.url }}">[More...]</a></div>
+<span class='topic-arrow' ><a href="{{ site.baseurl }}{{ post.url }}">&rarr;</a></span>
 <h3 id="{{full_id}}">{{post.title}}</h3>
 
 {{post.excerpt}} 
