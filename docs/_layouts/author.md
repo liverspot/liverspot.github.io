@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h2>{{ page.name }}</h2>
+<h1>{{ page.name }}</h1>
 
 {{ content }}
 

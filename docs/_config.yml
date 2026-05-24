@@ -42,6 +42,9 @@ collections:
   authors:
     output: true
     permalink: /author/:title/
+  topics:
+    output: true
+    permalink: /topic/:title/
 
 excerpt_separator: "<!--more-->"
 
