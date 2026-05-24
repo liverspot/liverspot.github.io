@@ -1,6 +1,71 @@
 ---
 layout: default
 ---
+
+<style>
+h1 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  font-size: 44px;
+  font-weight: 400;
+  line-height: 62px;
+}
+
+h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 50px;
+}
+
+h3x {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 46px;
+}
+h3 {
+  border-top: 2px solid #2e6da4; 
+  color: #2e6da4;
+  break-after: avoid;
+  page-break-after: avoid; /* Safari fallback */
+}
+
+h4 {
+  color: #b81d3e;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 38px;
+}
+
+h5 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 34px;
+}
+
+h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+}
+
+a {
+  color: #1a1b1f;
+  text-decoration: underline;
+  transition: opacity .2s;
+  display: inline-block;
+}
+
+</style>
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">

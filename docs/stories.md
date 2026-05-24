@@ -43,6 +43,7 @@ table td, th {
 {% endfor -%}
 |----|----|----|
 
+## Excerpts
 
 {% for post in site.posts -%}
 {% assign full_id = post.id | remove_first: '/' | replace: '/', '-' -%}
