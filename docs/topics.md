@@ -711,6 +711,7 @@ Liver damage and severe scarring can progress to the point where the liver can n
 * [2]&nbsp;<https://www.hepatitis.va.gov/cirrhosis/patient/decompensated.asp>
 * [3]&nbsp;<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334027/>
 
+<span class='topic-arrow' >[&rarr;](/topic/dialysis)</span>
 ### Dialysis
 «Dialysis functions as a very effective but partial replacement for the processes of the kidneys. The main capability is the removal of waste products (e.g. see Creatinine above) from the blood supply. A secondary capability is the removal of water from the blood supply, and through that, from areas water is over-accumulating.» — [3]
 
