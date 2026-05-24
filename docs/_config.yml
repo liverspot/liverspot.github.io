@@ -43,6 +43,7 @@ collections:
     output: true
     permalink: /author/:title/
 
+excerpt_separator: "<!--more-->"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
