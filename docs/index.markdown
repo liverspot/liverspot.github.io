@@ -7,7 +7,7 @@ layout: home
 
 Welcome!  The LiverSpot is a community for people with a diseased liver, kidney, lung, heart, or other organ ("OrganSpot") and their caretakers, who want to provide knowledge and support to each other.
 
-At the moment, the main benefit of this site is the collection of [Topics](/topics) that has been extracted from discussions and meetings.  It will eventually also host personal stories and insights from various authors similar to the [DAIR Stories](https://www.dairbook.com/stories)
+At the moment, the main benefit of this site is the collection of [Topics](/topics) that has been extracted from discussions and meetings.  It also contains [Stories](/stories) and insights from various authors.
 
 ### Discussion
 

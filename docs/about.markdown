@@ -4,13 +4,11 @@ title: About
 permalink: /about/
 ---
 
-The LiverSpot is a community for people with a diseased liver, kidney, or other organ ("OrganSpot") who want to provide knowledge and support to each other.
-
-The main discussion and content is hosted at [r/liverspot](http://reddit.com/r/liverspot)
+The LiverSpot is a community for people with a diseased liver, kidney, lung, heart, or other organ ("OrganSpot") and their caretakers, who want to provide knowledge and support to each other.
 
 ## Ability to Contribute
 
-This site is hosted at GitHub, it built with Jekyll, and is currently deployed on GitHub Pages.  If you want to contribute content directly, just submit a pull request to the [repo](https://github.com/liverspot/liverspot.github.io).  The source files are in '/docs'
+This site is hosted at GitHub, is built with Jekyll, and is currently deployed on GitHub Pages.  If you want to contribute content directly, just submit a pull request to the [repo](https://github.com/liverspot/liverspot.github.io).  The source files are in '/docs', and you can propose edits to the main 'Topics' page or add independent content to the Story pages.
 
 ## History
 
