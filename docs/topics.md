@@ -630,6 +630,7 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 
 * [1]&nbsp;<https://www.elcaminohealth.org/services/mental-health/specialty-programs/addiction-services>
 
+<span class='topic-arrow' >[&rarr;](/topic/cirrhosis)</span>
 ### Cirrhosis
 «Cirrhosis is a condition in which your liver is scarred and permanently damaged. Scar tissue replaces healthy liver tissue and prevents your liver from working normally. As cirrhosis gets worse, your liver begins to fail.» — [5]
 
@@ -678,6 +679,7 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 ### CPMC
 California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
 
+<span class='topic-arrow' >[&rarr;](/topic/creatinine)</span>
 ### Creatinine
 «Creatinine is the waste byproduct of the muscles processing energy from creatine. Properly functioning kidneys remove creatinine from the blood supply.» — [2]
 
@@ -1246,6 +1248,7 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 
 * [1]&nbsp;<https://www.baptisthealth.com/blog/health-and-wellness/pet-scan-vs-mri-what-s-the-difference>
 
+<span class='topic-arrow' >[&rarr;](/topic/peth)</span>
 ### PEth
 
 «Phosphatidylethanol (PEth) testing is a reliable method to help create a picture of alcohol consumption.» — [2]

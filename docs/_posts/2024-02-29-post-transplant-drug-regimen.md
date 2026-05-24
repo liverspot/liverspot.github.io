@@ -4,6 +4,8 @@ title:  "Post Transplant Drug Regimen"
 date:   2024-02-29 00:00:00 -0700
 categories:
   - story
+tags:
+  - cirrhosis
 author: Mark Fussell
 ---
 
