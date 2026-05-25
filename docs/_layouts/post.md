@@ -37,6 +37,7 @@ h3 {
   page-break-after: avoid; /* Safari fallback */
 }
 
+/*.post-content */
 h4 {
   color: #b81d3e;
   margin-top: 10px;
@@ -49,7 +50,7 @@ h4 {
 h5 {
   margin-top: 10px;
   margin-bottom: 10px;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 500;
   line-height: 34px;
 }
