@@ -1102,7 +1102,7 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
   * [7] UPMC: «Understanding Your MELD Score for Liver Transplant» — <https://www.upmc.com/services/transplant/patients/resources/meld-score>
   * [8] «MELD 3.0 adequately predicts mortality and renal replacement therapy» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10339256/>
 
-The MELD score is really only relevant if a transplant (renal replacement therapy) is indicated, but used somewhat to produce an approximate  sickness level for someone with Cirrhosis.
+The MELD score is really only relevant if a transplant is indicated, but used somewhat to produce an approximate  sickness level for someone with Cirrhosis.
 
 There are statistical correlations between level of liver illness (e.g. the MELD score) and the chance of survival for a period of time (E.g. « A MELD score above 30 indicates a 50% chance of dying in three months.» — [2] ).
 
