@@ -17,7 +17,7 @@ Soon after I woke up from a coma in 2021 I was told I needed to get on a liver t
             <p>There are a lot of hoops to jump through to get on the liver transplant list for a hospital.  There are a limited number or organs available and it is not guaranteed that you will be listed _at all_.  The hospital can choose whether to list you: the hospital is agreeing that if an organ is available they will do the procedure.  And if you seem a high risk of failure (but are not in imminent death) they can defer or even reject you.  Given that it seems you will die without a transplant, this is a lot of power being wielded over you.</p>
             <p>Hospital are different and the availabiity of organs is different based on UNOS regions.  This is just my experience with Stanford in California.</p>
             <h3>Caveat</h3>
-            <p>Before going into the process, you should know you _may not_ need a transplant to stay alive.  At least I did not, although I never recovered enough that a transplant wouldn&#x27;t help.  But other did not get a transplant and recovered so much they never needed it: it was no longer a good treatment of remaining symptoms.  </p>
+            <p>Before going into the process, you should know you _may not_ need a transplant to stay alive.  At least I did not, although I never recovered enough that a transplant wouldn&#x27;t help.  But others did not get a transplant and recovered so much they never needed it: it was no longer a good treatment of remaining symptoms.  </p>
             <p>This isn&#x27;t to discourage you from doing what is needed to get on the transplant list: all the hoops will likely help you to get in better health.  But just to possibly temper that &#x27;I will die&#x27; aspect anytime something foils you from getting on the list.  It can be stressful but ideally isn&#x27;t overwhelmingly depressing.</p>
             <h3>Evaluation aspects of getting on the List</h3>
             <p>There are several aspects to getting on the transplant list at Stanford, which are likely similar to what is require at other hospital.  Note that the requirements within these aspects is from a patient perspective: for many things I am guessing on the details based on my own interactions and annecdotes from other patients.  A lot of the true details are opaquely hidden behind a ‹Review Panel› (or what I call the ‹Panel of Gods›).  </p>
@@ -61,7 +61,7 @@ Soon after I woke up from a coma in 2021 I was told I needed to get on a liver t
             </p>
             <p>
                 Beyond being sober for at least six months, Stanford required proof that I would continue to be sober.  See 
-                <a href="/story/2024/02/22/proving-sober">Proving Sober</a>
+                <a href="/stories#story-2024-02-23-proving-sober">Proving Sober</a>
                  for some of the details around that continued proof.
             </p>
             <h5>Psychiatric Conditions</h5>
