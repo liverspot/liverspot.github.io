@@ -634,11 +634,15 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 ### Cirrhosis
 «Cirrhosis is a condition in which your liver is scarred and permanently damaged. Scar tissue replaces healthy liver tissue and prevents your liver from working normally. As cirrhosis gets worse, your liver begins to fail.» — [5]
 
+«Liver cirrhosis (LC) is defined as an advanced stage of liver fibrosis with distortion of the hepatic vasculature and architecture. Histologically, regenerative nodules with fibrous tissues form in response to chronic injury and lead to LC[4,5]. Consequently, disruption of the liver architecture due to liver fibrosis and/or cirrhosis causes hemodynamic instability and portal hypertension. The development of portal hypertension is a hallmark of LC.» — [6]
+
 * [1]&nbsp;<https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis>
 * [2]&nbsp;<https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487>
 * [3]&nbsp;<https://en.wikipedia.org/wiki/Cirrhosis>
 * [4]&nbsp;<https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=aa67653>
 * [5]&nbsp;<https://www.dairbook.com/glossary/cirrhosis>
+* [6]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC4381184/>
+
 
 ### CMV
 
