@@ -1260,7 +1260,7 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 «Phosphatidylethanol (PEth) testing is a reliable method to help create a picture of alcohol consumption.» — [2]
 
 * [1]&nbsp;<https://lextox.co.uk/blog-posts/phosphatidylethanol-peth-testing/>
-* [2]&nbsp;<https://www.dairbook.com/glossary/peth>>
+* [2]&nbsp;<https://www.dairbook.com/glossary/peth>
 
 ### Pink Cloud
 
