@@ -23,7 +23,8 @@ title: The LiverSpot
 #email: info@liverspot.org
 description: >- # this means to ignore newlines until "baseurl:"
   A community for people with a diseased 
-  liver, kidney, or other organ who want to provide knowledge 
+  liver, kidney, lung, heart, or other organ (“OrganSpot”) and their caretakers, 
+  who want to provide knowledge 
   and support to each other.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
