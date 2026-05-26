@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Acceptance, Suppression, and Infection"
-date:   2024-02-25 00:00:00 -0700
+date:   2024-02-25 07:00:00 -0700
 categories:
   - story
 tags:

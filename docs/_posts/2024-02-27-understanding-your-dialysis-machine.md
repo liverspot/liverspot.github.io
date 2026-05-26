@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Understanding your Dialysis Machine"
-date:   2024-02-27 00:00:00 -0700
+date:   2024-02-27 07:00:00 -0700
 categories:
   - story
 tags:
