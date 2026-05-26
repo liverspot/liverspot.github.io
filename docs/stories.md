@@ -62,7 +62,7 @@ table td, th {
 {% for post in site.posts -%}
 {% assign full_id = post.id | remove_first: '/' | replace: '/', '-' -%}
 <span class='topic-arrow' ><a href="{{ site.baseurl }}{{ post.url }}">&rarr;</a></span>
-<h3 id="{{full_id}}">{{post.title}}</h3>
+<h3 id="{{full_id}}"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>
 
 {{post.excerpt}} 
 {% endfor -%}

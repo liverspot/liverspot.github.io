@@ -632,7 +632,7 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 * [1]&nbsp;<https://www.elcaminohealth.org/services/mental-health/specialty-programs/addiction-services>
 
 <span class='topic-arrow' >[&rarr;](/topic/cirrhosis)</span>
-### Cirrhosis
+### [Cirrhosis](/topic/cirrhosis)
 «Cirrhosis is a condition in which your liver is scarred and permanently damaged. Scar tissue replaces healthy liver tissue and prevents your liver from working normally. As cirrhosis gets worse, your liver begins to fail.» — [5]
 
 «Liver cirrhosis (LC) is defined as an advanced stage of liver fibrosis with distortion of the hepatic vasculature and architecture. Histologically, regenerative nodules with fibrous tissues form in response to chronic injury and lead to LC[4,5]. Consequently, disruption of the liver architecture due to liver fibrosis and/or cirrhosis causes hemodynamic instability and portal hypertension. The development of portal hypertension is a hallmark of LC.» — [6]
@@ -685,7 +685,7 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
 
 <span class='topic-arrow' >[&rarr;](/topic/creatinine)</span>
-### Creatinine
+### [Creatinine](/topic/creatinine)
 «Creatinine is the waste byproduct of the muscles processing energy from creatine. Properly functioning kidneys remove creatinine from the blood supply.» — [2]
 
 * [1]&nbsp;<https://www.mountsinai.org/health-library/tests/creatinine-blood-test>
@@ -717,7 +717,7 @@ Liver damage and severe scarring can progress to the point where the liver can n
 * [3]&nbsp;<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334027/>
 
 <span class='topic-arrow' >[&rarr;](/topic/dialysis)</span>
-### Dialysis
+### [Dialysis](/topic/dialysis)
 «Dialysis functions as a very effective but partial replacement for the processes of the kidneys. The main capability is the removal of waste products (e.g. see Creatinine above) from the blood supply. A secondary capability is the removal of water from the blood supply, and through that, from areas water is over-accumulating.» — [3]
 
 * [1]&nbsp;<https://www.nhs.uk/conditions/dialysis/>
@@ -986,7 +986,7 @@ Your provider will also prescribe a treatment plan to manage the underlying caus
 * [5]&nbsp;<https://www.dairbook.com/glossary/immunosuppressant>
 
 <span class='topic-arrow' >[&rarr;](/topic/immunosuppression)</span>
-### Immunosuppression
+### [Immunosuppression](/topic/immunosuppression)
 
 * <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
 
@@ -1094,7 +1094,7 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
 
 
 <span class='topic-arrow' >[&rarr;](/topic/meld)</span>
-### MELD
+### [MELD](/topic/meld)
 
 «The model for end-stage liver disease (MELD) score helps decide how urgently someone needs a liver transplant in the next three months. The score ranges from 6 to 40. A person with a higher score needs a liver transplant sooner than does a person with a lower score.» — [1]
 
@@ -1256,7 +1256,7 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 * [1]&nbsp;<https://www.baptisthealth.com/blog/health-and-wellness/pet-scan-vs-mri-what-s-the-difference>
 
 <span class='topic-arrow' >[&rarr;](/topic/peth)</span>
-### PEth
+### [PEth](/topic/peth)
 
 «Phosphatidylethanol (PEth) testing is a reliable method to help create a picture of alcohol consumption.» — [2]
 
