@@ -3,13 +3,21 @@ layout: default
 ---
 <style>
 
-  a {
+    .topic-arrow {
+        float:right; 
+        border-top: 2px solid #2e6da4;
+        font-size:20px; 
+        font-weight: bold;
+        font-weight:700; 
+        color: #2e6da4;
+        background-color: #deedf4;
+    }
+
+a {
     overflow-wrap: break-word; 
   }
 
-
 h3 {
-  margin-top: 20px;
   border-top: 2px solid #2e6da4; 
   color: #2e6da4;
   break-after: avoid;
@@ -41,6 +49,16 @@ h6 {
   line-height: 28px;
 }
 
+table td, th {
+    padding: 2px 15px; /* Or a small value like 2px */
+}
+
+  p, h4 { /*Shift contents of details right*/
+    margin-left: 20px; 
+  } 
+  ul { 
+    padding-inline-start: 20px; 
+  }
 
 </style>
 <h1>{{ page.name }}</h1>
@@ -51,12 +69,10 @@ h6 {
 </p>
 
 
-<h3>Stories</h3>
+
+<h2>Stories</h2>
 
 {% assign filtered_posts = site.posts | where_exp: "item", "item.tags contains page.slug" %}
 
-<ul>
-{% for post in filtered_posts -%}
-<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+
+{% include story_list.html posts=filtered_posts %}

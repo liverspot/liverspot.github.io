@@ -42,27 +42,7 @@ table td, th {
 
 </style>
 
-| Story | Date  | Author |
-|-------|-------|--------|
-{% for post in site.posts -%}
-{% assign full_id = post.id | remove_first: '/' | replace: '/', '-' -%}
-{% assign author_name = 'Unknown' -%}
-{% for person in site.authors -%}
-{% if person.name == post.author -%}
-{% assign author_name = person.name -%}
-{% assign author_url = person.url -%}
-{% endif -%}
-{% endfor -%}
-| [{{post.title}}]({{site.baseurl }}{{ post.url }}) &nbsp;  <span style="float: right; "> [&darr;](#{{full_id}})  </span> | {{post.date | date: "%Y-%m-%d" }} | [{{author_name}}]({{author_url}}) |
-{% endfor -%}
-|----|----|----|
 
-## Excerpts
+{% assign filtered_posts = site.posts  %}
+{% include story_list.html posts=filtered_posts %}
 
-{% for post in site.posts -%}
-{% assign full_id = post.id | remove_first: '/' | replace: '/', '-' -%}
-<span class='topic-arrow' ><a href="{{ site.baseurl }}{{ post.url }}">&rarr;</a></span>
-<h3 id="{{full_id}}"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>
-
-{{post.excerpt}} 
-{% endfor -%}
