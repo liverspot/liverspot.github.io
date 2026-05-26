@@ -1,10 +1,20 @@
-<footer class="site-footer h-card" style="padding: 6px 0;">
+<footer class="site-footer h-card" style="padding: 12px 0;">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-<!--      <div class="footer-col footer-col-1">-->
+        Translation:&nbsp;
+        {% for item in site.languages -%}
+        <a href="https://liverspot-org.translate.goog{{page.url}}?_x_tr_sl=auto&_x_tr_tl={{item}}">{{item}}</a>
+        {% if forloop.last -%}
+        {% else -%}
+        •
+        {% endif -%}
+        {% endfor -%}
+
+<!--        {{relative_url}} • {{u-url}} • {{page.path}} • {{page.url}}-->
+        <!--      <div class="footer-col footer-col-1">-->
 <!--        <ul class="contact-list">-->
 <!--          <li class="p-name">-->
 <!--            {%- if site.author -%}-->
