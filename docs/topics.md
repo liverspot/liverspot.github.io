@@ -708,7 +708,7 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 
 «A CT angiogram 〚Computed Tomography Angiogram〛 is a test that checks for blockages and other problems in your arteries. It’s a CT scan with the added benefit of contrast dye. A healthcare provider injects the dye into a vein in your arm. The dye flows through your blood vessels and makes them look bright on the CT images. This means it’s easier to see blood flow and spot issues.» — [1]
 
- [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/ct-angiogram≥
+ [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/ct-angiogram>
 
 ### Deceased Organ Donation
 
