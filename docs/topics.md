@@ -715,7 +715,7 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 
 ### Deceased Organ Donation
 
-«Deceased organ donation occurs in two ways: Donation after Brain Death (DBD) and Donation after Circulatory Death (DCD, sometimes called cardiac death).» — [AI:Google]
+«Deceased organ donation occurs in two ways: Donation after Brain Death (DBD) and Donation after Circulatory Death (DCD, sometimes called cardiac death).» — [AI:Google 'Deceased Organ Donation Brain Circulatory']
 
 * [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC3372912/>
 * [2]&nbsp;<https://unos.org/news/understanding-donation-after-circulatory-death-dcd/>
