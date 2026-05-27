@@ -365,10 +365,10 @@ The following entries contain information on topics that have been brought up du
 
 ## Index
 
-| Topic                                                                                                                                  | Acronym Expanded                              | 
+| Topic                                                                                                                                  | Alternate Name                                | 
 |----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
 |[ACR &darr;](#acr) <a id="a"></a>|Acute Cellular Rejection|
-|[Acyclovir &darr;](#acyclovir)||
+|[Acyclovir &darr;](#acyclovir)|Zovirax|
 |[AFP &darr;](#afp)|Alpha-Fetoprotein|
 |[AIH &darr;](#aih)|Autoimmune hepatitis|
 |[Albumin &darr;](#albumin)||
@@ -412,13 +412,13 @@ The following entries contain information on topics that have been brought up du
 |[Erica Storm &darr;](#erica-storm)||
 |[ESLD &darr;](#esld)|End-Stage Liver Disease|
 |[Esophageal Varices &darr;](#esophageal-varices)||
-|[Everolimus &darr;](#everolimus)||
+|[Everolimus &darr;](#everolimus)|Afinitor, Zortress|
 |[Excess Protein &darr;](#excess-protein)||
 |[FIB-4 &darr;](#fib-4) <a id="f"></a>|Fibrosis-4|
 |[Fibroscan &darr;](#fibroscan)||
-|[Filgrastim &darr;](#filgrastim)||
+|[Filgrastim &darr;](#filgrastim)|Neupogen, Nivestym, Zarxio|
 |[Fistula &darr;](#fistula)||
-|[Gabapentin &darr;](#gabapentin) <a id="g"></a>||
+|[Gabapentin &darr;](#gabapentin) <a id="g"></a>|Neurontin|
 |[Gallbladder &darr;](#gallbladder)||
 |[Gallbladder Cancer &darr;](#gallbladder-cancer)||
 |[GFR and Aging &darr;](#gfr-and-aging)|Glomerular Filtration Rate|
@@ -440,7 +440,7 @@ The following entries contain information on topics that have been brought up du
 |[Itching &darr;](#itching)||
 |[J-Tube &darr;](#j-tube) <a id="j"></a>|Jejunal Tube|
 |[Jaundice &darr;](#jaundice)||
-|[Ketorolac &darr;](#ketorolac) <a id="k"></a>||
+|[Ketorolac &darr;](#ketorolac) <a id="k"></a>|Toradol|
 |[Kt/V &darr;](#ktv)||
 |[Lactulose &darr;](#lactulose) <a id="l"></a>||
 |[Liver Circle &darr;](#liver-circle)||
@@ -454,16 +454,16 @@ The following entries contain information on topics that have been brought up du
 |[MRE &darr;](#mre)|Magnetic resonance elastography|
 |[MRI &darr;](#mri)|Magnetic resonance imaging|
 |[Multiple Listing &darr;](#multiple-listing)||
-|[Mycophenolate Mofetil &darr;](#mycophenolate-mofetil)||
-|[Naltrexone &darr;](#naltrexone) <a id="n"></a>||
+|[Mycophenolate Mofetil &darr;](#mycophenolate-mofetil)|CellCept|
+|[Naltrexone &darr;](#naltrexone) <a id="n"></a>|Vivitrol, ReVia|
 |[NASH &darr;](#nash)|Nonalcoholic steatohepatitis|
 |[Neuropathy &darr;](#neuropathy)||
 |[Neutropenia &darr;](#neutropenia)||
-|[NIVESTYM &darr;](#nivestym)||
+|[NIVESTYM &darr;](#nivestym)|Filgastrim |
 |[Nurse Treats &darr;](#nurse-treats)||
 |[OPTN &darr;](#optn) <a id="o"></a>|Organ Procurement and Transplantation Network|
 |[Osmolite &darr;](#osmolite)||
-|[Oxycodone &darr;](#oxycodone)||
+|[Oxycodone &darr;](#oxycodone)|OxyContin, Percocet|
 |[Paracentesis &darr;](#paracentesis) <a id="p"></a>||
 |[Persistent Ascites &darr;](#persistent-ascites)||
 |[PET &darr;](#pet)|Positron emission tomography|
@@ -478,7 +478,7 @@ The following entries contain information on topics that have been brought up du
 |[Recompensated &darr;](#recompensated) <a id="r"></a>||
 |[Recteq &darr;](#recteq)||
 |[Reddit for Transplant Support Study &darr;](#reddit-for-transplant-support-study)||
-|[Retacrit &darr;](#retacrit)||
+|[Retacrit &darr;](#retacrit)|Epoetin Alfa-epbx|
 |[Safety net &darr;](#safety-net) <a id="s"></a>||
 |[Scar Tissue &darr;](#scar-tissue)||
 |[Skin Cancer Risk &darr;](#skin-cancer-risk)||
@@ -486,7 +486,7 @@ The following entries contain information on topics that have been brought up du
 |[SRTR &darr;](#srtr)|Scientific Registry of Transplant Recipients|
 |[St. Mary's Reno &darr;](#st-marys-reno)||
 |[TACE &darr;](#tace) <a id="t"></a>|Transarterial chemoembolization|
-|[Tacrolimus &darr;](#tacrolimus)||
+|[Tacrolimus &darr;](#tacrolimus)|Prograf, Astagraf, Envarsus|
 |[Tacrolimus Skin Cancer &darr;](#tacrolimus-skin-cancer)||
 |[Tacrolimus vs. CellCept &darr;](#tacrolimus-vs-cellcept)||
 |[Tacrolimus-induced Ascites &darr;](#tacrolimus-induced-ascites)||
@@ -505,11 +505,11 @@ The following entries contain information on topics that have been brought up du
 |[Umbilical Hernia &darr;](#umbilical-hernia)||
 |[UNOS &darr;](#unos)|United Network for Organ Sharing|
 |[UNOS Regions &darr;](#unos-regions)||
-|[Ursodiol &darr;](#ursodiol)||
-|[Valcyte &darr;](#valcyte) <a id="v"></a>||
-|[Vivitrol &darr;](#vivitrol)||
-|[XIAFLEX &darr;](#xiaflex) <a id="x"></a>||
-|[Xifaxan &darr;](#xifaxan)||
+|[Ursodiol &darr;](#ursodiol)|Actigall, Reltone, Urso |
+|[Valcyte &darr;](#valcyte) <a id="v"></a>|Valganciclovir|
+|[Vivitrol &darr;](#vivitrol)|Naltrexone|
+|[XIAFLEX &darr;](#xiaflex) <a id="x"></a>|Collagenase |
+|[Xifaxan &darr;](#xifaxan)|Rifaximin|
 
 ## Entries
 
