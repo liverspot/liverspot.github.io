@@ -367,149 +367,149 @@ The following entries contain information on topics that have been brought up du
 
 | Topic                                                                                                                                  | Alternate Name                                | 
 |----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-|[ACR &darr;](#acr) <a id="a"></a>|Acute Cellular Rejection|
-|[Acyclovir &darr;](#acyclovir)|Zovirax|
-|[AFP &darr;](#afp)|Alpha-Fetoprotein|
-|[AIH &darr;](#aih)|Autoimmune hepatitis|
-|[Albumin &darr;](#albumin)||
-|[ALP &darr;](#alp)|Alkaline phosphatase|
-|[Ammonia Level &darr;](#ammonia-level)||
-|[Angiogram &darr;](#angiogram)||
-|[Angioplasty &darr;](#angioplasty)||
-|[Ascites &darr;](#ascites)||
-|[Asterixis &darr;](#asterixis)||
-|[Atrophy &darr;](#atrophy)||
-|[Bausch PAP &darr;](#bausch-pap) <a id="b"></a>|Patient Assistance Program|
-|[Bilirubin &darr;](#bilirubin)||
-|[BK Virus &darr;](#bk-virus)|'BK' are initials|
-|[BUN Test &darr;](#bun-test)|Blood-urea-nitrogen|
-|[Camino Hospital IOP &darr;](#camino-hospital-iop) <a id="c"></a>|Intensive OutPatient|
-|[Cirrhosis &darr;](#cirrhosis)||
-|[CMV &darr;](#cmv)|[Human] CytoMegaloVirus|
-|[Compensated Cirrhosis &darr;](#compensated-cirrhosis)||
-|[Corewell Health &darr;](#corewell-health)||
-|[CostPlus &darr;](#costplus)||
-|[CPMC &darr;](#cpmc)|California Pacific Medical Center|
-|[Creatinine &darr;](#creatinine)||
-|[Creatinine Test &darr;](#creatinine-test)||
-|[CTA &darr;](#cta)|Computed Tomography Angiogram|
-|[Deceased Organ Donation &darr;](#deceased-organ-donation) <a id="d"></a>||
-|[Deceased-Donor Liver Size &darr;](#deceased-donor-liver-size)||
-|[Decompensated Cirrhosis &darr;](#decompensated-cirrhosis)||
-|[Dialysis &darr;](#dialysis)||
-|[Diverticulitis &darr;](#diverticulitis)||
-|[Donor Info &darr;](#donor-info)||
-|[Drug Regimen &darr;](#drug-regimen)||
-|[DSA &darr;](#dsa)|Donor Service Area|
-|[Duncan Mills &darr;](#duncan-mills)||
-|[Dupuytren's contracture &darr;](#dupuytrens-contracture)||
-|[DXA scan &darr;](#dxa-scan)|Dual-Energy X-Ray Absorptiometry|
-|[Dysphagia &darr;](#dysphagia)||
-|[Edema &darr;](#edema) <a id="e"></a>||
-|[El Camino Car &darr;](#el-camino-car)||
-|[Encephalitis &darr;](#encephalitis)||
-|[Encephalopathy &darr;](#encephalopathy)||
-|[Erica Storm &darr;](#erica-storm)||
-|[ESLD &darr;](#esld)|End-Stage Liver Disease|
-|[Esophageal Varices &darr;](#esophageal-varices)||
-|[Everolimus &darr;](#everolimus)|Afinitor, Zortress|
-|[Excess Protein &darr;](#excess-protein)||
-|[FIB-4 &darr;](#fib-4) <a id="f"></a>|Fibrosis-4|
-|[Fibroscan &darr;](#fibroscan)||
-|[Filgrastim &darr;](#filgrastim)|Neupogen, Nivestym, Zarxio|
-|[Fistula &darr;](#fistula)||
-|[Gabapentin &darr;](#gabapentin) <a id="g"></a>|Neurontin|
-|[Gallbladder &darr;](#gallbladder)||
-|[Gallbladder Cancer &darr;](#gallbladder-cancer)||
-|[GFR and Aging &darr;](#gfr-and-aging)|Glomerular Filtration Rate|
-|[GGT &darr;](#ggt)|gamma-glutamyl transferase|
-|[Gougol &darr;](#gougol)||
-|[Gynecomastia &darr;](#gynecomastia)||
-|[HCC GALAD Model &darr;](#hcc-galad-model) <a id="h"></a>|Hepatocellular Carcinoma • Gender, Age, ...|
-|[HE &darr;](#he)|Hepatic Encephalopathy|
-|[Hemochromatosis &darr;](#hemochromatosis)||
-|[Hemodialysis &darr;](#hemodialysis)||
-|[Hepatitis &darr;](#hepatitis)||
-|[HIDA Scan &darr;](#hida-scan)|Hepatobiliary iminodiacetic acid|
-|[HPMV &darr;](#hpmv)|Human Metapneumovirus|
-|[Hypomagnesium &darr;](#hypomagnesium)||
-|[Immunosuppressant &darr;](#immunosuppressant) <a id="i"></a>||
-|[Immunosuppression &darr;](#immunosuppression)||
-|[INR &darr;](#inr)|International Normalized Ratio|
-|[IOP &darr;](#iop)|Intense Outpatient Program|
-|[Itching &darr;](#itching)||
-|[J-Tube &darr;](#j-tube) <a id="j"></a>|Jejunal Tube|
-|[Jaundice &darr;](#jaundice)||
-|[Ketorolac &darr;](#ketorolac) <a id="k"></a>|Toradol|
-|[Kt/V &darr;](#ktv)||
-|[Lactulose &darr;](#lactulose) <a id="l"></a>||
-|[Liver Circle &darr;](#liver-circle)||
-|[Liver In A Box &darr;](#liver-in-a-box)||
-|[Liver Pain &darr;](#liver-pain)||
-|[LiverSpot.org &darr;](#liverspotorg)||
-|[LOLA &darr;](#lola)|L‐ornithine‐L‐aspartate|
-|[Medical Marijuana &darr;](#medical-marijuana) <a id="m"></a>||
-|[MELD &darr;](#meld)|Model for end-stage liver disease|
-|[MELD Exception Score &darr;](#meld-exception-score)||
-|[MRE &darr;](#mre)|Magnetic resonance elastography|
-|[MRI &darr;](#mri)|Magnetic resonance imaging|
-|[Multiple Listing &darr;](#multiple-listing)||
-|[Mycophenolate Mofetil &darr;](#mycophenolate-mofetil)|CellCept|
-|[Naltrexone &darr;](#naltrexone) <a id="n"></a>|Vivitrol, ReVia|
-|[NASH &darr;](#nash)|Nonalcoholic steatohepatitis|
-|[Neuropathy &darr;](#neuropathy)||
-|[Neutropenia &darr;](#neutropenia)||
-|[NIVESTYM &darr;](#nivestym)|Filgastrim |
-|[Nurse Treats &darr;](#nurse-treats)||
-|[OPTN &darr;](#optn) <a id="o"></a>|Organ Procurement and Transplantation Network|
-|[Osmolite &darr;](#osmolite)||
-|[Oxycodone &darr;](#oxycodone)|OxyContin, Percocet|
-|[Paracentesis &darr;](#paracentesis) <a id="p"></a>||
-|[Persistent Ascites &darr;](#persistent-ascites)||
-|[PET &darr;](#pet)|Positron emission tomography|
-|[PEth &darr;](#peth)|Phosphatidylethanol|
-|[Pink Cloud &darr;](#pink-cloud)||
-|[Pontine Stroke &darr;](#pontine-stroke)|Pontine Infarction|
-|[Post-Transplant Relapse &darr;](#post-transplant-relapse)||
-|[POG &darr;](#pog)|Panel of Gods|
-|[Printed Liver &darr;](#printed-liver)||
-|[PT &darr;](#pt)|Prothrombin Time|
-|[Punctate Infarct &darr;](#punctate-infarct)|Punctate Stroke|
-|[Recompensated &darr;](#recompensated) <a id="r"></a>||
-|[Recteq &darr;](#recteq)||
-|[Reddit for Transplant Support Study &darr;](#reddit-for-transplant-support-study)||
-|[Retacrit &darr;](#retacrit)|Epoetin Alfa-epbx|
-|[Safety net &darr;](#safety-net) <a id="s"></a>||
-|[Scar Tissue &darr;](#scar-tissue)||
-|[Skin Cancer Risk &darr;](#skin-cancer-risk)||
-|[Skin Changes &darr;](#skin-changes)||
-|[SRTR &darr;](#srtr)|Scientific Registry of Transplant Recipients|
-|[St. Mary's Reno &darr;](#st-marys-reno)||
-|[TACE &darr;](#tace) <a id="t"></a>|Transarterial chemoembolization|
-|[Tacrolimus &darr;](#tacrolimus)|Prograf, Astagraf, Envarsus|
-|[Tacrolimus Skin Cancer &darr;](#tacrolimus-skin-cancer)||
-|[Tacrolimus vs. CellCept &darr;](#tacrolimus-vs-cellcept)||
-|[Tacrolimus-induced Ascites &darr;](#tacrolimus-induced-ascites)||
-|[Tattoos &darr;](#tattoos)||
-|[Thoracentesis &darr;](#thoracentesis)||
-|[Tinnitus &darr;](#tinnitus)||
-|[TIPS &darr;](#tips)|Transjugular intrahepatic portosystemic shunt|
-|[Topical Tacrolimus &darr;](#topical-tacrolimus)||
-|[Tramadol &darr;](#tramadol)||
-|[Transplant Age &darr;](#transplant-age)||
-|[Transplant Games &darr;](#transplant-games)||
-|[Transplant Gender Correlations &darr;](#transplant-gender-correlations)||
-|[Transplant Survival Benefit &darr;](#transplant-survival-benefit)||
-|[Tumeric &darr;](#tumeric)||
-|[uACR &darr;](#uacr) <a id="u"></a>|Urine Albumine Creatinine Ratio|
-|[Umbilical Hernia &darr;](#umbilical-hernia)||
-|[UNOS &darr;](#unos)|United Network for Organ Sharing|
-|[UNOS Regions &darr;](#unos-regions)||
-|[Ursodiol &darr;](#ursodiol)|Actigall, Reltone, Urso |
-|[Valcyte &darr;](#valcyte) <a id="v"></a>|Valganciclovir|
-|[Vivitrol &darr;](#vivitrol)|Naltrexone|
-|[XIAFLEX &darr;](#xiaflex) <a id="x"></a>|Collagenase |
-|[Xifaxan &darr;](#xifaxan)|Rifaximin|
+|[ACR &darr;](#acr) <a id="a"></a>| Acute Cellular Rejection                      |
+|[Acyclovir &darr;](#acyclovir)| Zovirax                                       |
+|[AFP &darr;](#afp)| Alpha-Fetoprotein                             |
+|[AIH &darr;](#aih)| Autoimmune hepatitis                          |
+|[Albumin &darr;](#albumin)|                                               |
+|[ALP &darr;](#alp)| Alkaline phosphatase                          |
+|[Ammonia Level &darr;](#ammonia-level)|                                               |
+|[Angiogram &darr;](#angiogram)|                                               |
+|[Angioplasty &darr;](#angioplasty)|                                               |
+|[Ascites &darr;](#ascites)|                                               |
+|[Asterixis &darr;](#asterixis)|                                               |
+|[Atrophy &darr;](#atrophy)|                                               |
+|[Bausch PAP &darr;](#bausch-pap) <a id="b"></a>| Patient Assistance Program                    |
+|[Bilirubin &darr;](#bilirubin)|                                               |
+|[BK Virus &darr;](#bk-virus)| 'BK' are initials                             |
+|[BUN Test &darr;](#bun-test)| Blood-urea-nitrogen                           |
+|[Camino Hospital IOP &darr;](#camino-hospital-iop) <a id="c"></a>| Intensive OutPatient                          |
+|[Cirrhosis &darr;](#cirrhosis)|                                               |
+|[CMV &darr;](#cmv)| [Human] CytoMegaloVirus                       |
+|[Compensated Cirrhosis &darr;](#compensated-cirrhosis)|                                               |
+|[Corewell Health &darr;](#corewell-health)|                                               |
+|[CostPlus &darr;](#costplus)|                                               |
+|[CPMC &darr;](#cpmc)| California Pacific Medical Center             |
+|[Creatinine &darr;](#creatinine)|                                               |
+|[Creatinine Test &darr;](#creatinine-test)|                                               |
+|[CTA &darr;](#cta)| Computed Tomography Angiogram                 |
+|[Deceased Organ Donation &darr;](#deceased-organ-donation) <a id="d"></a>|                                               |
+|[Deceased-Donor Liver Size &darr;](#deceased-donor-liver-size)|                                               |
+|[Decompensated Cirrhosis &darr;](#decompensated-cirrhosis)|                                               |
+|[Dialysis &darr;](#dialysis)|                                               |
+|[Diverticulitis &darr;](#diverticulitis)|                                               |
+|[Donor Info &darr;](#donor-info)|                                               |
+|[Drug Regimen &darr;](#drug-regimen)|                                               |
+|[DSA &darr;](#dsa)| Donor Service Area                            |
+|[Duncan Mills &darr;](#duncan-mills)|                                               |
+|[Dupuytren's contracture &darr;](#dupuytrens-contracture)|                                               |
+|[DXA scan &darr;](#dxa-scan)| Dual-Energy X-Ray Absorptiometry              |
+|[Dysphagia &darr;](#dysphagia)|                                               |
+|[Edema &darr;](#edema) <a id="e"></a>|                                               |
+|[El Camino Car &darr;](#el-camino-car)|                                               |
+|[Encephalitis &darr;](#encephalitis)|                                               |
+|[Encephalopathy &darr;](#encephalopathy)|                                               |
+|[Erica Storm &darr;](#erica-storm)|                                               |
+|[ESLD &darr;](#esld)| End-Stage Liver Disease                       |
+|[Esophageal Varices &darr;](#esophageal-varices)|                                               |
+|[Everolimus &darr;](#everolimus)| Afinitor, Zortress                            |
+|[Excess Protein &darr;](#excess-protein)|                                               |
+|[FIB-4 &darr;](#fib-4) <a id="f"></a>| Fibrosis-4                                    |
+|[Fibroscan &darr;](#fibroscan)|                                               |
+|[Filgrastim &darr;](#filgrastim)| Neupogen, Nivestym, Zarxio                    |
+|[Fistula &darr;](#fistula)|                                               |
+|[Gabapentin &darr;](#gabapentin) <a id="g"></a>| Neurontin                                     |
+|[Gallbladder &darr;](#gallbladder)|                                               |
+|[Gallbladder Cancer &darr;](#gallbladder-cancer)|                                               |
+|[GFR and Aging &darr;](#gfr-and-aging)| Glomerular Filtration Rate                    |
+|[GGT &darr;](#ggt)| gamma-glutamyl transferase                    |
+|[Gougol &darr;](#gougol)|                                               |
+|[Gynecomastia &darr;](#gynecomastia)|                                               |
+|[HCC GALAD Model &darr;](#hcc-galad-model) <a id="h"></a>| Hepatocellular Carcinoma • Gender, Age, ...   |
+|[HE &darr;](#he)| Hepatic Encephalopathy                        |
+|[Hemochromatosis &darr;](#hemochromatosis)|                                               |
+|[Hemodialysis &darr;](#hemodialysis)|                                               |
+|[Hepatitis &darr;](#hepatitis)|                                               |
+|[HIDA Scan &darr;](#hida-scan)| Hepatobiliary iminodiacetic acid              |
+|[HPMV &darr;](#hpmv)| Human Metapneumovirus                         |
+|[Hypomagnesium &darr;](#hypomagnesium)|                                               |
+|[Immunosuppressant &darr;](#immunosuppressant) <a id="i"></a>|                                               |
+|[Immunosuppression &darr;](#immunosuppression)|                                               |
+|[INR &darr;](#inr)| International Normalized Ratio                |
+|[IOP &darr;](#iop)| Intense Outpatient Program                    |
+|[Itching &darr;](#itching)|                                               |
+|[J-Tube &darr;](#j-tube) <a id="j"></a>| Jejunal Tube                                  |
+|[Jaundice &darr;](#jaundice)|                                               |
+|[Ketorolac &darr;](#ketorolac) <a id="k"></a>| Toradol                                       |
+|[Kt/V &darr;](#ktv)|                                               |
+|[Lactulose &darr;](#lactulose) <a id="l"></a>|                                               |
+|[Liver Circle &darr;](#liver-circle)|                                               |
+|[Liver In A Box &darr;](#liver-in-a-box)|                                               |
+|[Liver Pain &darr;](#liver-pain)|                                               |
+|[LiverSpot.org &darr;](#liverspotorg)|                                               |
+|[LOLA &darr;](#lola)| L‐ornithine‐L‐aspartate                       |
+|[Medical Marijuana &darr;](#medical-marijuana) <a id="m"></a>|                                               |
+|[MELD &darr;](#meld)| Model for end-stage liver disease             |
+|[MELD Exception Score &darr;](#meld-exception-score)|                                               |
+|[MRE &darr;](#mre)| Magnetic resonance elastography               |
+|[MRI &darr;](#mri)| Magnetic resonance imaging                    |
+|[Multiple Listing &darr;](#multiple-listing)|                                               |
+|[Mycophenolate Mofetil &darr;](#mycophenolate-mofetil)| CellCept                                      |
+|[Naltrexone &darr;](#naltrexone) <a id="n"></a>| Vivitrol, ReVia                               |
+|[NASH &darr;](#nash)| Nonalcoholic steatohepatitis                  |
+|[Neuropathy &darr;](#neuropathy)|                                               |
+|[Neutropenia &darr;](#neutropenia)|                                               |
+|[NIVESTYM &darr;](#nivestym)| Filgrastim                                    |
+|[Nurse Treats &darr;](#nurse-treats)|                                               |
+|[OPTN &darr;](#optn) <a id="o"></a>| Organ Procurement and Transplantation Network |
+|[Osmolite &darr;](#osmolite)|                                               |
+|[Oxycodone &darr;](#oxycodone)| OxyContin, Percocet                           |
+|[Paracentesis &darr;](#paracentesis) <a id="p"></a>|                                               |
+|[Persistent Ascites &darr;](#persistent-ascites)|                                               |
+|[PET &darr;](#pet)| Positron emission tomography                  |
+|[PEth &darr;](#peth)| Phosphatidylethanol                           |
+|[Pink Cloud &darr;](#pink-cloud)|                                               |
+|[Pontine Stroke &darr;](#pontine-stroke)| Pontine Infarction                            |
+|[Post-Transplant Relapse &darr;](#post-transplant-relapse)|                                               |
+|[POG &darr;](#pog)| Panel of Gods                                 |
+|[Printed Liver &darr;](#printed-liver)|                                               |
+|[PT &darr;](#pt)| Prothrombin Time                              |
+|[Punctate Infarct &darr;](#punctate-infarct)| Punctate Stroke                               |
+|[Recompensated &darr;](#recompensated) <a id="r"></a>|                                               |
+|[Recteq &darr;](#recteq)|                                               |
+|[Reddit for Transplant Support Study &darr;](#reddit-for-transplant-support-study)|                                               |
+|[Retacrit &darr;](#retacrit)| Epoetin Alfa-epbx                             |
+|[Safety net &darr;](#safety-net) <a id="s"></a>|                                               |
+|[Scar Tissue &darr;](#scar-tissue)|                                               |
+|[Skin Cancer Risk &darr;](#skin-cancer-risk)|                                               |
+|[Skin Changes &darr;](#skin-changes)|                                               |
+|[SRTR &darr;](#srtr)| Scientific Registry of Transplant Recipients  |
+|[St. Mary's Reno &darr;](#st-marys-reno)|                                               |
+|[TACE &darr;](#tace) <a id="t"></a>| Transarterial chemoembolization               |
+|[Tacrolimus &darr;](#tacrolimus)| Prograf, Astagraf, Envarsus                   |
+|[Tacrolimus Skin Cancer &darr;](#tacrolimus-skin-cancer)|                                               |
+|[Tacrolimus vs. CellCept &darr;](#tacrolimus-vs-cellcept)|                                               |
+|[Tacrolimus-induced Ascites &darr;](#tacrolimus-induced-ascites)|                                               |
+|[Tattoos &darr;](#tattoos)|                                               |
+|[Thoracentesis &darr;](#thoracentesis)|                                               |
+|[Tinnitus &darr;](#tinnitus)|                                               |
+|[TIPS &darr;](#tips)| Transjugular intrahepatic portosystemic shunt |
+|[Topical Tacrolimus &darr;](#topical-tacrolimus)|                                               |
+|[Tramadol &darr;](#tramadol)|                                               |
+|[Transplant Age &darr;](#transplant-age)|                                               |
+|[Transplant Games &darr;](#transplant-games)|                                               |
+|[Transplant Gender Correlations &darr;](#transplant-gender-correlations)|                                               |
+|[Transplant Survival Benefit &darr;](#transplant-survival-benefit)|                                               |
+|[Tumeric &darr;](#tumeric)|                                               |
+|[uACR &darr;](#uacr) <a id="u"></a>| Urine Albumine Creatinine Ratio               |
+|[Umbilical Hernia &darr;](#umbilical-hernia)|                                               |
+|[UNOS &darr;](#unos)| United Network for Organ Sharing              |
+|[UNOS Regions &darr;](#unos-regions)|                                               |
+|[Ursodiol &darr;](#ursodiol)| Actigall, Reltone, Urso                       |
+|[Valcyte &darr;](#valcyte) <a id="v"></a>| Valganciclovir                                |
+|[Vivitrol &darr;](#vivitrol)| Naltrexone                                    |
+|[XIAFLEX &darr;](#xiaflex) <a id="x"></a>| Collagenase                                   |
+|[Xifaxan &darr;](#xifaxan)| Rifaximin                                     |
 
 ## Entries
 
@@ -535,6 +535,11 @@ Acute cellular rejection
 ### Acyclovir
 
 «Acyclovir is used to treat viral infections like chickenpox, herpes zoster (shingles) and genital herpes (a sexually transmitted disease). Acyclovir is in a class of medications called antivirals. It works by stopping the spread of the virus in the body.» — [2]
+
+* _Generic:_ Acyclovir
+* _Brand:_ Zovirax
+
+#### Refs
 
 * [1]&nbsp;<https://pubmed.ncbi.nlm.nih.gov/3912970/>
 * [2]&nbsp;<https://medlineplus.gov/druginfo/meds/a681045.html>
@@ -838,6 +843,12 @@ Everolimus works by interfering with the growth of cancer cells, which are event
 
 «Efficacy and safety of everolimus with reduced tacrolimus» — [1]
 
+* _Generic:_ Everolimus
+* _Brand:_ Afinitor, Zortress
+
+#### Refs
+
+
 * [1]&nbsp;<https://pubmed.ncbi.nlm.nih.gov/41110610/>
 * [2]&nbsp;<https://www.mayoclinic.org/drugs-supplements/everolimus-oral-route/description/drg-20072842>
 
@@ -863,9 +874,20 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 
 ### Filgrastim
 
-«Filgrastim injection is used to treat neutropenia (low white blood cells) that is caused by cancer medicines. It is a synthetic (man-made) form of a substance that is naturally produced in your body called a colony stimulating factor. Filgrastim helps the bone marrow to make new white blood cells. » — <https://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547>
+«Filgrastim injection is used to treat neutropenia (low white blood cells) that is caused by cancer medicines. It is a synthetic (man-made) form of a substance that is naturally produced in your body called a colony stimulating factor. Filgrastim helps the bone marrow to make new white blood cells. » — [1] 
 
-* <https://www.mayoclinic.org/drugs-supplements/filgrastim-aafi-intravenous-route-subcutaneous-route/description/drg-20443903>
+«NIVESTYM (filgrastim-aafi) is a biosimilar to Neupogen (filgrastim) and part of the largest oncology biosimilars portfolio, brought to you by Pfizer» — [Unknown]
+
+So it is a brand name related to filgrastim
+
+* _Generic:_ Filgrastim
+* _Brand:_ NIVESTYM
+
+#### Refs
+
+* [1]&nbsp;<https://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547>
+* [2]&nbsp;<https://www.mayoclinic.org/drugs-supplements/filgrastim-aafi-intravenous-route-subcutaneous-route/description/drg-20443903>
+
 
 ### Fistula
 «An Arteriovenous (AV) fistula is a direct connection between an artery and a vein. Normal blood flow goes from arteries through capillaries and then into veins. The fistula’s direct connection causes much more blood flow into a vein. Surgically creating a fistula in a chronic hemodialysis patient enables more effective and safer treatment compared to using a central venous catheter.» — [3]
@@ -876,6 +898,12 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 
 ### Gabapentin
 «Gabapentin works in the brain to prevent seizures and relieve pain for certain conditions in the nervous system. It can also be used for controlling the effects of neuropathy.» — [2]
+
+* _Generic:_ Gabapentin
+* _Brand:_ Neurontin
+
+#### Refs
+
 
 * [1]&nbsp;<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452908/>
 * [2]&nbsp;<https://www.mayoclinic.org/drugs-supplements/gabapentin-oral-route/description/drg-20064011>
@@ -927,13 +955,10 @@ Professional Education
 
 ### HCC GALAD model
 
-
-The GALAD model:
+« The GALAD model has been demonstrated to have higher diagnostic accuracy for the detection of hepatocellular carcinoma (HCC) when compared to the use AFP, AFP-L3, and DCP markers alone or in combination. The performance of the GALAD score has also been reported to be superior to ultrasound for HCC detection» — [1]
 
 * [1]&nbsp;<https://www.mayocliniclabs.com/test-catalog/overview/606585>
 * [2]&nbsp;<https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>
-
-Seems pretty well endorsed: « The GALAD model has been demonstrated to have higher diagnostic accuracy for the detection of hepatocellular carcinoma (HCC) when compared to the use AFP, AFP-L3, and DCP markers alone or in combination. The performance of the GALAD score has also been reported to be superior to ultrasound for HCC detection» — [1]
 
 ### HE
 
@@ -1048,8 +1073,16 @@ A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to 
 
 
 ### Ketorolac                                                                
+«Ketorolac is used to relieve moderately severe pain, usually pain that occurs after an operation or other painful procedure. It belongs to the group of medicines called nonsteroidal anti-inflammatory drugs (NSAIDs).» — [1]
 
-* <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882> 
+#### Drug Names
+* _Generic:_ Ketorolac
+* _Brand:_ Toradol
+
+#### Refs
+
+* [1]&nbsp;<https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882>
+
 
 ### Kt/V
 The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo or peritoneal)
@@ -1062,6 +1095,11 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 
 ### Lactulose
 «Lactulose (sometimes called 'The L-Word') is a laxative with a secondary treatment for Hepatic Encephalopathy. Its chief mechanism of action is by decreasing the intestinal production and absorption of ammonia.» — [2]
+
+* _Generic:_ Lactulose
+* _Brand:_ Kristalose, Enulose
+
+#### Refs
 
 * [1]&nbsp;<https://www.ncbi.nlm.nih.gov/books/NBK536930/>
 * [2]&nbsp;<https://www.dairbook.com/glossary/lactulose>
@@ -1084,7 +1122,7 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 
 ### LiverSpot.org
 
-«Welcome! The LiverSpot is a community for people with a diseased liver, kidney, or other organ (“OrganSpot”) who want to provide knowledge and support to each other.»
+«Welcome! The LiverSpot is a community for people with a diseased liver, kidney, heart, lung, or other organ (“OrganSpot”) who want to provide knowledge and support to each other.»
 
 * <https://liverspot.org>
 
@@ -1168,6 +1206,11 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 ### Mycophenolate Mofetil
 «Mycophenolate Mofetil is an immunosuppressant that prevents rejection of transplanted organs and augments Tacrolimus.» — [3]
 
+* _Generic:_ Mycophenolate Mofetil
+* _Brand:_ CellCept, Myfortic
+
+#### Refs
+
 * [1]&nbsp;<https://www.mayoclinic.org/drugs-supplements/mycophenolate-mofetil-oral-route/description/drg-20073191>
 * [2]&nbsp;<https://en.wikipedia.org/wiki/Mycophenolic_acid>
 * [3]&nbsp;<https://www.dairbook.com/glossary/mycophenolate-mofetil>
@@ -1175,7 +1218,14 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 
 ### Naltrexone
 
-* <https://www.drugs.com/naltrexone.html>
+«Naltrexone is a prescription medication used to treat alcohol use disorder (AUD) and opioid use disorder (OUD) to reduce cravings and help control physiological dependence.» — [1]
+
+* _Generic:_ Naltrexone
+* _Brand:_ Vivitrol, ReVia
+
+#### Refs
+
+* [1]&nbsp;<https://www.drugs.com/naltrexone.html>
 
 ### NASH
 «Nonalcoholic steatohepatitis (NASH) is the most severe form of nonalcoholic fatty liver disease (NAFLD), a condition in which the liver builds up excessive fat deposits.» — [2]
@@ -1211,9 +1261,6 @@ You must avoid all of the following:
   » — [1]
  
 
-### NIVESTYM
-
-«NIVESTYM (filgrastim-aafi) is a biosimilar to Neupogen (filgrastim) and part of the largest oncology biosimilars portfolio, brought to you by Pfizer» — So it is a brand name related to filgrastim
 
 
 ### Nurse Treats
@@ -1241,7 +1288,15 @@ Possible treats that the medical team might like and appreciate from patients in
 
 ### Oxycodone
 
-* <https://medlineplus.gov/druginfo/meds/a682132.html   >                                                                                                                      
+«Oxycodone is used to relieve severe pain. Oxycodone is in a class of medications called opiate (narcotic) analgesics. It works by changing the way the brain and nervous system respond to pain.» — [1]
+
+* _Generic:_ Oxycodone
+* _Brand:_ OxyContin, Percocet
+
+#### Refs
+
+
+* [1]&nbsp;<https://medlineplus.gov/druginfo/meds/a682132.html>                                                                                                                      
 
 ### Paracentesis
 
@@ -1339,7 +1394,7 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 
 ### Recteq
 
-* <https://www.recteq.com/        >                                                                                                                                              
+* <https://www.recteq.com/>                                                                                                                                              
 
 ### Reddit for Transplant Support Study
 
@@ -1352,10 +1407,16 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 
 ### Retacrit
 
+«This medication is used to treat anemia (low red blood cell count) in people with long-term serious kidney disease (chronic kidney failure), people receiving zidovudine to treat HIV, and people receiving chemotherapy for some types of cancer (cancer that does not involve the bone marrow or blood cells). It may also be used in anemic patients to reduce the need for blood transfusions before certain planned surgeries that have a high risk of blood loss (usually given with an anticoagulant/"blood thinner" medication such as warfarin to lower the risk of serious blood clots).» — [2]
+
+* _Generic:_ Epoetin Alfa-epbx
+* _Brand:_ Retacrit
+
+#### Refs
+
 * [1]&nbsp;<https://retacrit.pfizerpro.com>
 * [2]&nbsp;<https://www.healio.com/clinical-guidance/drugs/retacrit>
 
-«This medication is used to treat anemia (low red blood cell count) in people with long-term serious kidney disease (chronic kidney failure), people receiving zidovudine to treat HIV, and people receiving chemotherapy for some types of cancer (cancer that does not involve the bone marrow or blood cells). It may also be used in anemic patients to reduce the need for blood transfusions before certain planned surgeries that have a high risk of blood loss (usually given with an anticoagulant/"blood thinner" medication such as warfarin to lower the risk of serious blood clots).» — [2]
 
 ### Safety Net
 The website about the safety net program that was on UNOS was seriously messed up recently with an administrative change, but you can read about it here (if the archive works... can be slow) and some quotes are below
@@ -1407,6 +1468,11 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 ### Tacrolimus
 «Tacrolimus is a very powerful immunosuppressant that prevents rejection of transplanted organs.» — [2]
+
+* _Generic:_ Tacrolimus
+* _Brand:_ Prograf, Astagraf, Envarsus
+
+#### Refs
 
 * [1]&nbsp;<https://www.mayoclinic.org/drugs-supplements/tacrolimus-oral-route/description/drg-20068314>
 * [2]&nbsp;<https://www.dairbook.com/glossary/tacrolimus>
@@ -1467,7 +1533,14 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 ### Tramadol
 
-* <https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050  >                                                                                 
+«Tramadol is used to relieve moderate to moderately severe pain, including pain after surgery. It is also used to treat pain severe enough to require opioid treatment and when other pain medicines did not work well enough or cannot be tolerated. The extended-release capsules or tablets are used for chronic ongoing pain.» — [1]
+
+* _Generic:_ Tramadol
+* _Brand:_ ConZip, Qdolo, Ultram
+
+#### Refs
+
+* [1]&nbsp;<https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050>
 
 ### Transplant Age
 «There is no strict, universal maximum age for a liver transplant, as candidacy is based on physiological, not chronological, age. » — AI Summary
@@ -1534,30 +1607,53 @@ So if you have:
 ### Ursodiol
 Ursodiol is a bile thinner that helps your body recover from the removal of the gallbladder.
 
+* _Generic:_ Ursodiol
+* _Brand:_ Actigall, Reltone, Urso
+
+#### Refs
+
 * [1]&nbsp;<https://medlineplus.gov/druginfo/meds/a699047.html>
+
 
 ### Valcyte
 
-Valcyte: <https://www.mayoclinic.org/drugs-supplements/valganciclovir-oral-route/description/drg-20066642>  —
+«Valganciclovir is used to treat symptoms of cytomegalovirus (CMV) retinitis, an infection in the eyes of people with acquired immunodeficiency syndrome (AIDS). Valganciclovir will not cure this eye infection, but it may help to keep the symptoms from becoming worse.» — [1]
 
-Generic name: Valganciclovir
+* _Generic:_ Valganciclovir
+* _Brand:_ Valcyte
 
-Valganciclovir is used to treat symptoms of cytomegalovirus (CMV) retinitis, an infection in the eyes of people with acquired immunodeficiency syndrome (AIDS). Valganciclovir will not cure this eye infection, but it may help to keep the symptoms from becoming worse.
+#### Refs
 
+* [1]&nbsp;<https://www.mayoclinic.org/drugs-supplements/valganciclovir-oral-route/description/drg-20066642>
 
 ### Vivitrol
 
 «Vivitrol is a long-acting injectable form of naltrexone, which is a medication used to treat two substance use disorders - opioid use disorder and alcohol use disorder (alcoholism). Vivitrol is used as part of a treatment program. It helps prevent people with alcohol or opioid dependence from feeling like they need to use these substances.» — [2]
+
+* _Generic:_ Naltrexone
+* _Brand:_ Vivitrol
+
+#### Refs
 
 * [1]&nbsp;<https://www.vivitrol.com/>
 * [2]&nbsp;<https://www.drugs.com/vivitrol.html>
 
 ### XIAFLEX
 
-* <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>                                                                                                            
+* <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>
+
+
+* _Generic:_ Collagenase Clostridium Histolyticum
+* _Brand:_ XIAFLEX
+
 
 ### Xifaxan
 Rifaximin (tradename Xifaxan) treats traveler's diarrhea and irritable bowel syndrome by stopping the growth of the bacteria that cause diarrhea. Rifaximin treats hepatic encephalopathy by stopping the growth of bacteria that produce toxins and that may worsen liver disease.
+
+* _Generic:_ Rifaximin
+* _Brand:_ Xifaxan, Xifaxanta, Zaxine
+
+#### Refs
 
 * [1]&nbsp;<https://medlineplus.gov/druginfo/meds/a604027.html>
 * [2]&nbsp;<https://www.xifaxan.com/he/about-xifaxan-he/>
