@@ -1640,12 +1640,14 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 ### XIAFLEX
 
-* <https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>
-
+«XIAFLEX is an FDA-approved nonsurgical injectable treatment for adults with Dupuytren’s contracture when a “cord” can be felt.» — [1]
 
 * _Generic:_ Collagenase Clostridium Histolyticum
 * _Brand:_ XIAFLEX
 
+#### Refs
+
+* [1]&nbsp;<https://dupuytrens-contracture.xiaflex.com/patient/about-xiaflex/>
 
 ### Xifaxan
 Rifaximin (tradename Xifaxan) treats traveler's diarrhea and irritable bowel syndrome by stopping the growth of the bacteria that cause diarrhea. Rifaximin treats hepatic encephalopathy by stopping the growth of bacteria that produce toxins and that may worsen liver disease.
