@@ -4,10 +4,10 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="/images/image_5980_w160h160.png" width="28" height="28" style="vertical-align: -4px;"/>&nbsp;{{ site.title | escape }}</a>
+    <a id="header"></a>
 
     {%- if page_paths -%}
       <nav class="site-nav">
-        <a id="header"></a>
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
