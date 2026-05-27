@@ -132,23 +132,19 @@ table tr:nth-child(98), /*P*/
 
 
 
-table tr:nth-child(107), /*R*/
+
+
+table tr:nth-child(109), /*R*/
 
 
 
-table tr:nth-child(111), /*S*/
-
-
-
-
-
-table tr:nth-child(117), /*T*/
+table tr:nth-child(113), /*S*/
 
 
 
 
 
-
+table tr:nth-child(119), /*T*/
 
 
 
@@ -158,14 +154,20 @@ table tr:nth-child(117), /*T*/
 
 
 
-table tr:nth-child(133), /*u*/
 
 
 
 
-table tr:nth-child(138), /*V*/
 
-table tr:nth-child(140), /*X*/
+
+table tr:nth-child(135), /*u*/
+
+
+
+
+table tr:nth-child(140), /*V*/
+
+table tr:nth-child(142), /*X*/
 
 
 table tr:nth-child(1), /*Y*/
@@ -467,10 +469,12 @@ The following entries contain information on topics that have been brought up du
 |[PET &darr;](#pet)|Positron emission tomography|
 |[PEth &darr;](#peth)|Phosphatidylethanol|
 |[Pink Cloud &darr;](#pink-cloud)||
+|[Pontine Stroke &darr;](#pontine-stroke)|Pontine Infarction|
 |[Post-Transplant Relapse &darr;](#post-transplant-relapse)||
 |[POG &darr;](#pog)|Panel of Gods|
 |[Printed Liver &darr;](#printed-liver)||
 |[PT &darr;](#pt)|Prothrombin Time|
+|[Punctate Infarct &darr;](#punctate-infarct)|Punctate Stroke|
 |[Recompensated &darr;](#recompensated) <a id="r"></a>||
 |[Recteq &darr;](#recteq)||
 |[Reddit for Transplant Support Study &darr;](#reddit-for-transplant-support-study)||
@@ -506,7 +510,6 @@ The following entries contain information on topics that have been brought up du
 |[Vivitrol &darr;](#vivitrol)||
 |[XIAFLEX &darr;](#xiaflex) <a id="x"></a>||
 |[Xifaxan &darr;](#xifaxan)||
-
 
 ## Entries
 
@@ -1286,6 +1289,13 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 
 The Panel-of-Gods (POG) or the Tansplant Review Board decides whether to accept a patient as a transplant recipient case.  It is composed of doctors and additional staff that do a detailed evaluation of the patient along many axes.
 
+### Pontine Stroke
+
+« A pontine stroke (infarction) happens when there’s a blood flow blockage to a part of your brainstem called the pons. It’s a type of ischemic stroke. The blockage may be sudden (acute) or develop over time (chronic).» — [1]
+
+* [1]&nbsp;<https://my.clevelandclinic.org/health/diseases/pontine-stroke>
+
+
 ### Post-Transplant Relapse
 
 * [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC10934278/>
@@ -1303,6 +1313,20 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 
 * [1]&nbsp;<https://en.m.wikipedia.org/wiki/Prothrombin_time>
 * [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
+
+### Punctate Infarct
+
+«A punctate infarct is a very small, dot-like area of dead tissue in the brain caused by a localized lack of blood flow. These tiny lesions (often &le; 5 mm) typically indicate cerebral small vessel disease and are frequently found incidentally on MRI scans» — [AI: Google]
+
+«Background/Objective: Punctate infarcts (PI) 〚Punctate Strokes〛 are increasingly seen on DWI of patients with intracerebral hemorrhage (ICH) due to small vessel disease (SVD). We aimed to determine their incidence and potential causes in a large ischemic stroke (IS) cohort that had thorough etiologic workup.» — [1]
+
+
+
+* [1]&nbsp;«〚…〛Incidence and Etiology of Punctate Infarcts〚…〛» — <https://www.ahajournals.org/doi/10.1161/str.46.suppl_1.tmp58>
+* [2]&nbsp;«Progression From Early Multiterritorial Punctate
+  Infarcts to Massive Stroke» — <https://assets.cureus.com/uploads/case_report/pdf/392439/20250817-465288-h29q8a.pdf>
+* [3]&nbsp;«What does punctate chronic infarct mean?» — <https://www.justanswer.com/neurology/cw044-does-punctate-chronic-infarct-mean-recent-loss.html>
+
 
 ### Recompensated
 
