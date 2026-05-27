@@ -21,13 +21,4 @@ Note that the following Reddit groups are the primary discussion groups on Reddi
    * [r/transplant](http://reddit.com/r/transplant)
 
 
-### Recent Updates
-
-The most recent posts on [r/liverspot](http://reddit.com/r/liverspot) by category:
-
-   * [The Best I Read](https://www.reddit.com/r/liverspot/?f=flair_name%3A%22Recommended%22)
-   * [LifeRing Meeting Topics](https://www.reddit.com/r/liverspot/?f=flair_name%3A%22LifeRing%22)
-
-The collation of terms and topics from all of the above (and more!) are in [Topics](/topics)
-
 
