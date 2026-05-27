@@ -11,9 +11,9 @@ At the moment, the main benefit of this site is the collection of [Topics](/topi
 
 ### Discussion
 
-The main discussion and content for the LiverSpot is hosted at [r/liverspot](http://reddit.com/r/liverspot).  
+The discussion for the LiverSpot is hosted at [r/liverspot](http://reddit.com/r/liverspot).  
 
-Note that the following Reddit groups are the primary discussion groups on Reddit for people with diseased organs.  The LiverSpot is supplemental to them.
+Note that the following Reddit groups are the primary discussion groups on Reddit for people with diseased organs.  The LiverSpot subreddit is supplemental to them.
    * [r/cirrhosis](http://reddit.com/r/cirrhosis)
    * [r/CysticFibrosis](https://www.reddit.com/r/CysticFibrosis/)
    * [r/dialysis](http://reddit.com/r/dialysis)
