@@ -1316,7 +1316,7 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 
 ### Punctate Infarct
 
-«A punctate infarct is a very small, dot-like area of dead tissue in the brain caused by a localized lack of blood flow. These tiny lesions (often &le; 5 mm) typically indicate cerebral small vessel disease and are frequently found incidentally on MRI scans» — [AI: Google]
+«A punctate infarct is a very small, dot-like area of dead tissue in the brain caused by a localized lack of blood flow. These tiny lesions (often &le; 5 mm) typically indicate cerebral small vessel disease and are frequently found incidentally on MRI scans» — [AI: Google 'punctate infarct']
 
 «Background/Objective: Punctate infarcts (PI) 〚Punctate Strokes〛 are increasingly seen on DWI of patients with intracerebral hemorrhage (ICH) due to small vessel disease (SVD). We aimed to determine their incidence and potential causes in a large ischemic stroke (IS) cohort that had thorough etiologic workup.» — [1]
 
