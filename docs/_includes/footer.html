@@ -3,8 +3,8 @@
 
   <div class="wrapper">
 
-    <div class="footer-col-wrapper">
-        <a id="footer"></a>&nbsp;<img src="/images/translation-icon.png" width="20" height="20" style="vertical-align: -4px;"/>&nbsp;
+    <div class="footer-col-wrapper" style="margin-left: 0;">
+        <a id="footer"></a><img src="/images/translation-icon.png" width="20" height="20" style="vertical-align: -4px;"/>&nbsp;
 
         {% for item in site.languages -%}
         <a href="https://liverspot-org.translate.goog{{page.url}}?_x_tr_sl=auto&_x_tr_tl={{item}}">{{item}}</a>
@@ -14,7 +14,9 @@
         {% endif -%}
         {% endfor -%}
 
-<!--        {{relative_url}} • {{u-url}} • {{page.path}} • {{page.url}}-->
+        &nbsp;<a class="page-link" href="#header"><img src="/images/logo-32x32.png" width="20" height="20" style="vertical-align: -4px;"/></a>
+
+        <!--        {{relative_url}} • {{u-url}} • {{page.path}} • {{page.url}}-->
         <!--      <div class="footer-col footer-col-1">-->
 <!--        <ul class="contact-list">-->
 <!--          <li class="p-name">-->
