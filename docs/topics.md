@@ -37,12 +37,12 @@ table tr:nth-child(1), /*A*/
 
 
 
-table tr:nth-child(12), /*B*/
 
+table tr:nth-child(13), /*B*/
 
 
-table tr:nth-child(16), /*C*/
 
+table tr:nth-child(17), /*C*/
 
 
 
@@ -50,9 +50,9 @@ table tr:nth-child(16), /*C*/
 
 
 
-table tr:nth-child(25), /*D*/
 
 
+table tr:nth-child(27), /*D*/
 
 
 
@@ -62,87 +62,87 @@ table tr:nth-child(25), /*D*/
 
 
 
-table tr:nth-child(37), /*E*/
 
 
+table tr:nth-child(39), /*E*/
 
 
 
 
 
 
-table tr:nth-child(46), /*F*/
 
 
+table tr:nth-child(48), /*F*/
 
-table tr:nth-child(50), /*G*/
 
 
+table tr:nth-child(52), /*G*/
 
 
 
 
-table tr:nth-child(57), /*H*/
 
 
+table tr:nth-child(59), /*H*/
 
 
 
 
 
-table tr:nth-child(65), /*I*/
 
 
+table tr:nth-child(67), /*I*/
 
 
-table tr:nth-child(70), /*J*/
 
-table tr:nth-child(72), /*K*/
 
-table tr:nth-child(74), /*L*/
+table tr:nth-child(72), /*J*/
 
+table tr:nth-child(74), /*K*/
 
+table tr:nth-child(76), /*L*/
 
 
 
-table tr:nth-child(80), /*M*/
 
 
+table tr:nth-child(82), /*M*/
 
 
 
 
-table tr:nth-child(87), /*N*/
 
 
+table tr:nth-child(89), /*N*/
 
 
 
-table tr:nth-child(93), /*O*/
 
 
-table tr:nth-child(96), /*P*/
+table tr:nth-child(95), /*O*/
 
 
+table tr:nth-child(98), /*P*/
 
 
 
 
 
 
-table tr:nth-child(105), /*R*/
 
 
+table tr:nth-child(107), /*R*/
 
-table tr:nth-child(109), /*S*/
 
 
+table tr:nth-child(111), /*S*/
 
 
 
-table tr:nth-child(115), /*T*/
 
 
+table tr:nth-child(117), /*T*/
 
 
 
@@ -156,15 +156,16 @@ table tr:nth-child(115), /*T*/
 
 
 
-table tr:nth-child(131), /*u*/
 
 
+table tr:nth-child(133), /*u*/
 
 
-table tr:nth-child(136), /*V*/
 
-table tr:nth-child(138), /*X*/
 
+table tr:nth-child(138), /*V*/
+
+table tr:nth-child(140), /*X*/
 
 
 table tr:nth-child(1), /*Y*/
@@ -371,6 +372,7 @@ The following entries contain information on topics that have been brought up du
 |[Albumin &darr;](#albumin)||
 |[ALP &darr;](#alp)|Alkaline phosphatase|
 |[Ammonia Level &darr;](#ammonia-level)||
+|[Angiogram &darr;](#angiogram)||
 |[Angioplasty &darr;](#angioplasty)||
 |[Ascites &darr;](#ascites)||
 |[Asterixis &darr;](#asterixis)||
@@ -388,6 +390,7 @@ The following entries contain information on topics that have been brought up du
 |[CPMC &darr;](#cpmc)|California Pacific Medical Center|
 |[Creatinine &darr;](#creatinine)||
 |[Creatinine Test &darr;](#creatinine-test)||
+|[CTA &darr;](#cta)|Computed Tomography Angiogram|
 |[Deceased Organ Donation &darr;](#deceased-organ-donation) <a id="d"></a>||
 |[Deceased-Donor Liver Size &darr;](#deceased-donor-liver-size)||
 |[Decompensated Cirrhosis &darr;](#decompensated-cirrhosis)||
@@ -569,6 +572,12 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 «A blood ammonia level of 200 micromol /L is associated with coma and convulsions.» — [1]
 
+### Angiogram
+
+«An angiogram is a diagnostic procedure that uses imaging to show your provider how your blood flows through your blood vessels or heart. An injected contrast material makes it easy to see where blood is moving and where blockages are. Your provider can use X-rays or other types of imaging for your angiogram.» — [1]
+
+* [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/4977-angiography>
+
 ### Angioplasty
 
 * <https://my.clevelandclinic.org/health/treatments/22060-angioplasty>
@@ -694,6 +703,12 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 ### Creatinine Test
 
 * <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>  
+
+### CTA
+
+«A CT angiogram 〚Computed Tomography Angiogram〛 is a test that checks for blockages and other problems in your arteries. It’s a CT scan with the added benefit of contrast dye. A healthcare provider injects the dye into a vein in your arm. The dye flows through your blood vessels and makes them look bright on the CT images. This means it’s easier to see blood flow and spot issues.» — [1]
+
+ [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/ct-angiogram≥
 
 ### Deceased Organ Donation
 
@@ -1456,7 +1471,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S160061352203550X-gr3_lrg.jpg"> — [2]
 
-«Typically, people with MELD scores of 15 or higher are more likely to live longer [[about a year longer if MELD < 20]] if they receive new livers. This is known as life expectancy» — [3]
+«Typically, people with MELD scores of 15 or higher are more likely to live longer 〚about a year longer if MELD < 20〛 if they receive new livers. This is known as life expectancy» — [3]
 
 ### Tumeric
 
