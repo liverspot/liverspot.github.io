@@ -1122,7 +1122,7 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 
 ### LiverSpot.org
 
-«Welcome! The LiverSpot is a community for people with a diseased liver, kidney, heart, lung, or other organ (“OrganSpot”) who want to provide knowledge and support to each other.»
+«Welcome! LiverSpot is a community for people with a diseased liver, kidney, heart, lung, or other organ (“OrganSpot”) who want to provide knowledge and support to each other.»
 
 * <https://liverspot.org>
 
