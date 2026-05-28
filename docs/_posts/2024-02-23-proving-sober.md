@@ -43,7 +43,7 @@ Doctors commonly ask patients how much alcohol they drink. <!--more--> Usually t
     <ul role="list">
         <li>Contracting with the hospital and your family that you will be sober</li>
         <li>Having your family contract with the hospital that you will be sober and they will report violations to the hospital</li>
-        <li>Joining and proving regular &amp; committed attendance with a sobriety support organization (e.g. AA, LifeRing, and others)</li>
+        <li>Joining and proving regular &amp; committed attendance with a sobriety support organization (e.g. AA and others)</li>
         <li>Doing an IOP (Intensive Outpatient Program)</li>
     </ul>
     <p>Of the above, the last two seem to vary a lot among medical programs or initial patient sobriety state.  I was not required to do an IOP, but was required to prove regular sobriety support attendance.  And that commitment of attendance continues for years after the transplant. It is possible that some programs don&#x27;t have the sobriety support requirement, and other programs seem to require IOP attendance.</p>
