@@ -5,7 +5,7 @@ permalink: /about/
 
 ---
 
-The LiverSpot is a community for people with a diseased liver, kidney, lung, heart, or other organ ("OrganSpot") and their caretakers, who want to provide knowledge and support to each other.
+LiverSpot is a community for people with a diseased liver, kidney, lung, heart, or other organ ("OrganSpot") and their caretakers, who want to provide knowledge and support to each other.
 
 ## Translation and Terminology
 
