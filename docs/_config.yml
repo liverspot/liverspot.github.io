@@ -51,6 +51,13 @@ excerpt_separator: "<!--more-->"
 
 languages: [AR,ES,HI,JA,ZH]
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-6WYKC1VYKE"
+    anonymize_ip: false # default
+
+google_analytics: G-6WYKC1VYKE
 
 # Exclude from processing.
 # The following items will not be processed, by default.
