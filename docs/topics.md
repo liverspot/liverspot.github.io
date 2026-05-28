@@ -536,6 +536,8 @@ Acute cellular rejection
 
 «Acyclovir is used to treat viral infections like chickenpox, herpes zoster (shingles) and genital herpes (a sexually transmitted disease). Acyclovir is in a class of medications called antivirals. It works by stopping the spread of the virus in the body.» — [2]
 
+#### Drug Names
+
 * _Generic:_ Acyclovir
 * _Brand:_ Zovirax
 
@@ -843,6 +845,8 @@ Everolimus works by interfering with the growth of cancer cells, which are event
 
 «Efficacy and safety of everolimus with reduced tacrolimus» — [1]
 
+#### Drug Names
+
 * _Generic:_ Everolimus
 * _Brand:_ Afinitor, Zortress
 
@@ -880,6 +884,8 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 
 So it is a brand name related to filgrastim
 
+#### Drug Names
+
 * _Generic:_ Filgrastim
 * _Brand:_ NIVESTYM
 
@@ -898,6 +904,8 @@ So it is a brand name related to filgrastim
 
 ### Gabapentin
 «Gabapentin works in the brain to prevent seizures and relieve pain for certain conditions in the nervous system. It can also be used for controlling the effects of neuropathy.» — [2]
+
+#### Drug Names
 
 * _Generic:_ Gabapentin
 * _Brand:_ Neurontin
@@ -1096,6 +1104,8 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 ### Lactulose
 «Lactulose (sometimes called 'The L-Word') is a laxative with a secondary treatment for Hepatic Encephalopathy. Its chief mechanism of action is by decreasing the intestinal production and absorption of ammonia.» — [2]
 
+#### Drug Names
+
 * _Generic:_ Lactulose
 * _Brand:_ Kristalose, Enulose
 
@@ -1212,6 +1222,8 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 ### Mycophenolate Mofetil
 «Mycophenolate Mofetil is an immunosuppressant that prevents rejection of transplanted organs and augments Tacrolimus.» — [3]
 
+#### Drug Names
+
 * _Generic:_ Mycophenolate Mofetil
 * _Brand:_ CellCept, Myfortic
 
@@ -1225,6 +1237,8 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 ### Naltrexone
 
 «Naltrexone is a prescription medication used to treat alcohol use disorder (AUD) and opioid use disorder (OUD) to reduce cravings and help control physiological dependence.» — [1]
+
+#### Drug Names
 
 * _Generic:_ Naltrexone
 * _Brand:_ Vivitrol, ReVia
@@ -1295,6 +1309,8 @@ Possible treats that the medical team might like and appreciate from patients in
 ### Oxycodone
 
 «Oxycodone is used to relieve severe pain. Oxycodone is in a class of medications called opiate (narcotic) analgesics. It works by changing the way the brain and nervous system respond to pain.» — [1]
+
+#### Drug Names
 
 * _Generic:_ Oxycodone
 * _Brand:_ OxyContin, Percocet
@@ -1415,6 +1431,8 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 
 «This medication is used to treat anemia (low red blood cell count) in people with long-term serious kidney disease (chronic kidney failure), people receiving zidovudine to treat HIV, and people receiving chemotherapy for some types of cancer (cancer that does not involve the bone marrow or blood cells). It may also be used in anemic patients to reduce the need for blood transfusions before certain planned surgeries that have a high risk of blood loss (usually given with an anticoagulant/"blood thinner" medication such as warfarin to lower the risk of serious blood clots).» — [2]
 
+#### Drug Names
+
 * _Generic:_ Epoetin Alfa-epbx
 * _Brand:_ Retacrit
 
@@ -1474,6 +1492,8 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 ### Tacrolimus
 «Tacrolimus is a very powerful immunosuppressant that prevents rejection of transplanted organs.» — [2]
+
+#### Drug Names
 
 * _Generic:_ Tacrolimus
 * _Brand:_ Prograf, Astagraf, Envarsus
@@ -1540,6 +1560,8 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 ### Tramadol
 
 «Tramadol is used to relieve moderate to moderately severe pain, including pain after surgery. It is also used to treat pain severe enough to require opioid treatment and when other pain medicines did not work well enough or cannot be tolerated. The extended-release capsules or tablets are used for chronic ongoing pain.» — [1]
+
+#### Drug Names
 
 * _Generic:_ Tramadol
 * _Brand:_ ConZip, Qdolo, Ultram
@@ -1613,6 +1635,8 @@ So if you have:
 ### Ursodiol
 Ursodiol is a bile thinner that helps your body recover from the removal of the gallbladder.
 
+#### Drug Names
+
 * _Generic:_ Ursodiol
 * _Brand:_ Actigall, Reltone, Urso
 
@@ -1625,6 +1649,8 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 «Valganciclovir is used to treat symptoms of cytomegalovirus (CMV) retinitis, an infection in the eyes of people with acquired immunodeficiency syndrome (AIDS). Valganciclovir will not cure this eye infection, but it may help to keep the symptoms from becoming worse.» — [1]
 
+#### Drug Names
+
 * _Generic:_ Valganciclovir
 * _Brand:_ Valcyte
 
@@ -1635,6 +1661,8 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 ### Vivitrol
 
 «Vivitrol is a long-acting injectable form of naltrexone, which is a medication used to treat two substance use disorders - opioid use disorder and alcohol use disorder (alcoholism). Vivitrol is used as part of a treatment program. It helps prevent people with alcohol or opioid dependence from feeling like they need to use these substances.» — [2]
+
+#### Drug Names
 
 * _Generic:_ Naltrexone
 * _Brand:_ Vivitrol
@@ -1648,6 +1676,8 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 «XIAFLEX is an FDA-approved nonsurgical injectable treatment for adults with Dupuytren’s contracture when a “cord” can be felt.» — [1]
 
+#### Drug Names
+
 * _Generic:_ Collagenase Clostridium Histolyticum
 * _Brand:_ XIAFLEX
 
@@ -1657,6 +1687,8 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 ### Xifaxan
 Rifaximin (tradename Xifaxan) treats traveler's diarrhea and irritable bowel syndrome by stopping the growth of the bacteria that cause diarrhea. Rifaximin treats hepatic encephalopathy by stopping the growth of bacteria that produce toxins and that may worsen liver disease.
+
+#### Drug Names
 
 * _Generic:_ Rifaximin
 * _Brand:_ Xifaxan, Xifaxanta, Zaxine
