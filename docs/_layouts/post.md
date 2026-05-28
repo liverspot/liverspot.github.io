@@ -63,12 +63,14 @@ h6 {
   line-height: 28px;
 }
 
-a {
-  color: #1a1b1f;
-  text-decoration: underline;
-  transition: opacity .2s;
-  display: inline-block;
-}
+ table td, th {
+    padding: 2px 15px; /* Or a small value like 2px */
+  }
+
+  ul {
+    padding-inline-start: 20px;
+  }
+
 
 </style>
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">

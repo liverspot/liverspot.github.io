@@ -9,7 +9,7 @@ Welcome!  The LiverSpot is a community for people with a diseased liver, kidney,
 
 At the moment, the main benefit of this site is the collection of [Topics](/topics) that has been extracted from discussions and meetings.  It also contains [Stories](/stories) and insights from various authors.
 
-### Discussion
+## Discussion
 
 The discussion for the LiverSpot is hosted at [r/liverspot](http://reddit.com/r/liverspot).  
 
