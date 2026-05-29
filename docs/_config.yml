@@ -36,6 +36,7 @@ theme: minima
 #theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 markdown: kramdown
 
@@ -58,6 +59,7 @@ analytics:
     anonymize_ip: false # default
 
 google_analytics: G-6WYKC1VYKE
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
