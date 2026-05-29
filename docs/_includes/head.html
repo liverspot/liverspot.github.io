@@ -4,9 +4,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
+  {%- feed_meta %}
+  <!-- Begin Google tag -->
+  {%- if false or jekyll.environment == 'production' -%}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6WYKC1VYKE"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-6WYKC1VYKE');
+  </script>
   {%- endif -%}
+  <!-- End Google tag -->
   <link rel="icon" type="image/png" sizes="32x32" href="/logo-32x32.png">
 </head>
