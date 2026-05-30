@@ -1455,7 +1455,7 @@ The Panel-of-Gods (POG) or the Tansplant Review Board decides whether to accept 
 
 #### Refs
 
-* [1]&nsbp;<https://www.medicalnewstoday.com/articles/317015>
+* [1]&nbsp;<https://www.medicalnewstoday.com/articles/317015>
 * [2]&nbsp;<https://pubmed.ncbi.nlm.nih.gov/22180452/>
 * [3]&nbsp;<https://eyeandear.org.au/patients-visitors/fact-sheets/oral-corticosteroids-and-your-blood-sugar-levels/>
 
