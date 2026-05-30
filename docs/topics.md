@@ -81,6 +81,25 @@ table tr:nth-child(13), /*B*/
 table tr:nth-child(17), /*C*/
 
 
+table tr:nth-child(1), /*A*/
+
+
+
+
+
+
+
+
+
+
+
+table tr:nth-child(13), /*B*/
+
+
+
+table tr:nth-child(17), /*C*/
+
+
 
 
 
@@ -171,22 +190,18 @@ table tr:nth-child(99), /*P*/
 
 
 
-table tr:nth-child(110), /*R*/
+
+table tr:nth-child(111), /*R*/
 
 
 
-table tr:nth-child(114), /*S*/
-
-
-
-
-
-table tr:nth-child(120), /*T*/
+table tr:nth-child(115), /*S*/
 
 
 
 
 
+table tr:nth-child(121), /*T*/
 
 
 
@@ -197,15 +212,19 @@ table tr:nth-child(120), /*T*/
 
 
 
-table tr:nth-child(136), /*u*/
 
 
 
 
-table tr:nth-child(141), /*V*/
 
-table tr:nth-child(143), /*X*/
+table tr:nth-child(137), /*u*/
 
+
+
+
+table tr:nth-child(142), /*V*/
+
+table tr:nth-child(144), /*X*/
 
 
 table tr:nth-child(1), /*Y*/
@@ -511,6 +530,7 @@ The following entries contain information on topics that have been brought up du
 |[Pontine Stroke &darr;](#pontine-stroke)|Pontine Infarction|
 |[Post-Transplant Relapse &darr;](#post-transplant-relapse)||
 |[POG &darr;](#pog)|Panel of Gods|
+|[Prednisone &darr;](#prednisone)||
 |[Printed Liver &darr;](#printed-liver)||
 |[PT &darr;](#pt)|Prothrombin Time|
 |[Punctate Infarct &darr;](#punctate-infarct)|Punctate Stroke|
@@ -1423,6 +1443,22 @@ The Panel-of-Gods (POG) or the Tansplant Review Board decides whether to accept 
 * [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC10934278/>
 
 «The prevalence rate of alcohol relapse in liver transplant patients with ALD varies across studies. Reported post-transplant alcohol relapse rates in recipients with ALD range from 15% to 50% [5].» — [1]
+
+### Prednisone
+
+«Corticosteroid medicines such as prednisolone and dexamethasone (commonly called steroids) 〚…〛 also causes the liver to release extra sugar into the blood stream. » — [3]
+
+#### Drug Names
+
+* _Generic:_ Prednisone
+* _Brand:_ Deltasone
+
+#### Refs
+
+* [1]&nsbp;<https://www.medicalnewstoday.com/articles/317015>
+* [2]&nbsp;<https://pubmed.ncbi.nlm.nih.gov/22180452/>
+* [3]&nbsp;<https://eyeandear.org.au/patients-visitors/fact-sheets/oral-corticosteroids-and-your-blood-sugar-levels/>
+
 
 ### Printed Liver
 
