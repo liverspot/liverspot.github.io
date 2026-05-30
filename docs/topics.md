@@ -62,6 +62,42 @@ table tr:nth-child(27), /*D*/
 
 
 
+table tr:nth-child(1), /*A*/
+
+
+
+
+
+
+
+
+
+
+
+table tr:nth-child(13), /*B*/
+
+
+
+table tr:nth-child(17), /*C*/
+
+
+
+
+
+
+
+
+
+table tr:nth-child(27), /*D*/
+
+
+
+
+
+
+
+
+
 
 
 table tr:nth-child(39), /*E*/
@@ -115,36 +151,16 @@ table tr:nth-child(83), /*M*/
 
 
 
-table tr:nth-child(90), /*N*/
+
+table tr:nth-child(91), /*N*/
 
 
 
 
-table tr:nth-child(95), /*O*/
+table tr:nth-child(96), /*O*/
 
 
-table tr:nth-child(98), /*P*/
-
-
-
-
-
-
-
-
-
-
-table tr:nth-child(109), /*R*/
-
-
-
-table tr:nth-child(113), /*S*/
-
-
-
-
-
-table tr:nth-child(119), /*T*/
+table tr:nth-child(99), /*P*/
 
 
 
@@ -155,19 +171,41 @@ table tr:nth-child(119), /*T*/
 
 
 
+table tr:nth-child(110), /*R*/
+
+
+
+table tr:nth-child(114), /*S*/
 
 
 
 
 
-table tr:nth-child(135), /*u*/
+table tr:nth-child(120), /*T*/
 
 
 
 
-table tr:nth-child(140), /*V*/
 
-table tr:nth-child(142), /*X*/
+
+
+
+
+
+
+
+
+
+
+table tr:nth-child(136), /*u*/
+
+
+
+
+table tr:nth-child(141), /*V*/
+
+table tr:nth-child(143), /*X*/
+
 
 
 table tr:nth-child(1), /*Y*/
@@ -451,6 +489,7 @@ The following entries contain information on topics that have been brought up du
 |[LOLA &darr;](#lola)|L‐ornithine‐L‐aspartate|
 |[Medical Marijuana &darr;](#medical-marijuana) <a id="m"></a>||
 |[MELD &darr;](#meld)|Model for end-stage liver disease|
+|[MELD 3 &darr;](#meld-3)||
 |[MELD Exception Score &darr;](#meld-exception-score)||
 |[MRE &darr;](#mre)|Magnetic resonance elastography|
 |[MRI &darr;](#mri)|Magnetic resonance imaging|
@@ -1193,6 +1232,12 @@ There are statistical correlations between level of liver illness (e.g. the MELD
 * 11 to 18 — Every three months.
 * 10 or less — Once a year.
 » — [7]
+
+### MELD 3
+
+«The Model for End-Stage Liver Disease (MELD) score, introduced in 2002, has since been refined. MELD 3.0, launched in 2023 in the United States, improves mortality prediction by incorporating sex and albumin. … » — [1]
+
+* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC12464064/>
 
 ### MELD Exception Score
 A MELD Exception Score is a modifier to the calculated MELD score. Some transplant candidates have a medical condition, such as cancer or rare forms of chronic liver disease, where MELD or PELD will not accurately predict their short-term transplant need. If so, they may qualify for an exception score — a separately assigned score to be used instead of their calculated MELD or PELD in matching the person for available organ offers. The goal of exception scores is to make access to transplant more equitable among patients with similar levels of medical urgency.
