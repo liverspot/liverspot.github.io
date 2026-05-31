@@ -20,6 +20,18 @@
 {% for post in include.posts -%}
 {% assign full_id = post.id | remove_first: '/' | replace: '/', '-' -%}
 <span class='topic-arrow' ><a href="{{ site.baseurl }}{{ post.url }}">&rarr;</a></span>
+{% if post.tags -%}
+<span style='float:right;' >
+{% for tag in post.tags -%}
+<a style="font-size:12px;" href="{{ site.baseurl }}/topic/{{ tag }}">{{ tag }}</a>
+  {% if forloop.last -%}
+     &nbsp;
+    {% else -%}
+     •
+  {% endif -%}
+{% endfor -%}
+</span>
+{% endif -%}
 <h3 id="{{full_id}}"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>
 
 {{post.excerpt}}
