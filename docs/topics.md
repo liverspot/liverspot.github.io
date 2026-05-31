@@ -62,61 +62,6 @@ table tr:nth-child(27), /*D*/
 
 
 
-table tr:nth-child(1), /*A*/
-
-
-
-
-
-
-
-
-
-
-
-table tr:nth-child(13), /*B*/
-
-
-
-table tr:nth-child(17), /*C*/
-
-
-table tr:nth-child(1), /*A*/
-
-
-
-
-
-
-
-
-
-
-
-table tr:nth-child(13), /*B*/
-
-
-
-table tr:nth-child(17), /*C*/
-
-
-
-
-
-
-
-
-
-table tr:nth-child(27), /*D*/
-
-
-
-
-
-
-
-
-
 
 
 table tr:nth-child(39), /*E*/
@@ -147,43 +92,43 @@ table tr:nth-child(59), /*H*/
 
 
 
-table tr:nth-child(67), /*I*/
 
 
 
 
-table tr:nth-child(72), /*J*/
+table tr:nth-child(71), /*I*/
 
-table tr:nth-child(74), /*K*/
 
-table tr:nth-child(76), /*L*/
 
 
+table tr:nth-child(76), /*J*/
 
+table tr:nth-child(78), /*K*/
 
+table tr:nth-child(80), /*L*/
 
 
-table tr:nth-child(83), /*M*/
 
 
 
 
+table tr:nth-child(87), /*M*/
 
 
 
-table tr:nth-child(91), /*N*/
 
 
 
 
-table tr:nth-child(96), /*O*/
+table tr:nth-child(95), /*N*/
 
 
-table tr:nth-child(99), /*P*/
 
 
+table tr:nth-child(100), /*O*/
 
 
+table tr:nth-child(103), /*P*/
 
 
 
@@ -191,21 +136,21 @@ table tr:nth-child(99), /*P*/
 
 
 
-table tr:nth-child(111), /*R*/
 
 
 
-table tr:nth-child(115), /*S*/
 
+table tr:nth-child(115), /*R*/
 
 
 
+table tr:nth-child(119), /*S*/
 
-table tr:nth-child(121), /*T*/
 
 
 
 
+table tr:nth-child(125), /*T*/
 
 
 
@@ -217,14 +162,19 @@ table tr:nth-child(121), /*T*/
 
 
 
-table tr:nth-child(137), /*u*/
 
 
 
 
-table tr:nth-child(142), /*V*/
+table tr:nth-child(141), /*u*/
 
-table tr:nth-child(144), /*X*/
+
+
+
+table tr:nth-child(146), /*V*/
+
+table tr:nth-child(148), /*X*/
+
 
 
 table tr:nth-child(1), /*Y*/
@@ -489,6 +439,10 @@ The following entries contain information on topics that have been brought up du
 |[Hepatitis &darr;](#hepatitis)||
 |[HIDA Scan &darr;](#hida-scan)|Hepatobiliary iminodiacetic acid|
 |[HPMV &darr;](#hpmv)|Human Metapneumovirus|
+|[Hyper  &darr;](#hyper-)||
+|[Hyperbilirubinemia &darr;](#hyperbilirubinemia)||
+|[Hypo &darr;](#hypo)||
+|[Hypoalbuminemia &darr;](#hypoalbuminemia)||
 |[Hypomagnesium &darr;](#hypomagnesium)||
 |[Immunosuppressant &darr;](#immunosuppressant) <a id="i"></a>||
 |[Immunosuppression &darr;](#immunosuppression)||
@@ -1065,6 +1019,30 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 ### HPMV
 
 * <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv>
+
+### Hyper 
+
+«Hyper-: Prefix meaning high, beyond, excessive, or above normal,» — [1]
+
+* [1]&nbsp;<https://www.rxlist.com/hyper-/definition.htm>
+
+### Hyperbilirubinemia
+
+«Hyperbilirubinemia is a condition in which there is a build up of bilirubin in the blood, causing yellow discoloration of the eyes and skin, called jaundice. Low levels of bilirubin in the newborn is common and does not cause any trouble and will resolve on its own in the first week of life. However some conditions like prematurity, infection or certain blood disorders can lead to a rapid accumulation of bilirubin to a toxic level.» — [1]
+
+* [1]&nbsp;<https://www.chop.edu/conditions-diseases/hyperbilirubinemia-and-jaundice>
+
+### Hypo 
+
+«Hypo-: Prefix meaning low, under, beneath, down, or below normal, » — [1]
+
+* [1]&nbsp;<https://www.rxlist.com/hypo-/definition.htm>
+
+### Hypoalbuminemia
+
+«Hypoalbuminemia, or low albumin levels in your blood, affects your body’s ability to manage body fluids. Albumin is a protein that keeps fluid inside your blood vessels. It also transports vitamins, enzymes and hormones throughout your body. Hypoalbuminemia happens when your body doesn’t produce enough albumin, or you lose unusually large amounts of it when you pee or poop. This condition is often a symptom of health issues like heart failure and kidney disease» — [1]
+
+* [1]&nbsp;<https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia>
 
 ### Hypomagnesium
 
