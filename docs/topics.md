@@ -1028,7 +1028,7 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 
 ### Hyperbilirubinemia
 
-«Hyperbilirubinemia is a condition in which there is a build up of bilirubin in the blood, causing yellow discoloration of the eyes and skin, called jaundice. Low levels of bilirubin in the newborn is common and does not cause any trouble and will resolve on its own in the first week of life. However some conditions like prematurity, infection or certain blood disorders can lead to a rapid accumulation of bilirubin to a toxic level.» — [1]
+«Hyperbilirubinemia is a condition in which there is a build up of bilirubin in the blood, causing yellow discoloration of the eyes and skin, called jaundice. 〚…〛» — [1]
 
 * [1]&nbsp;<https://www.chop.edu/conditions-diseases/hyperbilirubinemia-and-jaundice>
 
