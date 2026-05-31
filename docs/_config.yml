@@ -60,6 +60,12 @@ analytics:
 
 google_analytics: G-6WYKC1VYKE
 
+defaults:
+  - scope:
+      path: "" # All files in the project
+    values:
+      last_modified_at: 2026-05-31
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
