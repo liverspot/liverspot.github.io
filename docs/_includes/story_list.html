@@ -23,7 +23,7 @@
 {% if post.tags -%}
 <span style='float:right;' >
 {% for tag in post.tags -%}
-<a style="font-size:12px;" href="{{ site.baseurl }}/topic/{{ tag }}">{{ tag }}</a>
+<a style="font-size:12px;" href="{{ site.baseurl }}/topic/{{ tag }}">{{ tag | slice: 0, 4 }}</a>
   {% if forloop.last -%}
      &nbsp;
     {% else -%}
