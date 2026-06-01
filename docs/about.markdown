@@ -30,4 +30,10 @@ The concept of supporting organ transplant, pre-transplant, and (hopefully) no-t
 
 Although a patient's medical team is always the primary source of information, their time is limited and it is common for questions to come up outside appointments (with even less medical-team attention).  Further, each patient's team has solely a provider experience (normally) and they may also be limited in knowledge about other approaches.  We believe that by combining the knowledge, experience, and provider-team expertise from multiple patients, a better explanation and understanding can be provided to others.
 
+## Website Updates
 
+Summaries of website updates can be found at:
+
+* <https://www.reddit.com/r/liverspot/?f=flair_name%3A%22LiverSpot%22>
+
+Detailed information is in the [repo](https://github.com/liverspot/liverspot.github.io).
