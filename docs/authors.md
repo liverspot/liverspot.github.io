@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Authors
+permalink: /authors/
 ---
 
 {% for person in site.authors -%}
