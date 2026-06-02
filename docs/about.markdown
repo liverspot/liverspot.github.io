@@ -11,7 +11,8 @@ LiverSpot is a community for people with a diseased liver, kidney, lung, heart, 
 
 This site is written in American English with medical terminology commonly used in the United States.  The narrative and expository can be translated to other languages with various levels of success through Google Translate (see below) or browser capabilities, but the terminology translation is beyond these tools.   Apologies for any difficulties this cause.
 
-Switch site to:&nbsp;
+Switch site from <a onclick="location.href='{{site.url}}{{page.url}}'" class="notranslate">EN</a>
+to:&nbsp;
 <span class="notranslate">
 {% for item in site.languages -%}
 <a onclick="location.href='https://liverspot-org.translate.goog{{page.url}}?_x_tr_sl=auto&_x_tr_tl={{item}}'" class="notranslate">{{item}}</a>
