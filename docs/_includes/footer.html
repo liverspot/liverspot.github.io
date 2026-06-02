@@ -10,7 +10,7 @@
         <a id="footer"></a><img src="/images/translation-icon.png" width="20" height="20" style="vertical-align: -4px;"/>&nbsp;
 
         {% for item in site.languages -%}
-        <a href="https://liverspot-org.translate.goog{{page.url}}?_x_tr_sl=auto&_x_tr_tl={{item}}">{{item}}</a>
+        <a onclick="location.href='https://liverspot-org.translate.goog{{page.url}}?_x_tr_sl=auto&_x_tr_tl={{item}}'" class="notranslate">{{item}}</a>
         {% if forloop.last -%}
         {% else -%}
         •
