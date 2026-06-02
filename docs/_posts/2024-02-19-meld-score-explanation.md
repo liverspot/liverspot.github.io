@@ -80,7 +80,7 @@ In 2021 I went to Stanford Emergency after several months of getting progressive
 <p>The basic blood test produced the following values. Note that the sodium is on such a different scale that it dwarfs the other values so is clearly not directly composable with them.</p>
 <figure class="w-richtext-align-center w-richtext-figure-type-image">
     <div>
-        <img alt="blood_test_measurements" src="/images/2024-02-19-meld-score-explanation/blood_test_measurements.png"/>
+        <img alt="blood_test_measurements" src="/images/2024-02-19-meld-score-explanation/blood_test_measurements_2.png"/>
     </div>
 </figure>
 <h4>Normalization</h4>
@@ -103,7 +103,7 @@ In 2021 I went to Stanford Emergency after several months of getting progressive
 <p>Summing these components all together (without the "+6" baseline) gives:</p>
 <figure class="w-richtext-align-center w-richtext-figure-type-image">
     <div>
-        <img alt="meld_component_stack" src="/images/2024-02-19-meld-score-explanation/meld_component_stack.png"/>
+        <img alt="meld_component_stack" src="/images/2024-02-19-meld-score-explanation/meld_component_stack_2.png"/>
     </div>
 </figure>
 <p>Or more simply in final MELD score:</p>
