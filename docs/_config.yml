@@ -50,7 +50,7 @@ collections:
 
 excerpt_separator: "<!--more-->"
 
-languages: [AR,ES,HI,JA,ZH]
+languages: [AR,EL,ES,HI,JA,KO,RU,ZH]
 
 analytics:
   provider: "google-gtag"
