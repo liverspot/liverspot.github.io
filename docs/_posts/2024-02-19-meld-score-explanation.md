@@ -80,14 +80,14 @@ In 2021 I went to Stanford Emergency after several months of getting progressive
 <p>The basic blood test produced the following values. Note that the sodium is on such a different scale that it dwarfs the other values so is clearly not directly composable with them.</p>
 <figure class="w-richtext-align-center w-richtext-figure-type-image">
     <div>
-        <img loading="lazy" alt="" src="https://cdn.prod.website-files.com/654c35b90c33f91f6457b77b/65d3c42938f907dbf7ed4840_Screenshot%202024-02-19%20at%2011.15.49%20AM.png"/>
+        <img alt="blood_test_measurements" src="/images/2024-02-19-meld-score-explanation/blood_test_measurements.png"/>
     </div>
 </figure>
 <h4>Normalization</h4>
 <p>Normalization of these values so they have similar characteristics produce this:</p>
 <figure class="w-richtext-align-center w-richtext-figure-type-image">
     <div>
-        <img loading="lazy" alt="" src="https://cdn.prod.website-files.com/654c35b90c33f91f6457b77b/65d42c66f16c87fe2facc76a_Screenshot%202024-02-19%20at%208.19.15%20PM.png"/>
+        <img alt="normalized_values" src="/images/2024-02-19-meld-score-explanation/normalized_values.png"/>
     </div>
 </figure>
 <p>With this everything is within a plausibly similar range, has similar physical impacts, and badness is in the same direction (positive is bad).</p>
@@ -95,24 +95,25 @@ In 2021 I went to Stanford Emergency after several months of getting progressive
 <p>Scaling by MELD3 contribution gives:</p>
 <figure class="w-richtext-align-center w-richtext-figure-type-image">
     <div>
-        <img loading="lazy" alt="" src="https://cdn.prod.website-files.com/654c35b90c33f91f6457b77b/65d42c47ae2598994cb7b8e9_Screenshot%202024-02-19%20at%208.19.46%20PM.png"/>
+        <img alt="meld_contribution" src="/images/2024-02-19-meld-score-explanation/meld_contribution.png"/>
     </div>
 </figure>
 <p>These are now point-for-point equal to the MELD scale. For example, as of June my Creatinine value was producing &#x27;12&#x27; points toward my &gt;20 MELD score.</p>
 <h4>MELD Sum</h4>
-<p>Summing these components all together gives:</p>
+<p>Summing these components all together (without the "+6" baseline) gives:</p>
 <figure class="w-richtext-align-center w-richtext-figure-type-image">
     <div>
-        <img loading="lazy" alt="" src="https://cdn.prod.website-files.com/654c35b90c33f91f6457b77b/65d42ccc677c7b43a9b0674e_Screenshot%202024-02-19%20at%208.38.25%20PM.png"/>
+        <img alt="meld_component_stack" src="/images/2024-02-19-meld-score-explanation/meld_component_stack.png"/>
     </div>
 </figure>
-<p>Or more simply:</p>
+<p>Or more simply in final MELD score:</p>
 <figure class="w-richtext-align-center w-richtext-figure-type-image">
     <div>
-        <img loading="lazy" alt="" src="https://cdn.prod.website-files.com/654c35b90c33f91f6457b77b/65d42d09e60f62724d199dd3_Screenshot%202024-02-19%20at%208.39.17%20PM.png"/>
+        <img alt="resulting_meld_score" src="/images/2024-02-19-meld-score-explanation/resulting_meld_score.png"/>
     </div>
 </figure>
-<p>When admitted to the hospital and as I moved to ICU, my MELD spiked to above 35. As the symptoms causing the Bilirubin and INR values were dealt with, my MELD dropped below 30. And finally as my second-instance of a Sodium issue was dealt with, my score dropped into the low 20s.</p>
+<p>When admitted to the hospital and as I moved to ICU, my MELD spiked to above 30. As the symptoms causing the Bilirubin and INR values were dealt with, my MELD dropped below 30. And finally as my second-instance of a Sodium issue was dealt with, my score dropped into the low 20s.</p>
+<p>The <a href="/topics/#meld-3">MELD-3</a> curve is similar to the original MELD calculation, but was slightly lower initially: there are two new terms in the MELD-3 that 'backout' (subtract) overcounting of high values in correlated components, which includes both sodium and creatinine values [which were both very high for me]. </p>
 <h3>Summary</h3>
 <p>The MELD score prioritizes patients on the liver transplant list. The score is calculated with a relatively simple formula based on five bloodwork values (INR, Bilirubin, Albumin, Creatinine, and Sodium). So it can be calculated fairly often but is not clinically meaningful except in the context of needing a liver transplant. In other situations the componenents values can be important to treatment, but the MELD itself is too vague to base diagnosis on. You can have an accutely high MELD score but it can go down dramatically as the causes of symptoms (e.g. Bilirubin) are alleviated from medical treatment.   </p>
 <p>The MELD score is only used medically when other treatments are no longer effective in further symptom reduction (and the MELD score is above a 17 or so) so a transplant may be the only way to achieve further physical improvement.</p>
