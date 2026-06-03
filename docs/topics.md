@@ -869,7 +869,7 @@ Everolimus works by interfering with the growth of cancer cells, which are event
 
 * [1]&nbsp;<https://pubmed.ncbi.nlm.nih.gov/41110610/>
 * [2]&nbsp;<https://www.mayoclinic.org/drugs-supplements/everolimus-oral-route/description/drg-20072842>
-
+* [3]&nbsp;<https://www.cancer.gov/publications/dictionaries/cancer-terms/def/everolimus>
 
 ### Excess Protein                                                           
 
