@@ -97,40 +97,40 @@ table tr:nth-child(59), /*H*/
 
 
 
-table tr:nth-child(72), /*I*/
 
+table tr:nth-child(73), /*I*/
 
 
 
-table tr:nth-child(77), /*J*/
 
-table tr:nth-child(79), /*K*/
+table tr:nth-child(78), /*J*/
 
-table tr:nth-child(81), /*L*/
+table tr:nth-child(80), /*K*/
 
+table tr:nth-child(82), /*L*/
 
 
 
 
 
-table tr:nth-child(88), /*M*/
 
+table tr:nth-child(89), /*M*/
 
 
 
 
 
 
-table tr:nth-child(96), /*N*/
 
+table tr:nth-child(97), /*N*/
 
 
 
-table tr:nth-child(101), /*O*/
 
+table tr:nth-child(102), /*O*/
 
-table tr:nth-child(104), /*P*/
 
+table tr:nth-child(105), /*P*/
 
 
 
@@ -141,19 +141,19 @@ table tr:nth-child(104), /*P*/
 
 
 
-table tr:nth-child(116), /*R*/
 
+table tr:nth-child(117), /*R*/
 
 
-table tr:nth-child(120), /*S*/
 
+table tr:nth-child(121), /*S*/
 
 
 
 
 
-table tr:nth-child(127), /*T*/
 
+table tr:nth-child(128), /*T*/
 
 
 
@@ -168,14 +168,16 @@ table tr:nth-child(127), /*T*/
 
 
 
-table tr:nth-child(143), /*u*/
 
+table tr:nth-child(144), /*u*/
 
 
 
-table tr:nth-child(148), /*V*/
 
-table tr:nth-child(150), /*X*/
+table tr:nth-child(149), /*V*/
+
+table tr:nth-child(151), /*X*/
+
 
 
 table tr:nth-child(1), /*Y*/
@@ -439,6 +441,7 @@ The following entries contain information on topics that have been brought up du
 |[Hemodialysis &darr;](#hemodialysis)||
 |[Hepatitis &darr;](#hepatitis)||
 |[HIDA Scan &darr;](#hida-scan)|Hepatobiliary iminodiacetic acid|
+||Human Leukocyte Antigen|
 |[HPMV &darr;](#hpmv)|Human Metapneumovirus|
 |[Hyper  &darr;](#hyper-)||
 |[Hyperbilirubinemia &darr;](#hyperbilirubinemia)||
@@ -1018,6 +1021,15 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 
 * [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/17099-hida-scan>
 * [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/hida-scan/about/pac-20384701>
+
+
+### HLA
+
+«HLA DSA (Human Leukocyte Antigen Donor-Specific Antibody) refers to antibodies in a transplant recipient's bloodstream that specifically target and attack the unique HLA proteins of a donor. These are routinely monitored because they can trigger immune rejection of a transplanted organ or stem cells» — [AI:Google]
+
+* [1]&nbsp;<https://www.sciencedirect.com/topics/medicine-and-dentistry/hla-antigen>
+* [2]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC10920073/>
+* [3]&nbsp;<https://mlabs.umich.edu/tests/hla-donor-specific-antibody>
 
 ### HPMV
 
