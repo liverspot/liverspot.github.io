@@ -443,8 +443,8 @@ The following entries contain information on topics that have been brought up du
 |[Hyperbilirubinemia &darr;](#hyperbilirubinemia)||
 |[Hypo &darr;](#hypo)||
 |[Hypoalbuminemia &darr;](#hypoalbuminemia)||
-|[Hyponatremia &darr;](#hyponatremia)||
 |[Hypomagnesium &darr;](#hypomagnesium)||
+|[Hyponatremia &darr;](#hyponatremia)||
 |[Immunosuppressant &darr;](#immunosuppressant) <a id="i"></a>||
 |[Immunosuppression &darr;](#immunosuppression)||
 |[INR &darr;](#inr)|International Normalized Ratio|
@@ -1046,20 +1046,6 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 * [1]&nbsp;<https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia>
 
 
-### Hyponatremia
-
-«Hyponatremia (hi-poh-nay-tree-me-uh) is when the level of sodium in your blood is lower than normal.
-
-Sodium is an important mineral that helps balance the amount of fluid (water) in your body. It also helps your nerves and muscles to work properly. When the sodium level in your blood is too low, extra water moves into your cells and makes them swell (get bigger). This can be dangerous, especially in the brain where there is not a lot of room to expand.» — [1]
-
-«Hyponatremia is a condition that happens when the level of sodium in the blood is lower than the typical range. Sodium is an electrolyte, and it helps regulate the amount of water that's in and around your cells.
-
-In hyponatremia, one or more factors cause the sodium in the body to be diluted. These factors can range from an underlying medical condition to drinking too much water. When this happens, the body's water levels rise, and cells begin to swell. This swelling can cause many health problems, from mild to life-threatening.» — [2]
-
-* [1]&nbsp;<https://www.kidney.org/kidney-topics/hyponatremia-low-sodium-level-blood>
-
-* [2]&nbsp;<https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711>
-
 ### Hypomagnesium
 
 «
@@ -1079,6 +1065,22 @@ Your provider will also prescribe a treatment plan to manage the underlying caus
 * [1]&nbsp;<https://www.relainstitute.com/articles/magnesium-deficiency-foods-to-eat-and-treatment-options/>
 * [2]&nbsp;<https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia>
 * [3]&nbsp;<https://www.chp.edu/our-services/transplant/liver/education/medications/tacrolimus-prograf#:~:text=Tacrolimus%20Drug%20Interactions>
+
+
+### Hyponatremia
+
+«Hyponatremia (hi-poh-nay-tree-me-uh) is when the level of sodium in your blood is lower than normal.
+
+Sodium is an important mineral that helps balance the amount of fluid (water) in your body. It also helps your nerves and muscles to work properly. When the sodium level in your blood is too low, extra water moves into your cells and makes them swell (get bigger). This can be dangerous, especially in the brain where there is not a lot of room to expand.» — [1]
+
+«Hyponatremia is a condition that happens when the level of sodium in the blood is lower than the typical range. Sodium is an electrolyte, and it helps regulate the amount of water that's in and around your cells.
+
+In hyponatremia, one or more factors cause the sodium in the body to be diluted. These factors can range from an underlying medical condition to drinking too much water. When this happens, the body's water levels rise, and cells begin to swell. This swelling can cause many health problems, from mild to life-threatening.» — [2]
+
+* [1]&nbsp;<https://www.kidney.org/kidney-topics/hyponatremia-low-sodium-level-blood>
+
+* [2]&nbsp;<https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711>
+
 
 ### Immunosuppressant
 «Immunosuppressants are drugs or medicines that lower the body's ability to reject a transplanted organ. Another term for these drugs is anti-rejection drugs.» — [5]
