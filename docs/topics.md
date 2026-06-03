@@ -96,40 +96,40 @@ table tr:nth-child(59), /*H*/
 
 
 
-table tr:nth-child(71), /*I*/
 
+table tr:nth-child(72), /*I*/
 
 
 
-table tr:nth-child(76), /*J*/
 
-table tr:nth-child(78), /*K*/
+table tr:nth-child(77), /*J*/
 
-table tr:nth-child(80), /*L*/
+table tr:nth-child(79), /*K*/
 
+table tr:nth-child(81), /*L*/
 
 
 
 
 
-table tr:nth-child(87), /*M*/
 
+table tr:nth-child(88), /*M*/
 
 
 
 
 
 
-table tr:nth-child(95), /*N*/
 
+table tr:nth-child(96), /*N*/
 
 
 
-table tr:nth-child(100), /*O*/
 
+table tr:nth-child(101), /*O*/
 
-table tr:nth-child(103), /*P*/
 
+table tr:nth-child(104), /*P*/
 
 
 
@@ -140,18 +140,18 @@ table tr:nth-child(103), /*P*/
 
 
 
-table tr:nth-child(115), /*R*/
 
+table tr:nth-child(116), /*R*/
 
 
-table tr:nth-child(119), /*S*/
 
+table tr:nth-child(120), /*S*/
 
 
 
 
-table tr:nth-child(125), /*T*/
 
+table tr:nth-child(126), /*T*/
 
 
 
@@ -166,15 +166,15 @@ table tr:nth-child(125), /*T*/
 
 
 
-table tr:nth-child(141), /*u*/
 
+table tr:nth-child(142), /*u*/
 
 
 
-table tr:nth-child(146), /*V*/
 
-table tr:nth-child(148), /*X*/
+table tr:nth-child(147), /*V*/
 
+table tr:nth-child(149), /*X*/
 
 
 table tr:nth-child(1), /*Y*/
@@ -374,155 +374,156 @@ The following entries contain information on topics that have been brought up du
 
 | Topic                                                                                                                                  | Alternate Name                                | 
 |----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-|[ACR &darr;](#acr) <a id="a"></a>| Acute Cellular Rejection                      |
-|[Acyclovir &darr;](#acyclovir)| Zovirax                                       |
-|[AFP &darr;](#afp)| Alpha-Fetoprotein                             |
-|[AIH &darr;](#aih)| Autoimmune hepatitis                          |
-|[Albumin &darr;](#albumin)|                                               |
-|[ALP &darr;](#alp)| Alkaline phosphatase                          |
-|[Ammonia Level &darr;](#ammonia-level)|                                               |
-|[Angiogram &darr;](#angiogram)|                                               |
-|[Angioplasty &darr;](#angioplasty)|                                               |
-|[Ascites &darr;](#ascites)|                                               |
-|[Asterixis &darr;](#asterixis)|                                               |
-|[Atrophy &darr;](#atrophy)|                                               |
-|[Bausch PAP &darr;](#bausch-pap) <a id="b"></a>| Patient Assistance Program                    |
-|[Bilirubin &darr;](#bilirubin)|                                               |
-|[BK Virus &darr;](#bk-virus)| 'BK' are initials                             |
-|[BUN Test &darr;](#bun-test)| Blood-urea-nitrogen                           |
-|[Camino Hospital IOP &darr;](#camino-hospital-iop) <a id="c"></a>| Intensive OutPatient                          |
-|[Cirrhosis &darr;](#cirrhosis)|                                               |
-|[CMV &darr;](#cmv)| [Human] CytoMegaloVirus                       |
-|[Compensated Cirrhosis &darr;](#compensated-cirrhosis)|                                               |
-|[Corewell Health &darr;](#corewell-health)|                                               |
-|[CostPlus &darr;](#costplus)|                                               |
-|[CPMC &darr;](#cpmc)| California Pacific Medical Center             |
-|[Creatinine &darr;](#creatinine)|                                               |
-|[Creatinine Test &darr;](#creatinine-test)|                                               |
-|[CTA &darr;](#cta)| Computed Tomography Angiogram                 |
-|[Deceased Organ Donation &darr;](#deceased-organ-donation) <a id="d"></a>|                                               |
-|[Deceased-Donor Liver Size &darr;](#deceased-donor-liver-size)|                                               |
-|[Decompensated Cirrhosis &darr;](#decompensated-cirrhosis)|                                               |
-|[Dialysis &darr;](#dialysis)|                                               |
-|[Diverticulitis &darr;](#diverticulitis)|                                               |
-|[Donor Info &darr;](#donor-info)|                                               |
-|[Drug Regimen &darr;](#drug-regimen)|                                               |
-|[DSA &darr;](#dsa)| Donor Service Area                            |
-|[Duncan Mills &darr;](#duncan-mills)|                                               |
-|[Dupuytren's contracture &darr;](#dupuytrens-contracture)|                                               |
-|[DXA scan &darr;](#dxa-scan)| Dual-Energy X-Ray Absorptiometry              |
-|[Dysphagia &darr;](#dysphagia)|                                               |
-|[Edema &darr;](#edema) <a id="e"></a>| Oedema                                        |
-|[El Camino Car &darr;](#el-camino-car)|                                               |
-|[Encephalitis &darr;](#encephalitis)|                                               |
-|[Encephalopathy &darr;](#encephalopathy)|                                               |
-|[Erica Storm &darr;](#erica-storm)|                                               |
-|[ESLD &darr;](#esld)| End-Stage Liver Disease                       |
-|[Esophageal Varices &darr;](#esophageal-varices)|                                               |
-|[Everolimus &darr;](#everolimus)| Afinitor, Zortress                            |
-|[Excess Protein &darr;](#excess-protein)|                                               |
-|[FIB-4 &darr;](#fib-4) <a id="f"></a>| Fibrosis-4                                    |
-|[Fibroscan &darr;](#fibroscan)|                                               |
-|[Filgrastim &darr;](#filgrastim)| Neupogen, Nivestym, Zarxio                    |
-|[Fistula &darr;](#fistula)|                                               |
-|[Gabapentin &darr;](#gabapentin) <a id="g"></a>| Neurontin                                     |
-|[Gallbladder &darr;](#gallbladder)|                                               |
-|[Gallbladder Cancer &darr;](#gallbladder-cancer)|                                               |
-|[GFR and Aging &darr;](#gfr-and-aging)| Glomerular Filtration Rate                    |
-|[GGT &darr;](#ggt)| gamma-glutamyl transferase                    |
-|[Gougol &darr;](#gougol)|                                               |
-|[Gynecomastia &darr;](#gynecomastia)|                                               |
-|[HCC GALAD Model &darr;](#hcc-galad-model) <a id="h"></a>| Hepatocellular Carcinoma • Gender, Age, ...   |
-|[HE &darr;](#he)| Hepatic Encephalopathy                        |
-|[Hemochromatosis &darr;](#hemochromatosis)|                                               |
-|[Hemodialysis &darr;](#hemodialysis)|                                               |
-|[Hepatitis &darr;](#hepatitis)|                                               |
-|[HIDA Scan &darr;](#hida-scan)| Hepatobiliary iminodiacetic acid              |
-|[HPMV &darr;](#hpmv)| Human Metapneumovirus                         |
-|[Hyper  &darr;](#hyper-)|                                               |
-|[Hyperbilirubinemia &darr;](#hyperbilirubinemia)|                                               |
-|[Hypo &darr;](#hypo)|                                               |
-|[Hypoalbuminemia &darr;](#hypoalbuminemia)|                                               |
-|[Hypomagnesium &darr;](#hypomagnesium)|                                               |
-|[Immunosuppressant &darr;](#immunosuppressant) <a id="i"></a>|                                               |
-|[Immunosuppression &darr;](#immunosuppression)|                                               |
-|[INR &darr;](#inr)| International Normalized Ratio                |
-|[IOP &darr;](#iop)| Intense Outpatient Program                    |
-|[Itching &darr;](#itching)|                                               |
-|[J-Tube &darr;](#j-tube) <a id="j"></a>| Jejunal Tube                                  |
-|[Jaundice &darr;](#jaundice)|                                               |
-|[Ketorolac &darr;](#ketorolac) <a id="k"></a>| Toradol                                       |
-|[Kt/V &darr;](#ktv)|                                               |
-|[Lactulose &darr;](#lactulose) <a id="l"></a>| Kristalose, Enulose                           |
-|[Liver Circle &darr;](#liver-circle)|                                               |
-|[Liver In A Box &darr;](#liver-in-a-box)|                                               |
-|[Liver Pain &darr;](#liver-pain)|                                               |
-|[LiverSpot.org &darr;](#liverspotorg)|                                               |
-|[Liver Spots &darr;](#liver-spots)|                                               |
-|[LOLA &darr;](#lola)| L‐ornithine‐L‐aspartate                       |
-|[Medical Marijuana &darr;](#medical-marijuana) <a id="m"></a>|                                               |
-|[MELD &darr;](#meld)| Model for end-stage liver disease             |
-|[MELD 3 &darr;](#meld-3)|                                               |
-|[MELD Exception Score &darr;](#meld-exception-score)|                                               |
-|[MRE &darr;](#mre)| Magnetic resonance elastography               |
-|[MRI &darr;](#mri)| Magnetic resonance imaging                    |
-|[Multiple Listing &darr;](#multiple-listing)|                                               |
-|[Mycophenolate Mofetil &darr;](#mycophenolate-mofetil)| CellCept, Myfortic                            |
-|[Naltrexone &darr;](#naltrexone) <a id="n"></a>| Vivitrol, ReVia                               |
-|[NASH &darr;](#nash)| Nonalcoholic steatohepatitis                  |
-|[Neuropathy &darr;](#neuropathy)|                                               |
-|[Neutropenia &darr;](#neutropenia)|                                               |
-|[Nurse Treats &darr;](#nurse-treats)|                                               |
-|[OPTN &darr;](#optn) <a id="o"></a>| Organ Procurement and Transplantation Network |
-|[Osmolite &darr;](#osmolite)|                                               |
-|[Oxycodone &darr;](#oxycodone)| OxyContin, Percocet                           |
-|[Paracentesis &darr;](#paracentesis) <a id="p"></a>|                                               |
-|[Persistent Ascites &darr;](#persistent-ascites)|                                               |
-|[PET &darr;](#pet)| Positron emission tomography                  |
-|[PEth &darr;](#peth)| Phosphatidylethanol                           |
-|[Pink Cloud &darr;](#pink-cloud)|                                               |
-|[Pontine Stroke &darr;](#pontine-stroke)| Pontine Infarction                            |
-|[Post-Transplant Relapse &darr;](#post-transplant-relapse)|                                               |
-|[POG &darr;](#pog)| Panel of Gods                                 |
-|[Prednisone &darr;](#prednisone)|                                               |
-|[Printed Liver &darr;](#printed-liver)|                                               |
-|[PT &darr;](#pt)| Prothrombin Time                              |
-|[Punctate Infarct &darr;](#punctate-infarct)| Punctate Stroke                               |
-|[Recompensated &darr;](#recompensated) <a id="r"></a>|                                               |
-|[Recteq &darr;](#recteq)|                                               |
-|[Reddit for Transplant Support Study &darr;](#reddit-for-transplant-support-study)|                                               |
-|[Retacrit &darr;](#retacrit)| Epoetin Alfa-epbx                             |
-|[Safety net &darr;](#safety-net) <a id="s"></a>|                                               |
-|[Scar Tissue &darr;](#scar-tissue)|                                               |
-|[Skin Cancer Risk &darr;](#skin-cancer-risk)|                                               |
-|[Skin Changes &darr;](#skin-changes)|                                               |
-|[SRTR &darr;](#srtr)| Scientific Registry of Transplant Recipients  |
-|[St. Mary's Reno &darr;](#st-marys-reno)|                                               |
-|[TACE &darr;](#tace) <a id="t"></a>| Transarterial chemoembolization               |
-|[Tacrolimus &darr;](#tacrolimus)| Prograf, Astagraf, Envarsus                   |
-|[Tacrolimus Skin Cancer &darr;](#tacrolimus-skin-cancer)|                                               |
-|[Tacrolimus vs. CellCept &darr;](#tacrolimus-vs-cellcept)|                                               |
-|[Tacrolimus-induced Ascites &darr;](#tacrolimus-induced-ascites)|                                               |
-|[Tattoos &darr;](#tattoos)|                                               |
-|[Thoracentesis &darr;](#thoracentesis)|                                               |
-|[Tinnitus &darr;](#tinnitus)|                                               |
-|[TIPS &darr;](#tips)| Transjugular intrahepatic portosystemic shunt |
-|[Topical Tacrolimus &darr;](#topical-tacrolimus)|                                               |
-|[Tramadol &darr;](#tramadol)| ConZip, Qdolo, Ultram                         |
-|[Transplant Age &darr;](#transplant-age)|                                               |
-|[Transplant Games &darr;](#transplant-games)|                                               |
-|[Transplant Gender Correlations &darr;](#transplant-gender-correlations)|                                               |
-|[Transplant Survival Benefit &darr;](#transplant-survival-benefit)|                                               |
-|[Tumeric &darr;](#tumeric)|                                               |
-|[uACR &darr;](#uacr) <a id="u"></a>| Urine Albumine Creatinine Ratio               |
-|[Umbilical Hernia &darr;](#umbilical-hernia)|                                               |
-|[UNOS &darr;](#unos)| United Network for Organ Sharing              |
-|[UNOS Regions &darr;](#unos-regions)|                                               |
-|[Ursodiol &darr;](#ursodiol)| Actigall, Reltone, Urso                       |
-|[Valcyte &darr;](#valcyte) <a id="v"></a>| Valganciclovir                                |
-|[Vivitrol &darr;](#vivitrol)| Naltrexone                                    |
-|[XIAFLEX &darr;](#xiaflex) <a id="x"></a>| Collagenase Clostridium histolyticum          |
-|[Xifaxan &darr;](#xifaxan)| Rifaximin                                     |
+|[ACR &darr;](#acr) <a id="a"></a>|Acute Cellular Rejection|
+|[Acyclovir &darr;](#acyclovir)|Zovirax|
+|[AFP &darr;](#afp)|Alpha-Fetoprotein|
+|[AIH &darr;](#aih)|Autoimmune hepatitis|
+|[Albumin &darr;](#albumin)||
+|[ALP &darr;](#alp)|Alkaline phosphatase|
+|[Ammonia Level &darr;](#ammonia-level)||
+|[Angiogram &darr;](#angiogram)||
+|[Angioplasty &darr;](#angioplasty)||
+|[Ascites &darr;](#ascites)||
+|[Asterixis &darr;](#asterixis)||
+|[Atrophy &darr;](#atrophy)||
+|[Bausch PAP &darr;](#bausch-pap) <a id="b"></a>|Patient Assistance Program|
+|[Bilirubin &darr;](#bilirubin)||
+|[BK Virus &darr;](#bk-virus)|'BK' are initials|
+|[BUN Test &darr;](#bun-test)|Blood-urea-nitrogen|
+|[Camino Hospital IOP &darr;](#camino-hospital-iop) <a id="c"></a>|Intensive OutPatient|
+|[Cirrhosis &darr;](#cirrhosis)||
+|[CMV &darr;](#cmv)|[Human] CytoMegaloVirus|
+|[Compensated Cirrhosis &darr;](#compensated-cirrhosis)||
+|[Corewell Health &darr;](#corewell-health)||
+|[CostPlus &darr;](#costplus)||
+|[CPMC &darr;](#cpmc)|California Pacific Medical Center|
+|[Creatinine &darr;](#creatinine)||
+|[Creatinine Test &darr;](#creatinine-test)||
+|[CTA &darr;](#cta)|Computed Tomography Angiogram|
+|[Deceased Organ Donation &darr;](#deceased-organ-donation) <a id="d"></a>||
+|[Deceased-Donor Liver Size &darr;](#deceased-donor-liver-size)||
+|[Decompensated Cirrhosis &darr;](#decompensated-cirrhosis)||
+|[Dialysis &darr;](#dialysis)||
+|[Diverticulitis &darr;](#diverticulitis)||
+|[Donor Info &darr;](#donor-info)||
+|[Drug Regimen &darr;](#drug-regimen)||
+|[DSA &darr;](#dsa)|Donor Service Area|
+|[Duncan Mills &darr;](#duncan-mills)||
+|[Dupuytren's contracture &darr;](#dupuytrens-contracture)||
+|[DXA scan &darr;](#dxa-scan)|Dual-Energy X-Ray Absorptiometry|
+|[Dysphagia &darr;](#dysphagia)||
+|[Edema &darr;](#edema) <a id="e"></a>|Oedema|
+|[El Camino Car &darr;](#el-camino-car)||
+|[Encephalitis &darr;](#encephalitis)||
+|[Encephalopathy &darr;](#encephalopathy)||
+|[Erica Storm &darr;](#erica-storm)||
+|[ESLD &darr;](#esld)|End-Stage Liver Disease|
+|[Esophageal Varices &darr;](#esophageal-varices)||
+|[Everolimus &darr;](#everolimus)|Afinitor, Zortress|
+|[Excess Protein &darr;](#excess-protein)||
+|[FIB-4 &darr;](#fib-4) <a id="f"></a>|Fibrosis-4|
+|[Fibroscan &darr;](#fibroscan)||
+|[Filgrastim &darr;](#filgrastim)|Neupogen, Nivestym, Zarxio|
+|[Fistula &darr;](#fistula)||
+|[Gabapentin &darr;](#gabapentin) <a id="g"></a>|Neurontin|
+|[Gallbladder &darr;](#gallbladder)||
+|[Gallbladder Cancer &darr;](#gallbladder-cancer)||
+|[GFR and Aging &darr;](#gfr-and-aging)|Glomerular Filtration Rate|
+|[GGT &darr;](#ggt)|gamma-glutamyl transferase|
+|[Gougol &darr;](#gougol)||
+|[Gynecomastia &darr;](#gynecomastia)||
+|[HCC GALAD Model &darr;](#hcc-galad-model) <a id="h"></a>|Hepatocellular Carcinoma • Gender, Age, ...|
+|[HE &darr;](#he)|Hepatic Encephalopathy|
+|[Hemochromatosis &darr;](#hemochromatosis)||
+|[Hemodialysis &darr;](#hemodialysis)||
+|[Hepatitis &darr;](#hepatitis)||
+|[HIDA Scan &darr;](#hida-scan)|Hepatobiliary iminodiacetic acid|
+|[HPMV &darr;](#hpmv)|Human Metapneumovirus|
+|[Hyper  &darr;](#hyper-)||
+|[Hyperbilirubinemia &darr;](#hyperbilirubinemia)||
+|[Hypo &darr;](#hypo)||
+|[Hypoalbuminemia &darr;](#hypoalbuminemia)||
+|[Hyponatremia &darr;](#hyponatremia)||
+|[Hypomagnesium &darr;](#hypomagnesium)||
+|[Immunosuppressant &darr;](#immunosuppressant) <a id="i"></a>||
+|[Immunosuppression &darr;](#immunosuppression)||
+|[INR &darr;](#inr)|International Normalized Ratio|
+|[IOP &darr;](#iop)|Intense Outpatient Program|
+|[Itching &darr;](#itching)||
+|[J-Tube &darr;](#j-tube) <a id="j"></a>|Jejunal Tube|
+|[Jaundice &darr;](#jaundice)||
+|[Ketorolac &darr;](#ketorolac) <a id="k"></a>|Toradol|
+|[Kt/V &darr;](#ktv)||
+|[Lactulose &darr;](#lactulose) <a id="l"></a>|Kristalose, Enulose|
+|[Liver Circle &darr;](#liver-circle)||
+|[Liver In A Box &darr;](#liver-in-a-box)||
+|[Liver Pain &darr;](#liver-pain)||
+|[LiverSpot.org &darr;](#liverspotorg)||
+|[Liver Spots &darr;](#liver-spots)||
+|[LOLA &darr;](#lola)|L‐ornithine‐L‐aspartate|
+|[Medical Marijuana &darr;](#medical-marijuana) <a id="m"></a>||
+|[MELD &darr;](#meld)|Model for end-stage liver disease|
+|[MELD 3 &darr;](#meld-3)||
+|[MELD Exception Score &darr;](#meld-exception-score)||
+|[MRE &darr;](#mre)|Magnetic resonance elastography|
+|[MRI &darr;](#mri)|Magnetic resonance imaging|
+|[Multiple Listing &darr;](#multiple-listing)||
+|[Mycophenolate Mofetil &darr;](#mycophenolate-mofetil)|CellCept, Myfortic|
+|[Naltrexone &darr;](#naltrexone) <a id="n"></a>|Vivitrol, ReVia|
+|[NASH &darr;](#nash)|Nonalcoholic steatohepatitis|
+|[Neuropathy &darr;](#neuropathy)||
+|[Neutropenia &darr;](#neutropenia)||
+|[Nurse Treats &darr;](#nurse-treats)||
+|[OPTN &darr;](#optn) <a id="o"></a>|Organ Procurement and Transplantation Network|
+|[Osmolite &darr;](#osmolite)||
+|[Oxycodone &darr;](#oxycodone)|OxyContin, Percocet|
+|[Paracentesis &darr;](#paracentesis) <a id="p"></a>||
+|[Persistent Ascites &darr;](#persistent-ascites)||
+|[PET &darr;](#pet)|Positron emission tomography|
+|[PEth &darr;](#peth)|Phosphatidylethanol|
+|[Pink Cloud &darr;](#pink-cloud)||
+|[Pontine Stroke &darr;](#pontine-stroke)|Pontine Infarction|
+|[Post-Transplant Relapse &darr;](#post-transplant-relapse)||
+|[POG &darr;](#pog)|Panel of Gods|
+|[Prednisone &darr;](#prednisone)||
+|[Printed Liver &darr;](#printed-liver)||
+|[PT &darr;](#pt)|Prothrombin Time|
+|[Punctate Infarct &darr;](#punctate-infarct)|Punctate Stroke|
+|[Recompensated &darr;](#recompensated) <a id="r"></a>||
+|[Recteq &darr;](#recteq)||
+|[Reddit for Transplant Support Study &darr;](#reddit-for-transplant-support-study)||
+|[Retacrit &darr;](#retacrit)|Epoetin Alfa-epbx|
+|[Safety net &darr;](#safety-net) <a id="s"></a>||
+|[Scar Tissue &darr;](#scar-tissue)||
+|[Skin Cancer Risk &darr;](#skin-cancer-risk)||
+|[Skin Changes &darr;](#skin-changes)||
+|[SRTR &darr;](#srtr)|Scientific Registry of Transplant Recipients|
+|[St. Mary's Reno &darr;](#st-marys-reno)||
+|[TACE &darr;](#tace) <a id="t"></a>|Transarterial chemoembolization|
+|[Tacrolimus &darr;](#tacrolimus)|Prograf, Astagraf, Envarsus|
+|[Tacrolimus Skin Cancer &darr;](#tacrolimus-skin-cancer)||
+|[Tacrolimus vs. CellCept &darr;](#tacrolimus-vs-cellcept)||
+|[Tacrolimus-induced Ascites &darr;](#tacrolimus-induced-ascites)||
+|[Tattoos &darr;](#tattoos)||
+|[Thoracentesis &darr;](#thoracentesis)||
+|[Tinnitus &darr;](#tinnitus)||
+|[TIPS &darr;](#tips)|Transjugular intrahepatic portosystemic shunt|
+|[Topical Tacrolimus &darr;](#topical-tacrolimus)||
+|[Tramadol &darr;](#tramadol)|ConZip, Qdolo, Ultram|
+|[Transplant Age &darr;](#transplant-age)||
+|[Transplant Games &darr;](#transplant-games)||
+|[Transplant Gender Correlations &darr;](#transplant-gender-correlations)||
+|[Transplant Survival Benefit &darr;](#transplant-survival-benefit)||
+|[Tumeric &darr;](#tumeric)||
+|[uACR &darr;](#uacr) <a id="u"></a>|Urine Albumine Creatinine Ratio|
+|[Umbilical Hernia &darr;](#umbilical-hernia)||
+|[UNOS &darr;](#unos)|United Network for Organ Sharing|
+|[UNOS Regions &darr;](#unos-regions)||
+|[Ursodiol &darr;](#ursodiol)|Actigall, Reltone, Urso |
+|[Valcyte &darr;](#valcyte) <a id="v"></a>|Valganciclovir|
+|[Vivitrol &darr;](#vivitrol)|Naltrexone|
+|[XIAFLEX &darr;](#xiaflex) <a id="x"></a>|Collagenase Clostridium histolyticum|
+|[Xifaxan &darr;](#xifaxan)|Rifaximin|
 
 ## Entries
 
@@ -1043,6 +1044,21 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 «Hypoalbuminemia, or low albumin levels in your blood, affects your body’s ability to manage body fluids. Albumin is a protein that keeps fluid inside your blood vessels. It also transports vitamins, enzymes and hormones throughout your body. Hypoalbuminemia happens when your body doesn’t produce enough albumin, or you lose unusually large amounts of it when you pee or poop. This condition is often a symptom of health issues like heart failure and kidney disease» — [1]
 
 * [1]&nbsp;<https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia>
+
+
+### Hyponatremia
+
+«Hyponatremia (hi-poh-nay-tree-me-uh) is when the level of sodium in your blood is lower than normal.
+
+Sodium is an important mineral that helps balance the amount of fluid (water) in your body. It also helps your nerves and muscles to work properly. When the sodium level in your blood is too low, extra water moves into your cells and makes them swell (get bigger). This can be dangerous, especially in the brain where there is not a lot of room to expand.» — [1]
+
+«Hyponatremia is a condition that happens when the level of sodium in the blood is lower than the typical range. Sodium is an electrolyte, and it helps regulate the amount of water that's in and around your cells.
+
+In hyponatremia, one or more factors cause the sodium in the body to be diluted. These factors can range from an underlying medical condition to drinking too much water. When this happens, the body's water levels rise, and cells begin to swell. This swelling can cause many health problems, from mild to life-threatening.» — [2]
+
+* [1]&nbsp;<https://www.kidney.org/kidney-topics/hyponatremia-low-sodium-level-blood>
+
+* [2]&nbsp;<https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711>
 
 ### Hypomagnesium
 
