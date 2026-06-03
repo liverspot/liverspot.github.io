@@ -151,7 +151,8 @@ table tr:nth-child(120), /*S*/
 
 
 
-table tr:nth-child(126), /*T*/
+
+table tr:nth-child(127), /*T*/
 
 
 
@@ -167,14 +168,14 @@ table tr:nth-child(126), /*T*/
 
 
 
-table tr:nth-child(142), /*u*/
+table tr:nth-child(143), /*u*/
 
 
 
 
-table tr:nth-child(147), /*V*/
+table tr:nth-child(148), /*V*/
 
-table tr:nth-child(149), /*X*/
+table tr:nth-child(150), /*X*/
 
 
 table tr:nth-child(1), /*Y*/
@@ -498,6 +499,7 @@ The following entries contain information on topics that have been brought up du
 |[Skin Cancer Risk &darr;](#skin-cancer-risk)||
 |[Skin Changes &darr;](#skin-changes)||
 |[SRTR &darr;](#srtr)|Scientific Registry of Transplant Recipients|
+|[Stanford KPD &darr;](#stanford-kpd)|Kidney Paired Donation|
 |[St. Mary's Reno &darr;](#st-marys-reno)||
 |[TACE &darr;](#tace) <a id="t"></a>|Transarterial chemoembolization|
 |[Tacrolimus &darr;](#tacrolimus)|Prograf, Astagraf, Envarsus|
@@ -1555,6 +1557,13 @@ The SRTR website provides access to a very detailed group of reports and tools t
 * [1]&nbsp;<https://www.srtr.org>
 * [2]&nbsp;<https://www.dairbook.com/glossary/srtr>
 
+### Stanford KPD
+
+«StanfordKPD is a platform for kidney paired donation (KPD). It allows hospitals to store patient and donor information and find matches using an intelligent matching algorithm.» — [1]
+
+* [1]&nbsp;<https://stanfordkpd.org>
+
+
 ### St. Mary's Reno
 
 * <https://saintmarysreno.com    >                                                                                                                                               
@@ -1571,6 +1580,8 @@ The SRTR website provides access to a very detailed group of reports and tools t
 ### Tacrolimus
 «Tacrolimus is a very powerful immunosuppressant that prevents rejection of transplanted organs.» — [2]
 
+«The average elimination half-life of tacrolimus is about 12 hours» — [3]
+
 #### Drug Names
 
 * _Generic:_ Tacrolimus
@@ -1580,6 +1591,7 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 * [1]&nbsp;<https://www.mayoclinic.org/drugs-supplements/tacrolimus-oral-route/description/drg-20068314>
 * [2]&nbsp;<https://www.dairbook.com/glossary/tacrolimus>
+* [2]&nbsp;<https://www.ncbi.nlm.nih.gov/books/NBK544318/>
 
 
 ### Tacrolimus Skin Cancer
