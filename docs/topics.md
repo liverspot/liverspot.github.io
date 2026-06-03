@@ -441,7 +441,7 @@ The following entries contain information on topics that have been brought up du
 |[Hemodialysis &darr;](#hemodialysis)||
 |[Hepatitis &darr;](#hepatitis)||
 |[HIDA Scan &darr;](#hida-scan)|Hepatobiliary iminodiacetic acid|
-||Human Leukocyte Antigen|
+|[HLA &darr;](#hla)|Human Leukocyte Antigen|
 |[HPMV &darr;](#hpmv)|Human Metapneumovirus|
 |[Hyper  &darr;](#hyper-)||
 |[Hyperbilirubinemia &darr;](#hyperbilirubinemia)||
