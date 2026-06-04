@@ -38,13 +38,13 @@ table tr:nth-child(1), /*A*/
 
 
 
-table tr:nth-child(13), /*B*/
 
 
+table tr:nth-child(15), /*B*/
 
-table tr:nth-child(17), /*C*/
 
 
+table tr:nth-child(19), /*C*/
 
 
 
@@ -52,9 +52,9 @@ table tr:nth-child(17), /*C*/
 
 
 
-table tr:nth-child(27), /*D*/
 
 
+table tr:nth-child(29), /*D*/
 
 
 
@@ -64,29 +64,29 @@ table tr:nth-child(27), /*D*/
 
 
 
-table tr:nth-child(39), /*E*/
 
 
+table tr:nth-child(41), /*E*/
 
 
 
 
 
 
-table tr:nth-child(48), /*F*/
 
 
+table tr:nth-child(50), /*F*/
 
-table tr:nth-child(52), /*G*/
 
 
+table tr:nth-child(54), /*G*/
 
 
 
 
-table tr:nth-child(59), /*H*/
 
 
+table tr:nth-child(61), /*H*/
 
 
 
@@ -98,43 +98,43 @@ table tr:nth-child(59), /*H*/
 
 
 
-table tr:nth-child(73), /*I*/
 
 
+table tr:nth-child(75), /*I*/
 
 
-table tr:nth-child(78), /*J*/
 
-table tr:nth-child(80), /*K*/
 
-table tr:nth-child(82), /*L*/
+table tr:nth-child(80), /*J*/
 
+table tr:nth-child(82), /*K*/
 
+table tr:nth-child(84), /*L*/
 
 
 
 
 
-table tr:nth-child(90), /*M*/
 
 
 
+table tr:nth-child(93), /*M*/
 
 
 
 
-table tr:nth-child(98), /*N*/
 
 
 
+table tr:nth-child(101), /*N*/
 
-table tr:nth-child(103), /*O*/
 
 
-table tr:nth-child(106), /*P*/
 
+table tr:nth-child(106), /*O*/
 
 
+table tr:nth-child(109), /*P*/
 
 
 
@@ -143,21 +143,21 @@ table tr:nth-child(106), /*P*/
 
 
 
-table tr:nth-child(118), /*R*/
 
 
 
-table tr:nth-child(122), /*S*/
+table tr:nth-child(121), /*R*/
 
 
 
+table tr:nth-child(125), /*S*/
 
 
 
-table tr:nth-child(129), /*T*/
 
 
 
+table tr:nth-child(132), /*T*/
 
 
 
@@ -170,14 +170,17 @@ table tr:nth-child(129), /*T*/
 
 
 
-table tr:nth-child(145), /*u*/
 
 
 
+table tr:nth-child(148), /*u*/
 
-table tr:nth-child(150), /*V*/
 
-table tr:nth-child(152), /*X*/
+
+
+table tr:nth-child(153), /*V*/
+
+table tr:nth-child(155), /*X*/
 
 
 table tr:nth-child(1), /*Y*/
@@ -383,10 +386,12 @@ The following entries contain information on topics that have been brought up du
 |[AIH &darr;](#aih)|Autoimmune hepatitis|
 |[Albumin &darr;](#albumin)||
 |[ALP &darr;](#alp)|Alkaline phosphatase|
+|[ALT &darr;](#alt)|Alanine aminotransferase|
 |[Ammonia Level &darr;](#ammonia-level)||
 |[Angiogram &darr;](#angiogram)||
 |[Angioplasty &darr;](#angioplasty)||
 |[Ascites &darr;](#ascites)||
+|[AST &darr;](#ast)|Aspartate aminotransferase|
 |[Asterixis &darr;](#asterixis)||
 |[Atrophy &darr;](#atrophy)||
 |[Bausch PAP &darr;](#bausch-pap) <a id="b"></a>|Patient Assistance Program|
@@ -460,6 +465,7 @@ The following entries contain information on topics that have been brought up du
 |[Kt/V &darr;](#ktv)||
 |[Lactulose &darr;](#lactulose) <a id="l"></a>|Kristalose, Enulose|
 |[Liver Circle &darr;](#liver-circle)||
+|[Liver Function Tests &darr;](#liver-function-tests)||
 |[Liver In A Box &darr;](#liver-in-a-box)||
 |[Liver Pain &darr;](#liver-pain)||
 |[LiverSpot.org &darr;](#liverspotorg)||
@@ -596,6 +602,11 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 «Alkaline phosphatase (ALP) is an enzyme that’s found throughout your body. ALP blood tests measure the level of ALP in your blood that comes from your liver and bones, and it’s one of the tests included in a comprehensive metabolic panel. High levels of ALP in your blood may indicate liver disease or certain bone disorders» — [1]
 
+### ALT
+
+«An alanine aminotransferase test, also called an ALT test, is a blood test to check the health of your liver. ALT is a substance found mostly in the liver. If your liver is OK, the ALT level usually stays low. But when liver cells are irritated or damaged, ALT can leak into the bloodstream. So the ALT level can go up.» — [1]
+
+* [1]&nbsp;<https://www.mayoclinic.org/tests-procedures/alanine-aminotransferase-alt-test/about/pac-20582729>
 
 ### Ammonia Level
 
@@ -619,6 +630,13 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 * [1]&nbsp;<https://en.wikipedia.org/wiki/Ascites>
 * [2]&nbsp;<https://britishlivertrust.org.uk/what-is-ascites/>
 * [3]&nbsp;<https://www.dairbook.com/glossary/ascites>
+
+### AST
+
+«An aspartate aminotransferase test, also called an AST test, is a blood test. It's commonly used to check the health of the liver. AST is a substance found mostly in the liver. But it's also in the heart, kidneys, muscles and other organs. When tissues in these organs are damaged, AST can leak into the blood. So the AST level goes up.» — [1]
+
+* [1]&nbsp;<https://www.mayoclinic.org/tests-procedures/aspartate-aminotransferase-ast-test/about/pac-20583406>
+
 
 ### Asterixis
 «Asterixis is an inability to maintain sustained posture, commonly causing hands to flap when the wrist is extended. It is a symptom of hepatic encephalopathy and is why a doctor may ask a patient to hold out their hands.» — [3]
@@ -1185,12 +1203,35 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 * [1]&nbsp;<https://www.ncbi.nlm.nih.gov/books/NBK536930/>
 * [2]&nbsp;<https://www.dairbook.com/glossary/lactulose>
 
+### LiverSpot.org
+
+<span style="float:right; padding-left:6px"><img src="/images/image_5980_w160h160.png" height="64" width="64"></span>
+«Welcome! LiverSpot is a community for people with a diseased liver, kidney, heart, lung, or other organ (“OrganSpot”) who want to provide knowledge and support to each other.»
+
 ### Liver Circle
 «Imagine a world where a liver disease diagnosis isn't a dead end, but a new beginning. Where the fear of a "transplant" is replaced by the power of knowledge and a supportive community.
 
 This is the world The Liver Circle, Inc. (TLC) is building.  We're more than an organization; we're a vital connection for patients, advocates, and medical professionals. We elevate the conversation around liver health and organ donation from the ordinary to the extraordinary, ensuring no one faces this journey alone.» — [1]
 
 * [1] <https://www.thelivercircle.org>
+
+### Liver Function Tests
+
+«Liver function tests are blood tests used to help find the cause of your symptoms and monitor liver disease or damage. The tests measure the levels of certain enzymes and proteins in your blood.
+
+Some of these tests measure how well the liver is performing its regular functions of producing protein and clearing bilirubin, a blood waste product. Other liver function tests measure enzymes that liver cells release in response to damage or disease.» — [1]
+
+* Enzyme Tests
+   * [ALT](#alt) — Alanine transaminase
+   * [AST](#ast) — Aspartate transaminase
+   * [ALP](#alp) — Alkaline phosphatase
+* [Albumin](#albumin) and total protein
+* [Bilirubin](#bilirubin)
+* [GGT](#ggt) — Gamma-glutamyltransferase 
+
+#### Refs
+
+* [1]&nbsp;<https://www.mayoclinic.org/tests-procedures/liver-function-tests/about/pac-20394595>
 
 ### Liver In A Box
 The transportation of a donated liver by placing it into a 'box' (machine) that provide 'normothermic' (standard temperature) perfusion.
@@ -1200,11 +1241,6 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 
 ### Liver Pain                                                                         
 * <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain>
-
-### LiverSpot.org
-
-<span style="float:right; padding-left:6px"><img src="/images/image_5980_w160h160.png" height="64" width="64"></span>
-«Welcome! LiverSpot is a community for people with a diseased liver, kidney, heart, lung, or other organ (“OrganSpot”) who want to provide knowledge and support to each other.»
 
 * <https://liverspot.org>
 
