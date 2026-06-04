@@ -1428,8 +1428,8 @@ Possible treats that the medical team might like and appreciate from patients in
 ### OPTN
 «Organ Procurement and Transplantation Network (OPTN) is a unique public-private partnership that links all professionals involved in the U.S. donation and transplantation system. Also crucial to the system are individuals who sign organ donor cards, people who comment on policy proposals and countless volunteers who support donation and transplantation, among many others.» — [1]
 
-* [1]&nbsp;<https://www.hrsa.gov/optn>
-* [2]&nbsp;<https://optn.transplant.hrsa.gov/about/>
+* [1] [HRSA](/source/hrsagov/) — <https://www.hrsa.gov/optn>
+* [2] [HRSA](/source/hrsagov/) — <https://optn.transplant.hrsa.gov/about/>
 
 ### Osmolite
 
@@ -1788,7 +1788,7 @@ So if you have:
 
 ### UNOS Regions
 
-* <https://www.hrsa.gov/optn/about/governance/regions>
+* [1] [HRSA](/source/hrsagov/) — <https://www.hrsa.gov/optn/about/governance/regions>
 
 ### Ursodiol
 Ursodiol is a bile thinner that helps your body recover from the removal of the gallbladder.

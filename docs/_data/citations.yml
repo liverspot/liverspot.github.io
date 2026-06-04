@@ -490,6 +490,14 @@
   source: clevelandclinicorg
   topic-name: Neutropenia
   path: /topics/#neutropenia
+- url: https://www.hrsa.gov/optn
+  source: hrsagov
+  topic-name: OPTN
+  path: /topics/#optn
+- url: https://optn.transplant.hrsa.gov/about/
+  source: hrsagov
+  topic-name: OPTN
+  path: /topics/#optn
 - url: https://medlineplus.gov/druginfo/meds/a682132.html
   source: medlineplusgov
   topic-name: Oxycodone
@@ -630,6 +638,10 @@
   source: dairbookcom
   topic-name: UNOS
   path: /topics/#unos
+- url: https://www.hrsa.gov/optn/about/governance/regions
+  source: hrsagov
+  topic-name: UNOS Regions
+  path: /topics/#unos-regions
 - url: https://medlineplus.gov/druginfo/meds/a699047.html
   source: medlineplusgov
   topic-name: Ursodiol

@@ -4,6 +4,6 @@ name: National Institutes of Health
 short-name: NIH
 ---
 
-The National Institutes of Health (NIH), a part of the U.S. Department of Health and Human Services, is the nation’s medical research agency — making important discoveries that improve health and save lives. <!--more-->
+The National Institutes of Health (NIH) 〚…〛 is the nation’s medical research agency — making important discoveries that improve health and save lives. <!--more-->
 
 See: <https://www.nih.gov>
