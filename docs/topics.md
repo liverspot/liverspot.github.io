@@ -572,7 +572,7 @@ Acute cellular rejection
 
 * [1]&nbsp;<https://pubmed.ncbi.nlm.nih.gov/3912970/>
 * [2]&nbsp;<https://medlineplus.gov/druginfo/meds/a681045.html>
-* [3]&nbsp;<https://www.mayoclinic.org/drugs-supplements/acyclovir-oral-route-intravenous-route/description/drg-20068393>
+* [3] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/acyclovir-oral-route-intravenous-route/description/drg-20068393>
 
 ### AFP
 
@@ -585,7 +585,7 @@ Acute cellular rejection
 
 «Autoimmune hepatitis 〚AIH〛 is a liver disease that happens when the body's immune system attacks the liver. This can cause swelling, irritation and damage to the liver. The exact cause of autoimmune hepatitis is unclear, but genetic and environmental factors appear to interact over time to trigger the disease.» — [1]
 
-* [1]&nbsp;<https://www.mayoclinic.org/diseases-conditions/autoimmune-hepatitis/symptoms-causes/syc-20352153>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/autoimmune-hepatitis/symptoms-causes/syc-20352153>
 
 Interestingly, the treatment for AIH is similar to the treatment for a post-transplant renal replacement procedure: in both cases the body needs to be prevented from attacking the liver but still function effectively against pathogens.
 
@@ -606,7 +606,7 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 «An alanine aminotransferase test, also called an ALT test, is a blood test to check the health of your liver. ALT is a substance found mostly in the liver. If your liver is OK, the ALT level usually stays low. But when liver cells are irritated or damaged, ALT can leak into the bloodstream. So the ALT level can go up.» — [1]
 
-* [1]&nbsp;<https://www.mayoclinic.org/tests-procedures/alanine-aminotransferase-alt-test/about/pac-20582729>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/alanine-aminotransferase-alt-test/about/pac-20582729>
 
 ### Ammonia Level
 
@@ -635,7 +635,7 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 «An aspartate aminotransferase test, also called an AST test, is a blood test. It's commonly used to check the health of the liver. AST is a substance found mostly in the liver. But it's also in the heart, kidneys, muscles and other organs. When tissues in these organs are damaged, AST can leak into the blood. So the AST level goes up.» — [1]
 
-* [1]&nbsp;<https://www.mayoclinic.org/tests-procedures/aspartate-aminotransferase-ast-test/about/pac-20583406>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/aspartate-aminotransferase-ast-test/about/pac-20583406>
 
 
 ### Asterixis
@@ -681,7 +681,7 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 
 ### BUN Test
 
-* <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>
+* [1] [Mayo Clinic](/source/mayoclinicorg) —  <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>
 
 ### Camino Hospital IOP
 
@@ -696,7 +696,7 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 «Liver cirrhosis (LC) is defined as an advanced stage of liver fibrosis with distortion of the hepatic vasculature and architecture. Histologically, regenerative nodules with fibrous tissues form in response to chronic injury and lead to LC[4,5]. Consequently, disruption of the liver architecture due to liver fibrosis and/or cirrhosis causes hemodynamic instability and portal hypertension. The development of portal hypertension is a hallmark of LC.» — [6]
 
 * [1]&nbsp;<https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis>
-* [2]&nbsp;<https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487>
+* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487>
 * [3]&nbsp;<https://en.wikipedia.org/wiki/Cirrhosis>
 * [4]&nbsp;<https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=aa67653>
 * [5]&nbsp;<https://www.dairbook.com/glossary/cirrhosis>
@@ -711,7 +711,7 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 
 For people who have weakened immune systems, CMV infection can be fatal. The risk is especially high for people who've had an organ, stem cell or bone marrow transplant.» — [1]
 
-* [1] Mayo Clinic — <https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358>
 * [2] Autoimmune Impacts: <https://pubmed.ncbi.nlm.nih.gov/33567734/>
 * [3]&nbsp;<https://en.wikipedia.org/wiki/Human_cytomegalovirus>
 
@@ -751,7 +751,7 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 
 ### Creatinine Test
 
-* <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>  
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>  
 
 ### CTA
 
@@ -790,7 +790,7 @@ Liver damage and severe scarring can progress to the point where the liver can n
 
 ### Diverticulitis
 
-* [1]&nbsp;<https://www.mayoclinic.org/diseases-conditions/diverticulitis/symptoms-causes/syc-20371758>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/diverticulitis/symptoms-causes/syc-20371758>
 
 «Diverticula are common, especially after age 50. They are usually found in the lower part of the colon. Most often, they don't cause problems. The presence of diverticula is called diverticulosis. Diverticulosis isn't a disease condition.
 When these pouches become inflamed, the condition is called diverticulitis. Inflammation is immune system activity that increases blood flow and fluids to a site in the body and delivers disease-fighting cells. Inflammation of diverticula can cause severe pain, fever, nausea and changes in your stool habits.» — [1]
@@ -834,12 +834,12 @@ A DXA scan is an imaging test that measures the strength of your bones. It uses 
 ### Dysphagia
 Dysphagia is an inability to swallow properly. Food and liquids orally taken can be aspirated (inhaled) and cause pneumonia and other illness.
 
-* [1]&nbsp;<https://www.mayoclinic.org/diseases-conditions/dysphagia/symptoms-causes/syc-20372028>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/dysphagia/symptoms-causes/syc-20372028>
 
 ### Edema
 Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tissues. Edema can affect any part of the body. But it's more likely to show up in the legs and feet.
 
-* [1]&nbsp;<https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493>
 * [2]&nbsp;<https://en.wikipedia.org/wiki/Edema>
 
 ### El Camino [Car]
@@ -850,7 +850,7 @@ Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tis
 ### Encephalitis
 «Encephalitis is swelling of the brain. Frequently also used as an easier to pronounce version of encephalopathy by laymen, myself included.» — [4]
 * [1]&nbsp;<https://www.ninds.nih.gov/health-information/disorders/encephalitis>
-* [2]&nbsp;<https://www.mayoclinic.org/diseases-conditions/encephalitis/symptoms-causes/syc-20356136>
+* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/encephalitis/symptoms-causes/syc-20356136>
 * [3]&nbsp;<https://en.wikipedia.org/wiki/Encephalitis>
 * [4]&nbsp;<https://www.dairbook.com/glossary/encephalitis>
 
@@ -873,7 +873,7 @@ End-Stage Liver Disease (ESLD) is when the liver is damaged beyond repair due to
 ### Esophageal Varices
 Esophageal varices are enlarged veins in the esophagus, the tube that connects the throat and stomach. Esophageal varices most often happen in people with serious liver diseases.
 
-* [1]&nbsp;<https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538>
 
 ### Everolimus
 
@@ -893,7 +893,7 @@ Everolimus works by interfering with the growth of cancer cells, which are event
 
 
 * [1]&nbsp;<https://pubmed.ncbi.nlm.nih.gov/41110610/>
-* [2]&nbsp;<https://www.mayoclinic.org/drugs-supplements/everolimus-oral-route/description/drg-20072842>
+* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/everolimus-oral-route/description/drg-20072842>
 * [3]&nbsp;<https://www.cancer.gov/publications/dictionaries/cancer-terms/def/everolimus>
 
 ### Excess Protein                                                           
@@ -930,15 +930,15 @@ So it is a brand name related to filgrastim
 
 #### Refs
 
-* [1]&nbsp;<https://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547>
-* [2]&nbsp;<https://www.mayoclinic.org/drugs-supplements/filgrastim-aafi-intravenous-route-subcutaneous-route/description/drg-20443903>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547>
+* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/filgrastim-aafi-intravenous-route-subcutaneous-route/description/drg-20443903>
 
 
 ### Fistula
 «An Arteriovenous (AV) fistula is a direct connection between an artery and a vein. Normal blood flow goes from arteries through capillaries and then into veins. The fistula’s direct connection causes much more blood flow into a vein. Surgically creating a fistula in a chronic hemodialysis patient enables more effective and safer treatment compared to using a central venous catheter.» — [3]
 
 * [1]&nbsp;<https://www.yalemedicine.org/conditions/preparing-dialysis-av-fistula>
-* [2]&nbsp;<https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567>
+* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567>
 * [3]&nbsp;<https://www.dairbook.com/glossary/fistula>
 
 ### Gabapentin
@@ -953,7 +953,7 @@ So it is a brand name related to filgrastim
 
 
 * [1]&nbsp;<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452908/>
-* [2]&nbsp;<https://www.mayoclinic.org/drugs-supplements/gabapentin-oral-route/description/drg-20064011>
+* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/gabapentin-oral-route/description/drg-20064011>
 * [3]&nbsp;<https://my.clevelandclinic.org/health/drugs/21561-gabapentin>
 
 ### Gallbladder
@@ -997,7 +997,9 @@ Professional Education
 
 ### Gynecomastia
 
-«Gynecomastia (guy-nuh-koh-MAS-tee-uh) is an increase in the amount of breast gland tissue in boys or men. An imbalance of the hormones estrogen and testosterone causes it. Gynecomastia can affect one or both breasts, sometimes unevenly.» — <https://www.mayoclinic.org/diseases-conditions/gynecomastia/symptoms-causes/syc-20351793>
+«Gynecomastia (guy-nuh-koh-MAS-tee-uh) is an increase in the amount of breast gland tissue in boys or men. An imbalance of the hormones estrogen and testosterone causes it. Gynecomastia can affect one or both breasts, sometimes unevenly.» — [1]
+
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/gynecomastia/symptoms-causes/syc-20351793>
 
 
 ### HCC GALAD model
@@ -1019,7 +1021,7 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 ### Hemochromatosis
 Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much iron from the food you eat. Excess iron is stored in your organs, especially your liver, heart and pancreas. Too much iron can lead to life-threatening conditions, such as liver disease, heart problems and diabetes.
 
-* <https://www.mayoclinic.org/diseases-conditions/hemochromatosis/symptoms-causes/syc-20351443>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/hemochromatosis/symptoms-causes/syc-20351443>
 
 ### Hemodialysis
 
@@ -1040,7 +1042,7 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 «A hepatobiliary iminodiacetic acid (HIDA) scan is an imaging procedure that shows how well your liver, bile ducts and gallbladder are functioning. It can help diagnose certain conditions, such as cholecystitis, biliary leak and biliary atresia.» — [1]
 
 * [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/17099-hida-scan>
-* [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/hida-scan/about/pac-20384701>
+* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/hida-scan/about/pac-20384701>
 
 
 ### HLA
@@ -1113,7 +1115,7 @@ In hyponatremia, one or more factors cause the sodium in the body to be diluted.
 
 * [1]&nbsp;<https://www.kidney.org/kidney-topics/hyponatremia-low-sodium-level-blood>
 
-* [2]&nbsp;<https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711>
+* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711>
 
 
 ### Immunosuppressant
@@ -1134,7 +1136,7 @@ In hyponatremia, one or more factors cause the sodium in the body to be diluted.
 «An International Normalized Ratio (INR) test calculates how long it takes for blood to clot compared to a normal healthy person (with a value of ‘1’). Blood thinners and illness can cause blood to take several times longer than normal to clot.» — [3]
 
 * [1]&nbsp;<https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/>
-* [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
+* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
 * [3]&nbsp;<https://www.dairbook.com/glossary/inr>
 
 ### IOP
@@ -1178,7 +1180,7 @@ A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to 
 
 #### Refs
 
-* [1]&nbsp;<https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882>
 
 
 ### Kt/V
@@ -1235,13 +1237,13 @@ Some of these tests measure how well the liver is performing its regular functio
 
 #### Refs
 
-* [1]&nbsp;<https://www.mayoclinic.org/tests-procedures/liver-function-tests/about/pac-20394595>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/liver-function-tests/about/pac-20394595>
 
 ### Liver In A Box
 The transportation of a donated liver by placing it into a 'box' (machine) that provide 'normothermic' (standard temperature) perfusion.
 
-* [1]&nbsp;<https://www.mayoclinic.org/medical-professionals/transplant-medicine/news/liver-in-a-box-offers-potential-for-providing-liver-transplant-to-more-patients/mac-20533186>
-* [2]&nbsp;<https://news.ohsu.edu/2023/08/16/liver-in-a-box-helps-save-more-lives-can-improve-transplant-outcomes>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/medical-professionals/transplant-medicine/news/liver-in-a-box-offers-potential-for-providing-liver-transplant-to-more-patients/mac-20533186>
+* [2] [OHSU](/source/ohsuedu) — <https://news.ohsu.edu/2023/08/16/liver-in-a-box-helps-save-more-lives-can-improve-transplant-outcomes>
 
 ### Liver Pain                                                                         
 * <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain>
@@ -1261,7 +1263,7 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 
 The donor's remaining liver regrows and returns to its normal size, volume and capacity within a couple of months after the surgery. At the same time, the transplanted liver portion grows and restores normal liver function in the recipient.» — [1]
 
-* [1]&nbsp;<https://www.mayoclinic.org/tests-procedures/living-donor-liver-transplant/pyc-20384846>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/living-donor-liver-transplant/pyc-20384846>
 
 ### LOLA
 
@@ -1291,7 +1293,7 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
 
 «The model for end-stage liver disease (MELD) score helps decide how urgently someone needs a liver transplant in the next three months. The score ranges from 6 to 40. A person with a higher score needs a liver transplant sooner than does a person with a lower score.» — [1]
 
-  * [1] Mayo Clinic — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
+  * [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
   * [2]&nbsp;<https://www.dairbook.com/glossary/meld>
   * [3]&nbsp;<https://medcalculators.stanford.edu/meld>
   * [4]&nbsp;<https://www.mdcalc.com/calc/10437/model-end-stage-liver-disease-meld>
@@ -1329,13 +1331,13 @@ A MELD Exception Score is a modifier to the calculated MELD score. Some transpla
 ### MRE
 Magnetic resonance elastography (MRE) is a technology that combines MRI imaging with low-frequency vibrations to create a visual map (elastogram) that shows stiffness of body tissues.
 
-* [1]&nbsp;<https://www.mayoclinic.org/tests-procedures/magnetic-resonance-elastography/about/pac-20385177>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/magnetic-resonance-elastography/about/pac-20385177>
 
 ### MRI
 Magnetic resonance imaging (MRI) is a type of diagnostic test that can create detailed images of nearly every structure and organ inside the body. MRI uses magnets and radio waves to produce images on a computer.
 
 * [1]&nbsp;<https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/magnetic-resonance-imaging-mri>
-* [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768>
+* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768>
 
                                            
 
@@ -1356,7 +1358,7 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 
 #### Refs
 
-* [1]&nbsp;<https://www.mayoclinic.org/drugs-supplements/mycophenolate-mofetil-oral-route/description/drg-20073191>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/mycophenolate-mofetil-oral-route/description/drg-20073191>
 * [2]&nbsp;<https://en.wikipedia.org/wiki/Mycophenolic_acid>
 * [3]&nbsp;<https://www.dairbook.com/glossary/mycophenolate-mofetil>
 
@@ -1383,7 +1385,7 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 ### Neuropathy
 Peripheral neuropathy happens when the nerves that are located outside of the brain and spinal cord (peripheral nerves) are damaged.
 
-* <https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/symptoms-causes/syc-20352061>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/symptoms-causes/syc-20352061>
 
 ### Neutropenia
 
@@ -1532,7 +1534,7 @@ Could 3D-printed livers make transplant lists a thing of the past?
 Prothrombin Time (PT) is a measure of blood coagulation.
 
 * [1]&nbsp;<https://en.m.wikipedia.org/wiki/Prothrombin_time>
-* [2]&nbsp;<https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
+* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
 
 ### Punctate Infarct
 
@@ -1652,7 +1654,7 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 #### Refs
 
-* [1]&nbsp;<https://www.mayoclinic.org/drugs-supplements/tacrolimus-oral-route/description/drg-20068314>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/tacrolimus-oral-route/description/drg-20068314>
 * [2]&nbsp;<https://www.dairbook.com/glossary/tacrolimus>
 * [2]&nbsp;<https://www.ncbi.nlm.nih.gov/books/NBK544318/>
 
@@ -1689,7 +1691,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 «Tinnitus is when you experience ringing or other noises in one or both of your ears.» — [1]
 
-* [1]&nbsp;<https://www.mayoclinic.org/diseases-conditions/tinnitus/symptoms-causes/syc-20350156>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/tinnitus/symptoms-causes/syc-20350156>
 
 
 ### TIPS
@@ -1708,7 +1710,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 ### Topical Tacrolimus 
 
-* <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159>      
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159>      
 
 ### Tramadol
 
@@ -1721,7 +1723,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 #### Refs
 
-* [1]&nbsp;<https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050>
 
 ### Transplant Age
 «There is no strict, universal maximum age for a liver transplant, as candidacy is based on physiological, not chronological, age. » — AI Summary
@@ -1743,7 +1745,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 * [1]&nbsp;<https://www.sciencedirect.com/science/article/pii/S160061352203550X>
 * [2]&nbsp;<https://ars.els-cdn.com/content/image/1-s2.0-S160061352203550X-gr3_lrg.jpg>
-* [3]&nbsp;<https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
+* [3] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
 
 «With 1 year of available post-transplant follow-up, MELD category 15–17 represented a transition point. Posttransplant mortality risk was more than three times higher than waiting list mortality for MELD scores 6–11 (hazard ratio = 3.64; 95% confidence interval = 2.23–5.95; p < 0.001). The hazard ratio was also greater than 1.0 among patients with MELD 12–14 (hazard ratio = 2.35; 95% confidence interval 1.48–3.76; p < 0.001). Conversely, significant transplant survival benefit was observed at MELD scores 18 and higher, and the magnitude of transplant benefit increased with increasing MELD score» — [1]
 
@@ -1809,7 +1811,7 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 #### Refs
 
-* [1]&nbsp;<https://www.mayoclinic.org/drugs-supplements/valganciclovir-oral-route/description/drg-20066642>
+* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/valganciclovir-oral-route/description/drg-20066642>
 
 ### Vivitrol
 
