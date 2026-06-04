@@ -30,6 +30,10 @@
   source: clevelandclinicorg
   topic-name: Albumin
   path: /topics/#albumin
+- url: https://www.dairbook.com/glossary/albumin
+  source: dairbookcom
+  topic-name: Albumin
+  path: /topics/#albumin
 - url: https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp
   source: clevelandclinicorg
   topic-name: ALP
@@ -58,12 +62,20 @@
   source: britishlivertrustorguk
   topic-name: Ascites
   path: /topics/#ascites
+- url: https://www.dairbook.com/glossary/ascites
+  source: dairbookcom
+  topic-name: Ascites
+  path: /topics/#ascites
 - url: https://www.mayoclinic.org/tests-procedures/aspartate-aminotransferase-ast-test/about/pac-20583406
   source: mayoclinicorg
   topic-name: AST
   path: /topics/#ast
 - url: https://en.wikipedia.org/wiki/Asterixis
   source: wikipediaorg
+  topic-name: Asterixis
+  path: /topics/#asterixis
+- url: https://www.dairbook.com/glossary/asterixis
+  source: dairbookcom
   topic-name: Asterixis
   path: /topics/#asterixis
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/
@@ -74,12 +86,20 @@
   source: medlineplusgov
   topic-name: Bilirubin
   path: /topics/#bilirubin
+- url: https://www.dairbook.com/glossary/bilirubin
+  source: dairbookcom
+  topic-name: Bilirubin
+  path: /topics/#bilirubin
 - url: https://www.kidney.org/atoz/content/bk-virus-what-transplant-patients-need-know
   source: kidneyorg
   topic-name: BK Virus
   path: /topics/#bk-virus
 - url: https://en.wikipedia.org/wiki/BK_virus
   source: wikipediaorg
+  topic-name: BK Virus
+  path: /topics/#bk-virus
+- url: https://www.dairbook.com/glossary/bk-virus
+  source: dairbookcom
   topic-name: BK Virus
   path: /topics/#bk-virus
 - url: https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821
@@ -96,6 +116,10 @@
   path: /topics/#cirrhosis
 - url: https://en.wikipedia.org/wiki/Cirrhosis
   source: wikipediaorg
+  topic-name: Cirrhosis
+  path: /topics/#cirrhosis
+- url: https://www.dairbook.com/glossary/cirrhosis
+  source: dairbookcom
   topic-name: Cirrhosis
   path: /topics/#cirrhosis
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4381184/
@@ -118,6 +142,10 @@
   source: nihgov
   topic-name: Compensated Cirrhosis
   path: /topics/#compensated-cirrhosis
+- url: https://www.dairbook.com/glossary/creatinine
+  source: dairbookcom
+  topic-name: Creatinine
+  path: /topics/#creatinine
 - url: https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646
   source: mayoclinicorg
   topic-name: Creatinine Test
@@ -138,10 +166,18 @@
   source: kidneyorg
   topic-name: Dialysis
   path: /topics/#dialysis
+- url: https://www.dairbook.com/glossary/dialysis
+  source: dairbookcom
+  topic-name: Dialysis
+  path: /topics/#dialysis
 - url: https://www.mayoclinic.org/diseases-conditions/diverticulitis/symptoms-causes/syc-20371758
   source: mayoclinicorg
   topic-name: Diverticulitis
   path: /topics/#diverticulitis
+- url: https://www.dairbook.com/glossary/drug-regimen
+  source: dairbookcom
+  topic-name: Drug Regimen
+  path: /topics/#drug-regimen
 - url: https://www.mayoclinic.org/diseases-conditions/dysphagia/symptoms-causes/syc-20372028
   source: mayoclinicorg
   topic-name: Dysphagia
@@ -166,12 +202,20 @@
   source: wikipediaorg
   topic-name: Encephalitis
   path: /topics/#encephalitis
+- url: https://www.dairbook.com/glossary/encephalitis
+  source: dairbookcom
+  topic-name: Encephalitis
+  path: /topics/#encephalitis
 - url: https://my.clevelandclinic.org/health/diseases/encephalopathy
   source: clevelandclinicorg
   topic-name: Encephalopathy
   path: /topics/#encephalopathy
 - url: https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy
   source: clevelandclinicorg
+  topic-name: Encephalopathy
+  path: /topics/#encephalopathy
+- url: https://www.dairbook.com/glossary/encephalopathy
+  source: dairbookcom
   topic-name: Encephalopathy
   path: /topics/#encephalopathy
 - url: https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538
@@ -196,6 +240,10 @@
   path: /topics/#filgrastim
 - url: https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567
   source: mayoclinicorg
+  topic-name: Fistula
+  path: /topics/#fistula
+- url: https://www.dairbook.com/glossary/fistula
+  source: dairbookcom
   topic-name: Fistula
   path: /topics/#fistula
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452908/
@@ -234,6 +282,14 @@
   source: nihgov
   topic-name: Hemodialysis
   path: /topics/#hemodialysis
+- url: https://www.dairbook.com/glossary/hemodialysis
+  source: dairbookcom
+  topic-name: Hemodialysis
+  path: /topics/#hemodialysis
+- url: https://www.dairbook.com/glossary/hepatitis
+  source: dairbookcom
+  topic-name: Hepatitis
+  path: /topics/#hepatitis
 - url: https://my.clevelandclinic.org/health/diagnostics/17099-hida-scan
   source: clevelandclinicorg
   topic-name: HIDA Scan
@@ -278,6 +334,10 @@
   source: wikipediaorg
   topic-name: Immunosuppressant
   path: /topics/#immunosuppressant
+- url: https://www.dairbook.com/glossary/immunosuppressant
+  source: dairbookcom
+  topic-name: Immunosuppressant
+  path: /topics/#immunosuppressant
 - url: https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/
   source: medlineplusgov
   topic-name: INR
@@ -286,6 +346,14 @@
   source: mayoclinicorg
   topic-name: INR
   path: /topics/#inr
+- url: https://www.dairbook.com/glossary/inr
+  source: dairbookcom
+  topic-name: INR
+  path: /topics/#inr
+- url: https://www.dairbook.com/glossary/itching
+  source: dairbookcom
+  topic-name: Itching
+  path: /topics/#itching
 - url: https://medlineplus.gov/ency/patientinstructions/000181.htm
   source: medlineplusgov
   topic-name: J-Tube
@@ -308,6 +376,10 @@
   path: /topics/#ktv
 - url: https://www.ncbi.nlm.nih.gov/books/NBK536930/
   source: nihgov
+  topic-name: Lactulose
+  path: /topics/#lactulose
+- url: https://www.dairbook.com/glossary/lactulose
+  source: dairbookcom
   topic-name: Lactulose
   path: /topics/#lactulose
 - url: https://www.mayoclinic.org/tests-procedures/liver-function-tests/about/pac-20394595
@@ -342,6 +414,14 @@
   source: mayoclinicorg
   topic-name: MELD
   path: /topics/#meld
+- url: https://www.dairbook.com/glossary/meld
+  source: dairbookcom
+  topic-name: MELD
+  path: /topics/#meld
+- url: https://www.dairbook.com/stories/mark-20240219a
+  source: dairbookcom
+  topic-name: MELD
+  path: /topics/#meld
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10339256/
   source: nihgov
   topic-name: MELD
@@ -370,6 +450,10 @@
   source: wikipediaorg
   topic-name: Mycophenolate Mofetil
   path: /topics/#mycophenolate-mofetil
+- url: https://www.dairbook.com/glossary/mycophenolate-mofetil
+  source: dairbookcom
+  topic-name: Mycophenolate Mofetil
+  path: /topics/#mycophenolate-mofetil
 - url: https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/symptoms-causes/syc-20352061
   source: mayoclinicorg
   topic-name: Neuropathy
@@ -390,10 +474,18 @@
   source: wikipediaorg
   topic-name: Paracentesis
   path: /topics/#paracentesis
+- url: https://www.dairbook.com/glossary/paracentesis
+  source: dairbookcom
+  topic-name: Paracentesis
+  path: /topics/#paracentesis
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9521448/
   source: nihgov
   topic-name: Persistent Ascites
   path: /topics/#persistent-ascites
+- url: https://www.dairbook.com/glossary/peth
+  source: dairbookcom
+  topic-name: PEth
+  path: /topics/#peth
 - url: https://my.clevelandclinic.org/health/diseases/pontine-stroke
   source: clevelandclinicorg
   topic-name: Pontine Stroke
@@ -422,8 +514,16 @@
   source: nihgov
   topic-name: Skin Changes
   path: /topics/#skin-changes
+- url: https://www.dairbook.com/glossary/srtr
+  source: dairbookcom
+  topic-name: SRTR
+  path: /topics/#srtr
 - url: https://www.mayoclinic.org/drugs-supplements/tacrolimus-oral-route/description/drg-20068314
   source: mayoclinicorg
+  topic-name: Tacrolimus
+  path: /topics/#tacrolimus
+- url: https://www.dairbook.com/glossary/tacrolimus
+  source: dairbookcom
   topic-name: Tacrolimus
   path: /topics/#tacrolimus
 - url: https://www.ncbi.nlm.nih.gov/books/NBK544318/
@@ -436,6 +536,10 @@
   path: /topics/#tinnitus
 - url: https://my.clevelandclinic.org/health/procedures/tips-procedure
   source: clevelandclinicorg
+  topic-name: TIPS
+  path: /topics/#tips
+- url: https://www.dairbook.com/glossary/tips
+  source: dairbookcom
   topic-name: TIPS
   path: /topics/#tips
 - url: https://medlineplus.gov/ency/images/ency/fullsize/21742.jpg
@@ -460,6 +564,10 @@
   path: /topics/#uacr
 - url: https://unos.org
   source: unosorg
+  topic-name: UNOS
+  path: /topics/#unos
+- url: https://www.dairbook.com/glossary/unos
+  source: dairbookcom
   topic-name: UNOS
   path: /topics/#unos
 - url: https://medlineplus.gov/druginfo/meds/a699047.html

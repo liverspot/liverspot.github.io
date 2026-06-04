@@ -593,7 +593,7 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 «Albumin is responsible for transporting vitamins, enzymes and hormones throughout your body. Albumin makes up 50% of the proteins found in your plasma. When your albumin levels are low, hormones and other important compounds aren’t able to get to where they need to go in your body to fulfill their duties.» — [2]
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia>
-* [2]&nbsp;<https://www.dairbook.com/glossary/albumin>
+* [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/albumin>
 
 
 ### ALP
@@ -629,7 +629,7 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 * [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Ascites>
 * [2] [British Liver Trust](/source/britishlivertrustorguk/) — <https://britishlivertrust.org.uk/what-is-ascites/>
-* [3]&nbsp;<https://www.dairbook.com/glossary/ascites>
+* [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/ascites>
 
 ### AST
 
@@ -643,7 +643,7 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 * [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Asterixis>
 * [2]&nbsp;<https://www.osmosis.org/answers/asterixis>
-* [3]&nbsp;<https://www.dairbook.com/glossary/asterixis>
+* [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/asterixis>
 
 ### Atrophy
 
@@ -668,7 +668,7 @@ What it is: A program that provides Xifaxan at no cost for up to one year for el
 «Bilirubin is a yellowish substance made during your body's normal process of breaking down old red blood cells. Bilirubin is found in bile, a fluid your liver makes that helps you digest food. If your liver is healthy, it will remove most of the bilirubin from your body.» — [1]
 
 * [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/bilirubin-blood-test/>
-* [2]&nbsp;<https://www.dairbook.com/glossary/bilirubin>
+* [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/bilirubin>
 
 ### BK Virus
 «The BK virus is a virus that most people get in childhood. Symptoms can feel like a common cold. Once you get a BK virus infection, the virus stays in your system for good but in an inactive state.
@@ -677,7 +677,7 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 
 * [1] [NKF](/source/kidneyorg/) — <https://www.kidney.org/atoz/content/bk-virus-what-transplant-patients-need-know>
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/BK_virus>
-* [3]&nbsp;<https://www.dairbook.com/glossary/bk-virus>
+* [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/bk-virus>
 
 ### BUN Test
 
@@ -699,7 +699,7 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487>
 * [3] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Cirrhosis>
 * [4]&nbsp;<https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=aa67653>
-* [5]&nbsp;<https://www.dairbook.com/glossary/cirrhosis>
+* [5] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/cirrhosis>
 * [6] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4381184/>
 
 
@@ -747,7 +747,7 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 «Creatinine is the waste byproduct of the muscles processing energy from creatine. Properly functioning kidneys remove creatinine from the blood supply.» — [2]
 
 * [1]&nbsp;<https://www.mountsinai.org/health-library/tests/creatinine-blood-test>
-* [2]&nbsp;<https://www.dairbook.com/glossary/creatinine>
+* [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/creatinine>
 
 ### Creatinine Test
 
@@ -786,7 +786,7 @@ Liver damage and severe scarring can progress to the point where the liver can n
 
 * [1]&nbsp;<https://www.nhs.uk/conditions/dialysis/>
 * [2] [NKF](/source/kidneyorg/) — <https://www.kidney.org/atoz/content/dialysisinfo>
-* [3]&nbsp;<https://www.dairbook.com/glossary/dialysis>
+* [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/dialysis>
 
 ### Diverticulitis
 
@@ -807,7 +807,7 @@ When these pouches become inflamed, the condition is called diverticulitis. Infl
 «A drug regimen describes the specific instructions and schedule for administering one or more drugs to a patient. It includes factors such as drug dosage, frequency, route of administration, and duration of treatment.» — [2]
 
 * [1]&nbsp;<https://www.jove.com/science-education/14419/drug-dosage-regimen-overview>
-* [2]&nbsp;<https://www.dairbook.com/glossary/drug-regimen>
+* [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/drug-regimen>
 
 
 ### DSA
@@ -852,14 +852,14 @@ Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tis
 * [1] [NIH](/source/nihgov/) — <https://www.ninds.nih.gov/health-information/disorders/encephalitis>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/encephalitis/symptoms-causes/syc-20356136>
 * [3] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Encephalitis>
-* [4]&nbsp;<https://www.dairbook.com/glossary/encephalitis>
+* [4] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/encephalitis>
 
 ### Encephalopathy
 «Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (about the brain) and ‘pathos’ (disease). Depending on severity encephalopathy can show up as symptoms from headaches to coma. Hepatic encephalopathy (HE) is caused by liver problems and accumulated toxins in the blood.» — [3]
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/encephalopathy>
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
-* [3]&nbsp;<https://www.dairbook.com/glossary/encephalopathy>
+* [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/encephalopathy>
 
 ### Erica Storm
 
@@ -939,7 +939,7 @@ So it is a brand name related to filgrastim
 
 * [1]&nbsp;<https://www.yalemedicine.org/conditions/preparing-dialysis-av-fistula>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567>
-* [3]&nbsp;<https://www.dairbook.com/glossary/fistula>
+* [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/fistula>
 
 ### Gabapentin
 «Gabapentin works in the brain to prevent seizures and relieve pain for certain conditions in the nervous system. It can also be used for controlling the effects of neuropathy.» — [2]
@@ -1028,14 +1028,14 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 «Hemodialysis is dialysis done by pulling blood from the body and running it through a dialyzer (filter) along with a dialysate (solution) to filter the blood of toxins.» — [2]
 
 * [1] [NIH](/source/nihgov/) — <https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/hemodialysis>
-* [2]&nbsp;<https://www.dairbook.com/glossary/hemodialysis>
+* [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/hemodialysis>
 
 ### Hepatitis
 «Hepatitis means inflammation of the liver. Usually the term is short for one of the five Viral Hepatitis strains: Hepatitis A, B, C, D and E.»
 
 * [1]&nbsp;<https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis>
 * [2]&nbsp;<https://www.cdc.gov/hepatitis/abc/index.htm>
-* [3]&nbsp;<https://www.dairbook.com/glossary/hepatitis>
+* [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/hepatitis>
 
 ### HIDA Scan
 
@@ -1125,7 +1125,7 @@ In hyponatremia, one or more factors cause the sodium in the body to be diluted.
 * [2] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8987166/>
 * [3] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/treatments/10418-immunosuppressants>
 * [4] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Immunosuppressive_drug>
-* [5]&nbsp;<https://www.dairbook.com/glossary/immunosuppressant>
+* [5] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/immunosuppressant>
 
 <span class='topic-arrow' >[&rarr;](/topic/immunosuppression)</span>
 ### [Immunosuppression](/topic/immunosuppression)
@@ -1137,7 +1137,7 @@ In hyponatremia, one or more factors cause the sodium in the body to be diluted.
 
 * [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
-* [3]&nbsp;<https://www.dairbook.com/glossary/inr>
+* [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/inr>
 
 ### IOP
 
@@ -1154,7 +1154,7 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 «Itching is a common symptom from liver damage. Possible helpful treatments include: Cholestyramime Powder,  Hydroxyzine, and Sarna lotion .» — [2]
 
 * [1]&nbsp;<https://www.healthline.com/health/liver-disease-and-itching>
-* [2]&nbsp;<https://www.dairbook.com/glossary/itching>
+* [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/itching>
 
 
 ### J-Tube
@@ -1203,7 +1203,7 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 #### Refs
 
 * [1] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/books/NBK536930/>
-* [2]&nbsp;<https://www.dairbook.com/glossary/lactulose>
+* [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/lactulose>
 
 ### LiverSpot.org
 
@@ -1294,10 +1294,10 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
 «The model for end-stage liver disease (MELD) score helps decide how urgently someone needs a liver transplant in the next three months. The score ranges from 6 to 40. A person with a higher score needs a liver transplant sooner than does a person with a lower score.» — [1]
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
-* [2]&nbsp;<https://www.dairbook.com/glossary/meld>
+* [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/meld>
 * [3]&nbsp;<https://medcalculators.stanford.edu/meld>
 * [4]&nbsp;<https://www.mdcalc.com/calc/10437/model-end-stage-liver-disease-meld>
-* [5]&nbsp;<https://www.dairbook.com/stories/mark-20240219a>
+* [5] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/stories/mark-20240219a>
 * [6] Very Well Health — <https://www.verywellhealth.com/meld-score-4783410>
 * [7] UPMC: «Understanding Your MELD Score for Liver Transplant» — <https://www.upmc.com/services/transplant/patients/resources/meld-score>
 * [8] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10339256/>
@@ -1360,7 +1360,7 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/mycophenolate-mofetil-oral-route/description/drg-20073191>
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Mycophenolic_acid>
-* [3]&nbsp;<https://www.dairbook.com/glossary/mycophenolate-mofetil>
+* [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/mycophenolate-mofetil>
 
 
 ### Naltrexone
@@ -1455,7 +1455,7 @@ Possible treats that the medical team might like and appreciate from patients in
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/procedures/paracentesis>
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Paracentesis>
-* [3]&nbsp;<https://www.dairbook.com/glossary/paracentesis>
+* [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/paracentesis>
 
 ### Persistent Ascites
 
@@ -1485,7 +1485,7 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 «Phosphatidylethanol (PEth) testing is a reliable method to help create a picture of alcohol consumption.» — [2]
 
 * [1]&nbsp;<https://lextox.co.uk/blog-posts/phosphatidylethanol-peth-testing/>
-* [2]&nbsp;<https://www.dairbook.com/glossary/peth>
+* [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/peth>
 
 ### Pink Cloud
 
@@ -1620,7 +1620,7 @@ Cirrhosis can cause nutrient deficiencies that make skin more susceptible to cut
 The SRTR website provides access to a very detailed group of reports and tools to review organ transplant data. This information can be used by patients, family members / caregivers, and living donors / potential living donors, as well as transplant professionals, industry professionals, government regulators, and others.
 
 * [1]&nbsp;<https://www.srtr.org>
-* [2]&nbsp;<https://www.dairbook.com/glossary/srtr>
+* [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/srtr>
 
 ### Stanford KPD
 
@@ -1655,7 +1655,7 @@ The SRTR website provides access to a very detailed group of reports and tools t
 #### Refs
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/tacrolimus-oral-route/description/drg-20068314>
-* [2]&nbsp;<https://www.dairbook.com/glossary/tacrolimus>
+* [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/tacrolimus>
 * [2] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/books/NBK544318/>
 
 
@@ -1700,7 +1700,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/procedures/tips-procedure>
-* [2]&nbsp;<https://www.dairbook.com/glossary/tips>
+* [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/tips>
 * [3]&nbsp;<https://www.mountsinai.org/health-library/surgery/transjugular-intrahepatic-portosystemic-shunt-tips>
 * [4]&nbsp;<https://www.radiologyinfo.org/en/info/tips>
 * [5] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/ency/images/ency/fullsize/21742.jpg>
@@ -1781,7 +1781,7 @@ So if you have:
 «United Network for Organ Sharing (UNOS) manages the transplant system for the United States.» — [2]
 
 * [1] [UNOS](/source/unosorg/) — <https://unos.org>
-* [2]&nbsp;<https://www.dairbook.com/glossary/unos>
+* [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/unos>
 
 ### UNOS Regions
 
