@@ -114,7 +114,8 @@ table tr:nth-child(82), /*L*/
 
 
 
-table tr:nth-child(89), /*M*/
+
+table tr:nth-child(90), /*M*/
 
 
 
@@ -122,38 +123,15 @@ table tr:nth-child(89), /*M*/
 
 
 
-table tr:nth-child(97), /*N*/
+table tr:nth-child(98), /*N*/
 
 
 
 
-table tr:nth-child(102), /*O*/
+table tr:nth-child(103), /*O*/
 
 
-table tr:nth-child(105), /*P*/
-
-
-
-
-
-
-
-
-
-
-
-table tr:nth-child(117), /*R*/
-
-
-
-table tr:nth-child(121), /*S*/
-
-
-
-
-
-
-table tr:nth-child(128), /*T*/
+table tr:nth-child(106), /*P*/
 
 
 
@@ -165,19 +143,41 @@ table tr:nth-child(128), /*T*/
 
 
 
+table tr:nth-child(118), /*R*/
+
+
+
+table tr:nth-child(122), /*S*/
 
 
 
 
-table tr:nth-child(144), /*u*/
+
+
+table tr:nth-child(129), /*T*/
 
 
 
 
-table tr:nth-child(149), /*V*/
 
-table tr:nth-child(151), /*X*/
 
+
+
+
+
+
+
+
+
+
+table tr:nth-child(145), /*u*/
+
+
+
+
+table tr:nth-child(150), /*V*/
+
+table tr:nth-child(152), /*X*/
 
 
 table tr:nth-child(1), /*Y*/
@@ -464,6 +464,7 @@ The following entries contain information on topics that have been brought up du
 |[Liver Pain &darr;](#liver-pain)||
 |[LiverSpot.org &darr;](#liverspotorg)||
 |[Liver Spots &darr;](#liver-spots)||
+|[Living Donor Liver Transplant &darr;](#living-donor-liver-transplant)||
 |[LOLA &darr;](#lola)|L‐ornithine‐L‐aspartate|
 |[Medical Marijuana &darr;](#medical-marijuana) <a id="m"></a>||
 |[MELD &darr;](#meld)|Model for end-stage liver disease|
@@ -529,6 +530,7 @@ The following entries contain information on topics that have been brought up du
 |[Vivitrol &darr;](#vivitrol)|Naltrexone|
 |[XIAFLEX &darr;](#xiaflex) <a id="x"></a>|Collagenase Clostridium histolyticum|
 |[Xifaxan &darr;](#xifaxan)|Rifaximin|
+
 
 ## Entries
 
@@ -1211,6 +1213,14 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 «Liver spots are patches of darker skin. They vary in size from about a tenth of an inch (one-quarter centimeter) to half an inch (one centimeter) across. They often show up on skin areas that have sun exposure, such as your face, hands or arms.» — [1]
 
 * [1]&nbsp;<https://my.clevelandclinic.org/health/diseases/21723-liver-spots>
+
+### Living Donor Liver Transplant
+
+«A living-donor liver transplant is a surgery in which a portion of the liver from a healthy living person is removed and placed into someone whose liver is no longer working properly.
+
+The donor's remaining liver regrows and returns to its normal size, volume and capacity within a couple of months after the surgery. At the same time, the transplanted liver portion grows and restores normal liver function in the recipient.» — [1]
+
+* [1]&nbsp;<https://www.mayoclinic.org/tests-procedures/living-donor-liver-transplant/pyc-20384846>
 
 ### LOLA
 
