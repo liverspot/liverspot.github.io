@@ -1229,6 +1229,8 @@ Some of these tests measure how well the liver is performing its regular functio
    * [AST](#ast) — Aspartate transaminase
 * [GGT](#ggt) — Gamma-glutamyltransferase 
 
+[Albumin](#albumin) and [Bilirubin](#bilirubin) are also part of the [MELD](#meld) liver transplant prioritization score.
+
 #### Refs
 
 * [1]&nbsp;<https://www.mayoclinic.org/tests-procedures/liver-function-tests/about/pac-20394595>
