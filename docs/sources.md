@@ -43,7 +43,7 @@ table td, th {
 
 </style>
 
-The following organizations are referenced within [Topics](/topics/). 
+The following organizations have materials that are referenced within [Topics](/topics/). 
 
 {% capture my_text %}
 {% for source in site.sources -%}
