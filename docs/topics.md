@@ -371,9 +371,9 @@ table td, th {
 </style>
 
 
-The following entries contain information on topics that have been brought up during discussions related to organ disease and treatments.  
+The following entries contain information on topics that have been brought up during discussions related to organ disease and treatments.
 
-* *Index:*  &nbsp;&nbsp; [A-C](#a) &nbsp;•&nbsp; [D-F](#d) &nbsp;•&nbsp; [G-H](#g) &nbsp;•&nbsp; [I-L](#i) &nbsp;•&nbsp; [M-O](#m) &nbsp;•&nbsp; [P-S](#p) &nbsp;•&nbsp; [T-U](#t) &nbsp;•&nbsp; [V-Z](#v)  
+* *Index:*  &nbsp;&nbsp; [A-C](#a) &nbsp;•&nbsp; [D-F](#d) &nbsp;•&nbsp; [G-H](#g) &nbsp;•&nbsp; [I-L](#i) &nbsp;•&nbsp; [M-O](#m) &nbsp;•&nbsp; [P-S](#p) &nbsp;•&nbsp; [T-U](#t) &nbsp;•&nbsp; [V-Z](#v)
 * *[Entries](#entries)*
 
 ## Index
@@ -553,11 +553,11 @@ The following entries contain information on topics that have been brought up du
 
 Acute cellular rejection
 
-* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC5715482/>
-
 «While antibody mediated hyper-acute vasculitic rejection is rare in liver transplant recipients, acute and chronic rejection have clinical significance. The liver allograft behaves differently to other solid organ transplants as acute rejection generally does not impair graft survival and chronic rejection (CR) is uncommon. The incidence of acute and chronic rejection has declined in current era due to improved immunosuppressive regimens. Acute rejection generally improves with steroid boluses and steroid resistant rejection is uncommon. CR may improve with escalation of immunosuppression or may result in irreversible loss of graft function leading to retransplantation or death. The current review discusses diagnosis and management of acute and chronic liver allograft rejection» — [1]
 
 «High dose corticosteroids are standard of care for ACR and doses vary at different centers. Usually 500–1000 mg pulse of methylprednisolone is given for 1–3 days followed by taper» — [1]
+
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC5715482/>
 
 ### Acyclovir
 
@@ -570,35 +570,35 @@ Acute cellular rejection
 
 #### Refs
 
-* [1]&nbsp;<https://pubmed.ncbi.nlm.nih.gov/3912970/>
-* [2]&nbsp;<https://medlineplus.gov/druginfo/meds/a681045.html>
-* [3] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/acyclovir-oral-route-intravenous-route/description/drg-20068393>
+* [1] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/3912970/>
+* [2] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/druginfo/meds/a681045.html>
+* [3] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/acyclovir-oral-route-intravenous-route/description/drg-20068393>
 
 ### AFP
 
-* [1]&nbsp;<https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/>
-* [2]&nbsp;<https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&contentid=alpha_fetoprotein_tumor_marker>
-
 «An AFP tumor marker test is a blood test that measures the level of AFP (alpha-fetoprotein) in a sample of your blood. It's usually used to help diagnose certain types of cancer and to check how well treatment is working.» —  [1]
+
+* [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/>
+* [2] [URochester](/source/rochesteredu/) — <https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&contentid=alpha_fetoprotein_tumor_marker>
 
 ### AIH
 
 «Autoimmune hepatitis 〚AIH〛 is a liver disease that happens when the body's immune system attacks the liver. This can cause swelling, irritation and damage to the liver. The exact cause of autoimmune hepatitis is unclear, but genetic and environmental factors appear to interact over time to trigger the disease.» — [1]
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/autoimmune-hepatitis/symptoms-causes/syc-20352153>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/autoimmune-hepatitis/symptoms-causes/syc-20352153>
 
 Interestingly, the treatment for AIH is similar to the treatment for a post-transplant renal replacement procedure: in both cases the body needs to be prevented from attacking the liver but still function effectively against pathogens.
 
 ### Albumin
 «Albumin is responsible for transporting vitamins, enzymes and hormones throughout your body. Albumin makes up 50% of the proteins found in your plasma. When your albumin levels are low, hormones and other important compounds aren’t able to get to where they need to go in your body to fulfill their duties.» — [2]
 
-* [1]&nbsp;<https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia>
 * [2]&nbsp;<https://www.dairbook.com/glossary/albumin>
 
 
 ### ALP
 
-* [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp>
 
 «Alkaline phosphatase (ALP) is an enzyme that’s found throughout your body. ALP blood tests measure the level of ALP in your blood that comes from your liver and bones, and it’s one of the tests included in a comprehensive metabolic panel. High levels of ALP in your blood may indicate liver disease or certain bone disorders» — [1]
 
@@ -606,11 +606,11 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 «An alanine aminotransferase test, also called an ALT test, is a blood test to check the health of your liver. ALT is a substance found mostly in the liver. If your liver is OK, the ALT level usually stays low. But when liver cells are irritated or damaged, ALT can leak into the bloodstream. So the ALT level can go up.» — [1]
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/alanine-aminotransferase-alt-test/about/pac-20582729>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/alanine-aminotransferase-alt-test/about/pac-20582729>
 
 ### Ammonia Level
 
-* [1]&nbsp;<https://my.clevelandclinic.org/health/articles/22686-ammonia-levels>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/articles/22686-ammonia-levels>
 
 «A blood ammonia level of 200 micromol /L is associated with coma and convulsions.» — [1]
 
@@ -618,11 +618,11 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 «An angiogram is a diagnostic procedure that uses imaging to show your provider how your blood flows through your blood vessels or heart. An injected contrast material makes it easy to see where blood is moving and where blockages are. Your provider can use X-rays or other types of imaging for your angiogram.» — [1]
 
-* [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/4977-angiography>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/4977-angiography>
 
 ### Angioplasty
 
-* <https://my.clevelandclinic.org/health/treatments/22060-angioplasty>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/treatments/22060-angioplasty>
 
 ### Ascites
 «Ascites is the accumulation of water in the abdomen, commonly due to leakage from the liver’s portal vein. Ascites adds significant body weight as the water accumulates, making movement more difficult. It also pushes on internal organs, and this compression can affect ability to breath, eat, and other body activities.» — [3]
@@ -635,7 +635,7 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 «An aspartate aminotransferase test, also called an AST test, is a blood test. It's commonly used to check the health of the liver. AST is a substance found mostly in the liver. But it's also in the heart, kidneys, muscles and other organs. When tissues in these organs are damaged, AST can leak into the blood. So the AST level goes up.» — [1]
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/aspartate-aminotransferase-ast-test/about/pac-20583406>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/aspartate-aminotransferase-ast-test/about/pac-20583406>
 
 
 ### Asterixis
@@ -648,7 +648,7 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 ### Atrophy
 
 * [1]&nbsp;<https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx>
-* [2]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/>
+* [2] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/>
 
 «Muscle loss during hospitalization is a major clinical concern, as it has been associated with reduced physical function, quality of life, and increased mortality. This review outlines the key causes of muscle wasting and highlights practical strategies to support muscle mass preservation during hospitalization.» — [1]
 
@@ -667,7 +667,7 @@ What it is: A program that provides Xifaxan at no cost for up to one year for el
 ### Bilirubin
 «Bilirubin is a yellowish substance made during your body's normal process of breaking down old red blood cells. Bilirubin is found in bile, a fluid your liver makes that helps you digest food. If your liver is healthy, it will remove most of the bilirubin from your body.» — [1]
 
-* [1]&nbsp;<https://medlineplus.gov/lab-tests/bilirubin-blood-test/>
+* [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/bilirubin-blood-test/>
 * [2]&nbsp;<https://www.dairbook.com/glossary/bilirubin>
 
 ### BK Virus
@@ -681,7 +681,7 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 
 ### BUN Test
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) —  <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>
 
 ### Camino Hospital IOP
 
@@ -695,12 +695,12 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 
 «Liver cirrhosis (LC) is defined as an advanced stage of liver fibrosis with distortion of the hepatic vasculature and architecture. Histologically, regenerative nodules with fibrous tissues form in response to chronic injury and lead to LC[4,5]. Consequently, disruption of the liver architecture due to liver fibrosis and/or cirrhosis causes hemodynamic instability and portal hypertension. The development of portal hypertension is a hallmark of LC.» — [6]
 
-* [1]&nbsp;<https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis>
-* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487>
+* [1] [NIH](/source/nihgov/) — <https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487>
 * [3]&nbsp;<https://en.wikipedia.org/wiki/Cirrhosis>
 * [4]&nbsp;<https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=aa67653>
 * [5]&nbsp;<https://www.dairbook.com/glossary/cirrhosis>
-* [6]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC4381184/>
+* [6] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4381184/>
 
 
 ### CMV
@@ -711,19 +711,19 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 
 For people who have weakened immune systems, CMV infection can be fatal. The risk is especially high for people who've had an organ, stem cell or bone marrow transplant.» — [1]
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358>
-* [2] Autoimmune Impacts: <https://pubmed.ncbi.nlm.nih.gov/33567734/>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358>
+* [2] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/33567734/>
 * [3]&nbsp;<https://en.wikipedia.org/wiki/Human_cytomegalovirus>
 
 
 #### Alternate name
 «Human cytomegalovirus (HCMV), also called human herpesvirus 5 (HHV-5), is a species of virus in the genus Cytomegalovirus» — [3]
 
-### Compensated Cirrhosis 
+### Compensated Cirrhosis
 
 «Someone with compensated cirrhosis doesn’t necessarily look or feel sick. Their symptoms of the disease may be mild or nonexistent even though the liver is severely scarred.» — [2]
 
-* [1] «Compensated liver cirrhosis: Natural course and disease-modifying strategies» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10523240/>
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10523240/>
 * [2] <https://liverfoundation.org/about-your-liver/how-liver-diseases-progress/cirrhosis-severe-scarring/#:~:text=decompensated.%20Someone%20with-,compensated%20cirrhosis,-doesn’t%20necessarily%20look>
 
 ### Corewell Health
@@ -751,19 +751,19 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 
 ### Creatinine Test
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>  
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>
 
 ### CTA
 
 «A CT angiogram 〚Computed Tomography Angiogram〛 is a test that checks for blockages and other problems in your arteries. It’s a CT scan with the added benefit of contrast dye. A healthcare provider injects the dye into a vein in your arm. The dye flows through your blood vessels and makes them look bright on the CT images. This means it’s easier to see blood flow and spot issues.» — [1]
 
- [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/ct-angiogram>
+[1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/ct-angiogram>
 
 ### Deceased Organ Donation
 
 «Deceased organ donation occurs in two ways: Donation after Brain Death (DBD) and Donation after Circulatory Death (DCD, sometimes called cardiac death).» — [AI:Google 'Deceased Organ Donation Brain Circulatory']
 
-* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC3372912/>
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3372912/>
 * [2]&nbsp;<https://unos.org/news/understanding-donation-after-circulatory-death-dcd/>
 * [3]&nbsp;<https://giftoflifemichigan.org/blog/the-facts-brain-death-and-dcd>
 
@@ -778,7 +778,7 @@ Liver damage and severe scarring can progress to the point where the liver can n
 
 * [1]&nbsp;<https://www.hepmag.com/blog/compensated-decompensated-cirrhosis>
 * [2]&nbsp;<https://www.hepatitis.va.gov/cirrhosis/patient/decompensated.asp>
-* [3]&nbsp;<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334027/>
+* [3] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334027/>
 
 <span class='topic-arrow' >[&rarr;](/topic/dialysis)</span>
 ### [Dialysis](/topic/dialysis)
@@ -790,7 +790,7 @@ Liver damage and severe scarring can progress to the point where the liver can n
 
 ### Diverticulitis
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/diverticulitis/symptoms-causes/syc-20371758>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/diverticulitis/symptoms-causes/syc-20371758>
 
 «Diverticula are common, especially after age 50. They are usually found in the lower part of the colon. Most often, they don't cause problems. The presence of diverticula is called diverticulosis. Diverticulosis isn't a disease condition.
 When these pouches become inflamed, the condition is called diverticulitis. Inflammation is immune system activity that increases blood flow and fluids to a site in the body and delivers disease-fighting cells. Inflammation of diverticula can cause severe pain, fever, nausea and changes in your stool habits.» — [1]
@@ -821,9 +821,9 @@ A Donor Service Area (DSA) is a smaller portion of a UNOS Region in which organs
 * <https://duncansmillsvillage.com/directions/>
 
 
-### Dupuytren's contracture 
+### Dupuytren's contracture
 
-* <https://pubmed.ncbi.nlm.nih.gov/6672504/>                                                                                                                                    
+* <https://pubmed.ncbi.nlm.nih.gov/6672504/>
 
 ### DXA scan
 
@@ -834,12 +834,12 @@ A DXA scan is an imaging test that measures the strength of your bones. It uses 
 ### Dysphagia
 Dysphagia is an inability to swallow properly. Food and liquids orally taken can be aspirated (inhaled) and cause pneumonia and other illness.
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/dysphagia/symptoms-causes/syc-20372028>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/dysphagia/symptoms-causes/syc-20372028>
 
 ### Edema
 Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tissues. Edema can affect any part of the body. But it's more likely to show up in the legs and feet.
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493>
 * [2]&nbsp;<https://en.wikipedia.org/wiki/Edema>
 
 ### El Camino [Car]
@@ -849,16 +849,16 @@ Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tis
 
 ### Encephalitis
 «Encephalitis is swelling of the brain. Frequently also used as an easier to pronounce version of encephalopathy by laymen, myself included.» — [4]
-* [1]&nbsp;<https://www.ninds.nih.gov/health-information/disorders/encephalitis>
-* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/encephalitis/symptoms-causes/syc-20356136>
+* [1] [NIH](/source/nihgov/) — <https://www.ninds.nih.gov/health-information/disorders/encephalitis>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/encephalitis/symptoms-causes/syc-20356136>
 * [3]&nbsp;<https://en.wikipedia.org/wiki/Encephalitis>
 * [4]&nbsp;<https://www.dairbook.com/glossary/encephalitis>
 
 ### Encephalopathy
 «Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (about the brain) and ‘pathos’ (disease). Depending on severity encephalopathy can show up as symptoms from headaches to coma. Hepatic encephalopathy (HE) is caused by liver problems and accumulated toxins in the blood.» — [3]
 
-* [1]&nbsp;<https://my.clevelandclinic.org/health/diseases/encephalopathy>
-* [2]&nbsp;<https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/encephalopathy>
+* [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
 * [3]&nbsp;<https://www.dairbook.com/glossary/encephalopathy>
 
 ### Erica Storm
@@ -873,7 +873,7 @@ End-Stage Liver Disease (ESLD) is when the liver is damaged beyond repair due to
 ### Esophageal Varices
 Esophageal varices are enlarged veins in the esophagus, the tube that connects the throat and stomach. Esophageal varices most often happen in people with serious liver diseases.
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538>
 
 ### Everolimus
 
@@ -892,13 +892,13 @@ Everolimus works by interfering with the growth of cancer cells, which are event
 #### Refs
 
 
-* [1]&nbsp;<https://pubmed.ncbi.nlm.nih.gov/41110610/>
-* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/everolimus-oral-route/description/drg-20072842>
+* [1] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/41110610/>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/everolimus-oral-route/description/drg-20072842>
 * [3]&nbsp;<https://www.cancer.gov/publications/dictionaries/cancer-terms/def/everolimus>
 
-### Excess Protein                                                           
+### Excess Protein
 
-* <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >                                                                                                           
+* <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >
 
 ### FIB-4
 Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarring in HCV and HBV patients, to assess need for biopsy.
@@ -917,7 +917,7 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 
 ### Filgrastim
 
-«Filgrastim injection is used to treat neutropenia (low white blood cells) that is caused by cancer medicines. It is a synthetic (man-made) form of a substance that is naturally produced in your body called a colony stimulating factor. Filgrastim helps the bone marrow to make new white blood cells. » — [1] 
+«Filgrastim injection is used to treat neutropenia (low white blood cells) that is caused by cancer medicines. It is a synthetic (man-made) form of a substance that is naturally produced in your body called a colony stimulating factor. Filgrastim helps the bone marrow to make new white blood cells. » — [1]
 
 «NIVESTYM (filgrastim-aafi) is a biosimilar to Neupogen (filgrastim) and part of the largest oncology biosimilars portfolio, brought to you by Pfizer» — [Unknown]
 
@@ -930,15 +930,15 @@ So it is a brand name related to filgrastim
 
 #### Refs
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547>
-* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/filgrastim-aafi-intravenous-route-subcutaneous-route/description/drg-20443903>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/filgrastim-aafi-intravenous-route-subcutaneous-route/description/drg-20443903>
 
 
 ### Fistula
 «An Arteriovenous (AV) fistula is a direct connection between an artery and a vein. Normal blood flow goes from arteries through capillaries and then into veins. The fistula’s direct connection causes much more blood flow into a vein. Surgically creating a fistula in a chronic hemodialysis patient enables more effective and safer treatment compared to using a central venous catheter.» — [3]
 
 * [1]&nbsp;<https://www.yalemedicine.org/conditions/preparing-dialysis-av-fistula>
-* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567>
 * [3]&nbsp;<https://www.dairbook.com/glossary/fistula>
 
 ### Gabapentin
@@ -952,15 +952,15 @@ So it is a brand name related to filgrastim
 #### Refs
 
 
-* [1]&nbsp;<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452908/>
-* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/gabapentin-oral-route/description/drg-20064011>
-* [3]&nbsp;<https://my.clevelandclinic.org/health/drugs/21561-gabapentin>
+* [1] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452908/>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/gabapentin-oral-route/description/drg-20064011>
+* [3] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/drugs/21561-gabapentin>
 
 ### Gallbladder
 
 « gallbladder attached to the donor liver will be detached to ensure that it does not cause problems with your new liver, and your gallbladder will also be removed. » — [1]
 
-* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC6230845/>
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6230845/>
 * [2]&nbsp;<https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>
 
 ### Gallbladder Cancer
@@ -969,12 +969,12 @@ So it is a brand name related to filgrastim
 
 «To qualify, the tumor must be unresectable, liver-limited, and meet strict » — [1]
 
-* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/>
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/>
 
 
 ### GFR and Aging
 
-* [1] Ageing and the Glomerular Filtration Rate: Truths and Consequences —  <https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/>
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/>
 
 «This paper discusses the known effects of ageing on GFR 〚Glomerular Filtration Rate〛and the consequences of using a classification system for defining CKD that does not take into account the normal decline of GFR with ageing» — [1]
 
@@ -984,7 +984,7 @@ So it is a brand name related to filgrastim
 
 ### Gougol
 
-* <https://med.stanford.edu/profiles/amir-gougol>     
+* <https://med.stanford.edu/profiles/amir-gougol>
 
 Professional Education
 * Fellowship: UCSF Dept of Gastroenterology (2023) CA
@@ -999,7 +999,7 @@ Professional Education
 
 «Gynecomastia (guy-nuh-koh-MAS-tee-uh) is an increase in the amount of breast gland tissue in boys or men. An imbalance of the hormones estrogen and testosterone causes it. Gynecomastia can affect one or both breasts, sometimes unevenly.» — [1]
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/gynecomastia/symptoms-causes/syc-20351793>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/gynecomastia/symptoms-causes/syc-20351793>
 
 
 ### HCC GALAD model
@@ -1021,13 +1021,13 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 ### Hemochromatosis
 Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much iron from the food you eat. Excess iron is stored in your organs, especially your liver, heart and pancreas. Too much iron can lead to life-threatening conditions, such as liver disease, heart problems and diabetes.
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/hemochromatosis/symptoms-causes/syc-20351443>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/hemochromatosis/symptoms-causes/syc-20351443>
 
 ### Hemodialysis
 
 «Hemodialysis is dialysis done by pulling blood from the body and running it through a dialyzer (filter) along with a dialysate (solution) to filter the blood of toxins.» — [2]
 
-* [1]&nbsp;<https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/hemodialysis>
+* [1] [NIH](/source/nihgov/) — <https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/hemodialysis>
 * [2]&nbsp;<https://www.dairbook.com/glossary/hemodialysis>
 
 ### Hepatitis
@@ -1041,8 +1041,8 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 
 «A hepatobiliary iminodiacetic acid (HIDA) scan is an imaging procedure that shows how well your liver, bile ducts and gallbladder are functioning. It can help diagnose certain conditions, such as cholecystitis, biliary leak and biliary atresia.» — [1]
 
-* [1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/17099-hida-scan>
-* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/hida-scan/about/pac-20384701>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/17099-hida-scan>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/hida-scan/about/pac-20384701>
 
 
 ### HLA
@@ -1050,14 +1050,14 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 «HLA DSA (Human Leukocyte Antigen Donor-Specific Antibody) refers to antibodies in a transplant recipient's bloodstream that specifically target and attack the unique HLA proteins of a donor. These are routinely monitored because they can trigger immune rejection of a transplanted organ or stem cells» — [AI:Google]
 
 * [1]&nbsp;<https://www.sciencedirect.com/topics/medicine-and-dentistry/hla-antigen>
-* [2]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC10920073/>
+* [2] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10920073/>
 * [3]&nbsp;<https://mlabs.umich.edu/tests/hla-donor-specific-antibody>
 
 ### HPMV
 
 * <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv>
 
-### Hyper 
+### Hyper
 
 «Hyper-: Prefix meaning high, beyond, excessive, or above normal,» — [1]
 
@@ -1069,7 +1069,7 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 
 * [1]&nbsp;<https://www.chop.edu/conditions-diseases/hyperbilirubinemia-and-jaundice>
 
-### Hypo 
+### Hypo
 
 «Hypo-: Prefix meaning low, under, beneath, down, or below normal, » — [1]
 
@@ -1079,7 +1079,7 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 
 «Hypoalbuminemia, or low albumin levels in your blood, affects your body’s ability to manage body fluids. Albumin is a protein that keeps fluid inside your blood vessels. It also transports vitamins, enzymes and hormones throughout your body. Hypoalbuminemia happens when your body doesn’t produce enough albumin, or you lose unusually large amounts of it when you pee or poop. This condition is often a symptom of health issues like heart failure and kidney disease» — [1]
 
-* [1]&nbsp;<https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia>
 
 
 ### Hypomagnesium
@@ -1099,7 +1099,7 @@ Your provider will also prescribe a treatment plan to manage the underlying caus
 «By consuming foods high in magnesium, such as green vegetables, fruit, whole grains, cereals, and legumes, one can meet the RDA for this mineral. In order of highest to lowest magnesium concentration, some foods include Trusted Source:» — [1]
 
 * [1]&nbsp;<https://www.relainstitute.com/articles/magnesium-deficiency-foods-to-eat-and-treatment-options/>
-* [2]&nbsp;<https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia>
+* [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia>
 * [3]&nbsp;<https://www.chp.edu/our-services/transplant/liver/education/medications/tacrolimus-prograf#:~:text=Tacrolimus%20Drug%20Interactions>
 
 
@@ -1115,15 +1115,15 @@ In hyponatremia, one or more factors cause the sodium in the body to be diluted.
 
 * [1]&nbsp;<https://www.kidney.org/kidney-topics/hyponatremia-low-sodium-level-blood>
 
-* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711>
 
 
 ### Immunosuppressant
 «Immunosuppressants are drugs or medicines that lower the body's ability to reject a transplanted organ. Another term for these drugs is anti-rejection drugs.» — [5]
 
 * [1]&nbsp;<https://www.kidney.org/atoz/content/immuno>
-* [2]&nbsp;<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8987166/>
-* [3]&nbsp;<https://my.clevelandclinic.org/health/treatments/10418-immunosuppressants>
+* [2] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8987166/>
+* [3] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/treatments/10418-immunosuppressants>
 * [4]&nbsp;<https://en.wikipedia.org/wiki/Immunosuppressive_drug>
 * [5]&nbsp;<https://www.dairbook.com/glossary/immunosuppressant>
 
@@ -1135,8 +1135,8 @@ In hyponatremia, one or more factors cause the sodium in the body to be diluted.
 ### INR
 «An International Normalized Ratio (INR) test calculates how long it takes for blood to clot compared to a normal healthy person (with a value of ‘1’). Blood thinners and illness can cause blood to take several times longer than normal to clot.» — [3]
 
-* [1]&nbsp;<https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/>
-* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
+* [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
 * [3]&nbsp;<https://www.dairbook.com/glossary/inr>
 
 ### IOP
@@ -1161,17 +1161,17 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to your duodenum (small intestine). It is used to deliver food and medicines to people who are incapable of orally consuming them.
 
 * [1]&nbsp;<https://starship.org.nz/guidelines/gastrostomy-transgastric-jejunal-jejunal-tube-care/>
-* [2]&nbsp;<https://medlineplus.gov/ency/patientinstructions/000181.htm>
+* [2] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/ency/patientinstructions/000181.htm>
 * [3]&nbsp;<https://www.chop.edu/treatments/jejunostomy-tubes>
 
 ### Jaundice
 
 «Jaundice is a yellow color of the skin, mucus membranes, or eyes. The yellow coloring comes from bilirubin, a byproduct of old red blood cells. Jaundice can be a symptom of several health problems.»
 
-* [1]&nbsp;<https://medlineplus.gov/ency/article/000210.htm>
+* [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/ency/article/000210.htm>
 
 
-### Ketorolac                                                                
+### Ketorolac
 «Ketorolac is used to relieve moderately severe pain, usually pain that occurs after an operation or other painful procedure. It belongs to the group of medicines called nonsteroidal anti-inflammatory drugs (NSAIDs).» — [1]
 
 #### Drug Names
@@ -1180,7 +1180,7 @@ A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to 
 
 #### Refs
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882>
 
 
 ### Kt/V
@@ -1188,7 +1188,7 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 
 * [1]&nbsp;<https://en.wikipedia.org/wiki/Kt/V>
 * [2]&nbsp;<https://www.sciencedirect.com/topics/medicine-and-dentistry/kt-v>
-* [3]&nbsp;<https://pubmed.ncbi.nlm.nih.gov/18617306/>
+* [3] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/18617306/>
 * [4]&nbsp;<https://advancingdialysis.org/standardized-kt-v-home-hemodialysis-matter/>
 
 
@@ -1202,7 +1202,7 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 
 #### Refs
 
-* [1]&nbsp;<https://www.ncbi.nlm.nih.gov/books/NBK536930/>
+* [1] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/books/NBK536930/>
 * [2]&nbsp;<https://www.dairbook.com/glossary/lactulose>
 
 ### LiverSpot.org
@@ -1228,24 +1228,24 @@ Some of these tests measure how well the liver is performing its regular functio
 * [Albumin](#albumin) and total protein
 * [Bilirubin](#bilirubin)
 * Enzyme Tests
-   * [ALP](#alp) — Alkaline phosphatase
-   * [ALT](#alt) — Alanine transaminase
-   * [AST](#ast) — Aspartate transaminase
-* [GGT](#ggt) — Gamma-glutamyltransferase 
+    * [ALP](#alp) — Alkaline phosphatase
+    * [ALT](#alt) — Alanine transaminase
+    * [AST](#ast) — Aspartate transaminase
+* [GGT](#ggt) — Gamma-glutamyltransferase
 
 [Albumin](#albumin) and [Bilirubin](#bilirubin) are also part of the [MELD](#meld) liver transplant prioritization score.
 
 #### Refs
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/liver-function-tests/about/pac-20394595>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/liver-function-tests/about/pac-20394595>
 
 ### Liver In A Box
 The transportation of a donated liver by placing it into a 'box' (machine) that provide 'normothermic' (standard temperature) perfusion.
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/medical-professionals/transplant-medicine/news/liver-in-a-box-offers-potential-for-providing-liver-transplant-to-more-patients/mac-20533186>
-* [2] [OHSU](/source/ohsuedu) — <https://news.ohsu.edu/2023/08/16/liver-in-a-box-helps-save-more-lives-can-improve-transplant-outcomes>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/medical-professionals/transplant-medicine/news/liver-in-a-box-offers-potential-for-providing-liver-transplant-to-more-patients/mac-20533186>
+* [2] [OHSU](/source/ohsuedu/) — <https://news.ohsu.edu/2023/08/16/liver-in-a-box-helps-save-more-lives-can-improve-transplant-outcomes>
 
-### Liver Pain                                                                         
+### Liver Pain
 * <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain>
 
 
@@ -1255,7 +1255,7 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 
 «Liver spots are patches of darker skin. They vary in size from about a tenth of an inch (one-quarter centimeter) to half an inch (one centimeter) across. They often show up on skin areas that have sun exposure, such as your face, hands or arms.» — [1]
 
-* [1]&nbsp;<https://my.clevelandclinic.org/health/diseases/21723-liver-spots>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21723-liver-spots>
 
 ### Living Donor Liver Transplant
 
@@ -1263,18 +1263,18 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 
 The donor's remaining liver regrows and returns to its normal size, volume and capacity within a couple of months after the surgery. At the same time, the transplanted liver portion grows and restores normal liver function in the recipient.» — [1]
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/living-donor-liver-transplant/pyc-20384846>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/living-donor-liver-transplant/pyc-20384846>
 
 ### LOLA
 
 L‐ornithine‐L‐aspartate for hepatic encephalopathy
 
 
-* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC6478143/>
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6478143/>
 * [2]&nbsp;<https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1581792/full>
 * [3]&nbsp;<https://www.nature.com/articles/s41598-024-62293-8>
 * [4]&nbsp;<https://practicalgastro.com/2022/05/18/hepatic-encephalopathy-treatment-beyond-lactulose-and-rifaximin/>
-* [5]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC9257922/>
+* [5] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9257922/>
 * [6]&nbsp;<https://www.reddit.com/r/Cirrhosis/comments/1oox3h7/to_the_mod_who_locked_the_thread_on_lola/>
 
 «Results: A total of 12 articles were ultimately included, involving 858 patients, with 433 in the treatment group and 425 in the control group. Meta-analysis results: In terms of the total effective rate (RR: 1.31, 95%CI: 1.22, 1.42), the result is statistically significant (Z = 7.15, P = 0.00001 < 0.05), and for AST, ALT, NH3, TBIL, P = 0.00001 < 0.05. The pooled (RR: 1.31 [95% CI = 1.22, 1.42]), which is statistically significant, LOLA and Lactulose is 31% more effective than Lactulose alone in the control group in treating HE.» — [2]
@@ -1293,21 +1293,21 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
 
 «The model for end-stage liver disease (MELD) score helps decide how urgently someone needs a liver transplant in the next three months. The score ranges from 6 to 40. A person with a higher score needs a liver transplant sooner than does a person with a lower score.» — [1]
 
-  * [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
-  * [2]&nbsp;<https://www.dairbook.com/glossary/meld>
-  * [3]&nbsp;<https://medcalculators.stanford.edu/meld>
-  * [4]&nbsp;<https://www.mdcalc.com/calc/10437/model-end-stage-liver-disease-meld>
-  * [5]&nbsp;<https://www.dairbook.com/stories/mark-20240219a>
-  * [6] Very Well Health — <https://www.verywellhealth.com/meld-score-4783410>
-  * [7] UPMC: «Understanding Your MELD Score for Liver Transplant» — <https://www.upmc.com/services/transplant/patients/resources/meld-score>
-  * [8] «MELD 3.0 adequately predicts mortality and renal replacement therapy» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10339256/>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
+* [2]&nbsp;<https://www.dairbook.com/glossary/meld>
+* [3]&nbsp;<https://medcalculators.stanford.edu/meld>
+* [4]&nbsp;<https://www.mdcalc.com/calc/10437/model-end-stage-liver-disease-meld>
+* [5]&nbsp;<https://www.dairbook.com/stories/mark-20240219a>
+* [6] Very Well Health — <https://www.verywellhealth.com/meld-score-4783410>
+* [7] UPMC: «Understanding Your MELD Score for Liver Transplant» — <https://www.upmc.com/services/transplant/patients/resources/meld-score>
+* [8] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10339256/>
 
 The MELD score is really only relevant if a transplant is indicated, but used somewhat to produce an approximate  sickness level for someone with Cirrhosis.
 
 There are statistical correlations between level of liver illness (e.g. the MELD score) and the chance of survival for a period of time (E.g. « A MELD score above 30 indicates a 50% chance of dying in three months.» — [2] ).
 
 
-«A MELD score of 25 indicates a high risk of mortality, with estimated 3-month mortality rates typically falling within the range of 19.6% to 45.5%. » — [6] 
+«A MELD score of 25 indicates a high risk of mortality, with estimated 3-month mortality rates typically falling within the range of 19.6% to 45.5%. » — [6]
 
 «Here are typical MELD scores and how often they're recalculated:
 
@@ -1315,13 +1315,13 @@ There are statistical correlations between level of liver illness (e.g. the MELD
 * 19 to 24 — Every 30 days.
 * 11 to 18 — Every three months.
 * 10 or less — Once a year.
-» — [7]
+  » — [7]
 
 ### MELD 3
 
 «The Model for End-Stage Liver Disease (MELD) score, introduced in 2002, has since been refined. MELD 3.0, launched in 2023 in the United States, improves mortality prediction by incorporating sex and albumin. … » — [1]
 
-* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC12464064/>
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC12464064/>
 
 ### MELD Exception Score
 A MELD Exception Score is a modifier to the calculated MELD score. Some transplant candidates have a medical condition, such as cancer or rare forms of chronic liver disease, where MELD or PELD will not accurately predict their short-term transplant need. If so, they may qualify for an exception score — a separately assigned score to be used instead of their calculated MELD or PELD in matching the person for available organ offers. The goal of exception scores is to make access to transplant more equitable among patients with similar levels of medical urgency.
@@ -1331,15 +1331,15 @@ A MELD Exception Score is a modifier to the calculated MELD score. Some transpla
 ### MRE
 Magnetic resonance elastography (MRE) is a technology that combines MRI imaging with low-frequency vibrations to create a visual map (elastogram) that shows stiffness of body tissues.
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/magnetic-resonance-elastography/about/pac-20385177>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/magnetic-resonance-elastography/about/pac-20385177>
 
 ### MRI
 Magnetic resonance imaging (MRI) is a type of diagnostic test that can create detailed images of nearly every structure and organ inside the body. MRI uses magnets and radio waves to produce images on a computer.
 
 * [1]&nbsp;<https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/magnetic-resonance-imaging-mri>
-* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768>
 
-                                           
+
 
 ### Multiple Listing
 
@@ -1358,7 +1358,7 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 
 #### Refs
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/mycophenolate-mofetil-oral-route/description/drg-20073191>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/mycophenolate-mofetil-oral-route/description/drg-20073191>
 * [2]&nbsp;<https://en.wikipedia.org/wiki/Mycophenolic_acid>
 * [3]&nbsp;<https://www.dairbook.com/glossary/mycophenolate-mofetil>
 
@@ -1385,14 +1385,14 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 ### Neuropathy
 Peripheral neuropathy happens when the nerves that are located outside of the brain and spinal cord (peripheral nerves) are damaged.
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/symptoms-causes/syc-20352061>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/symptoms-causes/syc-20352061>
 
 ### Neutropenia
 
 «Neutropenia involves having lower-than-normal levels of neutrophils (a type of white blood cell) in your blood. It’s especially common among people receiving cancer treatments, like chemotherapy. Neutrophils help fight infections. If you have neutropenia, it’s important to take extra precautions to avoid germs that may make you sick.» — [2]
 
-  * [1]&nbsp;<https://hillman.upmc.com/patients/community-support/education/miscellaneous/neutropenia>
-  * [2] <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>
+* [1]&nbsp;<https://hillman.upmc.com/patients/community-support/education/miscellaneous/neutropenia>
+* [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>
 
 «
 Hand washing should be done:
@@ -1408,7 +1408,7 @@ You must avoid all of the following:
   Long periods of bed rest
   Hot and humid environments, such as saunas, greenhouses, and pools
   » — [1]
- 
+
 
 
 
@@ -1423,7 +1423,7 @@ Possible treats that the medical team might like and appreciate from patients in
 * SOUR PATCH KIDS & SWEDISH FISH
 * KIT KAT Chocolate Candy Bar, Miniatures, 10.1 oz Bag
 * Jelly Belly Sours Mix 5 Flavors Jelly Beans
-* Jelly Belly Fruit Bowl Jelly Beans, Assorted Fruit Flavors, 9.8-oz 
+* Jelly Belly Fruit Bowl Jelly Beans, Assorted Fruit Flavors, 9.8-oz
 
 ### OPTN
 «Organ Procurement and Transplantation Network (OPTN) is a unique public-private partnership that links all professionals involved in the U.S. donation and transplantation system. Also crucial to the system are individuals who sign organ donor cards, people who comment on policy proposals and countless volunteers who support donation and transplantation, among many others.» — [1]
@@ -1433,7 +1433,7 @@ Possible treats that the medical team might like and appreciate from patients in
 
 ### Osmolite
 
-* <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>    
+* <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>
 
 ### Oxycodone
 
@@ -1447,21 +1447,21 @@ Possible treats that the medical team might like and appreciate from patients in
 #### Refs
 
 
-* [1]&nbsp;<https://medlineplus.gov/druginfo/meds/a682132.html>                                                                                                                      
+* [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/druginfo/meds/a682132.html>
 
 ### Paracentesis
 
 «Paracentesis is the process of draining water from the abdominal cavity. A long needle is inserted into a pocket of water (commonly found through ultrasound) and the water drained into vacuum bottles. With severe ascites, several liters can be removed. Beyond the comfort from draining excess water, the fluid can be analyzed for infections or other causes.» — [3]
 
-* [1]&nbsp;<https://my.clevelandclinic.org/health/procedures/paracentesis>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/procedures/paracentesis>
 * [2]&nbsp;<https://en.wikipedia.org/wiki/Paracentesis>
 * [3]&nbsp;<https://www.dairbook.com/glossary/paracentesis>
 
-### Persistent Ascites 
+### Persistent Ascites
 
 «Persistent ascites (PA) after liver transplantation (LT), commonly defined as ascites lasting more than 4 wk after LT, can be expected in up to 7% of patients. » — [1]
 
-* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC9521448/>
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9521448/>
 
 
 ### PET
@@ -1499,12 +1499,12 @@ The Panel-of-Gods (POG) or the Tansplant Review Board decides whether to accept 
 
 « A pontine stroke (infarction) happens when there’s a blood flow blockage to a part of your brainstem called the pons. It’s a type of ischemic stroke. The blockage may be sudden (acute) or develop over time (chronic).» — [1]
 
-* [1]&nbsp;<https://my.clevelandclinic.org/health/diseases/pontine-stroke>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/pontine-stroke>
 
 
 ### Post-Transplant Relapse
 
-* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC10934278/>
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10934278/>
 
 «The prevalence rate of alcohol relapse in liver transplant patients with ALD varies across studies. Reported post-transplant alcohol relapse rates in recipients with ALD range from 15% to 50% [5].» — [1]
 
@@ -1520,7 +1520,7 @@ The Panel-of-Gods (POG) or the Tansplant Review Board decides whether to accept 
 #### Refs
 
 * [1]&nbsp;<https://www.medicalnewstoday.com/articles/317015>
-* [2]&nbsp;<https://pubmed.ncbi.nlm.nih.gov/22180452/>
+* [2] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/22180452/>
 * [3]&nbsp;<https://eyeandear.org.au/patients-visitors/fact-sheets/oral-corticosteroids-and-your-blood-sugar-levels/>
 
 
@@ -1534,7 +1534,7 @@ Could 3D-printed livers make transplant lists a thing of the past?
 Prothrombin Time (PT) is a measure of blood coagulation.
 
 * [1]&nbsp;<https://en.m.wikipedia.org/wiki/Prothrombin_time>
-* [2] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
 
 ### Punctate Infarct
 
@@ -1552,7 +1552,7 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 
 ### Recompensated
 
-* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC10025679/>
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10025679/>
 * [2]&nbsp;<https://bmcgastroenterol.biomedcentral.com/articles/10.1186/s12876-023-02956-4>
 
 «As highlighted previously, the term recompensated cirrhosis is only limited to aetiologies where a clear cause is identified and can be targeted. This limits the application of this term to aetiologies like viral cirrhosis and ALD. According to the present evidence, patients with NAFLD by definition cannot be categorized as recompensated despite fulfilling other criteria. This may limit the application of this term as NAFLD remains the most common form of liver disease and in the future may become the leading cause of cirrhosis and its complications worldwide. There is an evidence that sustained weight loss decreases hepatic steatosis and can cause reversal of fibrosis. Defining recompensation in the context of NAFLD may need modification of the criteria mentioned above in the future. However, the pertinent question in this aspect is whether or not a patient with NAFLD can ever be considered recompensated as data regarding recompensation in NAFLD does not exist unlike other aetiologies. Conceptualizing a model to define recompensation in NAFLD cirrhosis with the current backdrop of aetiological suppression would be challenging given the dynamics of metabolic risk factors once cirrhosis sets inpatients with NAFLD.» — [1]
@@ -1561,7 +1561,7 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 
 ### Recteq
 
-* <https://www.recteq.com/>                                                                                                                                              
+* <https://www.recteq.com/>
 
 ### Reddit for Transplant Support Study
 
@@ -1590,7 +1590,7 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 ### Safety Net
 The website about the safety net program that was on UNOS was seriously messed up recently with an administrative change, but you can read about it here (if the archive works... can be slow) and some quotes are below
 
- * [1]&nbsp;<https://web.archive.org/web/20251016005146/https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>
+* [1]&nbsp;<https://web.archive.org/web/20251016005146/https://unos.org/news/faq-safety-net-policies-for-multi-organ-transplantation/>
 
 « What is a safety net policy?
 
@@ -1605,13 +1605,13 @@ Scar tissue reaches approximately 50% of original skin strength at 6 weeks and u
 
 At least need yearly skin checks, although someone heard it needs to be four times per year.
 
-* <https://www.ucsfhealth.org/education/organ-transplant-and-skin-cancer-risk>                                                                                               
+* <https://www.ucsfhealth.org/education/organ-transplant-and-skin-cancer-risk>
 
 ### Skin Changes
 
-Cirrhosis can cause nutrient deficiencies that make skin more susceptible to cuts and tears.  Especially 'paper skin' where whole swaths of skin come off are 'disturbing', especially when combined with poor blood clotting (see INR or PT) that can also accompany cirrhosis.  
+Cirrhosis can cause nutrient deficiencies that make skin more susceptible to cuts and tears.  Especially 'paper skin' where whole swaths of skin come off are 'disturbing', especially when combined with poor blood clotting (see INR or PT) that can also accompany cirrhosis.
 
-* [1]&nbsp;<https://pmc.ncbi.nlm.nih.gov/articles/PMC9257870/>
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9257870/>
 * [2]&nbsp;<https://www.mypbcteam.com/resources/thin-skin-and-easy-bruising-are-they-symptoms-of-pbc>
 
 ### SRTR
@@ -1631,7 +1631,7 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 ### St. Mary's Reno
 
-* <https://saintmarysreno.com    >                                                                                                                                               
+* <https://saintmarysreno.com    >
 
 ### TACE
 «Transarterial chemoembolization (TACE) places chemotherapy and synthetic materials called embolic agents into a blood vessel feeding a cancerous tumor to cut off the tumor's blood supply and trap the chemotherapy within the tumor. It is most often used to treat liver cancer but may also be used in patients whose cancer has spread to other areas of the body. Chemoembolization may be used as a standalone treatment or in combination with surgery, ablation, chemotherapy or radiation therapy.» — [1]
@@ -1654,9 +1654,9 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 #### Refs
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/tacrolimus-oral-route/description/drg-20068314>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/tacrolimus-oral-route/description/drg-20068314>
 * [2]&nbsp;<https://www.dairbook.com/glossary/tacrolimus>
-* [2]&nbsp;<https://www.ncbi.nlm.nih.gov/books/NBK544318/>
+* [2] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/books/NBK544318/>
 
 
 ### Tacrolimus Skin Cancer
@@ -1672,7 +1672,7 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 ### Tacrolimus-induced Ascites
 
-* <https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/>                                                                                                                            
+* <https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/>
 
 ### Tattoos
 
@@ -1691,7 +1691,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 «Tinnitus is when you experience ringing or other noises in one or both of your ears.» — [1]
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/diseases-conditions/tinnitus/symptoms-causes/syc-20350156>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/tinnitus/symptoms-causes/syc-20350156>
 
 
 ### TIPS
@@ -1699,18 +1699,18 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 «Transjugular intrahepatic portosystemic shunt (TIPS) is a procedure to create new connections between two blood vessels in your liver. You may need this procedure if you have severe liver problems.» — [2]
 
 
-* [1]&nbsp;<https://my.clevelandclinic.org/health/procedures/tips-procedure>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/procedures/tips-procedure>
 * [2]&nbsp;<https://www.dairbook.com/glossary/tips>
 * [3]&nbsp;<https://www.mountsinai.org/health-library/surgery/transjugular-intrahepatic-portosystemic-shunt-tips>
 * [4]&nbsp;<https://www.radiologyinfo.org/en/info/tips>
-* [5]&nbsp;<https://medlineplus.gov/ency/images/ency/fullsize/21742.jpg>
+* [5] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/ency/images/ency/fullsize/21742.jpg>
 * [6]&nbsp;<https://gastroliver.medicine.ufl.edu/files/2012/07/TIPS1.jpg>
 
 «TIPS procedures typically take one to two hours. Your team will move you to a recovery room after the procedure. They’ll check on you as you wake up from anesthesia» — [1]
 
-### Topical Tacrolimus 
+### Topical Tacrolimus
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159>      
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159>
 
 ### Tramadol
 
@@ -1723,7 +1723,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 #### Refs
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050>
 
 ### Transplant Age
 «There is no strict, universal maximum age for a liver transplant, as candidacy is based on physiological, not chronological, age. » — AI Summary
@@ -1745,7 +1745,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 * [1]&nbsp;<https://www.sciencedirect.com/science/article/pii/S160061352203550X>
 * [2]&nbsp;<https://ars.els-cdn.com/content/image/1-s2.0-S160061352203550X-gr3_lrg.jpg>
-* [3] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
+* [3] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
 
 «With 1 year of available post-transplant follow-up, MELD category 15–17 represented a transition point. Posttransplant mortality risk was more than three times higher than waiting list mortality for MELD scores 6–11 (hazard ratio = 3.64; 95% confidence interval = 2.23–5.95; p < 0.001). The hazard ratio was also greater than 1.0 among patients with MELD 12–14 (hazard ratio = 2.35; 95% confidence interval 1.48–3.76; p < 0.001). Conversely, significant transplant survival benefit was observed at MELD scores 18 and higher, and the magnitude of transplant benefit increased with increasing MELD score» — [1]
 
@@ -1774,7 +1774,7 @@ So if you have:
 
 ### Umbilical Hernia
 
-* <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>                                                                                                              
+* <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>
 
 
 ### UNOS
@@ -1797,7 +1797,7 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 #### Refs
 
-* [1]&nbsp;<https://medlineplus.gov/druginfo/meds/a699047.html>
+* [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/druginfo/meds/a699047.html>
 
 
 ### Valcyte
@@ -1811,7 +1811,7 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 #### Refs
 
-* [1] [Mayo Clinic](/source/mayoclinicorg) — <https://www.mayoclinic.org/drugs-supplements/valganciclovir-oral-route/description/drg-20066642>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/valganciclovir-oral-route/description/drg-20066642>
 
 ### Vivitrol
 
@@ -1850,7 +1850,7 @@ Rifaximin (tradename Xifaxan) treats traveler's diarrhea and irritable bowel syn
 
 #### Refs
 
-* [1]&nbsp;<https://medlineplus.gov/druginfo/meds/a604027.html>
+* [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/druginfo/meds/a604027.html>
 * [2]&nbsp;<https://www.xifaxan.com/he/about-xifaxan-he/>
 * [3]&nbsp;<https://www.canadianmedcenter.com/drug/xifaxan>
 * [4]&nbsp;<https://www.canadapharmacy.com/products/xifaxan>
