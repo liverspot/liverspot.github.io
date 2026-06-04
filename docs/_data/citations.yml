@@ -78,6 +78,10 @@
   source: dairbookcom
   topic-name: Asterixis
   path: /topics/#asterixis
+- url: https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx
+  source: lwwcom
+  topic-name: Atrophy
+  path: /topics/#atrophy
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/
   source: nihgov
   topic-name: Atrophy
@@ -142,6 +146,10 @@
   source: nihgov
   topic-name: Compensated Cirrhosis
   path: /topics/#compensated-cirrhosis
+- url: https://www.mountsinai.org/health-library/tests/creatinine-blood-test
+  source: mountsinaiorg
+  topic-name: Creatinine
+  path: /topics/#creatinine
 - url: https://www.dairbook.com/glossary/creatinine
   source: dairbookcom
   topic-name: Creatinine
@@ -150,6 +158,10 @@
   source: mayoclinicorg
   topic-name: Creatinine Test
   path: /topics/#creatinine-test
+- url: https://my.clevelandclinic.org/health/diagnostics/ct-angiogram
+  source: clevelandclinicorg
+  topic-name: CTA
+  path: /topics/#cta
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3372912/
   source: nihgov
   topic-name: Deceased Organ Donation
@@ -158,10 +170,18 @@
   source: unosorg
   topic-name: Deceased Organ Donation
   path: /topics/#deceased-organ-donation
+- url: https://journals.lww.com/transplantjournal/fulltext/2017/11000/deceased_donor_liver_size_and_the_sex_based.9.aspx
+  source: lwwcom
+  topic-name: Deceased-Donor Liver Size
+  path: /topics/#deceased-donor-liver-size
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334027/
   source: nihgov
   topic-name: Decompensated Cirrhosis
   path: /topics/#decompensated-cirrhosis
+- url: https://www.nhs.uk/conditions/dialysis/
+  source: nhsuk
+  topic-name: Dialysis
+  path: /topics/#dialysis
 - url: https://www.kidney.org/atoz/content/dialysisinfo
   source: kidneyorg
   topic-name: Dialysis
@@ -174,10 +194,18 @@
   source: mayoclinicorg
   topic-name: Diverticulitis
   path: /topics/#diverticulitis
+- url: https://www.kidney.org/kidney-topics/writing-to-donor-families-and-living-donors-simple-guide-kidney-transplant-recipients
+  source: kidneyorg
+  topic-name: Donor Info
+  path: /topics/#donor-info
 - url: https://www.dairbook.com/glossary/drug-regimen
   source: dairbookcom
   topic-name: Drug Regimen
   path: /topics/#drug-regimen
+- url: https://pubmed.ncbi.nlm.nih.gov/6672504/
+  source: nihgov
+  topic-name: Dupuytren's contracture
+  path: /topics/#dupuytrens-contracture
 - url: https://www.mayoclinic.org/diseases-conditions/dysphagia/symptoms-causes/syc-20372028
   source: mayoclinicorg
   topic-name: Dysphagia
@@ -510,6 +538,14 @@
   source: nihgov
   topic-name: Recompensated
   path: /topics/#recompensated
+- url: https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx
+  source: lwwcom
+  topic-name: Reddit for Transplant Support Study
+  path: /topics/#reddit-for-transplant-support-study
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3840475/
+  source: nihgov
+  topic-name: Scar Tissue
+  path: /topics/#scar-tissue
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9257870/
   source: nihgov
   topic-name: Skin Changes
@@ -530,6 +566,14 @@
   source: nihgov
   topic-name: Tacrolimus
   path: /topics/#tacrolimus
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/
+  source: nihgov
+  topic-name: Tacrolimus-induced Ascites
+  path: /topics/#tacrolimus-induced-ascites
+- url: https://my.clevelandclinic.org/health/treatments/24254-thoracentesis
+  source: clevelandclinicorg
+  topic-name: Thoracentesis
+  path: /topics/#thoracentesis
 - url: https://www.mayoclinic.org/diseases-conditions/tinnitus/symptoms-causes/syc-20350156
   source: mayoclinicorg
   topic-name: Tinnitus
@@ -540,6 +584,10 @@
   path: /topics/#tips
 - url: https://www.dairbook.com/glossary/tips
   source: dairbookcom
+  topic-name: TIPS
+  path: /topics/#tips
+- url: https://www.mountsinai.org/health-library/surgery/transjugular-intrahepatic-portosystemic-shunt-tips
+  source: mountsinaiorg
   topic-name: TIPS
   path: /topics/#tips
 - url: https://medlineplus.gov/ency/images/ency/fullsize/21742.jpg
@@ -554,6 +602,14 @@
   source: mayoclinicorg
   topic-name: Tramadol
   path: /topics/#tramadol
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1421173/
+  source: nihgov
+  topic-name: Transplant Age
+  path: /topics/#transplant-age
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4964018/
+  source: nihgov
+  topic-name: Transplant Gender Correlations
+  path: /topics/#transplant-gender-correlations
 - url: https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545
   source: mayoclinicorg
   topic-name: Transplant Survival Benefit
@@ -562,6 +618,10 @@
   source: kidneyorg
   topic-name: uACR
   path: /topics/#uacr
+- url: https://my.clevelandclinic.org/health/diseases/umbilical-hernia
+  source: clevelandclinicorg
+  topic-name: Umbilical Hernia
+  path: /topics/#umbilical-hernia
 - url: https://unos.org
   source: unosorg
   topic-name: UNOS

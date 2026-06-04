@@ -647,7 +647,7 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 ### Atrophy
 
-* [1]&nbsp;<https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx>
+* [1] [LWW](/source/lwwcom/) — <https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx>
 * [2] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/>
 
 «Muscle loss during hospitalization is a major clinical concern, as it has been associated with reduced physical function, quality of life, and increased mortality. This review outlines the key causes of muscle wasting and highlights practical strategies to support muscle mass preservation during hospitalization.» — [1]
@@ -746,7 +746,7 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 ### [Creatinine](/topic/creatinine)
 «Creatinine is the waste byproduct of the muscles processing energy from creatine. Properly functioning kidneys remove creatinine from the blood supply.» — [2]
 
-* [1]&nbsp;<https://www.mountsinai.org/health-library/tests/creatinine-blood-test>
+* [1] [Mount Sinai](/source/mountsinaiorg/) — <https://www.mountsinai.org/health-library/tests/creatinine-blood-test>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/creatinine>
 
 ### Creatinine Test
@@ -757,7 +757,7 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 
 «A CT angiogram 〚Computed Tomography Angiogram〛 is a test that checks for blockages and other problems in your arteries. It’s a CT scan with the added benefit of contrast dye. A healthcare provider injects the dye into a vein in your arm. The dye flows through your blood vessels and makes them look bright on the CT images. This means it’s easier to see blood flow and spot issues.» — [1]
 
-[1]&nbsp;<https://my.clevelandclinic.org/health/diagnostics/ct-angiogram>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/ct-angiogram>
 
 ### Deceased Organ Donation
 
@@ -769,7 +769,7 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 
 ### Deceased-Donor Liver Size
 
-* [1]&nbsp;<https://journals.lww.com/transplantjournal/fulltext/2017/11000/deceased_donor_liver_size_and_the_sex_based.9.aspx>
+* [1] [LWW](/source/lwwcom/) — <https://journals.lww.com/transplantjournal/fulltext/2017/11000/deceased_donor_liver_size_and_the_sex_based.9.aspx>
 
 ### Decompensated Cirrhosis
 «Decompensated cirrhosis is defined as an acute deterioration in liver function in a patient with cirrhosis and is characterized by jaundice, ascites, hepatic encephalopathy, hepatorenal syndrome or variceal haemorrhage.
@@ -784,7 +784,7 @@ Liver damage and severe scarring can progress to the point where the liver can n
 ### [Dialysis](/topic/dialysis)
 «Dialysis functions as a very effective but partial replacement for the processes of the kidneys. The main capability is the removal of waste products (e.g. see Creatinine above) from the blood supply. A secondary capability is the removal of water from the blood supply, and through that, from areas water is over-accumulating.» — [3]
 
-* [1]&nbsp;<https://www.nhs.uk/conditions/dialysis/>
+* [1] [NHS](/source/nhsuk/) — <https://www.nhs.uk/conditions/dialysis/>
 * [2] [NKF](/source/kidneyorg/) — <https://www.kidney.org/atoz/content/dialysisinfo>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/dialysis>
 
@@ -798,10 +798,10 @@ When these pouches become inflamed, the condition is called diverticulitis. Infl
 
 ### Donor Info
 
-* <https://giftofhope.org/wp-content/uploads/2024/10/Sample-letter_Recipient-to-Donor-Family.pdf>
-* <https://www.kidney.org/kidney-topics/writing-to-donor-families-and-living-donors-simple-guide-kidney-transplant-recipients>
-* <https://patient.uwhealth.org/education/writing-your-donor-family>
-* <https://caringconnectionsneds.org>
+* [1]&nbsp;<https://giftofhope.org/wp-content/uploads/2024/10/Sample-letter_Recipient-to-Donor-Family.pdf>
+* [2] [NKF](/source/kidneyorg/) — <https://www.kidney.org/kidney-topics/writing-to-donor-families-and-living-donors-simple-guide-kidney-transplant-recipients>
+* [3]&nbsp;<https://patient.uwhealth.org/education/writing-your-donor-family>
+* [4]&nbsp;<https://caringconnectionsneds.org>
 
 ### Drug Regimen
 «A drug regimen describes the specific instructions and schedule for administering one or more drugs to a patient. It includes factors such as drug dosage, frequency, route of administration, and duration of treatment.» — [2]
@@ -823,7 +823,7 @@ A Donor Service Area (DSA) is a smaller portion of a UNOS Region in which organs
 
 ### Dupuytren's contracture
 
-* <https://pubmed.ncbi.nlm.nih.gov/6672504/>
+* [1] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/6672504/>
 
 ### DXA scan
 
@@ -1569,7 +1569,7 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 
 « Solid organ transplants are life-changing experiences that impact recipients, donors, care partners, medical teams, communities, and popular media. Social media is an influential part of modern life and provides a platform for healthcare experiences. This study assessed perspectives on solid organ transplantation by exploring the transplant community’s utilization of the social media site Reddit.» — [1]
 
-* [1]&nbsp;<https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx>
+* [1] [LWW](/source/lwwcom/) — <https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx>
 
 
 ### Retacrit
@@ -1599,7 +1599,9 @@ A safety net policy is for candidates who may not meet eligibility criteria for 
 
 ### Scar Tissue
 
-Scar tissue reaches approximately 50% of original skin strength at 6 weeks and up to 80% at 3 months, but it never regains the full elasticity or strength of uninjured skin. — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3840475/>
+Scar tissue reaches approximately 50% of original skin strength at 6 weeks and up to 80% at 3 months, but it never regains the full elasticity or strength of uninjured skin. — [1]
+
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3840475/>
 
 ### Skin Cancer Risk
 
@@ -1672,7 +1674,7 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 ### Tacrolimus-induced Ascites
 
-* <https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/>
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/>
 
 ### Tattoos
 
@@ -1685,7 +1687,7 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 Thoracentesis is a procedure that a provider uses to drain extra fluid from around the lungs (pleural space) with a needle. It’s used to test the fluid for infection or other illnesses and to relieve chest pressure that makes it tough to breathe. Thoracentesis is a short, low-risk procedure done while you’re awake.
 
-* <https://my.clevelandclinic.org/health/treatments/24254-thoracentesis>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/treatments/24254-thoracentesis>
 
 ### Tinnitus
 
@@ -1701,7 +1703,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/procedures/tips-procedure>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/tips>
-* [3]&nbsp;<https://www.mountsinai.org/health-library/surgery/transjugular-intrahepatic-portosystemic-shunt-tips>
+* [3] [Mount Sinai](/source/mountsinaiorg/) — <https://www.mountsinai.org/health-library/surgery/transjugular-intrahepatic-portosystemic-shunt-tips>
 * [4]&nbsp;<https://www.radiologyinfo.org/en/info/tips>
 * [5] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/ency/images/ency/fullsize/21742.jpg>
 * [6]&nbsp;<https://gastroliver.medicine.ufl.edu/files/2012/07/TIPS1.jpg>
@@ -1728,9 +1730,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 ### Transplant Age
 «There is no strict, universal maximum age for a liver transplant, as candidacy is based on physiological, not chronological, age. » — AI Summary
 
-* <https://pmc.ncbi.nlm.nih.gov/articles/PMC1421173/>
-
-
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC1421173/>
 
 
 ### Transplant Games
@@ -1739,7 +1739,10 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 ### Transplant Gender Correlations
 
-* Gender gap study: <https://pmc.ncbi.nlm.nih.gov/articles/PMC4964018/>
+* Gender gap study: — [1]
+
+#### Refs
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4964018/>
 
 ### Transplant Survival Benefit
 
@@ -1774,7 +1777,7 @@ So if you have:
 
 ### Umbilical Hernia
 
-* <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/umbilical-hernia>
 
 
 ### UNOS
@@ -1857,6 +1860,6 @@ Rifaximin (tradename Xifaxan) treats traveler's diarrhea and irritable bowel syn
 
 Xifaxan is now available as a generic (Rifaxamin) in Canada.  The patent protection in the US (Until 2029?) did not happen in Canada.
 
-Other brand names are: Xifaxanta/Zaxine
+Other brand names are: Xifaxanta/Zaxine_
 
 
