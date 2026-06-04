@@ -50,10 +50,22 @@
   source: clevelandclinicorg
   topic-name: Angioplasty
   path: /topics/#angioplasty
+- url: https://en.wikipedia.org/wiki/Ascites
+  source: wikipediaorg
+  topic-name: Ascites
+  path: /topics/#ascites
+- url: https://britishlivertrust.org.uk/what-is-ascites/
+  source: britishlivertrustorguk
+  topic-name: Ascites
+  path: /topics/#ascites
 - url: https://www.mayoclinic.org/tests-procedures/aspartate-aminotransferase-ast-test/about/pac-20583406
   source: mayoclinicorg
   topic-name: AST
   path: /topics/#ast
+- url: https://en.wikipedia.org/wiki/Asterixis
+  source: wikipediaorg
+  topic-name: Asterixis
+  path: /topics/#asterixis
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/
   source: nihgov
   topic-name: Atrophy
@@ -62,6 +74,14 @@
   source: medlineplusgov
   topic-name: Bilirubin
   path: /topics/#bilirubin
+- url: https://www.kidney.org/atoz/content/bk-virus-what-transplant-patients-need-know
+  source: kidneyorg
+  topic-name: BK Virus
+  path: /topics/#bk-virus
+- url: https://en.wikipedia.org/wiki/BK_virus
+  source: wikipediaorg
+  topic-name: BK Virus
+  path: /topics/#bk-virus
 - url: https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821
   source: mayoclinicorg
   topic-name: BUN Test
@@ -72,6 +92,10 @@
   path: /topics/#cirrhosis
 - url: https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487
   source: mayoclinicorg
+  topic-name: Cirrhosis
+  path: /topics/#cirrhosis
+- url: https://en.wikipedia.org/wiki/Cirrhosis
+  source: wikipediaorg
   topic-name: Cirrhosis
   path: /topics/#cirrhosis
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4381184/
@@ -86,6 +110,10 @@
   source: nihgov
   topic-name: CMV
   path: /topics/#cmv
+- url: https://en.wikipedia.org/wiki/Human_cytomegalovirus
+  source: wikipediaorg
+  topic-name: CMV
+  path: /topics/#cmv
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10523240/
   source: nihgov
   topic-name: Compensated Cirrhosis
@@ -98,10 +126,18 @@
   source: nihgov
   topic-name: Deceased Organ Donation
   path: /topics/#deceased-organ-donation
+- url: https://unos.org/news/understanding-donation-after-circulatory-death-dcd/
+  source: unosorg
+  topic-name: Deceased Organ Donation
+  path: /topics/#deceased-organ-donation
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334027/
   source: nihgov
   topic-name: Decompensated Cirrhosis
   path: /topics/#decompensated-cirrhosis
+- url: https://www.kidney.org/atoz/content/dialysisinfo
+  source: kidneyorg
+  topic-name: Dialysis
+  path: /topics/#dialysis
 - url: https://www.mayoclinic.org/diseases-conditions/diverticulitis/symptoms-causes/syc-20371758
   source: mayoclinicorg
   topic-name: Diverticulitis
@@ -114,12 +150,20 @@
   source: mayoclinicorg
   topic-name: Edema
   path: /topics/#edema
+- url: https://en.wikipedia.org/wiki/Edema
+  source: wikipediaorg
+  topic-name: Edema
+  path: /topics/#edema
 - url: https://www.ninds.nih.gov/health-information/disorders/encephalitis
   source: nihgov
   topic-name: Encephalitis
   path: /topics/#encephalitis
 - url: https://www.mayoclinic.org/diseases-conditions/encephalitis/symptoms-causes/syc-20356136
   source: mayoclinicorg
+  topic-name: Encephalitis
+  path: /topics/#encephalitis
+- url: https://en.wikipedia.org/wiki/Encephalitis
+  source: wikipediaorg
   topic-name: Encephalitis
   path: /topics/#encephalitis
 - url: https://my.clevelandclinic.org/health/diseases/encephalopathy
@@ -210,16 +254,28 @@
   source: clevelandclinicorg
   topic-name: Hypomagnesium
   path: /topics/#hypomagnesium
+- url: https://www.kidney.org/kidney-topics/hyponatremia-low-sodium-level-blood
+  source: kidneyorg
+  topic-name: Hyponatremia
+  path: /topics/#hyponatremia
 - url: https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711
   source: mayoclinicorg
   topic-name: Hyponatremia
   path: /topics/#hyponatremia
+- url: https://www.kidney.org/atoz/content/immuno
+  source: kidneyorg
+  topic-name: Immunosuppressant
+  path: /topics/#immunosuppressant
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8987166/
   source: nihgov
   topic-name: Immunosuppressant
   path: /topics/#immunosuppressant
 - url: https://my.clevelandclinic.org/health/treatments/10418-immunosuppressants
   source: clevelandclinicorg
+  topic-name: Immunosuppressant
+  path: /topics/#immunosuppressant
+- url: https://en.wikipedia.org/wiki/Immunosuppressive_drug
+  source: wikipediaorg
   topic-name: Immunosuppressant
   path: /topics/#immunosuppressant
 - url: https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/
@@ -242,6 +298,10 @@
   source: mayoclinicorg
   topic-name: Ketorolac
   path: /topics/#ketorolac
+- url: https://en.wikipedia.org/wiki/Kt/V
+  source: wikipediaorg
+  topic-name: Kt/V
+  path: /topics/#ktv
 - url: https://pubmed.ncbi.nlm.nih.gov/18617306/
   source: nihgov
   topic-name: Kt/V
@@ -290,6 +350,10 @@
   source: nihgov
   topic-name: MELD 3
   path: /topics/#meld-3
+- url: https://unos.org/policy/liver/exception-scores/
+  source: unosorg
+  topic-name: MELD Exception Score
+  path: /topics/#meld-exception-score
 - url: https://www.mayoclinic.org/tests-procedures/magnetic-resonance-elastography/about/pac-20385177
   source: mayoclinicorg
   topic-name: MRE
@@ -300,6 +364,10 @@
   path: /topics/#mri
 - url: https://www.mayoclinic.org/drugs-supplements/mycophenolate-mofetil-oral-route/description/drg-20073191
   source: mayoclinicorg
+  topic-name: Mycophenolate Mofetil
+  path: /topics/#mycophenolate-mofetil
+- url: https://en.wikipedia.org/wiki/Mycophenolic_acid
+  source: wikipediaorg
   topic-name: Mycophenolate Mofetil
   path: /topics/#mycophenolate-mofetil
 - url: https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/symptoms-causes/syc-20352061
@@ -318,6 +386,10 @@
   source: clevelandclinicorg
   topic-name: Paracentesis
   path: /topics/#paracentesis
+- url: https://en.wikipedia.org/wiki/Paracentesis
+  source: wikipediaorg
+  topic-name: Paracentesis
+  path: /topics/#paracentesis
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9521448/
   source: nihgov
   topic-name: Persistent Ascites
@@ -334,6 +406,10 @@
   source: nihgov
   topic-name: Prednisone
   path: /topics/#prednisone
+- url: https://en.m.wikipedia.org/wiki/Prothrombin_time
+  source: wikipediaorg
+  topic-name: PT
+  path: /topics/#pt
 - url: https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661
   source: mayoclinicorg
   topic-name: PT
@@ -378,6 +454,14 @@
   source: mayoclinicorg
   topic-name: Transplant Survival Benefit
   path: /topics/#transplant-survival-benefit
+- url: https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr
+  source: kidneyorg
+  topic-name: uACR
+  path: /topics/#uacr
+- url: https://unos.org
+  source: unosorg
+  topic-name: UNOS
+  path: /topics/#unos
 - url: https://medlineplus.gov/druginfo/meds/a699047.html
   source: medlineplusgov
   topic-name: Ursodiol

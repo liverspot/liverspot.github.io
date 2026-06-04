@@ -627,8 +627,8 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 ### Ascites
 «Ascites is the accumulation of water in the abdomen, commonly due to leakage from the liver’s portal vein. Ascites adds significant body weight as the water accumulates, making movement more difficult. It also pushes on internal organs, and this compression can affect ability to breath, eat, and other body activities.» — [3]
 
-* [1]&nbsp;<https://en.wikipedia.org/wiki/Ascites>
-* [2]&nbsp;<https://britishlivertrust.org.uk/what-is-ascites/>
+* [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Ascites>
+* [2] [British Liver Trust](/source/britishlivertrustorguk/) — <https://britishlivertrust.org.uk/what-is-ascites/>
 * [3]&nbsp;<https://www.dairbook.com/glossary/ascites>
 
 ### AST
@@ -641,7 +641,7 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 ### Asterixis
 «Asterixis is an inability to maintain sustained posture, commonly causing hands to flap when the wrist is extended. It is a symptom of hepatic encephalopathy and is why a doctor may ask a patient to hold out their hands.» — [3]
 
-* [1]&nbsp;<https://en.wikipedia.org/wiki/Asterixis>
+* [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Asterixis>
 * [2]&nbsp;<https://www.osmosis.org/answers/asterixis>
 * [3]&nbsp;<https://www.dairbook.com/glossary/asterixis>
 
@@ -675,8 +675,8 @@ What it is: A program that provides Xifaxan at no cost for up to one year for el
 
 When you take anti-rejection medications due to an organ transplant, the BK Virus can become active to the point that it will damage kidneys.» — [3]
 
-* [1]&nbsp;<https://www.kidney.org/atoz/content/bk-virus-what-transplant-patients-need-know>
-* [2]&nbsp;<https://en.wikipedia.org/wiki/BK_virus>
+* [1] [NKF](/source/kidneyorg/) — <https://www.kidney.org/atoz/content/bk-virus-what-transplant-patients-need-know>
+* [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/BK_virus>
 * [3]&nbsp;<https://www.dairbook.com/glossary/bk-virus>
 
 ### BUN Test
@@ -697,7 +697,7 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 
 * [1] [NIH](/source/nihgov/) — <https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487>
-* [3]&nbsp;<https://en.wikipedia.org/wiki/Cirrhosis>
+* [3] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Cirrhosis>
 * [4]&nbsp;<https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=aa67653>
 * [5]&nbsp;<https://www.dairbook.com/glossary/cirrhosis>
 * [6] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4381184/>
@@ -713,7 +713,7 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358>
 * [2] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/33567734/>
-* [3]&nbsp;<https://en.wikipedia.org/wiki/Human_cytomegalovirus>
+* [3] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Human_cytomegalovirus>
 
 
 #### Alternate name
@@ -764,7 +764,7 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 «Deceased organ donation occurs in two ways: Donation after Brain Death (DBD) and Donation after Circulatory Death (DCD, sometimes called cardiac death).» — [AI:Google 'Deceased Organ Donation Brain Circulatory']
 
 * [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3372912/>
-* [2]&nbsp;<https://unos.org/news/understanding-donation-after-circulatory-death-dcd/>
+* [2] [UNOS](/source/unosorg/) — <https://unos.org/news/understanding-donation-after-circulatory-death-dcd/>
 * [3]&nbsp;<https://giftoflifemichigan.org/blog/the-facts-brain-death-and-dcd>
 
 ### Deceased-Donor Liver Size
@@ -785,7 +785,7 @@ Liver damage and severe scarring can progress to the point where the liver can n
 «Dialysis functions as a very effective but partial replacement for the processes of the kidneys. The main capability is the removal of waste products (e.g. see Creatinine above) from the blood supply. A secondary capability is the removal of water from the blood supply, and through that, from areas water is over-accumulating.» — [3]
 
 * [1]&nbsp;<https://www.nhs.uk/conditions/dialysis/>
-* [2]&nbsp;<https://www.kidney.org/atoz/content/dialysisinfo>
+* [2] [NKF](/source/kidneyorg/) — <https://www.kidney.org/atoz/content/dialysisinfo>
 * [3]&nbsp;<https://www.dairbook.com/glossary/dialysis>
 
 ### Diverticulitis
@@ -840,7 +840,7 @@ Dysphagia is an inability to swallow properly. Food and liquids orally taken can
 Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tissues. Edema can affect any part of the body. But it's more likely to show up in the legs and feet.
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493>
-* [2]&nbsp;<https://en.wikipedia.org/wiki/Edema>
+* [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Edema>
 
 ### El Camino [Car]
 
@@ -851,7 +851,7 @@ Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tis
 «Encephalitis is swelling of the brain. Frequently also used as an easier to pronounce version of encephalopathy by laymen, myself included.» — [4]
 * [1] [NIH](/source/nihgov/) — <https://www.ninds.nih.gov/health-information/disorders/encephalitis>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/encephalitis/symptoms-causes/syc-20356136>
-* [3]&nbsp;<https://en.wikipedia.org/wiki/Encephalitis>
+* [3] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Encephalitis>
 * [4]&nbsp;<https://www.dairbook.com/glossary/encephalitis>
 
 ### Encephalopathy
@@ -1113,7 +1113,7 @@ Sodium is an important mineral that helps balance the amount of fluid (water) in
 
 In hyponatremia, one or more factors cause the sodium in the body to be diluted. These factors can range from an underlying medical condition to drinking too much water. When this happens, the body's water levels rise, and cells begin to swell. This swelling can cause many health problems, from mild to life-threatening.» — [2]
 
-* [1]&nbsp;<https://www.kidney.org/kidney-topics/hyponatremia-low-sodium-level-blood>
+* [1] [NKF](/source/kidneyorg/) — <https://www.kidney.org/kidney-topics/hyponatremia-low-sodium-level-blood>
 
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711>
 
@@ -1121,10 +1121,10 @@ In hyponatremia, one or more factors cause the sodium in the body to be diluted.
 ### Immunosuppressant
 «Immunosuppressants are drugs or medicines that lower the body's ability to reject a transplanted organ. Another term for these drugs is anti-rejection drugs.» — [5]
 
-* [1]&nbsp;<https://www.kidney.org/atoz/content/immuno>
+* [1] [NKF](/source/kidneyorg/) — <https://www.kidney.org/atoz/content/immuno>
 * [2] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8987166/>
 * [3] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/treatments/10418-immunosuppressants>
-* [4]&nbsp;<https://en.wikipedia.org/wiki/Immunosuppressive_drug>
+* [4] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Immunosuppressive_drug>
 * [5]&nbsp;<https://www.dairbook.com/glossary/immunosuppressant>
 
 <span class='topic-arrow' >[&rarr;](/topic/immunosuppression)</span>
@@ -1186,7 +1186,7 @@ A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to 
 ### Kt/V
 The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo or peritoneal)
 
-* [1]&nbsp;<https://en.wikipedia.org/wiki/Kt/V>
+* [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Kt/V>
 * [2]&nbsp;<https://www.sciencedirect.com/topics/medicine-and-dentistry/kt-v>
 * [3] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/18617306/>
 * [4]&nbsp;<https://advancingdialysis.org/standardized-kt-v-home-hemodialysis-matter/>
@@ -1326,7 +1326,7 @@ There are statistical correlations between level of liver illness (e.g. the MELD
 ### MELD Exception Score
 A MELD Exception Score is a modifier to the calculated MELD score. Some transplant candidates have a medical condition, such as cancer or rare forms of chronic liver disease, where MELD or PELD will not accurately predict their short-term transplant need. If so, they may qualify for an exception score — a separately assigned score to be used instead of their calculated MELD or PELD in matching the person for available organ offers. The goal of exception scores is to make access to transplant more equitable among patients with similar levels of medical urgency.
 
-* [1]&nbsp;<https://unos.org/policy/liver/exception-scores/>
+* [1] [UNOS](/source/unosorg/) — <https://unos.org/policy/liver/exception-scores/>
 
 ### MRE
 Magnetic resonance elastography (MRE) is a technology that combines MRI imaging with low-frequency vibrations to create a visual map (elastogram) that shows stiffness of body tissues.
@@ -1359,7 +1359,7 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 #### Refs
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/mycophenolate-mofetil-oral-route/description/drg-20073191>
-* [2]&nbsp;<https://en.wikipedia.org/wiki/Mycophenolic_acid>
+* [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Mycophenolic_acid>
 * [3]&nbsp;<https://www.dairbook.com/glossary/mycophenolate-mofetil>
 
 
@@ -1454,7 +1454,7 @@ Possible treats that the medical team might like and appreciate from patients in
 «Paracentesis is the process of draining water from the abdominal cavity. A long needle is inserted into a pocket of water (commonly found through ultrasound) and the water drained into vacuum bottles. With severe ascites, several liters can be removed. Beyond the comfort from draining excess water, the fluid can be analyzed for infections or other causes.» — [3]
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/procedures/paracentesis>
-* [2]&nbsp;<https://en.wikipedia.org/wiki/Paracentesis>
+* [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Paracentesis>
 * [3]&nbsp;<https://www.dairbook.com/glossary/paracentesis>
 
 ### Persistent Ascites
@@ -1533,7 +1533,7 @@ Could 3D-printed livers make transplant lists a thing of the past?
 ### PT
 Prothrombin Time (PT) is a measure of blood coagulation.
 
-* [1]&nbsp;<https://en.m.wikipedia.org/wiki/Prothrombin_time>
+* [1] [Wikipedia](/source/wikipediaorg/) — <https://en.m.wikipedia.org/wiki/Prothrombin_time>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
 
 ### Punctate Infarct
@@ -1768,7 +1768,7 @@ So if you have:
 
 «Albumin Creatinine Ratio = Albumin in mg/dL / Creatinine in g/dL» — [2]
 
-* [1]&nbsp;<https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr>
+* [1] [NKF](/source/kidneyorg/) — <https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr>
 * [2]&nbsp;<https://www.mdapp.co/albumin-creatinine-ratio-calculator-461/>
 
 
@@ -1780,7 +1780,7 @@ So if you have:
 ### UNOS
 «United Network for Organ Sharing (UNOS) manages the transplant system for the United States.» — [2]
 
-* [1]&nbsp;<https://unos.org>
+* [1] [UNOS](/source/unosorg/) — <https://unos.org>
 * [2]&nbsp;<https://www.dairbook.com/glossary/unos>
 
 ### UNOS Regions
