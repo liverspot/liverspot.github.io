@@ -1208,6 +1208,8 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 <span style="float:right; padding-left:6px"><img src="/images/image_5980_w160h160.png" height="64" width="64"></span>
 «Welcome! LiverSpot is a community for people with a diseased liver, kidney, heart, lung, or other organ (“OrganSpot”) who want to provide knowledge and support to each other.»
 
+* <https://liverspot.org>
+
 ### Liver Circle
 «Imagine a world where a liver disease diagnosis isn't a dead end, but a new beginning. Where the fear of a "transplant" is replaced by the power of knowledge and a supportive community.
 
@@ -1244,7 +1246,8 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 ### Liver Pain                                                                         
 * <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain>
 
-* <https://liverspot.org>
+
+
 
 ### Liver Spots
 
