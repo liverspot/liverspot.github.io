@@ -1221,12 +1221,12 @@ This is the world The Liver Circle, Inc. (TLC) is building.  We're more than an 
 
 Some of these tests measure how well the liver is performing its regular functions of producing protein and clearing bilirubin, a blood waste product. Other liver function tests measure enzymes that liver cells release in response to damage or disease.» — [1]
 
-* Enzyme Tests
-   * [ALT](#alt) — Alanine transaminase
-   * [AST](#ast) — Aspartate transaminase
-   * [ALP](#alp) — Alkaline phosphatase
 * [Albumin](#albumin) and total protein
 * [Bilirubin](#bilirubin)
+* Enzyme Tests
+   * [ALP](#alp) — Alkaline phosphatase
+   * [ALT](#alt) — Alanine transaminase
+   * [AST](#ast) — Aspartate transaminase
 * [GGT](#ggt) — Gamma-glutamyltransferase 
 
 #### Refs
