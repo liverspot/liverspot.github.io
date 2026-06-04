@@ -374,7 +374,7 @@ table td, th {
 The following entries contain information on topics that have been brought up during discussions related to organ disease and treatments.
 
 * *Index:*  &nbsp;&nbsp; [A-C](#a) &nbsp;•&nbsp; [D-F](#d) &nbsp;•&nbsp; [G-H](#g) &nbsp;•&nbsp; [I-L](#i) &nbsp;•&nbsp; [M-O](#m) &nbsp;•&nbsp; [P-S](#p) &nbsp;•&nbsp; [T-U](#t) &nbsp;•&nbsp; [V-Z](#v)
-* *[Entries](#entries)*
+* *Entries:* &nbsp;&nbsp; [A&darr;](#acr) &nbsp;•&nbsp; [D&darr;](#deceased-organ-donation) &nbsp;•&nbsp; [G&darr;](#gabapentin) &nbsp;•&nbsp; [I&darr;](#immunosuppressant) &nbsp;•&nbsp; [M&darr;](#medical-marijuana) &nbsp;•&nbsp; [P&darr;](#paracentesis) &nbsp;•&nbsp; [T&darr;](#tace) &nbsp;•&nbsp; [V&darr;](#valcyte)
 
 ## Index
 
