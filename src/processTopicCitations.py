@@ -128,7 +128,7 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
                     prefix, description, suffix = match1b.groups()
                     if description:
                         description = f"«{description}» "
-                        print(source_tag, url, description, file=sys.stderr)
+                        # print(source_tag, url, description, file=sys.stderr)
                 else:
                     description = ""
 
@@ -159,9 +159,9 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
 
 
 # Informational output to look for new entries to add to '_sources'
-print(f"Processed {len(found_sources.keys())}\n",  file=sys.stderr)
-print("New sources with more than 1 citation",  file=sys.stderr)
+print(f"Processed citations from {len(found_sources.keys())} sources out of {len(sources.keys())} registered sources\n",  file=sys.stderr)
+print("The following are currently unregistered sources with more than 1 citation:",  file=sys.stderr)
 for key, value in found_sources.items():
     if key not in sources:
-        if value["count"] > 0:
+        if value["count"] > 1:
             print(f"{key}: {value}",  file=sys.stderr)
