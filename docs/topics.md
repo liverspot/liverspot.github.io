@@ -662,7 +662,7 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 Bausch Health PAP Summary (2026)
 What it is: A program that provides Xifaxan at no cost for up to one year for eligible patients
 
-* <https://www.bauschhealthpap.com/globalassets/pi/xifaxan550-pi.pdf>
+* [1]&nbsp;<https://www.bauschhealthpap.com/globalassets/pi/xifaxan550-pi.pdf>
 
 ### Bilirubin
 «Bilirubin is a yellowish substance made during your body's normal process of breaking down old red blood cells. Bilirubin is found in bile, a fluid your liver makes that helps you digest food. If your liver is healthy, it will remove most of the bilirubin from your body.» — [1]
@@ -868,7 +868,7 @@ Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tis
 ### ESLD
 End-Stage Liver Disease (ESLD) is when the liver is damaged beyond repair due to chronic liver disease or acute liver failure.
 
-* <https://www.nhsbt.nhs.uk/organ-transplantation/liver/is-a-liver-transplant-right-for-you/end-stage-liver-disease/>
+* [1] <https://www.nhsbt.nhs.uk/organ-transplantation/liver/is-a-liver-transplant-right-for-you/end-stage-liver-disease/>
 
 ### Esophageal Varices
 Esophageal varices are enlarged veins in the esophagus, the tube that connects the throat and stomach. Esophageal varices most often happen in people with serious liver diseases.
@@ -984,7 +984,7 @@ So it is a brand name related to filgrastim
 
 ### Gougol
 
-* <https://med.stanford.edu/profiles/amir-gougol>
+* [1] <https://med.stanford.edu/profiles/amir-gougol>
 
 Professional Education
 * Fellowship: UCSF Dept of Gastroenterology (2023) CA
@@ -1015,8 +1015,8 @@ HE is short for Hepatic Encephalopathy.
 
 Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (about the brain) and ‘pathos’ (disease). Depending on severity encephalopathy can show up as symptoms from headaches to coma. Hepatic encephalopathy (HE) is caused by liver problems and accumulated toxins in the blood.
 
-* <https://my.clevelandclinic.org/health/diseases/encephalopathy>
-* <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
+* [1] <https://my.clevelandclinic.org/health/diseases/encephalopathy>
+* [2] <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
 
 ### Hemochromatosis
 Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much iron from the food you eat. Excess iron is stored in your organs, especially your liver, heart and pancreas. Too much iron can lead to life-threatening conditions, such as liver disease, heart problems and diabetes.
@@ -1055,7 +1055,7 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 
 ### HPMV
 
-* <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv>
+* [1] <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv>
 
 ### Hyper
 
@@ -1130,7 +1130,7 @@ In hyponatremia, one or more factors cause the sodium in the body to be diluted.
 <span class='topic-arrow' >[&rarr;](/topic/immunosuppression)</span>
 ### [Immunosuppression](/topic/immunosuppression)
 
-* <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
+* [1] <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
 
 ### INR
 «An International Normalized Ratio (INR) test calculates how long it takes for blood to clot compared to a normal healthy person (with a value of ‘1’). Blood thinners and illness can cause blood to take several times longer than normal to clot.» — [3]
@@ -1143,12 +1143,12 @@ In hyponatremia, one or more factors cause the sodium in the body to be diluted.
 
 An Intensive Outpatient Program (IOP) is a hospital program that meets several times a week for several hours at a time. IOPs are supposed to be as effective as residential programs and can also function as a transition from an inpatient program to normal life surroundings.
 
-* <https://en.wikipedia.org/wiki/Intensive_outpatient_program>
-* <https://americanaddictioncenters.org/intensive-outpatient-programs>
+* [1] <https://en.wikipedia.org/wiki/Intensive_outpatient_program>
+* [1] <https://americanaddictioncenters.org/intensive-outpatient-programs>
 
 #### Virtual IOP
 
-* <https://www.hazeldenbettyford.org/research-studies/addiction-research/virtual-intensive-outpatient-outcomes>
+* [1] <https://www.hazeldenbettyford.org/research-studies/addiction-research/virtual-intensive-outpatient-outcomes>
 
 ### Itching
 «Itching is a common symptom from liver damage. Possible helpful treatments include: Cholestyramime Powder,  Hydroxyzine, and Sarna lotion .» — [2]
@@ -1210,7 +1210,7 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 <span style="float:right; padding-left:6px"><img src="/images/image_5980_w160h160.png" height="64" width="64"></span>
 «Welcome! LiverSpot is a community for people with a diseased liver, kidney, heart, lung, or other organ (“OrganSpot”) who want to provide knowledge and support to each other.»
 
-* <https://liverspot.org>
+* [1] <https://liverspot.org>
 
 ### Liver Circle
 «Imagine a world where a liver disease diagnosis isn't a dead end, but a new beginning. Where the fear of a "transplant" is replaced by the power of knowledge and a supportive community.
@@ -1246,7 +1246,7 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 * [2] [OHSU](/source/ohsuedu/) — <https://news.ohsu.edu/2023/08/16/liver-in-a-box-helps-save-more-lives-can-improve-transplant-outcomes>
 
 ### Liver Pain
-* <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain>
+* [1] <https://www.carygastro.com/blog/what-are-the-possible-causes-of-liver-pain>
 
 
 
@@ -1283,7 +1283,7 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
 
 ### Medical Marijuana
 
-* <https://disa.com/marijuana-legality-by-state/>
+* [1] <https://disa.com/marijuana-legality-by-state/>
 
 
 
@@ -1299,7 +1299,7 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
 * [4] [MDCalc](/source/mdcalccom/) — <https://www.mdcalc.com/calc/10437/model-end-stage-liver-disease-meld>
 * [5] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/stories/mark-20240219a>
 * [6] Very Well Health — <https://www.verywellhealth.com/meld-score-4783410>
-* [7] UPMC: «Understanding Your MELD Score for Liver Transplant» — <https://www.upmc.com/services/transplant/patients/resources/meld-score>
+* [7] [UPMC](/source/upmccom/) «Understanding Your MELD Score for Liver Transplant» — <https://www.upmc.com/services/transplant/patients/resources/meld-score>
 * [8] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10339256/>
 
 The MELD score is really only relevant if a transplant is indicated, but used somewhat to produce an approximate  sickness level for someone with Cirrhosis.
@@ -1346,7 +1346,7 @@ Magnetic resonance imaging (MRI) is a type of diagnostic test that can create de
 Multiple listing involves registering at two or more transplant hospitals.
 In general, candidates listed at hospitals closest to the donor hospital will get more matching priority than other candidates who are in similar medical condition, but listed at transplant hospitals farther away.
 
-* <https://www.hrsa.gov/optn/patients/organ-transplants/multiple-listing>
+* [1] <https://www.hrsa.gov/optn/patients/organ-transplants/multiple-listing>
 
 ### Mycophenolate Mofetil
 «Mycophenolate Mofetil is an immunosuppressant that prevents rejection of transplanted organs and augments Tacrolimus.» — [3]
@@ -1391,7 +1391,7 @@ Peripheral neuropathy happens when the nerves that are located outside of the br
 
 «Neutropenia involves having lower-than-normal levels of neutrophils (a type of white blood cell) in your blood. It’s especially common among people receiving cancer treatments, like chemotherapy. Neutrophils help fight infections. If you have neutropenia, it’s important to take extra precautions to avoid germs that may make you sick.» — [2]
 
-* [1]&nbsp;<https://hillman.upmc.com/patients/community-support/education/miscellaneous/neutropenia>
+* [1] [UPMC](/source/upmccom/) — <https://hillman.upmc.com/patients/community-support/education/miscellaneous/neutropenia>
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>
 
 «
@@ -1433,7 +1433,7 @@ Possible treats that the medical team might like and appreciate from patients in
 
 ### Osmolite
 
-* <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>
+* [1] <https://www.amazon.com/Osmolite-Unflavored-High-Protein-High-Calorie-Nutrition/dp/B002C5YLG0>
 
 ### Oxycodone
 
@@ -1489,7 +1489,7 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 
 ### Pink Cloud
 
-* <https://www.healthline.com/health/pink-cloud>
+* [1] <https://www.healthline.com/health/pink-cloud>
 
 ### POG
 
@@ -1528,7 +1528,7 @@ The Panel-of-Gods (POG) or the Tansplant Review Board decides whether to accept 
 
 Could 3D-printed livers make transplant lists a thing of the past?
 
-* <https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past>
+* [1] <https://www.colorado.edu/today/2026/03/17/could-3d-printed-livers-make-transplant-lists-thing-past>
 
 ### PT
 Prothrombin Time (PT) is a measure of blood coagulation.
@@ -1607,7 +1607,7 @@ Scar tissue reaches approximately 50% of original skin strength at 6 weeks and u
 
 At least need yearly skin checks, although someone heard it needs to be four times per year.
 
-* <https://www.ucsfhealth.org/education/organ-transplant-and-skin-cancer-risk>
+* [1] <https://www.ucsfhealth.org/education/organ-transplant-and-skin-cancer-risk>
 
 ### Skin Changes
 
@@ -1633,7 +1633,7 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 ### St. Mary's Reno
 
-* <https://saintmarysreno.com    >
+* <https://saintmarysreno.com>
 
 ### TACE
 «Transarterial chemoembolization (TACE) places chemotherapy and synthetic materials called embolic agents into a blood vessel feeding a cancerous tumor to cut off the tumor's blood supply and trap the chemotherapy within the tumor. It is most often used to treat liver cancer but may also be used in patients whose cancer has spread to other areas of the body. Chemoembolization may be used as a standalone treatment or in combination with surgery, ablation, chemotherapy or radiation therapy.» — [1]
@@ -1670,7 +1670,7 @@ The SRTR website provides access to a very detailed group of reports and tools t
 ### Tacrolimus vs. CellCept
 «Tacrolimus (a calcineurin inhibitor) is generally more potent at preventing acute rejection, while CellCept is often better tolerated with fewer metabolic side effects» — [AI]
 
-* <https://www.amjtransplant.org/article/S1600-6135(22)03862-X/fulltext>
+* [1] <https://www.amjtransplant.org/article/S1600-6135(22)03862-X/fulltext>
 
 ### Tacrolimus-induced Ascites
 
@@ -1758,7 +1758,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 ### Tumeric
 
-* <https://www.ynhhs.org/articles/supplements-liver-damage >
+* [1] <https://www.ynhhs.org/articles/supplements-liver-damage >
 
 ### uACR
 

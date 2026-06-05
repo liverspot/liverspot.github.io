@@ -71,7 +71,7 @@ table td, th {
 
 {% capture my_text %}
 {% for citation in filtered_citations -%}
-* [{{citation.topic-name}}]({{citation.path}}) — <{{citation.url}}>
+* [{{citation.topic-name}}]({{citation.path}}) {{citation.description}} — <{{citation.url}}>
 {% endfor -%}
 
 {% endcapture %}
