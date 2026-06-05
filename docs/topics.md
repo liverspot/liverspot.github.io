@@ -808,7 +808,7 @@ When these pouches become inflamed, the condition is called diverticulitis. Infl
 
 * [1]&nbsp;<https://www.jove.com/science-education/14419/drug-dosage-regimen-overview>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/drug-regimen>
-
+* [3] [DAIR](/source/dairbookcom/) «Post Transplant Drug Regimen» — <https://www.dairbook.com/stories/mark-20240229a>
 
 ### DSA
 A Donor Service Area (DSA) is a smaller portion of a UNOS Region in which organs can be transported successfully.

@@ -253,6 +253,11 @@
   topic-name: Drug Regimen
   path: /topics/#drug-regimen
   description: ""
+- url: https://www.dairbook.com/stories/mark-20240229a
+  source: dairbookcom
+  topic-name: Drug Regimen
+  path: /topics/#drug-regimen
+  description: "«Post Transplant Drug Regimen» "
 - url: https://pubmed.ncbi.nlm.nih.gov/6672504/
   source: nihgov
   topic-name: Dupuytren's contracture
