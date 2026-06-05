@@ -905,7 +905,7 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 
 «We use FIB-4 as an initial assessment. In chronic HCV, when combined with APRI, it has excellent negative predictive value for excluding advanced fibrosis. The positive predictive value is less clear.  Those with FIB-4 >1.5 and/or APRI >0.5 often go on to liver elastography.» — [1]
 
-* [1]&nbsp;<https://www.mdcalc.com/calc/2200/fibrosis-4-fib-4-index-liver-fibrosis>
+* [1] [MDCalc](/source/mdcalccom/) — <https://www.mdcalc.com/calc/2200/fibrosis-4-fib-4-index-liver-fibrosis>
 
 ### Fibroscan
 «FibroScan is a special ultrasound technology that measures liver stiffness (hardness) and fatty changes in your liver. These measurements help your healthcare provider learn more about your liver disease» — [1]
@@ -1007,7 +1007,7 @@ Professional Education
 « The GALAD model has been demonstrated to have higher diagnostic accuracy for the detection of hepatocellular carcinoma (HCC) when compared to the use AFP, AFP-L3, and DCP markers alone or in combination. The performance of the GALAD score has also been reported to be superior to ultrasound for HCC detection» — [1]
 
 * [1]&nbsp;<https://www.mayocliniclabs.com/test-catalog/overview/606585>
-* [2]&nbsp;<https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>
+* [2] [MDCalc](/source/mdcalccom/) — <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>
 
 ### HE
 
@@ -1033,7 +1033,7 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 ### Hepatitis
 «Hepatitis means inflammation of the liver. Usually the term is short for one of the five Viral Hepatitis strains: Hepatitis A, B, C, D and E.»
 
-* [1]&nbsp;<https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis>
+* [1] [JHM](/source/hopkinsmedicineorg/) — <https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis>
 * [2]&nbsp;<https://www.cdc.gov/hepatitis/abc/index.htm>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/hepatitis>
 
@@ -1049,7 +1049,7 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 
 «HLA DSA (Human Leukocyte Antigen Donor-Specific Antibody) refers to antibodies in a transplant recipient's bloodstream that specifically target and attack the unique HLA proteins of a donor. These are routinely monitored because they can trigger immune rejection of a transplanted organ or stem cells» — [AI:Google]
 
-* [1]&nbsp;<https://www.sciencedirect.com/topics/medicine-and-dentistry/hla-antigen>
+* [1] [ScienceDirect](/source/sciencedirectcom/) — <https://www.sciencedirect.com/topics/medicine-and-dentistry/hla-antigen>
 * [2] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10920073/>
 * [3]&nbsp;<https://mlabs.umich.edu/tests/hla-donor-specific-antibody>
 
@@ -1061,19 +1061,19 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 
 «Hyper-: Prefix meaning high, beyond, excessive, or above normal,» — [1]
 
-* [1]&nbsp;<https://www.rxlist.com/hyper-/definition.htm>
+* [1] [RxList](/source/rxlistcom/) — <https://www.rxlist.com/hyper-/definition.htm>
 
 ### Hyperbilirubinemia
 
 «Hyperbilirubinemia is a condition in which there is a build up of bilirubin in the blood, causing yellow discoloration of the eyes and skin, called jaundice. 〚…〛» — [1]
 
-* [1]&nbsp;<https://www.chop.edu/conditions-diseases/hyperbilirubinemia-and-jaundice>
+* [1] [CHOP](/source/chopedu/) — <https://www.chop.edu/conditions-diseases/hyperbilirubinemia-and-jaundice>
 
 ### Hypo
 
 «Hypo-: Prefix meaning low, under, beneath, down, or below normal, » — [1]
 
-* [1]&nbsp;<https://www.rxlist.com/hypo-/definition.htm>
+* [1] [RxList](/source/rxlistcom/) — <https://www.rxlist.com/hypo-/definition.htm>
 
 ### Hypoalbuminemia
 
@@ -1162,7 +1162,7 @@ A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to 
 
 * [1]&nbsp;<https://starship.org.nz/guidelines/gastrostomy-transgastric-jejunal-jejunal-tube-care/>
 * [2] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/ency/patientinstructions/000181.htm>
-* [3]&nbsp;<https://www.chop.edu/treatments/jejunostomy-tubes>
+* [3] [CHOP](/source/chopedu/) — <https://www.chop.edu/treatments/jejunostomy-tubes>
 
 ### Jaundice
 
@@ -1187,7 +1187,7 @@ A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to 
 The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo or peritoneal)
 
 * [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Kt/V>
-* [2]&nbsp;<https://www.sciencedirect.com/topics/medicine-and-dentistry/kt-v>
+* [2] [ScienceDirect](/source/sciencedirectcom/) — <https://www.sciencedirect.com/topics/medicine-and-dentistry/kt-v>
 * [3] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/18617306/>
 * [4]&nbsp;<https://advancingdialysis.org/standardized-kt-v-home-hemodialysis-matter/>
 
@@ -1296,7 +1296,7 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/meld>
 * [3]&nbsp;<https://medcalculators.stanford.edu/meld>
-* [4]&nbsp;<https://www.mdcalc.com/calc/10437/model-end-stage-liver-disease-meld>
+* [4] [MDCalc](/source/mdcalccom/) — <https://www.mdcalc.com/calc/10437/model-end-stage-liver-disease-meld>
 * [5] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/stories/mark-20240219a>
 * [6] Very Well Health — <https://www.verywellhealth.com/meld-score-4783410>
 * [7] UPMC: «Understanding Your MELD Score for Liver Transplant» — <https://www.upmc.com/services/transplant/patients/resources/meld-score>
@@ -1336,7 +1336,7 @@ Magnetic resonance elastography (MRE) is a technology that combines MRI imaging 
 ### MRI
 Magnetic resonance imaging (MRI) is a type of diagnostic test that can create detailed images of nearly every structure and organ inside the body. MRI uses magnets and radio waves to produce images on a computer.
 
-* [1]&nbsp;<https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/magnetic-resonance-imaging-mri>
+* [1] [JHM](/source/hopkinsmedicineorg/) — <https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/magnetic-resonance-imaging-mri>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768>
 
 
@@ -1746,7 +1746,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 ### Transplant Survival Benefit
 
-* [1]&nbsp;<https://www.sciencedirect.com/science/article/pii/S160061352203550X>
+* [1] [ScienceDirect](/source/sciencedirectcom/) — <https://www.sciencedirect.com/science/article/pii/S160061352203550X>
 * [2]&nbsp;<https://ars.els-cdn.com/content/image/1-s2.0-S160061352203550X-gr3_lrg.jpg>
 * [3] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
 

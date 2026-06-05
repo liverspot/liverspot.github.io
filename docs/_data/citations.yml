@@ -258,6 +258,10 @@
   source: mayoclinicorg
   topic-name: Everolimus
   path: /topics/#everolimus
+- url: https://www.mdcalc.com/calc/2200/fibrosis-4-fib-4-index-liver-fibrosis
+  source: mdcalccom
+  topic-name: FIB-4
+  path: /topics/#fib-4
 - url: https://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547
   source: mayoclinicorg
   topic-name: Filgrastim
@@ -302,6 +306,10 @@
   source: mayoclinicorg
   topic-name: Gynecomastia
   path: /topics/#gynecomastia
+- url: https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc
+  source: mdcalccom
+  topic-name: HCC GALAD model
+  path: /topics/#hcc-galad-model
 - url: https://www.mayoclinic.org/diseases-conditions/hemochromatosis/symptoms-causes/syc-20351443
   source: mayoclinicorg
   topic-name: Hemochromatosis
@@ -314,6 +322,10 @@
   source: dairbookcom
   topic-name: Hemodialysis
   path: /topics/#hemodialysis
+- url: https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis
+  source: hopkinsmedicineorg
+  topic-name: Hepatitis
+  path: /topics/#hepatitis
 - url: https://www.dairbook.com/glossary/hepatitis
   source: dairbookcom
   topic-name: Hepatitis
@@ -326,10 +338,26 @@
   source: mayoclinicorg
   topic-name: HIDA Scan
   path: /topics/#hida-scan
+- url: https://www.sciencedirect.com/topics/medicine-and-dentistry/hla-antigen
+  source: sciencedirectcom
+  topic-name: HLA
+  path: /topics/#hla
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10920073/
   source: nihgov
   topic-name: HLA
   path: /topics/#hla
+- url: https://www.rxlist.com/hyper-/definition.htm
+  source: rxlistcom
+  topic-name: Hyper
+  path: /topics/#hyper
+- url: https://www.chop.edu/conditions-diseases/hyperbilirubinemia-and-jaundice
+  source: chopedu
+  topic-name: Hyperbilirubinemia
+  path: /topics/#hyperbilirubinemia
+- url: https://www.rxlist.com/hypo-/definition.htm
+  source: rxlistcom
+  topic-name: Hypo
+  path: /topics/#hypo
 - url: https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia
   source: clevelandclinicorg
   topic-name: Hypoalbuminemia
@@ -386,6 +414,10 @@
   source: medlineplusgov
   topic-name: J-Tube
   path: /topics/#j-tube
+- url: https://www.chop.edu/treatments/jejunostomy-tubes
+  source: chopedu
+  topic-name: J-Tube
+  path: /topics/#j-tube
 - url: https://medlineplus.gov/ency/article/000210.htm
   source: medlineplusgov
   topic-name: Jaundice
@@ -396,6 +428,10 @@
   path: /topics/#ketorolac
 - url: https://en.wikipedia.org/wiki/Kt/V
   source: wikipediaorg
+  topic-name: Kt/V
+  path: /topics/#ktv
+- url: https://www.sciencedirect.com/topics/medicine-and-dentistry/kt-v
+  source: sciencedirectcom
   topic-name: Kt/V
   path: /topics/#ktv
 - url: https://pubmed.ncbi.nlm.nih.gov/18617306/
@@ -446,6 +482,10 @@
   source: dairbookcom
   topic-name: MELD
   path: /topics/#meld
+- url: https://www.mdcalc.com/calc/10437/model-end-stage-liver-disease-meld
+  source: mdcalccom
+  topic-name: MELD
+  path: /topics/#meld
 - url: https://www.dairbook.com/stories/mark-20240219a
   source: dairbookcom
   topic-name: MELD
@@ -466,6 +506,10 @@
   source: mayoclinicorg
   topic-name: MRE
   path: /topics/#mre
+- url: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/magnetic-resonance-imaging-mri
+  source: hopkinsmedicineorg
+  topic-name: MRI
+  path: /topics/#mri
 - url: https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768
   source: mayoclinicorg
   topic-name: MRI
@@ -618,6 +662,10 @@
   source: nihgov
   topic-name: Transplant Gender Correlations
   path: /topics/#transplant-gender-correlations
+- url: https://www.sciencedirect.com/science/article/pii/S160061352203550X
+  source: sciencedirectcom
+  topic-name: Transplant Survival Benefit
+  path: /topics/#transplant-survival-benefit
 - url: https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545
   source: mayoclinicorg
   topic-name: Transplant Survival Benefit
