@@ -182,7 +182,7 @@
   source: nihgov
   topic-name: Compensated Cirrhosis
   path: /topics/#compensated-cirrhosis
-  description:
+  description: «Compensated liver cirrhosis: Natural course and disease-modifying strategies»
 - url: https://www.mountsinai.org/health-library/tests/creatinine-blood-test
   source: mountsinaiorg
   topic-name: Creatinine
@@ -308,6 +308,11 @@
   topic-name: Encephalopathy
   path: /topics/#encephalopathy
   description:
+- url: https://www.nhsbt.nhs.uk/organ-transplantation/liver/is-a-liver-transplant-right-for-you/end-stage-liver-disease/
+  source: nhsuk
+  topic-name: ESLD
+  path: /topics/#esld
+  description:
 - url: https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538
   source: mayoclinicorg
   topic-name: Esophageal Varices
@@ -388,6 +393,16 @@
   topic-name: HCC GALAD model
   path: /topics/#hcc-galad-model
   description:
+- url: https://my.clevelandclinic.org/health/diseases/encephalopathy
+  source: clevelandclinicorg
+  topic-name: HE
+  path: /topics/#he
+  description:
+- url: https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy
+  source: clevelandclinicorg
+  topic-name: HE
+  path: /topics/#he
+  description:
 - url: https://www.mayoclinic.org/diseases-conditions/hemochromatosis/symptoms-causes/syc-20351443
   source: mayoclinicorg
   topic-name: Hemochromatosis
@@ -432,6 +447,11 @@
   source: nihgov
   topic-name: HLA
   path: /topics/#hla
+  description:
+- url: https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv
+  source: clevelandclinicorg
+  topic-name: HPMV
+  path: /topics/#hpmv
   description:
 - url: https://www.rxlist.com/hyper-/definition.htm
   source: rxlistcom
@@ -507,6 +527,11 @@
   source: dairbookcom
   topic-name: INR
   path: /topics/#inr
+  description:
+- url: https://en.wikipedia.org/wiki/Intensive_outpatient_program
+  source: wikipediaorg
+  topic-name: IOP
+  path: /topics/#iop
   description:
 - url: https://www.dairbook.com/glossary/itching
   source: dairbookcom
@@ -622,7 +647,7 @@
   source: nihgov
   topic-name: MELD
   path: /topics/#meld
-  description:
+  description: «MELD 3.0 adequately predicts mortality and renal replacement therapy»
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12464064/
   source: nihgov
   topic-name: MELD 3
@@ -647,6 +672,11 @@
   source: mayoclinicorg
   topic-name: MRI
   path: /topics/#mri
+  description:
+- url: https://www.hrsa.gov/optn/patients/organ-transplants/multiple-listing
+  source: hrsagov
+  topic-name: Multiple Listing
+  path: /topics/#multiple-listing
   description:
 - url: https://www.mayoclinic.org/drugs-supplements/mycophenolate-mofetil-oral-route/description/drg-20073191
   source: mayoclinicorg
