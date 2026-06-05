@@ -1298,7 +1298,7 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/meld>
 * [3]&nbsp;<https://medcalculators.stanford.edu/meld>
 * [4] [MDCalc](/source/mdcalccom/) — <https://www.mdcalc.com/calc/10437/model-end-stage-liver-disease-meld>
-* [5] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/stories/mark-20240219a>
+* [5] [DAIR](/source/dairbookcom/) «MELD Score Explanation and Real-World Example» — <https://www.dairbook.com/stories/mark-20240219a>
 * [6] Very Well Health — <https://www.verywellhealth.com/meld-score-4783410>
 * [7] [UPMC](/source/upmccom/) «Understanding Your MELD Score for Liver Transplant» — <https://www.upmc.com/services/transplant/patients/resources/meld-score>
 * [8] [NIH](/source/nihgov/) «MELD 3.0 adequately predicts mortality and renal replacement therapy» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10339256/>
