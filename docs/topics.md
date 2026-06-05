@@ -723,7 +723,7 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 
 «Someone with compensated cirrhosis doesn’t necessarily look or feel sick. Their symptoms of the disease may be mild or nonexistent even though the liver is severely scarred.» — [2]
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10523240/>
+* [1] [NIH](/source/nihgov/) «Compensated liver cirrhosis: Natural course and disease-modifying strategies» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10523240/>
 * [2] <https://liverfoundation.org/about-your-liver/how-liver-diseases-progress/cirrhosis-severe-scarring/#:~:text=decompensated.%20Someone%20with-,compensated%20cirrhosis,-doesn’t%20necessarily%20look>
 
 ### Corewell Health
@@ -1300,7 +1300,7 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
 * [5] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/stories/mark-20240219a>
 * [6] Very Well Health — <https://www.verywellhealth.com/meld-score-4783410>
 * [7] [UPMC](/source/upmccom/) «Understanding Your MELD Score for Liver Transplant» — <https://www.upmc.com/services/transplant/patients/resources/meld-score>
-* [8] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10339256/>
+* [8] [NIH](/source/nihgov/) «MELD 3.0 adequately predicts mortality and renal replacement therapy» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10339256/>
 
 The MELD score is really only relevant if a transplant is indicated, but used somewhat to produce an approximate  sickness level for someone with Cirrhosis.
 
