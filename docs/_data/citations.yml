@@ -2,919 +2,924 @@
   source: nihgov
   topic-name: ACR
   path: /topics/#acr
-  description:
+  description: ""
 - url: https://pubmed.ncbi.nlm.nih.gov/3912970/
   source: nihgov
   topic-name: Acyclovir
   path: /topics/#acyclovir
-  description:
+  description: ""
 - url: https://medlineplus.gov/druginfo/meds/a681045.html
   source: medlineplusgov
   topic-name: Acyclovir
   path: /topics/#acyclovir
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/acyclovir-oral-route-intravenous-route/description/drg-20068393
   source: mayoclinicorg
   topic-name: Acyclovir
   path: /topics/#acyclovir
-  description:
+  description: ""
 - url: https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/
   source: medlineplusgov
   topic-name: AFP
   path: /topics/#afp
-  description:
+  description: ""
 - url: https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&contentid=alpha_fetoprotein_tumor_marker
   source: rochesteredu
   topic-name: AFP
   path: /topics/#afp
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/autoimmune-hepatitis/symptoms-causes/syc-20352153
   source: mayoclinicorg
   topic-name: AIH
   path: /topics/#aih
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia
   source: clevelandclinicorg
   topic-name: Albumin
   path: /topics/#albumin
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/albumin
   source: dairbookcom
   topic-name: Albumin
   path: /topics/#albumin
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp
   source: clevelandclinicorg
   topic-name: ALP
   path: /topics/#alp
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/alanine-aminotransferase-alt-test/about/pac-20582729
   source: mayoclinicorg
   topic-name: ALT
   path: /topics/#alt
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/articles/22686-ammonia-levels
   source: clevelandclinicorg
   topic-name: Ammonia Level
   path: /topics/#ammonia-level
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diagnostics/4977-angiography
   source: clevelandclinicorg
   topic-name: Angiogram
   path: /topics/#angiogram
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/treatments/22060-angioplasty
   source: clevelandclinicorg
   topic-name: Angioplasty
   path: /topics/#angioplasty
-  description:
+  description: ""
 - url: https://en.wikipedia.org/wiki/Ascites
   source: wikipediaorg
   topic-name: Ascites
   path: /topics/#ascites
-  description:
+  description: ""
 - url: https://britishlivertrust.org.uk/what-is-ascites/
   source: britishlivertrustorguk
   topic-name: Ascites
   path: /topics/#ascites
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/ascites
   source: dairbookcom
   topic-name: Ascites
   path: /topics/#ascites
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/aspartate-aminotransferase-ast-test/about/pac-20583406
   source: mayoclinicorg
   topic-name: AST
   path: /topics/#ast
-  description:
+  description: ""
 - url: https://en.wikipedia.org/wiki/Asterixis
   source: wikipediaorg
   topic-name: Asterixis
   path: /topics/#asterixis
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/asterixis
   source: dairbookcom
   topic-name: Asterixis
   path: /topics/#asterixis
-  description:
+  description: ""
 - url: https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx
   source: lwwcom
   topic-name: Atrophy
   path: /topics/#atrophy
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/
   source: nihgov
   topic-name: Atrophy
   path: /topics/#atrophy
-  description:
+  description: ""
 - url: https://medlineplus.gov/lab-tests/bilirubin-blood-test/
   source: medlineplusgov
   topic-name: Bilirubin
   path: /topics/#bilirubin
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/bilirubin
   source: dairbookcom
   topic-name: Bilirubin
   path: /topics/#bilirubin
-  description:
+  description: ""
 - url: https://www.kidney.org/atoz/content/bk-virus-what-transplant-patients-need-know
   source: kidneyorg
   topic-name: BK Virus
   path: /topics/#bk-virus
-  description:
+  description: ""
 - url: https://en.wikipedia.org/wiki/BK_virus
   source: wikipediaorg
   topic-name: BK Virus
   path: /topics/#bk-virus
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/bk-virus
   source: dairbookcom
   topic-name: BK Virus
   path: /topics/#bk-virus
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821
   source: mayoclinicorg
   topic-name: BUN Test
   path: /topics/#bun-test
-  description:
+  description: ""
 - url: https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis
   source: nihgov
   topic-name: Cirrhosis
   path: /topics/#cirrhosis
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487
   source: mayoclinicorg
   topic-name: Cirrhosis
   path: /topics/#cirrhosis
-  description:
+  description: ""
 - url: https://en.wikipedia.org/wiki/Cirrhosis
   source: wikipediaorg
   topic-name: Cirrhosis
   path: /topics/#cirrhosis
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/cirrhosis
   source: dairbookcom
   topic-name: Cirrhosis
   path: /topics/#cirrhosis
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4381184/
   source: nihgov
   topic-name: Cirrhosis
   path: /topics/#cirrhosis
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358
   source: mayoclinicorg
   topic-name: CMV
   path: /topics/#cmv
-  description:
+  description: ""
 - url: https://pubmed.ncbi.nlm.nih.gov/33567734/
   source: nihgov
   topic-name: CMV
   path: /topics/#cmv
-  description:
+  description: ""
 - url: https://en.wikipedia.org/wiki/Human_cytomegalovirus
   source: wikipediaorg
   topic-name: CMV
   path: /topics/#cmv
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10523240/
   source: nihgov
   topic-name: Compensated Cirrhosis
   path: /topics/#compensated-cirrhosis
-  description: «Compensated liver cirrhosis: Natural course and disease-modifying strategies»
+  description: "«Compensated liver cirrhosis: Natural course and disease-modifying strategies» "
 - url: https://www.mountsinai.org/health-library/tests/creatinine-blood-test
   source: mountsinaiorg
   topic-name: Creatinine
   path: /topics/#creatinine
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/creatinine
   source: dairbookcom
   topic-name: Creatinine
   path: /topics/#creatinine
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646
   source: mayoclinicorg
   topic-name: Creatinine Test
   path: /topics/#creatinine-test
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diagnostics/ct-angiogram
   source: clevelandclinicorg
   topic-name: CTA
   path: /topics/#cta
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3372912/
   source: nihgov
   topic-name: Deceased Organ Donation
   path: /topics/#deceased-organ-donation
-  description:
+  description: ""
 - url: https://unos.org/news/understanding-donation-after-circulatory-death-dcd/
   source: unosorg
   topic-name: Deceased Organ Donation
   path: /topics/#deceased-organ-donation
-  description:
+  description: ""
 - url: https://journals.lww.com/transplantjournal/fulltext/2017/11000/deceased_donor_liver_size_and_the_sex_based.9.aspx
   source: lwwcom
   topic-name: Deceased-Donor Liver Size
   path: /topics/#deceased-donor-liver-size
-  description:
+  description: ""
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334027/
   source: nihgov
   topic-name: Decompensated Cirrhosis
   path: /topics/#decompensated-cirrhosis
-  description:
+  description: ""
 - url: https://www.nhs.uk/conditions/dialysis/
   source: nhsuk
   topic-name: Dialysis
   path: /topics/#dialysis
-  description:
+  description: ""
 - url: https://www.kidney.org/atoz/content/dialysisinfo
   source: kidneyorg
   topic-name: Dialysis
   path: /topics/#dialysis
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/dialysis
   source: dairbookcom
   topic-name: Dialysis
   path: /topics/#dialysis
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/diverticulitis/symptoms-causes/syc-20371758
   source: mayoclinicorg
   topic-name: Diverticulitis
   path: /topics/#diverticulitis
-  description:
+  description: ""
 - url: https://www.kidney.org/kidney-topics/writing-to-donor-families-and-living-donors-simple-guide-kidney-transplant-recipients
   source: kidneyorg
   topic-name: Donor Info
   path: /topics/#donor-info
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/drug-regimen
   source: dairbookcom
   topic-name: Drug Regimen
   path: /topics/#drug-regimen
-  description:
+  description: ""
 - url: https://pubmed.ncbi.nlm.nih.gov/6672504/
   source: nihgov
   topic-name: Dupuytren's contracture
   path: /topics/#dupuytrens-contracture
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/dysphagia/symptoms-causes/syc-20372028
   source: mayoclinicorg
   topic-name: Dysphagia
   path: /topics/#dysphagia
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493
   source: mayoclinicorg
   topic-name: Edema
   path: /topics/#edema
-  description:
+  description: ""
 - url: https://en.wikipedia.org/wiki/Edema
   source: wikipediaorg
   topic-name: Edema
   path: /topics/#edema
-  description:
+  description: ""
 - url: https://www.ninds.nih.gov/health-information/disorders/encephalitis
   source: nihgov
   topic-name: Encephalitis
   path: /topics/#encephalitis
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/encephalitis/symptoms-causes/syc-20356136
   source: mayoclinicorg
   topic-name: Encephalitis
   path: /topics/#encephalitis
-  description:
+  description: ""
 - url: https://en.wikipedia.org/wiki/Encephalitis
   source: wikipediaorg
   topic-name: Encephalitis
   path: /topics/#encephalitis
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/encephalitis
   source: dairbookcom
   topic-name: Encephalitis
   path: /topics/#encephalitis
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/encephalopathy
   source: clevelandclinicorg
   topic-name: Encephalopathy
   path: /topics/#encephalopathy
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy
   source: clevelandclinicorg
   topic-name: Encephalopathy
   path: /topics/#encephalopathy
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/encephalopathy
   source: dairbookcom
   topic-name: Encephalopathy
   path: /topics/#encephalopathy
-  description:
+  description: ""
 - url: https://www.nhsbt.nhs.uk/organ-transplantation/liver/is-a-liver-transplant-right-for-you/end-stage-liver-disease/
   source: nhsuk
   topic-name: ESLD
   path: /topics/#esld
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538
   source: mayoclinicorg
   topic-name: Esophageal Varices
   path: /topics/#esophageal-varices
-  description:
+  description: ""
 - url: https://pubmed.ncbi.nlm.nih.gov/41110610/
   source: nihgov
   topic-name: Everolimus
   path: /topics/#everolimus
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/everolimus-oral-route/description/drg-20072842
   source: mayoclinicorg
   topic-name: Everolimus
   path: /topics/#everolimus
-  description:
+  description: ""
 - url: https://www.mdcalc.com/calc/2200/fibrosis-4-fib-4-index-liver-fibrosis
   source: mdcalccom
   topic-name: FIB-4
   path: /topics/#fib-4
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547
   source: mayoclinicorg
   topic-name: Filgrastim
   path: /topics/#filgrastim
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/filgrastim-aafi-intravenous-route-subcutaneous-route/description/drg-20443903
   source: mayoclinicorg
   topic-name: Filgrastim
   path: /topics/#filgrastim
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567
   source: mayoclinicorg
   topic-name: Fistula
   path: /topics/#fistula
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/fistula
   source: dairbookcom
   topic-name: Fistula
   path: /topics/#fistula
-  description:
+  description: ""
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452908/
   source: nihgov
   topic-name: Gabapentin
   path: /topics/#gabapentin
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/gabapentin-oral-route/description/drg-20064011
   source: mayoclinicorg
   topic-name: Gabapentin
   path: /topics/#gabapentin
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/drugs/21561-gabapentin
   source: clevelandclinicorg
   topic-name: Gabapentin
   path: /topics/#gabapentin
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6230845/
   source: nihgov
   topic-name: Gallbladder
   path: /topics/#gallbladder
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/
   source: nihgov
   topic-name: Gallbladder Cancer
   path: /topics/#gallbladder-cancer
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/
   source: nihgov
   topic-name: GFR and Aging
   path: /topics/#gfr-and-aging
-  description:
+  description: ""
+- url: https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/
+  source: medlineplusgov
+  topic-name: GGT
+  path: /topics/#ggt
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/gynecomastia/symptoms-causes/syc-20351793
   source: mayoclinicorg
   topic-name: Gynecomastia
   path: /topics/#gynecomastia
-  description:
+  description: ""
 - url: https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc
   source: mdcalccom
   topic-name: HCC GALAD model
   path: /topics/#hcc-galad-model
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/encephalopathy
   source: clevelandclinicorg
   topic-name: HE
   path: /topics/#he
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy
   source: clevelandclinicorg
   topic-name: HE
   path: /topics/#he
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/hemochromatosis/symptoms-causes/syc-20351443
   source: mayoclinicorg
   topic-name: Hemochromatosis
   path: /topics/#hemochromatosis
-  description:
+  description: ""
 - url: https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/hemodialysis
   source: nihgov
   topic-name: Hemodialysis
   path: /topics/#hemodialysis
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/hemodialysis
   source: dairbookcom
   topic-name: Hemodialysis
   path: /topics/#hemodialysis
-  description:
+  description: ""
 - url: https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis
   source: hopkinsmedicineorg
   topic-name: Hepatitis
   path: /topics/#hepatitis
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/hepatitis
   source: dairbookcom
   topic-name: Hepatitis
   path: /topics/#hepatitis
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diagnostics/17099-hida-scan
   source: clevelandclinicorg
   topic-name: HIDA Scan
   path: /topics/#hida-scan
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/hida-scan/about/pac-20384701
   source: mayoclinicorg
   topic-name: HIDA Scan
   path: /topics/#hida-scan
-  description:
+  description: ""
 - url: https://www.sciencedirect.com/topics/medicine-and-dentistry/hla-antigen
   source: sciencedirectcom
   topic-name: HLA
   path: /topics/#hla
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10920073/
   source: nihgov
   topic-name: HLA
   path: /topics/#hla
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv
   source: clevelandclinicorg
   topic-name: HPMV
   path: /topics/#hpmv
-  description:
+  description: ""
 - url: https://www.rxlist.com/hyper-/definition.htm
   source: rxlistcom
   topic-name: Hyper
   path: /topics/#hyper
-  description:
+  description: ""
 - url: https://www.chop.edu/conditions-diseases/hyperbilirubinemia-and-jaundice
   source: chopedu
   topic-name: Hyperbilirubinemia
   path: /topics/#hyperbilirubinemia
-  description:
+  description: ""
 - url: https://www.rxlist.com/hypo-/definition.htm
   source: rxlistcom
   topic-name: Hypo
   path: /topics/#hypo
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia
   source: clevelandclinicorg
   topic-name: Hypoalbuminemia
   path: /topics/#hypoalbuminemia
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/23264-hypomagnesemia
   source: clevelandclinicorg
   topic-name: Hypomagnesium
   path: /topics/#hypomagnesium
-  description:
+  description: ""
 - url: https://www.kidney.org/kidney-topics/hyponatremia-low-sodium-level-blood
   source: kidneyorg
   topic-name: Hyponatremia
   path: /topics/#hyponatremia
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711
   source: mayoclinicorg
   topic-name: Hyponatremia
   path: /topics/#hyponatremia
-  description:
+  description: ""
 - url: https://www.kidney.org/atoz/content/immuno
   source: kidneyorg
   topic-name: Immunosuppressant
   path: /topics/#immunosuppressant
-  description:
+  description: ""
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8987166/
   source: nihgov
   topic-name: Immunosuppressant
   path: /topics/#immunosuppressant
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/treatments/10418-immunosuppressants
   source: clevelandclinicorg
   topic-name: Immunosuppressant
   path: /topics/#immunosuppressant
-  description:
+  description: ""
 - url: https://en.wikipedia.org/wiki/Immunosuppressive_drug
   source: wikipediaorg
   topic-name: Immunosuppressant
   path: /topics/#immunosuppressant
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/immunosuppressant
   source: dairbookcom
   topic-name: Immunosuppressant
   path: /topics/#immunosuppressant
-  description:
+  description: ""
 - url: https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/
   source: medlineplusgov
   topic-name: INR
   path: /topics/#inr
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661
   source: mayoclinicorg
   topic-name: INR
   path: /topics/#inr
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/inr
   source: dairbookcom
   topic-name: INR
   path: /topics/#inr
-  description:
+  description: ""
 - url: https://en.wikipedia.org/wiki/Intensive_outpatient_program
   source: wikipediaorg
   topic-name: IOP
   path: /topics/#iop
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/itching
   source: dairbookcom
   topic-name: Itching
   path: /topics/#itching
-  description:
+  description: ""
 - url: https://medlineplus.gov/ency/patientinstructions/000181.htm
   source: medlineplusgov
   topic-name: J-Tube
   path: /topics/#j-tube
-  description:
+  description: ""
 - url: https://www.chop.edu/treatments/jejunostomy-tubes
   source: chopedu
   topic-name: J-Tube
   path: /topics/#j-tube
-  description:
+  description: ""
 - url: https://medlineplus.gov/ency/article/000210.htm
   source: medlineplusgov
   topic-name: Jaundice
   path: /topics/#jaundice
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882
   source: mayoclinicorg
   topic-name: Ketorolac
   path: /topics/#ketorolac
-  description:
+  description: ""
 - url: https://en.wikipedia.org/wiki/Kt/V
   source: wikipediaorg
   topic-name: Kt/V
   path: /topics/#ktv
-  description:
+  description: ""
 - url: https://www.sciencedirect.com/topics/medicine-and-dentistry/kt-v
   source: sciencedirectcom
   topic-name: Kt/V
   path: /topics/#ktv
-  description:
+  description: ""
 - url: https://pubmed.ncbi.nlm.nih.gov/18617306/
   source: nihgov
   topic-name: Kt/V
   path: /topics/#ktv
-  description:
+  description: "«Association of Kt/V and creatinine clearance with outcomes in anuric peritoneal dialysis patients» "
 - url: https://www.ncbi.nlm.nih.gov/books/NBK536930/
   source: nihgov
   topic-name: Lactulose
   path: /topics/#lactulose
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/lactulose
   source: dairbookcom
   topic-name: Lactulose
   path: /topics/#lactulose
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/liver-function-tests/about/pac-20394595
   source: mayoclinicorg
   topic-name: Liver Function Tests
   path: /topics/#liver-function-tests
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/medical-professionals/transplant-medicine/news/liver-in-a-box-offers-potential-for-providing-liver-transplant-to-more-patients/mac-20533186
   source: mayoclinicorg
   topic-name: Liver In A Box
   path: /topics/#liver-in-a-box
-  description:
+  description: ""
 - url: https://news.ohsu.edu/2023/08/16/liver-in-a-box-helps-save-more-lives-can-improve-transplant-outcomes
   source: ohsuedu
   topic-name: Liver In A Box
   path: /topics/#liver-in-a-box
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/21723-liver-spots
   source: clevelandclinicorg
   topic-name: Liver Spots
   path: /topics/#liver-spots
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/living-donor-liver-transplant/pyc-20384846
   source: mayoclinicorg
   topic-name: Living Donor Liver Transplant
   path: /topics/#living-donor-liver-transplant
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6478143/
   source: nihgov
   topic-name: LOLA
   path: /topics/#lola
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9257922/
   source: nihgov
   topic-name: LOLA
   path: /topics/#lola
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545
   source: mayoclinicorg
   topic-name: MELD
   path: /topics/#meld
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/meld
   source: dairbookcom
   topic-name: MELD
   path: /topics/#meld
-  description:
+  description: ""
 - url: https://www.mdcalc.com/calc/10437/model-end-stage-liver-disease-meld
   source: mdcalccom
   topic-name: MELD
   path: /topics/#meld
-  description:
+  description: ""
 - url: https://www.dairbook.com/stories/mark-20240219a
   source: dairbookcom
   topic-name: MELD
   path: /topics/#meld
-  description:
+  description: ""
 - url: https://www.upmc.com/services/transplant/patients/resources/meld-score
   source: upmccom
   topic-name: MELD
   path: /topics/#meld
-  description: «Understanding Your MELD Score for Liver Transplant»
+  description: "«Understanding Your MELD Score for Liver Transplant» "
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10339256/
   source: nihgov
   topic-name: MELD
   path: /topics/#meld
-  description: «MELD 3.0 adequately predicts mortality and renal replacement therapy»
+  description: "«MELD 3.0 adequately predicts mortality and renal replacement therapy» "
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12464064/
   source: nihgov
   topic-name: MELD 3
   path: /topics/#meld-3
-  description:
+  description: ""
 - url: https://unos.org/policy/liver/exception-scores/
   source: unosorg
   topic-name: MELD Exception Score
   path: /topics/#meld-exception-score
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/magnetic-resonance-elastography/about/pac-20385177
   source: mayoclinicorg
   topic-name: MRE
   path: /topics/#mre
-  description:
+  description: ""
 - url: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/magnetic-resonance-imaging-mri
   source: hopkinsmedicineorg
   topic-name: MRI
   path: /topics/#mri
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768
   source: mayoclinicorg
   topic-name: MRI
   path: /topics/#mri
-  description:
+  description: ""
 - url: https://www.hrsa.gov/optn/patients/organ-transplants/multiple-listing
   source: hrsagov
   topic-name: Multiple Listing
   path: /topics/#multiple-listing
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/mycophenolate-mofetil-oral-route/description/drg-20073191
   source: mayoclinicorg
   topic-name: Mycophenolate Mofetil
   path: /topics/#mycophenolate-mofetil
-  description:
+  description: ""
 - url: https://en.wikipedia.org/wiki/Mycophenolic_acid
   source: wikipediaorg
   topic-name: Mycophenolate Mofetil
   path: /topics/#mycophenolate-mofetil
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/mycophenolate-mofetil
   source: dairbookcom
   topic-name: Mycophenolate Mofetil
   path: /topics/#mycophenolate-mofetil
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/symptoms-causes/syc-20352061
   source: mayoclinicorg
   topic-name: Neuropathy
   path: /topics/#neuropathy
-  description:
+  description: ""
 - url: https://hillman.upmc.com/patients/community-support/education/miscellaneous/neutropenia
   source: upmccom
   topic-name: Neutropenia
   path: /topics/#neutropenia
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/21058-neutropenia
   source: clevelandclinicorg
   topic-name: Neutropenia
   path: /topics/#neutropenia
-  description:
+  description: ""
 - url: https://www.hrsa.gov/optn
   source: hrsagov
   topic-name: OPTN
   path: /topics/#optn
-  description:
+  description: ""
 - url: https://optn.transplant.hrsa.gov/about/
   source: hrsagov
   topic-name: OPTN
   path: /topics/#optn
-  description:
+  description: ""
 - url: https://medlineplus.gov/druginfo/meds/a682132.html
   source: medlineplusgov
   topic-name: Oxycodone
   path: /topics/#oxycodone
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/procedures/paracentesis
   source: clevelandclinicorg
   topic-name: Paracentesis
   path: /topics/#paracentesis
-  description:
+  description: ""
 - url: https://en.wikipedia.org/wiki/Paracentesis
   source: wikipediaorg
   topic-name: Paracentesis
   path: /topics/#paracentesis
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/paracentesis
   source: dairbookcom
   topic-name: Paracentesis
   path: /topics/#paracentesis
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9521448/
   source: nihgov
   topic-name: Persistent Ascites
   path: /topics/#persistent-ascites
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/peth
   source: dairbookcom
   topic-name: PEth
   path: /topics/#peth
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/pontine-stroke
   source: clevelandclinicorg
   topic-name: Pontine Stroke
   path: /topics/#pontine-stroke
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10934278/
   source: nihgov
   topic-name: Post-Transplant Relapse
   path: /topics/#post-transplant-relapse
-  description:
+  description: ""
 - url: https://pubmed.ncbi.nlm.nih.gov/22180452/
   source: nihgov
   topic-name: Prednisone
   path: /topics/#prednisone
-  description:
+  description: ""
 - url: https://en.m.wikipedia.org/wiki/Prothrombin_time
   source: wikipediaorg
   topic-name: PT
   path: /topics/#pt
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661
   source: mayoclinicorg
   topic-name: PT
   path: /topics/#pt
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10025679/
   source: nihgov
   topic-name: Recompensated
   path: /topics/#recompensated
-  description:
+  description: ""
 - url: https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx
   source: lwwcom
   topic-name: Reddit for Transplant Support Study
   path: /topics/#reddit-for-transplant-support-study
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3840475/
   source: nihgov
   topic-name: Scar Tissue
   path: /topics/#scar-tissue
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9257870/
   source: nihgov
   topic-name: Skin Changes
   path: /topics/#skin-changes
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/srtr
   source: dairbookcom
   topic-name: SRTR
   path: /topics/#srtr
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/tacrolimus-oral-route/description/drg-20068314
   source: mayoclinicorg
   topic-name: Tacrolimus
   path: /topics/#tacrolimus
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/tacrolimus
   source: dairbookcom
   topic-name: Tacrolimus
   path: /topics/#tacrolimus
-  description:
+  description: ""
 - url: https://www.ncbi.nlm.nih.gov/books/NBK544318/
   source: nihgov
   topic-name: Tacrolimus
   path: /topics/#tacrolimus
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/
   source: nihgov
   topic-name: Tacrolimus-induced Ascites
   path: /topics/#tacrolimus-induced-ascites
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/treatments/24254-thoracentesis
   source: clevelandclinicorg
   topic-name: Thoracentesis
   path: /topics/#thoracentesis
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/tinnitus/symptoms-causes/syc-20350156
   source: mayoclinicorg
   topic-name: Tinnitus
   path: /topics/#tinnitus
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/procedures/tips-procedure
   source: clevelandclinicorg
   topic-name: TIPS
   path: /topics/#tips
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/tips
   source: dairbookcom
   topic-name: TIPS
   path: /topics/#tips
-  description:
+  description: ""
 - url: https://www.mountsinai.org/health-library/surgery/transjugular-intrahepatic-portosystemic-shunt-tips
   source: mountsinaiorg
   topic-name: TIPS
   path: /topics/#tips
-  description:
+  description: ""
 - url: https://medlineplus.gov/ency/images/ency/fullsize/21742.jpg
   source: medlineplusgov
   topic-name: TIPS
   path: /topics/#tips
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159
   source: mayoclinicorg
   topic-name: Topical Tacrolimus
   path: /topics/#topical-tacrolimus
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/tramadol-oral-route/description/drg-20068050
   source: mayoclinicorg
   topic-name: Tramadol
   path: /topics/#tramadol
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1421173/
   source: nihgov
   topic-name: Transplant Age
   path: /topics/#transplant-age
-  description:
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4964018/
   source: nihgov
   topic-name: Transplant Gender Correlations
   path: /topics/#transplant-gender-correlations
-  description:
+  description: ""
 - url: https://www.sciencedirect.com/science/article/pii/S160061352203550X
   source: sciencedirectcom
   topic-name: Transplant Survival Benefit
   path: /topics/#transplant-survival-benefit
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545
   source: mayoclinicorg
   topic-name: Transplant Survival Benefit
   path: /topics/#transplant-survival-benefit
-  description:
+  description: ""
 - url: https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr
   source: kidneyorg
   topic-name: uACR
   path: /topics/#uacr
-  description:
+  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/umbilical-hernia
   source: clevelandclinicorg
   topic-name: Umbilical Hernia
   path: /topics/#umbilical-hernia
-  description:
+  description: ""
 - url: https://unos.org
   source: unosorg
   topic-name: UNOS
   path: /topics/#unos
-  description:
+  description: ""
 - url: https://www.dairbook.com/glossary/unos
   source: dairbookcom
   topic-name: UNOS
   path: /topics/#unos
-  description:
+  description: ""
 - url: https://www.hrsa.gov/optn/about/governance/regions
   source: hrsagov
   topic-name: UNOS Regions
   path: /topics/#unos-regions
-  description:
+  description: ""
 - url: https://medlineplus.gov/druginfo/meds/a699047.html
   source: medlineplusgov
   topic-name: Ursodiol
   path: /topics/#ursodiol
-  description:
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/valganciclovir-oral-route/description/drg-20066642
   source: mayoclinicorg
   topic-name: Valcyte
   path: /topics/#valcyte
-  description:
+  description: ""
 - url: https://medlineplus.gov/druginfo/meds/a604027.html
   source: medlineplusgov
   topic-name: Xifaxan
   path: /topics/#xifaxan
-  description:
+  description: ""

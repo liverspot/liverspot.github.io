@@ -868,7 +868,7 @@ Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tis
 ### ESLD
 End-Stage Liver Disease (ESLD) is when the liver is damaged beyond repair due to chronic liver disease or acute liver failure.
 
-* [1] <https://www.nhsbt.nhs.uk/organ-transplantation/liver/is-a-liver-transplant-right-for-you/end-stage-liver-disease/>
+* [1] [NHS](/source/nhsuk/) — <https://www.nhsbt.nhs.uk/organ-transplantation/liver/is-a-liver-transplant-right-for-you/end-stage-liver-disease/>
 
 ### Esophageal Varices
 Esophageal varices are enlarged veins in the esophagus, the tube that connects the throat and stomach. Esophageal varices most often happen in people with serious liver diseases.
@@ -980,7 +980,9 @@ So it is a brand name related to filgrastim
 
 ### GGT
 
-«A gamma-glutamyl transferase (GGT) test measures the amount of GGT in your blood GGT is an enzyme. Enzymes are proteins that speed up certain chemical reactions in your body. Thousands of enzymes play an important role in all of your body functions. The GGT enzyme is found throughout your body, but it is mainly found in your liver.» — <https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/>
+«A gamma-glutamyl transferase (GGT) test measures the amount of GGT in your blood GGT is an enzyme. Enzymes are proteins that speed up certain chemical reactions in your body. Thousands of enzymes play an important role in all of your body functions. The GGT enzyme is found throughout your body, but it is mainly found in your liver.» — [1]
+
+* [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/>
 
 ### Gougol
 
@@ -1015,8 +1017,8 @@ HE is short for Hepatic Encephalopathy.
 
 Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (about the brain) and ‘pathos’ (disease). Depending on severity encephalopathy can show up as symptoms from headaches to coma. Hepatic encephalopathy (HE) is caused by liver problems and accumulated toxins in the blood.
 
-* [1] <https://my.clevelandclinic.org/health/diseases/encephalopathy>
-* [2] <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/encephalopathy>
+* [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
 
 ### Hemochromatosis
 Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much iron from the food you eat. Excess iron is stored in your organs, especially your liver, heart and pancreas. Too much iron can lead to life-threatening conditions, such as liver disease, heart problems and diabetes.
@@ -1055,7 +1057,7 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 
 ### HPMV
 
-* [1] <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv>
 
 ### Hyper
 
@@ -1114,7 +1116,6 @@ Sodium is an important mineral that helps balance the amount of fluid (water) in
 In hyponatremia, one or more factors cause the sodium in the body to be diluted. These factors can range from an underlying medical condition to drinking too much water. When this happens, the body's water levels rise, and cells begin to swell. This swelling can cause many health problems, from mild to life-threatening.» — [2]
 
 * [1] [NKF](/source/kidneyorg/) — <https://www.kidney.org/kidney-topics/hyponatremia-low-sodium-level-blood>
-
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711>
 
 
@@ -1143,7 +1144,7 @@ In hyponatremia, one or more factors cause the sodium in the body to be diluted.
 
 An Intensive Outpatient Program (IOP) is a hospital program that meets several times a week for several hours at a time. IOPs are supposed to be as effective as residential programs and can also function as a transition from an inpatient program to normal life surroundings.
 
-* [1] <https://en.wikipedia.org/wiki/Intensive_outpatient_program>
+* [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Intensive_outpatient_program>
 * [1] <https://americanaddictioncenters.org/intensive-outpatient-programs>
 
 #### Virtual IOP
@@ -1188,7 +1189,7 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 
 * [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Kt/V>
 * [2] [ScienceDirect](/source/sciencedirectcom/) — <https://www.sciencedirect.com/topics/medicine-and-dentistry/kt-v>
-* [3] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/18617306/>
+* [3] [NIH](/source/nihgov/) «Association of Kt/V and creatinine clearance with outcomes in anuric peritoneal dialysis patients» — <https://pubmed.ncbi.nlm.nih.gov/18617306/>
 * [4]&nbsp;<https://advancingdialysis.org/standardized-kt-v-home-hemodialysis-matter/>
 
 
@@ -1346,7 +1347,7 @@ Magnetic resonance imaging (MRI) is a type of diagnostic test that can create de
 Multiple listing involves registering at two or more transplant hospitals.
 In general, candidates listed at hospitals closest to the donor hospital will get more matching priority than other candidates who are in similar medical condition, but listed at transplant hospitals farther away.
 
-* [1] <https://www.hrsa.gov/optn/patients/organ-transplants/multiple-listing>
+* [1] [HRSA](/source/hrsagov/) — <https://www.hrsa.gov/optn/patients/organ-transplants/multiple-listing>
 
 ### Mycophenolate Mofetil
 «Mycophenolate Mofetil is an immunosuppressant that prevents rejection of transplanted organs and augments Tacrolimus.» — [3]
