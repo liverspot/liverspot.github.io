@@ -12,9 +12,6 @@ is sourced from the 'topics.md' file.
 It expects the file paths to be from the 'home' directory.  Also the 'sources' array is manually synchronized
 with the '_sources' directory.
 
-TODO: Ideally this would parameterize the file paths but this is the version available now.
-TODO: Should get the 'sources' information by processing the _sources files.
-
 Usage: python src/processTopicCitations.py
 """
 
@@ -22,38 +19,19 @@ import fileinput
 import re
 import sys
 from urllib.parse import urlsplit
+import frontmatter
+import os
+import json
 
 # Current collection of sources: derived from '_sources' directory metadata information
-sources = {
-    "britishlivertrustorguk": "British Liver Trust",
-    "clevelandclinicorg": "Cleveland Clinic",
-    "chopedu": "CHOP",
-    "dairbookcom": "DAIR",
-    "hopkinsmedicineorg": "JHM",
-    "hrsagov": "HRSA",
-    "kidneyorg": "NKF",
-    "lwwcom": "LWW",
-    "mayoclinicorg": "Mayo Clinic",
-    "mdcalccom": "MDCalc",
-    "medlineplusgov": "MedlinePlus",
-
-    "mountsinaiorg": "Mount Sinai",
-
-    "nhsuk": "NHS",
-    "nihgov": "NIH",
-    "ohsuedu": "OHSU",
-    "rochesteredu": "URochester",
-    "rxlistcom": "RxList",
-    "sciencedirectcom": "ScienceDirect",
-    "unosorg": "UNOS",
-    "upmccom": "UPMC",
-    "wikipediaorg": "Wikipedia",
-}
+sources = {}
 
 # Filepaths relative to the 'home' directory of the project
 # Expecting the script to be called from there.
 topics_filepath = "./docs/topics.md"
 citation_filepath = "./docs/_data/citations.yml"
+sources_filepath = "./docs/_sources"
+
 
 # Identify citation lines by the pattern:
 # * [#] … <url>
@@ -91,6 +69,33 @@ def make_anchor_name(name: str) -> str:
 
     return slug
 
+
+extracted_data = []
+
+for filename in os.listdir(sources_filepath):
+    if filename.endswith('.md'):
+        identifer_length = len(filename)-3
+        identifier = filename[0:identifer_length]
+        file_path = os.path.join(sources_filepath, filename)
+
+        # Parse front matter and content
+        with open(file_path, 'r', encoding='utf-8') as f:
+            post = frontmatter.load(f)
+
+            # Fetch all front matter attributes as a dictionary
+            metadata = post.metadata
+            metadata['filename'] = filename
+            metadata['identifier'] = identifier
+           # Optional: capture the markdown body text as well
+            # metadata['content_body'] = post.content
+
+            extracted_data.append(metadata)
+
+for entry in extracted_data:
+    # print(entry['identifier'], entry['name'], file=sys.stderr)
+    sources[entry['identifier']]=entry['short-name']
+
+print(f"Found {len(sources.keys())} registered sources\n",  file=sys.stderr)
 
 with open(citation_filepath, "w", encoding="utf-8") as citations_file:
 
