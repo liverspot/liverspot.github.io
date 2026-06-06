@@ -73,7 +73,7 @@ table td, th {
 
 <h2>Citations</h2>
 
-{% assign filtered_citations = site.data.citations | where_exp: "item", "item.source contains page.slug" -%}
+{% assign filtered_citations = site.data.citations | where_exp: "item", "item.source == page.slug" -%}
 {% assign citations_count = filtered_citations | size  -%}
 {% assign citations_last = filtered_citations | size | minus: 1 -%}
 {% assign first_citation = filtered_citations[0] -%}

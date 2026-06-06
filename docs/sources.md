@@ -59,7 +59,7 @@ The following organizations have materials that are referenced within [Topics](/
 
 {{source.excerpt}}
 
-{% assign filtered_citations = site.data.citations | where_exp: "item", "item.source contains source.slug" -%}
+{% assign filtered_citations = site.data.citations | where_exp: "item", "item.source == source.slug" -%}
 {% assign citations_count = filtered_citations | size  -%}
 {% assign citations_last = filtered_citations | size | minus: 1 -%}
 {% assign first_citation = filtered_citations[0] -%}
