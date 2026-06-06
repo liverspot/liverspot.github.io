@@ -39,7 +39,15 @@ h3 {
 
 table td, th {
     padding: 2px 15px; /* Or a small value like 2px */
+    vertical-align: top;
 }
+
+table {
+  table-layout: fixed;
+  width: 100%; 
+  border-collapse: collapse;
+}
+
 
 </style>
 
@@ -47,18 +55,27 @@ The following organizations have materials that are referenced within [Topics](/
 
 {% capture my_text -%}
 
-| Source |
-|--------|
+|--------|--------|
+{% assign source_count = 0 -%}
 {% for source in site.sources -%}
-{% assign full_id = source.id | remove_first: '/' | replace: '/', '-' -%}
-{% assign check_length = source.short-name.size -%}
-{% assign check_short = source.name | slice: 0, check_length -%}
-{% if check_short == source.short-name -%}
-| <a href="{{ site.baseurl }}{{ source.url }}">{{source.name}}</a> |
-{% else -%}
-| <a href="{{ site.baseurl }}{{ source.url }}">{{ source.short-name }}: {{ source.name }}</a> |
+{% assign source_modulo = source_count | modulo: 3 -%}
+{% if source_modulo == 0 -%}
+{% assign left_source = source -%}
+{% elsif  source_modulo == 1 -%}
+{% assign middle_source = source -%}
+{% else  -%}
+{% assign right_source = source -%}
+| <a href="{{ site.baseurl }}{{ left_source.url }}">{{left_source.full-name}}</a> | <a href="{{ site.baseurl }}{{ middle_source.url }}">{{middle_source.full-name}}</a> | <a href="{{ site.baseurl }}{{ right_source.url }}">{{right_source.full-name}}</a> |
 {% endif -%}
+{% assign source_count = source_count | plus: 1 -%}
 {% endfor -%}
+{% if source_modulo == 0 -%}
+| <a href="{{ site.baseurl }}{{ left_source.url }}">{{left_source.full-name}}</a> |  |  |
+{% elsif  source_modulo == 1 -%}
+| <a href="{{ site.baseurl }}{{ left_source.url }}">{{left_source.full-name}}</a> | <a href="{{ site.baseurl }}{{ middle_source.url }}">{{middle_source.full-name}}</a> |  |
+{% else  -%}
+| <a href="{{ site.baseurl }}{{ left_source.url }}">{{left_source.full-name}}</a> | <a href="{{ site.baseurl }}{{ middle_source.url }}">{{middle_source.full-name}}</a> | <a href="{{ site.baseurl }}{{ right_source.url }}">{{right_source.full-name}}</a> |
+{% endif -%}
 
 {% endcapture -%}
 {{ my_text | markdownify }}
@@ -69,13 +86,7 @@ The following organizations have materials that are referenced within [Topics](/
 {% for source in site.sources -%}
 {% assign full_id = source.id | remove_first: '/' | replace: '/', '-' -%}
 <span class='topic-arrow' ><a href="{{ site.baseurl }}{{ source.url }}">&rarr;</a></span>
-{% assign check_length = source.short-name.size -%}
-{% assign check_short = source.name | slice: 0, check_length -%}
-{% if check_short == source.short-name %}
-<h3 id="{{full_id}}"><a href="{{ site.baseurl }}{{ source.url }}">{{source.name}}</a></h3>
-{% else %}
-<h3 id="{{full_id}}"><a href="{{ site.baseurl }}{{ source.url }}">{{ source.short-name }}: {{ source.name }}</a></h3>
-{% endif %}
+<h3 id="{{full_id}}"><a href="{{ site.baseurl }}{{ source.url }}">{{source.full-name}}</a></h3>
 
 {{source.excerpt}}
 

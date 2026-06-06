@@ -2,6 +2,7 @@
 layout: source
 name: National Kidney Foundation 
 short-name: NKF
+full-name: "NKF: National Kidney Foundation"
 ---
 
 The National Kidney Foundation is revolutionizing the fight to save lives by eliminating preventable kidney disease, accelerating innovation for the dignity of the patient experience, and dismantling structural inequities in kidney care, dialysis, and transplantation.

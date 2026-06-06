@@ -2,6 +2,7 @@
 layout: source
 name: NHS 
 short-name: NHS
+full-name: NHS
 ---
 
 We provide a blood and transplantation service to the NHS, looking after blood donation services in England and transplant services across the UK. <!--more-->

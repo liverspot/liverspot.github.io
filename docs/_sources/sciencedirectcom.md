@@ -2,6 +2,7 @@
 layout: source
 name: ScienceDirect 
 short-name: ScienceDirect
+full-name: ScienceDirect
 ---
 
 Explore scientific, technical, and medical research on ScienceDirect <!--more-->

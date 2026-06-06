@@ -2,6 +2,7 @@
 layout: source
 name: Stanford Medicine 
 short-name: Stanford Medicine
+full-name: Stanford Medicine
 ---
 
 A leader in the biomedical revolution, Stanford Medicine has a long tradition of leadership in pioneering research, creative teaching protocols and effective clinical therapies.
