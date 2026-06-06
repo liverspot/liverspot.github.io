@@ -670,6 +670,12 @@
   topic-slug: iop
   path: /topics/#iop
   description: ""
+- url: https://www.healthline.com/health/liver-disease-and-itching
+  source: healthlinecom
+  topic-name: Itching
+  topic-slug: itching
+  path: /topics/#itching
+  description: ""
 - url: https://www.dairbook.com/glossary/itching
   source: dairbookcom
   topic-name: Itching
@@ -868,6 +874,12 @@
   topic-slug: mycophenolate-mofetil
   path: /topics/#mycophenolate-mofetil
   description: ""
+- url: https://www.drugs.com/naltrexone.html
+  source: drugscom
+  topic-name: Naltrexone
+  topic-slug: naltrexone
+  path: /topics/#naltrexone
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/symptoms-causes/syc-20352061
   source: mayoclinicorg
   topic-name: Neuropathy
@@ -934,6 +946,12 @@
   topic-slug: peth
   path: /topics/#peth
   description: ""
+- url: https://www.healthline.com/health/pink-cloud
+  source: healthlinecom
+  topic-name: Pink Cloud
+  topic-slug: pink-cloud
+  path: /topics/#pink-cloud
+  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/pontine-stroke
   source: clevelandclinicorg
   topic-name: Pontine Stroke
@@ -994,6 +1012,12 @@
   topic-slug: srtr
   path: /topics/#srtr
   description: ""
+- url: https://www.radiologyinfo.org/en/info/chemoembol
+  source: radiologyinfoorg
+  topic-name: TACE
+  topic-slug: tace
+  path: /topics/#tace
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/tacrolimus-oral-route/description/drg-20068314
   source: mayoclinicorg
   topic-name: Tacrolimus
@@ -1011,6 +1035,18 @@
   topic-name: Tacrolimus
   topic-slug: tacrolimus
   path: /topics/#tacrolimus
+  description: ""
+- url: https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext
+  source: amjtransplantorg
+  topic-name: Tacrolimus Skin Cancer
+  topic-slug: tacrolimus-skin-cancer
+  path: /topics/#tacrolimus-skin-cancer
+  description: ""
+- url: https://www.amjtransplant.org/article/S1600-6135(22)03862-X/fulltext
+  source: amjtransplantorg
+  topic-name: Tacrolimus vs. CellCept
+  topic-slug: tacrolimus-vs-cellcept
+  path: /topics/#tacrolimus-vs-cellcept
   description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/
   source: nihgov
@@ -1044,6 +1080,12 @@
   description: ""
 - url: https://www.mountsinai.org/health-library/surgery/transjugular-intrahepatic-portosystemic-shunt-tips
   source: mountsinaiorg
+  topic-name: TIPS
+  topic-slug: tips
+  path: /topics/#tips
+  description: ""
+- url: https://www.radiologyinfo.org/en/info/tips
+  source: radiologyinfoorg
   topic-name: TIPS
   topic-slug: tips
   path: /topics/#tips
@@ -1131,6 +1173,12 @@
   topic-name: Valcyte
   topic-slug: valcyte
   path: /topics/#valcyte
+  description: ""
+- url: https://www.drugs.com/vivitrol.html
+  source: drugscom
+  topic-name: Vivitrol
+  topic-slug: vivitrol
+  path: /topics/#vivitrol
   description: ""
 - url: https://medlineplus.gov/druginfo/meds/a604027.html
   source: medlineplusgov

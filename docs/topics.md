@@ -1154,7 +1154,7 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 ### Itching
 «Itching is a common symptom from liver damage. Possible helpful treatments include: Cholestyramime Powder,  Hydroxyzine, and Sarna lotion .» — [2]
 
-* [1]&nbsp;<https://www.healthline.com/health/liver-disease-and-itching>
+* [1] [Healthline](/source/healthlinecom/) — <https://www.healthline.com/health/liver-disease-and-itching>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/itching>
 
 
@@ -1375,7 +1375,7 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 
 #### Refs
 
-* [1]&nbsp;<https://www.drugs.com/naltrexone.html>
+* [1] [Drugs.com](/source/drugscom/) — <https://www.drugs.com/naltrexone.html>
 
 ### NASH
 «Nonalcoholic steatohepatitis (NASH) is the most severe form of nonalcoholic fatty liver disease (NAFLD), a condition in which the liver builds up excessive fat deposits.» — [2]
@@ -1477,6 +1477,7 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 * assess the state of coronary artery disease.
   » — [1]
 
+#### Refs
 
 * [1]&nbsp;<https://www.baptisthealth.com/blog/health-and-wellness/pet-scan-vs-mri-what-s-the-difference>
 
@@ -1490,7 +1491,7 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 
 ### Pink Cloud
 
-* [1] <https://www.healthline.com/health/pink-cloud>
+* [1] [Healthline](/source/healthlinecom/) — <https://www.healthline.com/health/pink-cloud>
 
 ### POG
 
@@ -1641,7 +1642,7 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 «Y-90 therapy, also known as selective internal radiation therapy or SIRT, is a minimally invasive, image-guided approach treating malignant lesions in the liver. The procedure uses a catheter to deliver tiny radioactive beads into the blood vessels that lead directly to the tumor. This allows doctors to treat tumors that are not accessible using conventional surgery or radiation treatments. A Y-90 procedure typically takes about two hours, but requires an overnight stay for observation.» — [2]
 
-* [1]&nbsp;<https://www.radiologyinfo.org/en/info/chemoembol>
+* [1] [RadiologyInfo.org](/source/radiologyinfoorg/) — <https://www.radiologyinfo.org/en/info/chemoembol>
 * [2]&nbsp;<https://www.massgeneral.org/interventional-radiology/treatments-and-services/y-90>
 * [3]&nbsp;<https://www.columbiaradiology.org/patients/services/interventional-radiology/y90-treatment-radioembolization>
 
@@ -1666,12 +1667,12 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 «Tacrolimus is a potent immunosuppressant used in liver transplants that significantly increases the risk of skin cancer—often by 10- to 30-fold—due to suppressed immune surveillance. Risk is linked to cumulative exposure, with higher doses in the first year increasing cancer likelihood. Regular dermatological monitoring is vital» — [1]
 
-* [1]&nbsp;<https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext>
+* [1] [AJT](/source/amjtransplantorg/) — <https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext>
 
 ### Tacrolimus vs. CellCept
 «Tacrolimus (a calcineurin inhibitor) is generally more potent at preventing acute rejection, while CellCept is often better tolerated with fewer metabolic side effects» — [AI]
 
-* [1] <https://www.amjtransplant.org/article/S1600-6135(22)03862-X/fulltext>
+* [1] [AJT](/source/amjtransplantorg/) — <https://www.amjtransplant.org/article/S1600-6135(22)03862-X/fulltext>
 
 ### Tacrolimus-induced Ascites
 
@@ -1705,7 +1706,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/procedures/tips-procedure>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/tips>
 * [3] [Mount Sinai](/source/mountsinaiorg/) — <https://www.mountsinai.org/health-library/surgery/transjugular-intrahepatic-portosystemic-shunt-tips>
-* [4]&nbsp;<https://www.radiologyinfo.org/en/info/tips>
+* [4] [RadiologyInfo.org](/source/radiologyinfoorg/) — <https://www.radiologyinfo.org/en/info/tips>
 * [5] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/ency/images/ency/fullsize/21742.jpg>
 * [6]&nbsp;<https://gastroliver.medicine.ufl.edu/files/2012/07/TIPS1.jpg>
 
@@ -1829,7 +1830,7 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 #### Refs
 
 * [1]&nbsp;<https://www.vivitrol.com/>
-* [2]&nbsp;<https://www.drugs.com/vivitrol.html>
+* [2] [Drugs.com](/source/drugscom/) — <https://www.drugs.com/vivitrol.html>
 
 ### XIAFLEX
 
