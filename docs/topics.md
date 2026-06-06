@@ -986,7 +986,7 @@ So it is a brand name related to filgrastim
 
 ### Gougol
 
-* [1] <https://med.stanford.edu/profiles/amir-gougol>
+* [1] [Stanford](/source/stanfordedu/) — <https://med.stanford.edu/profiles/amir-gougol>
 
 Professional Education
 * Fellowship: UCSF Dept of Gastroenterology (2023) CA
@@ -1296,7 +1296,7 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/meld>
-* [3]&nbsp;<https://medcalculators.stanford.edu/meld>
+* [3] [Stanford](/source/stanfordedu/) — <https://medcalculators.stanford.edu/meld>
 * [4] [MDCalc](/source/mdcalccom/) — <https://www.mdcalc.com/calc/10437/model-end-stage-liver-disease-meld>
 * [5] [DAIR](/source/dairbookcom/) «MELD Score Explanation and Real-World Example» — <https://www.dairbook.com/stories/mark-20240219a>
 * [6] Very Well Health — <https://www.verywellhealth.com/meld-score-4783410>

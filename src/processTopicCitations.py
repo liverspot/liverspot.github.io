@@ -121,11 +121,24 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
 
                 hostname = parsed_url.hostname
                 hostname_parts = hostname.split(".")
-                source_tag = "".join(hostname_parts[-2:])
-                if source_tag.startswith("org"):
-                    source_tag = "".join(hostname_parts[-3:])
-                if source_tag.startswith("co"):
-                    source_tag = "".join(hostname_parts[-3:])
+
+                # Match exactly as possible
+                source_tag = ""
+                for start in range(0,len(hostname_parts)-1): #0-based indexing
+                    source_tag = "".join(hostname_parts[start:])
+                    # print(start, source_tag, file=sys.stderr)
+                    if source_tag in found_sources:
+                        print("Found:", source_tag, start, hostname_parts, file=sys.stderr)
+                        break #Found the tag in sources
+
+
+                # source_tag = ""
+                # while ()
+                # source_tag = "".join(hostname_parts[-2:])
+                # if source_tag.startswith("org"):
+                #     source_tag = "".join(hostname_parts[-3:])
+                # if source_tag.startswith("co"):
+                #     source_tag = "".join(hostname_parts[-3:])
 
                 # Check for a description within the line (anywhere in line, although it should be in the text section)
                 match1b = re.match(pattern1b, line)

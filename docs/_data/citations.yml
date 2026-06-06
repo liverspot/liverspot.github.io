@@ -88,12 +88,6 @@
   topic-slug: ascites
   path: /topics/#ascites
   description: ""
-- url: https://britishlivertrust.org.uk/what-is-ascites/
-  source: britishlivertrustorguk
-  topic-name: Ascites
-  topic-slug: ascites
-  path: /topics/#ascites
-  description: ""
 - url: https://www.dairbook.com/glossary/ascites
   source: dairbookcom
   topic-name: Ascites
@@ -484,6 +478,12 @@
   topic-slug: ggt
   path: /topics/#ggt
   description: ""
+- url: https://med.stanford.edu/profiles/amir-gougol
+  source: stanfordedu
+  topic-name: Gougol
+  topic-slug: gougol
+  path: /topics/#gougol
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/gynecomastia/symptoms-causes/syc-20351793
   source: mayoclinicorg
   topic-name: Gynecomastia
@@ -774,6 +774,12 @@
   description: ""
 - url: https://www.dairbook.com/glossary/meld
   source: dairbookcom
+  topic-name: MELD
+  topic-slug: meld
+  path: /topics/#meld
+  description: ""
+- url: https://medcalculators.stanford.edu/meld
+  source: stanfordedu
   topic-name: MELD
   topic-slug: meld
   path: /topics/#meld
