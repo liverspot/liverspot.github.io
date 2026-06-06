@@ -986,7 +986,7 @@ So it is a brand name related to filgrastim
 
 ### Gougol
 
-* [1] [Stanford](/source/stanfordedu/) — <https://med.stanford.edu/profiles/amir-gougol>
+* [1] [Stanford Medicine](/source/medstanfordedu/) — <https://med.stanford.edu/profiles/amir-gougol>
 
 Professional Education
 * Fellowship: UCSF Dept of Gastroenterology (2023) CA

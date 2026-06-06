@@ -123,13 +123,14 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
                 hostname_parts = hostname.split(".")
 
                 # Match exactly as possible
-                source_tag = ""
+                source_tag = "".join(hostname_parts)
                 for start in range(0,len(hostname_parts)-1): #0-based indexing
-                    source_tag = "".join(hostname_parts[start:])
-                    # print(start, source_tag, file=sys.stderr)
-                    if source_tag in found_sources:
-                        print("Found:", source_tag, start, hostname_parts, file=sys.stderr)
+                    test_tag = "".join(hostname_parts[start:])
+                    if test_tag in sources:
+                        source_tag = test_tag
                         break #Found the tag in sources
+
+                # print("Found:", source_tag, file=sys.stderr)
 
 
                 # source_tag = ""

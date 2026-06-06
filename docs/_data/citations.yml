@@ -88,6 +88,12 @@
   topic-slug: ascites
   path: /topics/#ascites
   description: ""
+- url: https://britishlivertrust.org.uk/what-is-ascites/
+  source: britishlivertrustorguk
+  topic-name: Ascites
+  topic-slug: ascites
+  path: /topics/#ascites
+  description: ""
 - url: https://www.dairbook.com/glossary/ascites
   source: dairbookcom
   topic-name: Ascites
@@ -479,7 +485,7 @@
   path: /topics/#ggt
   description: ""
 - url: https://med.stanford.edu/profiles/amir-gougol
-  source: stanfordedu
+  source: medstanfordedu
   topic-name: Gougol
   topic-slug: gougol
   path: /topics/#gougol

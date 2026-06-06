@@ -61,9 +61,9 @@ table td, th {
   }
 
 </style>
-{% assign check_length = source.short-name.size -%}
-{% assign check_short = source.name | slice: 0, check_length -%}
-{% if check_short == source.short-name %}
+{% assign check_length = page.short-name.size -%}
+{% assign check_short = page.name | slice: 0, check_length -%}
+{% if check_short == page.short-name %}
 <h1>{{ page.name }}</h1>
 {% else %}
 <h1>{{ page.short-name }}: {{ page.name }}</h1>
