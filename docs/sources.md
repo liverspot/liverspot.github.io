@@ -45,6 +45,26 @@ table td, th {
 
 The following organizations have materials that are referenced within [Topics](/topics/). 
 
+{% capture my_text -%}
+
+| Source |
+|--------|
+{% for source in site.sources -%}
+{% assign full_id = source.id | remove_first: '/' | replace: '/', '-' -%}
+{% assign check_length = source.short-name.size -%}
+{% assign check_short = source.name | slice: 0, check_length -%}
+{% if check_short == source.short-name -%}
+| <a href="{{ site.baseurl }}{{ source.url }}">{{source.name}}</a> |
+{% else -%}
+| <a href="{{ site.baseurl }}{{ source.url }}">{{ source.short-name }}: {{ source.name }}</a> |
+{% endif -%}
+{% endfor -%}
+
+{% endcapture -%}
+{{ my_text | markdownify }}
+
+<h2>Excerpts</h2>
+
 {% capture my_text %}
 {% for source in site.sources -%}
 {% assign full_id = source.id | remove_first: '/' | replace: '/', '-' -%}
@@ -58,6 +78,7 @@ The following organizations have materials that are referenced within [Topics](/
 {% endif %}
 
 {{source.excerpt}}
+
 
 {% assign filtered_citations = site.data.citations | where_exp: "item", "item.source == source.slug" -%}
 {% assign citations_count = filtered_citations | size  -%}
