@@ -912,8 +912,8 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 
 * [1]&nbsp;<https://www.mskcc.org/cancer-care/patient-education/understanding-your-fibroscan-results>
 * [2]&nbsp;<https://agcosprings.com/procedures/fibroscan/>
-* [3]&nbsp;<https://tawazunhealth.com/fibrosscan-stiffness-results/>
-* [4]&nbsp;<https://tawazunhealth.com/wp-content/uploads/2021/03/Wbe-Stiffness-2021.png>
+* [3] [Tawazun Health](/source/tawazunhealthcom/) — <https://tawazunhealth.com/fibrosscan-stiffness-results/>
+* [4] [Tawazun Health](/source/tawazunhealthcom/) — <https://tawazunhealth.com/wp-content/uploads/2021/03/Wbe-Stiffness-2021.png>
 
 ### Filgrastim
 

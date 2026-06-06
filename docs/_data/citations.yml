@@ -406,6 +406,18 @@
   topic-slug: fib-4
   path: /topics/#fib-4
   description: ""
+- url: https://tawazunhealth.com/fibrosscan-stiffness-results/
+  source: tawazunhealthcom
+  topic-name: Fibroscan
+  topic-slug: fibroscan
+  path: /topics/#fibroscan
+  description: ""
+- url: https://tawazunhealth.com/wp-content/uploads/2021/03/Wbe-Stiffness-2021.png
+  source: tawazunhealthcom
+  topic-name: Fibroscan
+  topic-slug: fibroscan
+  path: /topics/#fibroscan
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547
   source: mayoclinicorg
   topic-name: Filgrastim
