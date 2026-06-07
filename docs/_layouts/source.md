@@ -112,14 +112,14 @@ table {
 {% assign middle_topic = topic_name -%}
 {% else  -%}
 {% assign right_topic = topic_name -%}
-| <a href="#{{ left_topic | slugify }}">{{left_topic}}&nbsp;</a> | <a href="#{{ middle_topic | slugify }}">{{middle_topic}}&nbsp;</a> | <a href="#{{ right_topic | slugify }}">{{right_topic}}&nbsp;</a> |
+| <a href="#{{ left_topic | replace: "/", "" | slugify }}">{{left_topic}}&nbsp;</a> | <a href="#{{ middle_topic | replace: "/", "" | slugify }}">{{middle_topic}}&nbsp;</a> | <a href="#{{ right_topic | replace: "/", "" | slugify}}">{{right_topic}}&nbsp;</a> |
 {% endif -%}
 {% assign topic_count = topic_count | plus: 1 -%}
 {% endfor -%}
 {% if topic_modulo == 0 -%}
-| <a href="#{{ left_topic | slugify }}">{{left_topic}}&nbsp;</a> |  |  |
+| <a href="#{{ left_topic | replace: "/", "" | slugify }}">{{left_topic}}&nbsp;</a> |  |  |
 {% elsif  topic_modulo == 1 -%}
-| <a href="#{{ left_topic | slugify }}">{{left_topic}}&nbsp;</a> | <a href="#{{ middle_topic | slugify }}">{{middle_topic}}&nbsp;</a> |  |
+| <a href="#{{ left_topic | replace: "/", "" | slugify }}">{{left_topic}}&nbsp;</a> | <a href="#{{ middle_topic | replace: "/", "" | slugify }}">{{middle_topic}}&nbsp;</a> |  |
 {% else  -%}
 {% endif -%}
 {% endcapture -%}
