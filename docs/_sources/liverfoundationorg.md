@@ -10,4 +10,4 @@ The American Liver Foundation is a 501(c)3 nonprofit with dedicated staff and na
 
 <!--more-->
 
-See: <https://lww.com/>
+See: <https://liverfoundation.org/about-alf/mission-impact-and-history/>
