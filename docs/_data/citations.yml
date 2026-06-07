@@ -1096,6 +1096,18 @@
   topic-slug: tips
   path: /topics/#tips
   description: ""
+- url: https://gastroliver.medicine.ufl.edu/hepatology/for-patients/tips-shunt/
+  source: medicineufledu
+  topic-name: TIPS
+  topic-slug: tips
+  path: /topics/#tips
+  description: ""
+- url: https://gastroliver.medicine.ufl.edu/files/2012/07/TIPS1.jpg
+  source: medicineufledu
+  topic-name: TIPS
+  topic-slug: tips
+  path: /topics/#tips
+  description: ""
 - url: https://www.mayoclinic.org/drugs-supplements/tacrolimus-topical-route/description/drg-20068159
   source: mayoclinicorg
   topic-name: Topical Tacrolimus

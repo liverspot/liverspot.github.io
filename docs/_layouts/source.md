@@ -68,20 +68,17 @@ table {
   }
 
 </style>
-{% assign check_length = page.short-name.size -%}
-{% assign check_short = page.name | slice: 0, check_length -%}
-{% if check_short == page.short-name %}
-<h1>{{ page.name }}</h1>
-{% else %}
-<h1>{{ page.short-name }}: {{ page.name }}</h1>
-{% endif %}
+
+<h1>{{ page.full-name }}</h1>
 
 {{ content }}
 
-<h2>Citations</h2>
-
 {% assign filtered_citations = site.data.citations | where_exp: "item", "item.source == page.slug" -%}
 {% assign citations_count = filtered_citations | size  -%}
+
+{% if citations_count > 0 %}
+<h2>Citations</h2>
+
 {% assign citations_last = filtered_citations | size | minus: 1 -%}
 {% assign first_citation = filtered_citations[0] -%}
 {% assign last_citation = filtered_citations[citations_last] -%}
@@ -148,3 +145,5 @@ table {
 
 {% endcapture %}
 {{ my_text | markdownify }}
+
+{% endif %}

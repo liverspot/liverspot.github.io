@@ -1708,7 +1708,8 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 * [3] [Mount Sinai](/source/mountsinaiorg/) — <https://www.mountsinai.org/health-library/surgery/transjugular-intrahepatic-portosystemic-shunt-tips>
 * [4] [RadiologyInfo.org](/source/radiologyinfoorg/) — <https://www.radiologyinfo.org/en/info/tips>
 * [5] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/ency/images/ency/fullsize/21742.jpg>
-* [6]&nbsp;<https://gastroliver.medicine.ufl.edu/files/2012/07/TIPS1.jpg>
+* [6] [UF Health](/source/medicineufledu/) — <https://gastroliver.medicine.ufl.edu/hepatology/for-patients/tips-shunt/>
+* [7] [UF Health](/source/medicineufledu/) — <https://gastroliver.medicine.ufl.edu/files/2012/07/TIPS1.jpg>
 
 «TIPS procedures typically take one to two hours. Your team will move you to a recovery room after the procedure. They’ll check on you as you wake up from anesthesia» — [1]
 
