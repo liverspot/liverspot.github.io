@@ -132,6 +132,7 @@ table {
 {% if "" != topic_name -%}
 </ul>
 {% endif %}
+<span class='topic-arrow' ><a href="{{ citation.path }}">&rarr;</a></span>
 ### [{{citation.topic-name}}]({{citation.path}})
 
 <ul>
