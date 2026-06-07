@@ -51,6 +51,7 @@ h6 {
 
 table td, th {
     padding: 2px 15px; /* Or a small value like 2px */
+    vertical-align: top;
 }
 
 table {
