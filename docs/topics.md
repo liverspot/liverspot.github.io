@@ -707,7 +707,7 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 
 «A cytomegalovirus (CMV) infection is a condition caused by a common virus. The CMV virus stays in the body for life after infection.
 
-[…]
+〚…〛
 
 For people who have weakened immune systems, CMV infection can be fatal. The risk is especially high for people who've had an organ, stem cell or bone marrow transplant.» — [1]
 
@@ -1398,13 +1398,13 @@ Peripheral neuropathy happens when the nerves that are located outside of the br
 «
 Hand washing should be done:
 Before eating, drinking, and taking medicine
-[…]
+〚…〛
 After contact with pets
 
 You must avoid all of the following:
-* […]
+* 〚…〛
 * Crowds
-* […]
+* 〚…〛
 * Grooming pets or cleaning bird cages, litter boxes, and fish tanks
   Long periods of bed rest
   Hot and humid environments, such as saunas, greenhouses, and pools
