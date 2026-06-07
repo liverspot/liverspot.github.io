@@ -739,7 +739,9 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 
 ### CostPlus
 
-« We started Mark Cuban Cost Plus Drug Company because every American should have access to safe, affordable medicines. If you don’t have insurance or have a high deductible plan, you know that even the most basic medications can cost a fortune. Many people are spending crazy amounts of money each month just to stay healthy. No American should have to suffer—or worse—because they can’t afford basic prescription medications» — <https://www.costplusdrugs.com/>
+« We started Mark Cuban Cost Plus Drug Company because every American should have access to safe, affordable medicines. If you don’t have insurance or have a high deductible plan, you know that even the most basic medications can cost a fortune. Many people are spending crazy amounts of money each month just to stay healthy. No American should have to suffer—or worse—because they can’t afford basic prescription medications» — [1]
+
+* [1]&nbsp;<https://www.costplusdrugs.com/>
 
 ### CPMC
 California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
@@ -1682,10 +1684,12 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 ### Tattoos
 
-* «Getting a tattoo if you have a weakened immune system could put you at risk of complications, doctors have warned. The caution comes after a woman with cystic fibrosis and lung transplants developed thigh and knee pain after having body art inked on her leg.» — <https://www.theguardian.com/fashion/2018/jun/18/tattoo-health-warning-for-people-with-weakened-immune-systems>
+«Getting a tattoo if you have a weakened immune system could put you at risk of complications, doctors have warned. The caution comes after a woman with cystic fibrosis and lung transplants developed thigh and knee pain after having body art inked on her leg.» — [1]
+ 
+«Tattoos and piercings are common forms of expression that many individuals wish to get post-transplant, but there are mixed reviews on whether or not these are safe to receive post-transplant.» — [2]
 
-* «Tattoos and piercings are common forms of expression that many individuals wish to get post-transplant, but there are mixed reviews on whether or not these are safe to receive post-transplant.» — <https://www.transplantunwrapped.org/additional-topics-1/tattoos-and-piercings>
-
+* [1]&nbsp;<https://www.theguardian.com/fashion/2018/jun/18/tattoo-health-warning-for-people-with-weakened-immune-systems>
+* [2]&nbsp;<https://www.transplantunwrapped.org/additional-topics-1/tattoos-and-piercings>
 
 ### Thoracentesis
 
