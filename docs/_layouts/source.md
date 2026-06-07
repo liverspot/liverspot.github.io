@@ -53,6 +53,12 @@ table td, th {
     padding: 2px 15px; /* Or a small value like 2px */
 }
 
+table {
+  table-layout: fixed;
+  width: 100%; 
+  border-collapse: collapse;
+}
+
   p, h4 { /*Shift contents of details right*/
     margin-left: 20px; 
   } 
@@ -80,14 +86,48 @@ table td, th {
 {% assign last_citation = filtered_citations[citations_last] -%}
 {% assign topic_name = "" -%}
 
+{% capture my_text -%}
 
+[//]: # ({% if citations_count > 1 %})
+
+[//]: # (There are a total of {{citations_count}} citations in topics from [{{first_citation.topic-name}}]&#40;#{{first_citation.topic-slug}}&#41;  to  [{{last_citation.topic-name}}]&#40;#{{last_citation.topic-slug}}&#41;)
+
+[//]: # ({% else %})
+
+[//]: # (There is one citation in [{{first_citation.topic-name}}]&#40;#{{first_citation.topic-slug}}&#41;)
+
+[//]: # ({% endif %})
+
+|--------|--------|--------|
+{% assign topic_count = 0 -%}
+{% for citation in filtered_citations -%}
+{% if topic_name == citation.topic-name -%}
+{% continue -%}
+{% endif -%}
+{% assign topic_name = citation.topic-name -%}
+{% assign topic_modulo = topic_count | modulo: 3 -%}
+{% if topic_modulo == 0 -%}
+{% assign left_topic = topic_name -%}
+{% elsif  topic_modulo == 1 -%}
+{% assign middle_topic = topic_name -%}
+{% else  -%}
+{% assign right_topic = topic_name -%}
+| <a href="#{{ left_topic | slugify }}">{{left_topic}}&nbsp;</a> | <a href="#{{ middle_topic | slugify }}">{{middle_topic}}&nbsp;</a> | <a href="#{{ right_topic | slugify }}">{{right_topic}}&nbsp;</a> |
+{% endif -%}
+{% assign topic_count = topic_count | plus: 1 -%}
+{% endfor -%}
+{% if topic_modulo == 0 -%}
+| <a href="#{{ left_topic | slugify }}">{{left_topic}}&nbsp;</a> |  |  |
+{% elsif  topic_modulo == 1 -%}
+| <a href="#{{ left_topic | slugify }}">{{left_topic}}&nbsp;</a> | <a href="#{{ middle_topic | slugify }}">{{middle_topic}}&nbsp;</a> |  |
+{% else  -%}
+{% endif -%}
+{% endcapture -%}
+{{ my_text | markdownify }}
+
+{% assign topic_name = "" -%}
 
 {% capture my_text %}
-{% if citations_count > 1 %}
-There are a total of {{citations_count}} citations in topics from [{{first_citation.topic-name}}](#{{first_citation.topic-slug}})  to  [{{last_citation.topic-name}}](#{{last_citation.topic-slug}})
-{% else %}
-There is one citation in [{{first_citation.topic-name}}](#{{first_citation.topic-slug}})
-{% endif %}
 
 {% for citation in filtered_citations -%}
 {% if citation.topic-name != topic_name -%}
