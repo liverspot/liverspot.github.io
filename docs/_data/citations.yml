@@ -322,6 +322,12 @@
   topic-slug: dupuytrens-contracture
   path: /topics/#dupuytrens-contracture
   description: ""
+- url: https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test
+  source: clevelandclinicorg
+  topic-name: DXA scan
+  topic-slug: dxa-scan
+  path: /topics/#dxa-scan
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/dysphagia/symptoms-causes/syc-20372028
   source: mayoclinicorg
   topic-name: Dysphagia

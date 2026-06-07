@@ -829,9 +829,9 @@ A Donor Service Area (DSA) is a smaller portion of a UNOS Region in which organs
 
 ### DXA scan
 
-A DXA scan is an imaging test that measures the strength of your bones. It uses X-rays to measure your bone density. DXA is an abbreviation for dual-energy X-ray absorptiometry.
+«A DXA scan is an imaging test that measures the strength of your bones. It uses X-rays to measure your bone density. DXA is an abbreviation for dual-energy X-ray absorptiometry.» — [1]
 
-<https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test>
 
 ### Dysphagia
 Dysphagia is an inability to swallow properly. Food and liquids orally taken can be aspirated (inhaled) and cause pneumonia and other illness.
