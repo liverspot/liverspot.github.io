@@ -721,6 +721,8 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 
 ### Compensated Cirrhosis
 
+« Compensated liver cirrhosis (CLC) is defined as cirrhosis with one or more decompensating events, such as ascites, variceal haemorrhage, or hepatic encephalopathy. Patients with CLC are largely asymptomatic with preserved hepatic function.» — [1]
+
 «Someone with compensated cirrhosis doesn’t necessarily look or feel sick. Their symptoms of the disease may be mild or nonexistent even though the liver is severely scarred.» — [2]
 
 * [1] [NIH](/source/nihgov/) «Compensated liver cirrhosis: Natural course and disease-modifying strategies» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10523240/>
