@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <style>
 
     .topic-arrow {
@@ -36,7 +37,7 @@ h4 {
 h5 {
   margin-top: 10px;
   margin-bottom: 10px;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 500;
   line-height: 34px;
 }
@@ -54,13 +55,13 @@ table td, th {
     vertical-align: top;
 }
 
+  ul { 
+    padding-inline-start: 20px; 
+  }
 
   p, h4 { /*Shift contents of details right*/
     margin-left: 20px; 
   } 
-  ul { 
-    padding-inline-start: 20px; 
-  }
 
 table {
   table-layout: fixed;

@@ -19,16 +19,19 @@ h2 {
   line-height: 50px;
 }
 
-h3x {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  font-size: 32px;
-  font-weight: 400;
-  line-height: 46px;
-}
+    .topic-arrow {
+        float:right; 
+        border-top: 2px solid #2e6da4;
+        font-size:20px; 
+        font-weight: bold;
+        font-weight:700; 
+        color: #2e6da4;
+        background-color: #deedf4;
+    }
 
-/*.post-content*/
-/*  font-size: 32px;*/
+a {
+    overflow-wrap: break-word; 
+}
 
 h3 {
   border-top: 2px solid #2e6da4; 
@@ -37,7 +40,6 @@ h3 {
   page-break-after: avoid; /* Safari fallback */
 }
 
-/*.post-content */
 h4 {
   color: #b81d3e;
   margin-top: 10px;
@@ -65,6 +67,7 @@ h6 {
 
  table td, th {
     padding: 2px 15px; /* Or a small value like 2px */
+    vertical-align: top;
   }
 
   ul {
