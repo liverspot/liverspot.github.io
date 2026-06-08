@@ -56,7 +56,7 @@ The following organizations have materials that are referenced within [Topics](/
 {% capture my_text -%}
 
 {% assign source_count = 0 -%}
-{% assign sources = site.sources | sort: "full-name" -%}
+{% assign sources = site.sources | sort_natural: "full-name" -%}
 |--------|--------|
 {% for source in sources -%}
 {% assign source_modulo = source_count | modulo: 3 -%}
