@@ -148,23 +148,19 @@ table tr:nth-child(111), /*P*/
 
 
 
-table tr:nth-child(123), /*R*/
+
+table tr:nth-child(124), /*R*/
 
 
 
-table tr:nth-child(127), /*S*/
-
-
-
-
-
-
-table tr:nth-child(134), /*T*/
+table tr:nth-child(128), /*S*/
 
 
 
 
 
+
+table tr:nth-child(135), /*T*/
 
 
 
@@ -175,14 +171,19 @@ table tr:nth-child(134), /*T*/
 
 
 
-table tr:nth-child(150), /*U*/
 
 
 
 
-table tr:nth-child(155), /*V*/
 
-table tr:nth-child(157), /*X*/
+table tr:nth-child(151), /*U*/
+
+
+
+
+table tr:nth-child(156), /*V*/
+
+table tr:nth-child(158), /*X*/
 
 
 table tr:nth-child(1), /*Y*/
@@ -503,6 +504,7 @@ The following entries contain information on topics that have been brought up du
 |[Prednisone &darr;](#prednisone)||
 |[Printed Liver &darr;](#printed-liver)||
 |[PT &darr;](#pt)|Prothrombin Time|
+|[PTPVS &darr;](#ptpvs)|Percutaneous portal venoplasty and stenting|
 |[Punctate Infarct &darr;](#punctate-infarct)|Punctate Stroke|
 |[Recompensated &darr;](#recompensated) <a id="r"></a>||
 |[Recteq &darr;](#recteq)||
@@ -945,7 +947,7 @@ So it is a brand name related to filgrastim
 
 «Fine-needle aspiration (FNA) is a procedure healthcare providers use to get a cell sample from a suspicious lump or an abnormal area of your body. It’s also called a fine-needle biopsy. FNA involves using a thin needle and a syringe to pull out cells, tissue and fluids.» — [1]
 
-* [1] <https://my.clevelandclinic.org/health/diagnostics/17872-fine-needle-aspiration-fna>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/17872-fine-needle-aspiration-fna>
 
 
 ### Fistula
@@ -1566,6 +1568,12 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 
 * [1] [Wikipedia](/source/wikipediaorg/) — <https://en.m.wikipedia.org/wiki/Prothrombin_time>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
+
+### PTPVS
+
+« Technical success was achieved in all patients. No procedure-related   complications occurred. Liver function was normalized gradually and the symptoms of PHT also improved following PTPVS. » — [1]
+
+* [1] [NIH](/source/nihgov/) «Percutaneous portal venoplasty and stenting 〚PTPVS〛 for anastomotic stenosis after liver transplantation» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC2670417/>
 
 ### Punctate Infarct
 

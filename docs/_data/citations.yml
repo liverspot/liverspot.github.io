@@ -442,6 +442,12 @@
   topic-slug: filgrastim
   path: /topics/#filgrastim
   description: ""
+- url: https://my.clevelandclinic.org/health/diagnostics/17872-fine-needle-aspiration-fna
+  source: clevelandclinicorg
+  topic-name: Fine-Needle Aspiration 
+  topic-slug: fine-needle-aspiration
+  path: /topics/#fine-needle-aspiration
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567
   source: mayoclinicorg
   topic-name: Fistula
@@ -1006,6 +1012,12 @@
   topic-slug: pt
   path: /topics/#pt
   description: ""
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2670417/
+  source: nihgov
+  topic-name: PTPVS
+  topic-slug: ptpvs
+  path: /topics/#ptpvs
+  description: "«Percutaneous portal venoplasty and stenting 〚PTPVS〛 for anastomotic stenosis after liver transplantation» "
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10025679/
   source: nihgov
   topic-name: Recompensated
