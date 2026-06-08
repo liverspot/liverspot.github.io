@@ -7,24 +7,20 @@ author: "Mark Fussell"
 
 <style>
 
-    .topic-arrow {
-        float:right; 
-        border-top: 2px solid #2e6da4;
-        font-size:20px; 
-        font-weight: bold;
-        font-weight:700; 
-        color: #2e6da4;
-        background-color: #deedf4;
-    }
-
-  a {
-    overflow-wrap: break-word; 
-  }
-
   table th {
     background-color: #2e6da4;
     color: white;
   }
+
+
+  p, h4 { /*Shift contents of details right*/
+    margin-left: 20px; 
+  } 
+
+
+/*================================== */
+/*=== Topic-section in table styling */
+/*================================== */
 
 table tr:nth-child(1), /*A*/
 
@@ -194,23 +190,10 @@ table tr:nth-child(1) /*Z*/
     background-color: #deedf4;
   }
 
-.h3 {
-    background-color: #deedf4;
-    width: fit-content;
-    padding: 10px 10px; /* Optional: adds space around the text */
-    font-weight: normal;
-    break-after: avoid;
-    page-break-after: avoid; /* Safari fallback */
-}
+/*================================== */
+/*=== Topic-Area Header Styling ===*/
+/*================================== */
 
-h3 {
-  border-top: 2px solid #2e6da4; 
-  color: #2e6da4;
-  break-after: avoid;
-  page-break-after: avoid; /* Safari fallback */
-}
-
-  #\33 -d-printed-liver, /*Nasty Escape*/
 #acr,
 
 
@@ -354,22 +337,9 @@ h3 {
     padding: 10px 10px; 
 }
 
-  p, h4 { /*Shift contents of details right*/
-    margin-left: 20px; 
-  } 
-  ul { 
-    padding-inline-start: 20px; 
-  }
-
-table td, th {
-    padding: 2px 15px; /* Or a small value like 2px */
-}
-
-/* 9.999999999px 15px */
-
-/*div {*/
-/*column-count: 3;*/
-/*}*/
+/*================================== */
+/*================================== */
+/*================================== */
 
 </style>
 

@@ -7,15 +7,15 @@ styles:
 
 <style>
 
-p, h4 { /*Shift contents of details right*/
-    margin-left: 20px;
-}
-
-table {
-  table-layout: fixed;
-  width: 100%; 
-  border-collapse: collapse;
-}
+    p, h4 { /*Shift contents of details right*/
+        margin-left: 20px;
+    }
+    
+    table {
+      table-layout: fixed;
+      width: 100%; 
+      border-collapse: collapse;
+    }
     
 </style>
 

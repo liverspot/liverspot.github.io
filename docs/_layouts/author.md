@@ -7,7 +7,6 @@ styles:
 
 <style>
 
-
   p, h4 { /*Shift contents of details right*/
     margin-left: 20px; 
   } 

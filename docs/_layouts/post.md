@@ -6,24 +6,6 @@ styles:
 ---
 
 <style>
-h1 {
-  margin-top: 20px;
-  margin-bottom: 15px;
-  font-size: 44px;
-  font-weight: 400;
-  line-height: 62px;
-}
-
-h2 {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  font-size: 36px;
-  font-weight: 400;
-  line-height: 50px;
-}
-
- 
-
 
 </style>
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
