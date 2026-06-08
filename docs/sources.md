@@ -66,14 +66,14 @@ The following organizations have materials that are referenced within [Topics](/
 {% assign middle_source = source -%}
 {% else  -%}
 {% assign right_source = source -%}
-| <a href="{{ site.baseurl }}{{ left_source.url }}">{{left_source.full-name}}</a> | <a href="{{ site.baseurl }}{{ middle_source.url }}">{{middle_source.full-name}}</a> | <a href="{{ site.baseurl }}{{ right_source.url }}">{{right_source.full-name}}</a> |
+| <span style="float: right; "> [&darr;](#{{ left_source.id | remove_first: '/' | replace: '/', '-' | slugify}})  </span> <a href="{{ site.baseurl }}{{ left_source.url }}">{{left_source.full-name}}</a> | <span style="float: right; "> [&darr;](#{{ middle_source.id  | remove_first: '/' | replace: '/', '-' | slugify}})  </span> <a href="{{ site.baseurl }}{{ middle_source.url }}">{{middle_source.full-name}}</a> | <span style="float: right; "> [&darr;](#{{ right_source.id | remove_first: '/' | replace: '/', '-' | slugify}})  </span> <a href="{{ site.baseurl }}{{ right_source.url }}">{{right_source.full-name}}</a> |
 {% endif -%}
 {% assign source_count = source_count | plus: 1 -%}
 {% endfor -%}
 {% if source_modulo == 0 -%}
-| <a href="{{ site.baseurl }}{{ left_source.url }}">{{left_source.full-name}}</a> |  |  |
+| <span style="float: right; "> [&darr;](#{{ left_source.id | remove_first: '/' | replace: '/', '-' | slugify}})  </span> <a href="{{ site.baseurl }}{{ left_source.url }}">{{left_source.full-name}}</a> |  |   |
 {% elsif  source_modulo == 1 -%}
-| <a href="{{ site.baseurl }}{{ left_source.url }}">{{left_source.full-name}}</a> | <a href="{{ site.baseurl }}{{ middle_source.url }}">{{middle_source.full-name}}</a> |  |
+| <span style="float: right; "> [&darr;](#{{ left_source.id | remove_first: '/' | replace: '/', '-' | slugify}})  </span> <a href="{{ site.baseurl }}{{ left_source.url }}">{{left_source.full-name}}</a> | <span style="float: right; "> [&darr;](#{{ middle_source.id  | remove_first: '/' | replace: '/', '-' | slugify}})  </span> <a href="{{ site.baseurl }}{{ middle_source.url }}">{{middle_source.full-name}}</a> |  |
 {% else  -%}
 {% endif -%}
 

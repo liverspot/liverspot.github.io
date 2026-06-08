@@ -105,19 +105,19 @@ table {
 {% assign topic_name = citation.topic-name -%}
 {% assign topic_modulo = topic_count | modulo: 3 -%}
 {% if topic_modulo == 0 -%}
-{% assign left_topic = topic_name -%}
+{% assign left_citation = citation -%}
 {% elsif  topic_modulo == 1 -%}
-{% assign middle_topic = topic_name -%}
+{% assign middle_citation = citation -%}
 {% else  -%}
-{% assign right_topic = topic_name -%}
-| <a href="#{{ left_topic | replace: "/", "" | slugify }}">{{left_topic}}&nbsp;</a> | <a href="#{{ middle_topic | replace: "/", "" | slugify }}">{{middle_topic}}&nbsp;</a> | <a href="#{{ right_topic | replace: "/", "" | slugify}}">{{right_topic}}&nbsp;</a> |
+{% assign right_citation = citation -%}
+| <span style="float: right; "> [&darr;](#{{ left_citation.topic-name | replace: "/", "" | slugify}})  </span> <a href="{{ left_citation.path }}">{{left_citation.topic-name}}&nbsp;</a> | <span style="float: right; "> [&darr;](#{{ middle_citation.topic-name | replace: "/", "" | slugify}})  </span> <a href="{{ middle_citation.path }}">{{middle_citation.topic-name}}&nbsp;</a> | <span style="float: right; "> [&darr;](#{{ right_citation.topic-name | replace: "/", "" | slugify}})  </span> <a href="{{ right_citation.path}}">{{right_citation.topic-name}}&nbsp;</a> |
 {% endif -%}
 {% assign topic_count = topic_count | plus: 1 -%}
 {% endfor -%}
 {% if topic_modulo == 0 -%}
-| <a href="#{{ left_topic | replace: "/", "" | slugify }}">{{left_topic}}&nbsp;</a> |  |  |
+| <span style="float: right; "> [&darr;](#{{ left_citation.topic-name | replace: "/", "" | slugify}})  </span> <a href="{{ left_citation.path }}">{{left_citation.topic-name}}&nbsp;</a> |  |  |
 {% elsif  topic_modulo == 1 -%}
-| <a href="#{{ left_topic | replace: "/", "" | slugify }}">{{left_topic}}&nbsp;</a> | <a href="#{{ middle_topic | replace: "/", "" | slugify }}">{{middle_topic}}&nbsp;</a> |  |
+| <span style="float: right; "> [&darr;](#{{ left_citation.topic-name | replace: "/", "" | slugify}})  </span> <a href="{{ left_citation.path }}">{{left_citation.topic-name}}&nbsp;</a> | <span style="float: right; "> [&darr;](#{{ middle_citation.topic-name | replace: "/", "" | slugify}})  </span> <a href="{{ middle_citation.path }}">{{middle_citation.topic-name}}&nbsp;</a> |  |
 {% else  -%}
 {% endif -%}
 {% endcapture -%}
