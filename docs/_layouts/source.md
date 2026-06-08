@@ -2,8 +2,6 @@
 layout: default
 styles:  
   - standard1
-  - standard2
-
 ---
 
 <style>

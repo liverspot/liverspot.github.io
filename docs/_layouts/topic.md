@@ -11,13 +11,14 @@ table td, th {
     vertical-align: top;
 }
 
+  ul { 
+    padding-inline-start: 20px; 
+  }
 
   p, h4 { /*Shift contents of details right*/
     margin-left: 20px; 
   } 
-  ul { 
-    padding-inline-start: 20px; 
-  }
+
 
 </style>
 <h1>{{ page.name }}</h1>

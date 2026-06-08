@@ -3,21 +3,21 @@ layout: default
 styles:
   - standard1
 ---
-<style>
 
+<style>
 
 table td, th {
     padding: 2px 15px; /* Or a small value like 2px */
     vertical-align: top;
 }
 
+  ul { 
+    padding-inline-start: 20px; 
+  }
 
   p, h4 { /*Shift contents of details right*/
     margin-left: 20px; 
   } 
-  ul { 
-    padding-inline-start: 20px; 
-  }
 
 </style>
 
