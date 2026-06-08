@@ -79,15 +79,15 @@ table tr:nth-child(50), /*F*/
 
 
 
-table tr:nth-child(54), /*G*/
 
+table tr:nth-child(55), /*G*/
 
 
 
 
 
-table tr:nth-child(61), /*H*/
 
+table tr:nth-child(62), /*H*/
 
 
 
@@ -100,43 +100,43 @@ table tr:nth-child(61), /*H*/
 
 
 
-table tr:nth-child(75), /*I*/
 
+table tr:nth-child(76), /*I*/
 
 
 
-table tr:nth-child(80), /*J*/
 
-table tr:nth-child(82), /*K*/
+table tr:nth-child(81), /*J*/
 
-table tr:nth-child(84), /*L*/
+table tr:nth-child(83), /*K*/
 
 
+table tr:nth-child(86), /*L*/
 
 
 
 
 
 
-table tr:nth-child(93), /*M*/
 
 
+table tr:nth-child(95), /*M*/
 
 
 
 
 
-table tr:nth-child(101), /*N*/
 
 
+table tr:nth-child(103), /*N*/
 
 
-table tr:nth-child(106), /*O*/
 
 
-table tr:nth-child(109), /*P*/
+table tr:nth-child(108), /*O*/
 
 
+table tr:nth-child(111), /*P*/
 
 
 
@@ -146,20 +146,20 @@ table tr:nth-child(109), /*P*/
 
 
 
-table tr:nth-child(121), /*R*/
 
 
+table tr:nth-child(123), /*R*/
 
-table tr:nth-child(125), /*S*/
 
 
+table tr:nth-child(127), /*S*/
 
 
 
 
-table tr:nth-child(132), /*T*/
 
 
+table tr:nth-child(134), /*T*/
 
 
 
@@ -173,14 +173,16 @@ table tr:nth-child(132), /*T*/
 
 
 
-table tr:nth-child(148), /*u*/
 
 
+table tr:nth-child(150), /*U*/
 
 
-table tr:nth-child(153), /*V*/
 
-table tr:nth-child(155), /*X*/
+
+table tr:nth-child(155), /*V*/
+
+table tr:nth-child(157), /*X*/
 
 
 table tr:nth-child(1), /*Y*/
@@ -432,6 +434,7 @@ The following entries contain information on topics that have been brought up du
 |[FIB-4 &darr;](#fib-4) <a id="f"></a>|Fibrosis-4|
 |[Fibroscan &darr;](#fibroscan)||
 |[Filgrastim &darr;](#filgrastim)|Neupogen, Nivestym, Zarxio|
+|[Fine-Needle Aspiration &darr;](#fine-needle-aspiration)|FNA|
 |[Fistula &darr;](#fistula)||
 |[Gabapentin &darr;](#gabapentin) <a id="g"></a>|Neurontin|
 |[Gallbladder &darr;](#gallbladder)||
@@ -462,6 +465,7 @@ The following entries contain information on topics that have been brought up du
 |[J-Tube &darr;](#j-tube) <a id="j"></a>|Jejunal Tube|
 |[Jaundice &darr;](#jaundice)||
 |[Ketorolac &darr;](#ketorolac) <a id="k"></a>|Toradol|
+|[Kidney Biopsy &darr;](#kidney-biopsy)||
 |[Kt/V &darr;](#ktv)||
 |[Lactulose &darr;](#lactulose) <a id="l"></a>|Kristalose, Enulose|
 |[Liver Circle &darr;](#liver-circle)||
@@ -937,6 +941,12 @@ So it is a brand name related to filgrastim
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/filgrastim-aafi-intravenous-route-subcutaneous-route/description/drg-20443903>
 
+### Fine-Needle Aspiration 
+
+«Fine-needle aspiration (FNA) is a procedure healthcare providers use to get a cell sample from a suspicious lump or an abnormal area of your body. It’s also called a fine-needle biopsy. FNA involves using a thin needle and a syringe to pull out cells, tissue and fluids.» — [1]
+
+* [1] <https://my.clevelandclinic.org/health/diagnostics/17872-fine-needle-aspiration-fna>
+
 
 ### Fistula
 «An Arteriovenous (AV) fistula is a direct connection between an artery and a vein. Normal blood flow goes from arteries through capillaries and then into veins. The fistula’s direct connection causes much more blood flow into a vein. Surgically creating a fistula in a chronic hemodialysis patient enables more effective and safer treatment compared to using a central venous catheter.» — [3]
@@ -1186,6 +1196,21 @@ A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to 
 #### Refs
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/ketorolac-oral-route-injection-route/description/drg-20066882>
+
+### Kidney Biopsy
+
+«A kidney biopsy may be done to:
+
+* Diagnose a kidney problem that can't otherwise be identified
+* Help develop treatment plans based on the kidney's condition
+* Determine how quickly kidney disease is progressing
+* Determine the extent of damage from kidney disease or another disease
+
+» — [1]
+
+
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/kidney-biopsy/about/pac-20394494>
+* [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/procedures/21160-kidney-biopsy>
 
 
 ### Kt/V

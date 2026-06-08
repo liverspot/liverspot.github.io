@@ -718,6 +718,18 @@
   topic-slug: ketorolac
   path: /topics/#ketorolac
   description: ""
+- url: https://www.mayoclinic.org/tests-procedures/kidney-biopsy/about/pac-20394494
+  source: mayoclinicorg
+  topic-name: Kidney Biopsy
+  topic-slug: kidney-biopsy
+  path: /topics/#kidney-biopsy
+  description: ""
+- url: https://my.clevelandclinic.org/health/procedures/21160-kidney-biopsy
+  source: clevelandclinicorg
+  topic-name: Kidney Biopsy
+  topic-slug: kidney-biopsy
+  path: /topics/#kidney-biopsy
+  description: ""
 - url: https://en.wikipedia.org/wiki/Kt/V
   source: wikipediaorg
   topic-name: Kt/V
