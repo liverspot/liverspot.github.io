@@ -19,4 +19,15 @@
   {%- endif -%}
   <!-- End Google tag -->
   <link rel="icon" type="image/png" sizes="32x32" href="/logo-32x32.png">
+  <!-- Styles -->
+  <meta property="page_styles" content="{{page.styles}}">
+  <meta property="layout_styles" content="{{layout.styles}}">
+  {% for style in page.styles -%}
+  <link rel="stylesheet" href="{{ "/assets/" | append: style | append: ".css" | relative_url }}">
+  {% endfor -%}
+  {% for style in layout.styles -%}
+  <link rel="stylesheet" href="{{ "/assets/" | append: style | append: ".css" | " relative_url }}">
+  {% endfor -%}
+  <!-- End: Styles -->
+
 </head>
