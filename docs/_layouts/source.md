@@ -54,11 +54,6 @@ table td, th {
     vertical-align: top;
 }
 
-table {
-  table-layout: fixed;
-  width: 100%; 
-  border-collapse: collapse;
-}
 
   p, h4 { /*Shift contents of details right*/
     margin-left: 20px; 
@@ -67,6 +62,12 @@ table {
     padding-inline-start: 20px; 
   }
 
+table {
+  table-layout: fixed;
+  width: 100%; 
+  border-collapse: collapse;
+}
+    
 </style>
 
 <h1>{{ page.full-name }}</h1>

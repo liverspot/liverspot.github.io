@@ -51,7 +51,9 @@ h6 {
 
 table td, th {
     padding: 2px 15px; /* Or a small value like 2px */
+    vertical-align: top;
 }
+
 
   p, h4 { /*Shift contents of details right*/
     margin-left: 20px; 
