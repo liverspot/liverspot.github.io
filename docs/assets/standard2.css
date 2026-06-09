@@ -3,6 +3,12 @@ table td, th {
     vertical-align: top;
 }
 
+table th {
+    background-color: #2e6da4;
+    color: white;
+}
+
+
 ul {
     padding-inline-start: 20px;
 }

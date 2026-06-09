@@ -3,19 +3,12 @@ layout: default
 styles:  
   - standard1
   - standard2
+  - shiftRight1
+  - tableLayoutFixed1
 ---
 
 <style>
 
-    p, h4 { /*Shift contents of details right*/
-        margin-left: 20px;
-    }
-    
-    table {
-      table-layout: fixed;
-      width: 100%; 
-      border-collapse: collapse;
-    }
     
 </style>
 

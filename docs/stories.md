@@ -2,18 +2,11 @@
 layout: page
 title: Stories
 permalink: /stories/
+styles: 
+  - shiftRight1
 ---
 
 <style>
-
-  table th {
-    background-color: #2e6da4;
-    color: white;
-  }
-
-  p, h4 { /*Shift contents of details right*/
-    margin-left: 20px; 
-  } 
 
 
 </style>

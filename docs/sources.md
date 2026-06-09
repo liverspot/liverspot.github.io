@@ -2,21 +2,13 @@
 layout: page
 title: Sources
 permalink: /sources/
+styles:
+  - shiftRight1
+  - tableLayoutFixed1
 ---
 
 <style>
  
-
-  p, h4 { /*Shift contents of details right*/
-    margin-left: 20px; 
-  } 
-
-
-table {
-  table-layout: fixed;
-  width: 100%; 
-  border-collapse: collapse;
-}
 
 
 </style>
@@ -58,7 +50,7 @@ The following organizations have materials that are referenced within [Topics](/
 <span class='topic-arrow' ><a href="{{ site.baseurl }}{{ source.url }}">&rarr;</a></span>
 <h3 id="{{full_id}}"><a href="{{ site.baseurl }}{{ source.url }}">{{source.full-name}}</a></h3>
 
-{{source.excerpt}}
+{{source.excerpt }} 
 
 
 {% assign filtered_citations = site.data.citations | where_exp: "item", "item.source == source.slug" -%}
