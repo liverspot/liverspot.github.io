@@ -955,9 +955,10 @@ Hilar/perihilar cholangiocarcinoma (pCCA) [Sometimes incorrectly concidered gall
 
 ### GFR and Aging
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/>
-
 «This paper discusses the known effects of ageing on GFR 〚Glomerular Filtration Rate〛and the consequences of using a classification system for defining CKD that does not take into account the normal decline of GFR with ageing» — [1]
+
+* [1] [NIH](/source/nihgov/) «Ageing and the Glomerular Filtration Rate» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/>
+
 
 ### GGT
 
@@ -1002,6 +1003,7 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
 
 ### Hemochromatosis
+
 Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much iron from the food you eat. Excess iron is stored in your organs, especially your liver, heart and pancreas. Too much iron can lead to life-threatening conditions, such as liver disease, heart problems and diabetes.
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/hemochromatosis/symptoms-causes/syc-20351443>
@@ -1033,7 +1035,7 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 «HLA DSA (Human Leukocyte Antigen Donor-Specific Antibody) refers to antibodies in a transplant recipient's bloodstream that specifically target and attack the unique HLA proteins of a donor. These are routinely monitored because they can trigger immune rejection of a transplanted organ or stem cells» — [AI:Google]
 
 * [1] [ScienceDirect](/source/sciencedirectcom/) — <https://www.sciencedirect.com/topics/medicine-and-dentistry/hla-antigen>
-* [2] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10920073/>
+* [2] [NIH](/source/nihgov/) «Donor specific anti-HLA antibodies in hematopoietic stem cell transplantation 〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10920073/>
 * [3]&nbsp;<https://mlabs.umich.edu/tests/hla-donor-specific-antibody>
 
 ### HPMV
@@ -1186,7 +1188,7 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 * [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Kt/V>
 * [2] [ScienceDirect](/source/sciencedirectcom/) — <https://www.sciencedirect.com/topics/medicine-and-dentistry/kt-v>
 * [3] [NIH](/source/nihgov/) «Association of Kt/V and creatinine clearance with outcomes in anuric peritoneal dialysis patients» — <https://pubmed.ncbi.nlm.nih.gov/18617306/>
-* [4]&nbsp;<https://advancingdialysis.org/standardized-kt-v-home-hemodialysis-matter/>
+* [4]&nbsp; «Standardized Kt/V on Home Hemodialysis〚…〛» — <https://advancingdialysis.org/standardized-kt-v-home-hemodialysis-matter/>
 
 
 ### Lactulose
@@ -1267,11 +1269,12 @@ The donor's remaining liver regrows and returns to its normal size, volume and c
 L‐ornithine‐L‐aspartate for hepatic encephalopathy
 
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6478143/>
-* [2]&nbsp;<https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1581792/full>
-* [3]&nbsp;<https://www.nature.com/articles/s41598-024-62293-8>
-* [4]&nbsp;<https://practicalgastro.com/2022/05/18/hepatic-encephalopathy-treatment-beyond-lactulose-and-rifaximin/>
-* [5] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9257922/>
+* [1] [NIH](/source/nihgov/) «L‐ornithine‐L‐aspartate for hepatic encephalopathy» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6478143/>
+* [2] «Efficacy and safety of L-ornithine L-aspartate〚…〛»— <https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1581792/full>
+* [3] «Intravenous versus oral ‘L-ornithine-L-aspartate’ in overt hepatic encephalopathy〚…〛» — <https://www.nature.com/articles/s41598-024-62293-8>
+* [4] «Hepatic Encephalopathy Treatment: Beyond Lactulose and Rifaximin
+  » — <https://practicalgastro.com/2022/05/18/hepatic-encephalopathy-treatment-beyond-lactulose-and-rifaximin/>
+* [5] [NIH](/source/nihgov/) «Novel Drugs for the Management of Hepatic Encephalopathy〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9257922/>
 * [6]&nbsp;<https://www.reddit.com/r/Cirrhosis/comments/1oox3h7/to_the_mod_who_locked_the_thread_on_lola/>
 
 «Results: A total of 12 articles were ultimately included, involving 858 patients, with 433 in the treatment group and 425 in the control group. Meta-analysis results: In terms of the total effective rate (RR: 1.31, 95%CI: 1.22, 1.42), the result is statistically significant (Z = 7.15, P = 0.00001 < 0.05), and for AST, ALT, NH3, TBIL, P = 0.00001 < 0.05. The pooled (RR: 1.31 [95% CI = 1.22, 1.42]), which is statistically significant, LOLA and Lactulose is 31% more effective than Lactulose alone in the control group in treating HE.» — [2]
