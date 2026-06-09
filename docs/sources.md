@@ -18,16 +18,31 @@ table thead th {
     padding-bottom: 0px;
 }
 
-table tr:nth-child(odd) td:nth-child(odd) {
+table tfoot tr {
+  background-color: #2e6da4;
+}
+
+table tfoot tr {
+    line-height: 3px;
+}
+
+table tfoot td {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+table tbody tr:nth-child(odd) td:nth-child(odd) {
   background-color: rgb(222, 237, 244);
 }
 
-table tr:nth-child(even) td:nth-child(even) {
+table tbody tr:nth-child(even) td:nth-child(even) {
   background-color: rgb(222, 237, 244);
 }
 
 
 </style>
+
 
 The following organizations have materials that are referenced within [Topics](/topics/). 
 
@@ -55,7 +70,8 @@ The following organizations have materials that are referenced within [Topics](/
 | <span style="float: right; "> [&darr;](#{{ left_source.id | remove_first: '/' | replace: '/', '-' | slugify}})  </span> <a href="{{ site.baseurl }}{{ left_source.url }}">{{left_source.full-name}}</a> | <span style="float: right; "> [&darr;](#{{ middle_source.id  | remove_first: '/' | replace: '/', '-' | slugify}})  </span> <a href="{{ site.baseurl }}{{ middle_source.url }}">{{middle_source.full-name}}</a> |  |
 {% else  -%}
 {% endif -%}
-
+|========|========|========|
+|&nbsp;|&nbsp;|&nbsp;|
 {% endcapture -%}
 {{ my_text | markdownify }}
 
