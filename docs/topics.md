@@ -616,8 +616,9 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 ### Atrophy
 
-* [1] [LWW](/source/lwwcom/) — <https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx>
-* [2] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/>
+* [1] [LWW](/source/lwwcom/) «
+  Muscle preservation during hospitalization〚…〛» — <https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx>
+* [2] [NIH](/source/nihgov/) «Hospitalization and Change in Body Composition and Strength 〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/>
 
 «Muscle loss during hospitalization is a major clinical concern, as it has been associated with reduced physical function, quality of life, and increased mortality. This review outlines the key causes of muscle wasting and highlights practical strategies to support muscle mass preservation during hospitalization.» — [1]
 
@@ -669,7 +670,7 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 * [3] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Cirrhosis>
 * [4]&nbsp;<https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=aa67653>
 * [5] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/cirrhosis>
-* [6] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4381184/>
+* [6] [NIH](/source/nihgov/) «Staging of liver fibrosis or cirrhosis 〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4381184/>
 
 
 ### CMV
@@ -713,7 +714,10 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 * [1]&nbsp;<https://www.costplusdrugs.com/>
 
 ### CPMC
-California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
+
+California Pacific Medical Center (CPMC)  
+
+* [1]&nbsp;<https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
 
 <span class='topic-arrow' >[&rarr;](/topic/creatinine)</span>
 ### [Creatinine](/topic/creatinine)
@@ -742,7 +746,7 @@ California Pacific Medical Center (CPMC) — <https://www.sutterhealth.org/about
 
 ### Deceased-Donor Liver Size
 
-* [1] [LWW](/source/lwwcom/) — <https://journals.lww.com/transplantjournal/fulltext/2017/11000/deceased_donor_liver_size_and_the_sex_based.9.aspx>
+* [1] [LWW](/source/lwwcom/) «Deceased-Donor Liver Size and the Sex-Based Disparity 〚…〛» — <https://journals.lww.com/transplantjournal/fulltext/2017/11000/deceased_donor_liver_size_and_the_sex_based.9.aspx>
 
 ### Decompensated Cirrhosis
 «Decompensated cirrhosis is defined as an acute deterioration in liver function in a patient with cirrhosis and is characterized by jaundice, ascites, hepatic encephalopathy, hepatorenal syndrome or variceal haemorrhage.
@@ -751,7 +755,7 @@ Liver damage and severe scarring can progress to the point where the liver can n
 
 * [1]&nbsp;<https://www.hepmag.com/blog/compensated-decompensated-cirrhosis>
 * [2]&nbsp;<https://www.hepatitis.va.gov/cirrhosis/patient/decompensated.asp>
-* [3] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334027/>
+* [3] [NIH](/source/nihgov/) «Management of decompensated cirrhosis» — <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334027/>
 
 <span class='topic-arrow' >[&rarr;](/topic/dialysis)</span>
 ### [Dialysis](/topic/dialysis)
@@ -763,10 +767,10 @@ Liver damage and severe scarring can progress to the point where the liver can n
 
 ### Diverticulitis
 
-* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/diverticulitis/symptoms-causes/syc-20371758>
-
 «Diverticula are common, especially after age 50. They are usually found in the lower part of the colon. Most often, they don't cause problems. The presence of diverticula is called diverticulosis. Diverticulosis isn't a disease condition.
 When these pouches become inflamed, the condition is called diverticulitis. Inflammation is immune system activity that increases blood flow and fluids to a site in the body and delivers disease-fighting cells. Inflammation of diverticula can cause severe pain, fever, nausea and changes in your stool habits.» — [1]
+
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/diverticulitis/symptoms-causes/syc-20371758>
 
 
 ### Donor Info
@@ -944,11 +948,9 @@ So it is a brand name related to filgrastim
 
 ### Gallbladder Cancer
 
-«Hilar/perihilar cholangiocarcinoma (pCCA), or gallbladder cancer involving the bile ducts, is recognized as a specific MELD exception condition, often receiving a score equal to the median MELD at transplant (MMaT) minus 3 points, subject to National Liver Review Board (NLRB) approval. » — [1]
+Hilar/perihilar cholangiocarcinoma (pCCA) [Sometimes incorrectly concidered gallbladder cancer] is recognized as a specific MELD exception condition, often receiving a score equal to the median MELD at transplant (MMaT) minus 3 points, subject to National Liver Review Board (NLRB) approval. 
 
-«To qualify, the tumor must be unresectable, liver-limited, and meet strict » — [1]
-
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/>
+* [1] [NIH](/source/nihgov/) «Current status of liver transplantation for cholangiocarcinoma» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/>
 
 
 ### GFR and Aging

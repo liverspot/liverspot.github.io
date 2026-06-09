@@ -118,18 +118,12 @@
   topic-slug: asterixis
   path: /topics/#asterixis
   description: ""
-- url: https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx
-  source: lwwcom
-  topic-name: Atrophy
-  topic-slug: atrophy
-  path: /topics/#atrophy
-  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/
   source: nihgov
   topic-name: Atrophy
   topic-slug: atrophy
   path: /topics/#atrophy
-  description: ""
+  description: "«Hospitalization and Change in Body Composition and Strength 〚…〛» "
 - url: https://medlineplus.gov/lab-tests/bilirubin-blood-test/
   source: medlineplusgov
   topic-name: Bilirubin
@@ -195,7 +189,7 @@
   topic-name: Cirrhosis
   topic-slug: cirrhosis
   path: /topics/#cirrhosis
-  description: ""
+  description: "«Staging of liver fibrosis or cirrhosis 〚…〛» "
 - url: https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358
   source: mayoclinicorg
   topic-name: CMV
@@ -267,13 +261,13 @@
   topic-name: Deceased-Donor Liver Size
   topic-slug: deceased-donor-liver-size
   path: /topics/#deceased-donor-liver-size
-  description: ""
+  description: "«Deceased-Donor Liver Size and the Sex-Based Disparity 〚…〛» "
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334027/
   source: nihgov
   topic-name: Decompensated Cirrhosis
   topic-slug: decompensated-cirrhosis
   path: /topics/#decompensated-cirrhosis
-  description: ""
+  description: "«Management of decompensated cirrhosis» "
 - url: https://www.nhs.uk/conditions/dialysis/
   source: nhsuk
   topic-name: Dialysis
@@ -489,7 +483,7 @@
   topic-name: Gallbladder Cancer
   topic-slug: gallbladder-cancer
   path: /topics/#gallbladder-cancer
-  description: ""
+  description: "«Current status of liver transplantation for cholangiocarcinoma» "
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/
   source: nihgov
   topic-name: GFR and Aging
