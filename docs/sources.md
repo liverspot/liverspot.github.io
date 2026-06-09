@@ -9,6 +9,22 @@ styles:
 
 <style>
  
+table thead tr {
+    line-height: 3px;
+}
+
+table thead th {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+table tr:nth-child(odd) td:nth-child(odd) {
+  background-color: rgb(222, 237, 244);
+}
+
+table tr:nth-child(even) td:nth-child(even) {
+  background-color: rgb(222, 237, 244);
+}
 
 
 </style>
@@ -19,7 +35,8 @@ The following organizations have materials that are referenced within [Topics](/
 
 {% assign source_count = 0 -%}
 {% assign sources = site.sources | sort_natural: "full-name" -%}
-|--------|--------|
+|&nbsp;|&nbsp;|&nbsp;|
+|--------|--------|--------|
 {% for source in sources -%}
 {% assign source_modulo = source_count | modulo: 3 -%}
 {% if source_modulo == 0 -%}

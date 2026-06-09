@@ -8,9 +8,27 @@ styles:
 ---
 
 <style>
+ 
+table thead tr {
+    line-height: 3px;
+}
 
-    
+table thead th {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+table tr:nth-child(odd) td:nth-child(odd) {
+  background-color: rgb(222, 237, 244);
+}
+
+table tr:nth-child(even) td:nth-child(even) {
+  background-color: rgb(222, 237, 244);
+}
+
+
 </style>
+
 
 <h1>{{ page.full-name }}</h1>
 
@@ -39,6 +57,7 @@ styles:
 
 [//]: # ({% endif %})
 
+|&nbsp;|&nbsp;|&nbsp;|
 |--------|--------|--------|
 {% assign topic_count = 0 -%}
 {% for citation in filtered_citations -%}
