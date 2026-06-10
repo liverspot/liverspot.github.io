@@ -15,165 +15,29 @@ styles:
 /*=== Topic-section in table styling */
 /*================================== */
 
+
 table tr:nth-child(1), /*A*/
-
-
-
-
-
-
-
-
-
-
-
-
-
 table tr:nth-child(15), /*B*/
-
-
-
 table tr:nth-child(19), /*C*/
-
-
-
-
-
-
-
-
-
 table tr:nth-child(29), /*D*/
-
-
-
-
-
-
-
-
-
-
-
 table tr:nth-child(41), /*E*/
-
-
-
-
-
-
-
-
 table tr:nth-child(50), /*F*/
-
-
-
-
 table tr:nth-child(55), /*G*/
-
-
-
-
-
-
 table tr:nth-child(62), /*H*/
-
-
-
-
-
-
-
-
-
-
-
-
-
 table tr:nth-child(76), /*I*/
-
-
-
-
 table tr:nth-child(81), /*J*/
-
 table tr:nth-child(83), /*K*/
-
-
 table tr:nth-child(86), /*L*/
-
-
-
-
-
-
-
-
 table tr:nth-child(95), /*M*/
-
-
-
-
-
-
-
 table tr:nth-child(103), /*N*/
-
-
-
-
 table tr:nth-child(108), /*O*/
-
-
 table tr:nth-child(111), /*P*/
-
-
-
-
-
-
-
-
-
-
-
-
 table tr:nth-child(124), /*R*/
-
-
-
 table tr:nth-child(128), /*S*/
-
-
-
-
-
-
-table tr:nth-child(135), /*T*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-table tr:nth-child(151), /*U*/
-
-
-
-
-table tr:nth-child(156), /*V*/
-
-table tr:nth-child(158), /*X*/
-
+table tr:nth-child(136), /*T*/
+table tr:nth-child(152), /*U*/
+table tr:nth-child(157), /*V*/
+table tr:nth-child(159), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -187,139 +51,28 @@ table tr:nth-child(1) /*Z*/
 /*=== Topic-Area Header Styling ===*/
 /*================================== */
 
+
 #acr,
-
-
-
-
-
-
-
-
-
 #bausch-pap,
-
-
-
 #camino-hospital-iop,
-
-
-
-
-
-
-
 #deceased-organ-donation,
-
-
-
-
-
-
-
-
-
-
-
 #edema,
-
-
-
-
-
-
-
-
 #fib-4,
-
-
-
 #gabapentin,
-
-
-
-
-
-
 #hcc-galad-model,
-
-
-
-
-
-
-
 #immunosuppressant,
-
-
-
-
 #j-tube,
-
 #ketorolac,
-
 #lactulose,
-
-
-
-
-
 #medical-marijuana,
-
-
-
-
-
-
 #naltrexone,
-
-
-
-
-
 #optn,
-
-
 #paracentesis,
-
-
-
-
-
-
 #recompensated,
-
-
-
 #safety-net,
-
-
-
-
-
 #tace,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #uacr,
-
-
-
-
 #valcyte,
-
 #xiaflex,
 #zzz
 {
@@ -479,6 +232,7 @@ The following entries contain information on topics that have been brought up du
 |[Skin Changes &darr;](#skin-changes)||
 |[SRTR &darr;](#srtr)|Scientific Registry of Transplant Recipients|
 |[Stanford KPD &darr;](#stanford-kpd)|Kidney Paired Donation|
+|[Steatotic Liver Disease &darr;](#steatotic-liver-disease)|MASLD, MASH, NAFLD, SLD, Fatty Liver Disease|
 |[St. Mary's Reno &darr;](#st-marys-reno)||
 |[TACE &darr;](#tace) <a id="t"></a>|Transarterial chemoembolization|
 |[Tacrolimus &darr;](#tacrolimus)|Prograf, Astagraf, Envarsus|
@@ -1644,6 +1398,14 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 * [1]&nbsp;<https://stanfordkpd.org>
 
+### Steatotic Liver Disease
+
+«Steatotic liver disease (SLD) involves having excess fat in your liver. Metabolic conditions and heavy alcohol use are risk factors. Depending on the type of SLD you have, the fat buildup may not cause problems, or it may lead to liver damage. Often, you can prevent or even reverse SLD with medications and lifestyle changes» — [1]
+
+«Metabolic dysfunction-associated steatotic liver disease (MASLD), formerly called nonalcoholic fatty liver disease (NAFLD), is a liver condition that affects people with excess weight, obesity or other metabolic conditions, such as type 2 diabetes, high blood pressure or high cholesterol. In MASLD, too much fat builds up in the liver.»
+
+* [1] <https://my.clevelandclinic.org/health/diseases/15831-fatty-liver-disease>
+* [2] <https://www.mayoclinic.org/diseases-conditions/fatty-liver-disease-masld/symptoms-causes/syc-20354567>
 
 ### St. Mary's Reno
 
