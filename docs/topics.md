@@ -1604,6 +1604,13 @@ The website about the safety net program that was on UNOS was seriously messed u
 A safety net policy is for candidates who may not meet eligibility criteria for a simultaneous organ transplant, or who were not listed for a multi-organ transplant. For candidates who need a heart or lung transplant and have some renal dysfunction, transplant programs may opt to proceed with a single organ transplant (in this case a heart or lung transplant) in order to allow the kidneys to recover. If the kidneys do not recover in a timely fashion, a candidate may be eligible to receive safety net priority for a kidney transplant.
 » — [1]
 
+«How long will the candidate remain at the safety net priority?
+
+* When the transplant program reports the candidate meets the criteria, they will remain at this classification for 30 days from the date of the qualifying test or treatment.
+* If the transplant program reports another qualifying test or treatment, the candidate will remain at this classification for another 30 days from the date of the most recent test or treatment.
+* If the transplant program reports that the candidate meets the criteria for 90 consecutive days, then the candidate will remain at this classification until they are removed from the kidney waiting list.
+» — [1]
+
 ### Scar Tissue
 
 Scar tissue reaches approximately 50% of original skin strength at 6 weeks and up to 80% at 3 months, but it never regains the full elasticity or strength of uninjured skin. — [1]
