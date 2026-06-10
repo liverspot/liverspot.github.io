@@ -1042,6 +1042,18 @@
   topic-slug: srtr
   path: /topics/#srtr
   description: ""
+- url: https://my.clevelandclinic.org/health/diseases/15831-fatty-liver-disease
+  source: clevelandclinicorg
+  topic-name: Steatotic Liver Disease
+  topic-slug: steatotic-liver-disease
+  path: /topics/#steatotic-liver-disease
+  description: ""
+- url: https://www.mayoclinic.org/diseases-conditions/fatty-liver-disease-masld/symptoms-causes/syc-20354567
+  source: mayoclinicorg
+  topic-name: Steatotic Liver Disease
+  topic-slug: steatotic-liver-disease
+  path: /topics/#steatotic-liver-disease
+  description: ""
 - url: https://www.radiologyinfo.org/en/info/chemoembol
   source: radiologyinfoorg
   topic-name: TACE

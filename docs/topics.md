@@ -1404,8 +1404,8 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 «Metabolic dysfunction-associated steatotic liver disease (MASLD), formerly called nonalcoholic fatty liver disease (NAFLD), is a liver condition that affects people with excess weight, obesity or other metabolic conditions, such as type 2 diabetes, high blood pressure or high cholesterol. In MASLD, too much fat builds up in the liver.»
 
-* [1] <https://my.clevelandclinic.org/health/diseases/15831-fatty-liver-disease>
-* [2] <https://www.mayoclinic.org/diseases-conditions/fatty-liver-disease-masld/symptoms-causes/syc-20354567>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/15831-fatty-liver-disease>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/fatty-liver-disease-masld/symptoms-causes/syc-20354567>
 
 ### St. Mary's Reno
 
