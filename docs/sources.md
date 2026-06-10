@@ -5,41 +5,11 @@ permalink: /sources/
 styles:
   - shiftRight1
   - tableLayoutFixed1
+  - tableGrid1
 ---
 
 <style>
  
-table thead tr {
-    line-height: 3px;
-}
-
-table thead th {
-    padding-top: 0px;
-    padding-bottom: 0px;
-}
-
-table tfoot tr {
-  background-color: #2e6da4;
-}
-
-table tfoot tr {
-    line-height: 3px;
-}
-
-table tfoot td {
-    padding-top: 0px;
-    padding-bottom: 0px;
-}
-
-
-table tbody tr:nth-child(odd) td:nth-child(odd) {
-  background-color: rgb(222, 237, 244);
-}
-
-table tbody tr:nth-child(even) td:nth-child(even) {
-  background-color: rgb(222, 237, 244);
-}
-
 
 </style>
 
