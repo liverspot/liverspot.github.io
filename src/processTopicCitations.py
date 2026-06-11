@@ -47,7 +47,7 @@ pattern2 = r"\#\#\# (.*)"
 
 # Break apart Topic-Name if it matches
 # [Topic-Name](link)
-pattern2b = r"\[([^\[]*)\]"
+pattern2b = r"\[([^\[]*)\]\(([^\)]*)\)"
 
 # Sources found for documentation
 found_sources = {}
@@ -107,11 +107,19 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
             match2 = re.match(pattern2, line)
             if match2:
                 subsection3 = match2.group(1)
+                subsection3_url = ""
                 match2b = re.match(pattern2b, subsection3)
                 if match2b:
-                    subsection3 = match2b.group(1)
+                    subsection3, subsection3_url = match2b.groups()
 
                 subsection3_slug = make_anchor_name(subsection3)
+                if not subsection3_url:
+                    subsection3_url = "#"+subsection3_slug
+
+                print(f"### [{subsection3}]({subsection3_url})")
+###                print("Found:", subsection3_slug, subsection3_url, file=sys.stderr)
+
+                continue
 
             # Check for citation match
             match1 = re.match(pattern1, line)
