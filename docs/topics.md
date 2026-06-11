@@ -272,7 +272,7 @@ The following entries contain information on topics that have been brought up du
 
 
 
-### ACR
+### [ACR](#acr)
 
 Acute cellular rejection
 
@@ -282,7 +282,7 @@ Acute cellular rejection
 
 * [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC5715482/>
 
-### Acyclovir
+### [Acyclovir](#acyclovir)
 
 «Acyclovir is used to treat viral infections like chickenpox, herpes zoster (shingles) and genital herpes (a sexually transmitted disease). Acyclovir is in a class of medications called antivirals. It works by stopping the spread of the virus in the body.» — [2]
 
@@ -297,14 +297,14 @@ Acute cellular rejection
 * [2] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/druginfo/meds/a681045.html>
 * [3] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/acyclovir-oral-route-intravenous-route/description/drg-20068393>
 
-### AFP
+### [AFP](#afp)
 
 «An AFP tumor marker test is a blood test that measures the level of AFP (alpha-fetoprotein) in a sample of your blood. It's usually used to help diagnose certain types of cancer and to check how well treatment is working.» —  [1]
 
 * [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/>
 * [2] [URochester](/source/rochesteredu/) — <https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&contentid=alpha_fetoprotein_tumor_marker>
 
-### AIH
+### [AIH](#aih)
 
 «Autoimmune hepatitis 〚AIH〛 is a liver disease that happens when the body's immune system attacks the liver. This can cause swelling, irritation and damage to the liver. The exact cause of autoimmune hepatitis is unclear, but genetic and environmental factors appear to interact over time to trigger the disease.» — [1]
 
@@ -312,67 +312,63 @@ Acute cellular rejection
 
 Interestingly, the treatment for AIH is similar to the treatment for a post-transplant renal replacement procedure: in both cases the body needs to be prevented from attacking the liver but still function effectively against pathogens.
 
-### Albumin
+### [Albumin](#albumin)
 «Albumin is responsible for transporting vitamins, enzymes and hormones throughout your body. Albumin makes up 50% of the proteins found in your plasma. When your albumin levels are low, hormones and other important compounds aren’t able to get to where they need to go in your body to fulfill their duties.» — [2]
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/albumin>
 
 
-### ALP
+### [ALP](#alp)
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp>
 
 «Alkaline phosphatase (ALP) is an enzyme that’s found throughout your body. ALP blood tests measure the level of ALP in your blood that comes from your liver and bones, and it’s one of the tests included in a comprehensive metabolic panel. High levels of ALP in your blood may indicate liver disease or certain bone disorders» — [1]
 
-### ALT
+### [ALT](#alt)
 
 «An alanine aminotransferase test, also called an ALT test, is a blood test to check the health of your liver. ALT is a substance found mostly in the liver. If your liver is OK, the ALT level usually stays low. But when liver cells are irritated or damaged, ALT can leak into the bloodstream. So the ALT level can go up.» — [1]
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/alanine-aminotransferase-alt-test/about/pac-20582729>
 
-### Ammonia Level
+### [Ammonia Level](#ammonia-level)
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/articles/22686-ammonia-levels>
 
 «A blood ammonia level of 200 micromol /L is associated with coma and convulsions.» — [1]
 
-### Angiogram
+### [Angiogram](#angiogram)
 
 «An angiogram is a diagnostic procedure that uses imaging to show your provider how your blood flows through your blood vessels or heart. An injected contrast material makes it easy to see where blood is moving and where blockages are. Your provider can use X-rays or other types of imaging for your angiogram.» — [1]
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/4977-angiography>
 
-### Angioplasty
+### [Angioplasty](#angioplasty)
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/treatments/22060-angioplasty>
 
-### Ascites
+### [Ascites](#ascites)
 «Ascites is the accumulation of water in the abdomen, commonly due to leakage from the liver’s portal vein. Ascites adds significant body weight as the water accumulates, making movement more difficult. It also pushes on internal organs, and this compression can affect ability to breath, eat, and other body activities.» — [3]
 
 * [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Ascites>
 * [2] [British Liver Trust](/source/britishlivertrustorguk/) — <https://britishlivertrust.org.uk/what-is-ascites/>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/ascites>
 
-### AST
+### [AST](#ast)
 
 «An aspartate aminotransferase test, also called an AST test, is a blood test. It's commonly used to check the health of the liver. AST is a substance found mostly in the liver. But it's also in the heart, kidneys, muscles and other organs. When tissues in these organs are damaged, AST can leak into the blood. So the AST level goes up.» — [1]
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/aspartate-aminotransferase-ast-test/about/pac-20583406>
 
 
-### Asterixis
+### [Asterixis](#asterixis)
 «Asterixis is an inability to maintain sustained posture, commonly causing hands to flap when the wrist is extended. It is a symptom of hepatic encephalopathy and is why a doctor may ask a patient to hold out their hands.» — [3]
 
 * [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Asterixis>
 * [2]&nbsp;<https://www.osmosis.org/answers/asterixis>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/asterixis>
 
-### Atrophy
-
-* [1] [LWW](/source/lwwcom/) «
-  Muscle preservation during hospitalization〚…〛» — <https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx>
-* [2] [NIH](/source/nihgov/) «Hospitalization and Change in Body Composition and Strength 〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/>
+### [Atrophy](#atrophy)
 
 «Muscle loss during hospitalization is a major clinical concern, as it has been associated with reduced physical function, quality of life, and increased mortality. This review outlines the key causes of muscle wasting and highlights practical strategies to support muscle mass preservation during hospitalization.» — [1]
 
@@ -381,20 +377,24 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 «showing an average loss of about 1 kg (2.2 lbs) within 24 hours of acute care and up to 2.3 kg (5 lbs) by discharge,» — [2]
 
 
-### Bausch PAP
+* [1] [LWW](/source/lwwcom/) «
+  Muscle preservation during hospitalization〚…〛» — <https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx>
+* [2] [NIH](/source/nihgov/) «Hospitalization and Change in Body Composition and Strength 〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/>
+
+### [Bausch PAP](#bausch-papa)
 
 Bausch Health PAP Summary (2026)
 What it is: A program that provides Xifaxan at no cost for up to one year for eligible patients
 
 * [1]&nbsp;<https://www.bauschhealthpap.com/globalassets/pi/xifaxan550-pi.pdf>
 
-### Bilirubin
+### [Bilirubin](#bilirubin)
 «Bilirubin is a yellowish substance made during your body's normal process of breaking down old red blood cells. Bilirubin is found in bile, a fluid your liver makes that helps you digest food. If your liver is healthy, it will remove most of the bilirubin from your body.» — [1]
 
 * [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/bilirubin-blood-test/>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/bilirubin>
 
-### BK Virus
+### [BK Virus](#bk-virus)
 «The BK virus is a virus that most people get in childhood. Symptoms can feel like a common cold. Once you get a BK virus infection, the virus stays in your system for good but in an inactive state.
 
 When you take anti-rejection medications due to an organ transplant, the BK Virus can become active to the point that it will damage kidneys.» — [3]
@@ -403,11 +403,11 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/BK_virus>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/bk-virus>
 
-### BUN Test
+### [BUN Test](#bun-test)
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>
 
-### Camino Hospital IOP
+### [Camino Hospital IOP](#camino-hospital-iop)
 
 «The Scrivner Center for Mental Health & Addiction Services’ evening outpatient Addiction Services Program offers expert care and support for adults seeking help for a substance-use disorder or chemical dependency.» — [1]
 
@@ -427,7 +427,7 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 * [6] [NIH](/source/nihgov/) «Staging of liver fibrosis or cirrhosis 〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4381184/>
 
 
-### CMV
+### [CMV](#cmv)
 
 «A cytomegalovirus (CMV) infection is a condition caused by a common virus. The CMV virus stays in the body for life after infection.
 
@@ -443,7 +443,7 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 #### Alternate name
 «Human cytomegalovirus (HCMV), also called human herpesvirus 5 (HHV-5), is a species of virus in the genus Cytomegalovirus» — [3]
 
-### Compensated Cirrhosis
+### [Compensated Cirrhosis](#compensated-cirrhosis)
 
 « Compensated liver cirrhosis (CLC) is defined as cirrhosis with one or more decompensating events, such as ascites, variceal haemorrhage, or hepatic encephalopathy. Patients with CLC are largely asymptomatic with preserved hepatic function.» — [1]
 
@@ -452,7 +452,7 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 * [1] [NIH](/source/nihgov/) «Compensated liver cirrhosis: Natural course and disease-modifying strategies» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10523240/>
 * [2] [ALF](/source/liverfoundationorg/) — <https://liverfoundation.org/about-your-liver/how-liver-diseases-progress/cirrhosis-severe-scarring/#:~:text=decompensated.%20Someone%20with-,compensated%20cirrhosis,-doesn’t%20necessarily%20look>
 
-### Corewell Health
+### [Corewell Health](#corewell-health)
 
 * <https://corewellhealth.org>
 * <https://corewellhealth.org/care-and-specialties/transplant>
@@ -461,13 +461,13 @@ For people who have weakened immune systems, CMV infection can be fatal. The ris
 3535 W. 13 Mile Road Suite 644, Royal Oak, MI 48073
 
 
-### CostPlus
+### [CostPlus](#costplus)
 
 « We started Mark Cuban Cost Plus Drug Company because every American should have access to safe, affordable medicines. If you don’t have insurance or have a high deductible plan, you know that even the most basic medications can cost a fortune. Many people are spending crazy amounts of money each month just to stay healthy. No American should have to suffer—or worse—because they can’t afford basic prescription medications» — [1]
 
 * [1]&nbsp;<https://www.costplusdrugs.com/>
 
-### CPMC
+### [CPMC](#cpmc)
 
 California Pacific Medical Center (CPMC)  
 
@@ -480,17 +480,17 @@ California Pacific Medical Center (CPMC)
 * [1] [Mount Sinai](/source/mountsinaiorg/) — <https://www.mountsinai.org/health-library/tests/creatinine-blood-test>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/creatinine>
 
-### Creatinine Test
+### [Creatinine Test](#creatinine-test)
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/creatinine-test/about/pac-20384646>
 
-### CTA
+### [CTA](#cta])
 
 «A CT angiogram 〚Computed Tomography Angiogram〛 is a test that checks for blockages and other problems in your arteries. It’s a CT scan with the added benefit of contrast dye. A healthcare provider injects the dye into a vein in your arm. The dye flows through your blood vessels and makes them look bright on the CT images. This means it’s easier to see blood flow and spot issues.» — [1]
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/ct-angiogram>
 
-### Deceased Organ Donation
+### [Deceased Organ Donation](#deceased-organ-donation)
 
 «Deceased organ donation occurs in two ways: Donation after Brain Death (DBD) and Donation after Circulatory Death (DCD, sometimes called cardiac death).» — [AI:Google 'Deceased Organ Donation Brain Circulatory']
 
@@ -498,11 +498,11 @@ California Pacific Medical Center (CPMC)
 * [2] [UNOS](/source/unosorg/) — <https://unos.org/news/understanding-donation-after-circulatory-death-dcd/>
 * [3]&nbsp;<https://giftoflifemichigan.org/blog/the-facts-brain-death-and-dcd>
 
-### Deceased-Donor Liver Size
+### [Deceased-Donor Liver Size](#deceased-donor-liver-size)
 
 * [1] [LWW](/source/lwwcom/) «Deceased-Donor Liver Size and the Sex-Based Disparity 〚…〛» — <https://journals.lww.com/transplantjournal/fulltext/2017/11000/deceased_donor_liver_size_and_the_sex_based.9.aspx>
 
-### Decompensated Cirrhosis
+### [Decompensated Cirrhosis](#decompensated-cirrhosis)
 «Decompensated cirrhosis is defined as an acute deterioration in liver function in a patient with cirrhosis and is characterized by jaundice, ascites, hepatic encephalopathy, hepatorenal syndrome or variceal haemorrhage.
 
 Liver damage and severe scarring can progress to the point where the liver can no longer function properly and the patient will begin to experience more severe symptoms. Liver function will continue to decrease with the patient being more at risk for more severe complications like internal bleeding, liver cancer and liver failure and the need for liver transplant.» — [3]
@@ -512,6 +512,7 @@ Liver damage and severe scarring can progress to the point where the liver can n
 * [3] [NIH](/source/nihgov/) «Management of decompensated cirrhosis» — <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334027/>
 
 <span class='topic-arrow' >[&rarr;](/topic/dialysis)</span>
+
 ### [Dialysis](/topic/dialysis)
 «Dialysis functions as a very effective but partial replacement for the processes of the kidneys. The main capability is the removal of waste products (e.g. see Creatinine above) from the blood supply. A secondary capability is the removal of water from the blood supply, and through that, from areas water is over-accumulating.» — [3]
 
