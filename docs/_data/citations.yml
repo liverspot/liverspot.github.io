@@ -154,6 +154,12 @@
   topic-slug: bk-virus
   path: /topics/#bk-virus
   description: ""
+- url: https://my.clevelandclinic.org/health/diagnostics/22020-basic-metabolic-panel-bmp
+  source: clevelandclinicorg
+  topic-name: BMP
+  topic-slug: bmp
+  path: /topics/#bmp
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821
   source: mayoclinicorg
   topic-name: BUN Test

@@ -404,11 +404,11 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/BK_virus>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/bk-virus>
 
-### BMP
+### [BMP](#bmp)
 
 « A basic metabolic panel (BMP) is a blood test that measures eight different substances in your blood. The panel provides helpful information about your body’s chemical balance and metabolism (how your body transforms the food you eat into energy). » — [1]
 
-* [1] <https://my.clevelandclinic.org/health/diagnostics/22020-basic-metabolic-panel-bmp>
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/22020-basic-metabolic-panel-bmp>
 
 ### [BUN Test](#bun-test)
 
@@ -581,7 +581,7 @@ Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tis
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493>
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Edema>
 
-### [El Camino [Car]](#el-camino-car)
+### [[El Camino [Car]](#el-camino-car)](#el-camino-carel-camino-car)
 
 * <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm>
 * <https://bringatrailer.com/wp-content/uploads/2020/10/1969_chevrolet_el_camino_1610759018e4004ffa83572fda1IMG_3657.jpg?w=1790>
