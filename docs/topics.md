@@ -18,26 +18,26 @@ styles:
 
 table tr:nth-child(1), /*A*/
 table tr:nth-child(15), /*B*/
-table tr:nth-child(19), /*C*/
-table tr:nth-child(29), /*D*/
-table tr:nth-child(41), /*E*/
-table tr:nth-child(50), /*F*/
-table tr:nth-child(55), /*G*/
-table tr:nth-child(62), /*H*/
-table tr:nth-child(76), /*I*/
-table tr:nth-child(81), /*J*/
-table tr:nth-child(83), /*K*/
-table tr:nth-child(86), /*L*/
-table tr:nth-child(95), /*M*/
-table tr:nth-child(103), /*N*/
-table tr:nth-child(108), /*O*/
-table tr:nth-child(111), /*P*/
-table tr:nth-child(124), /*R*/
-table tr:nth-child(128), /*S*/
-table tr:nth-child(136), /*T*/
-table tr:nth-child(152), /*U*/
-table tr:nth-child(157), /*V*/
-table tr:nth-child(159), /*X*/
+table tr:nth-child(20), /*C*/
+table tr:nth-child(30), /*D*/
+table tr:nth-child(42), /*E*/
+table tr:nth-child(51), /*F*/
+table tr:nth-child(56), /*G*/
+table tr:nth-child(63), /*H*/
+table tr:nth-child(77), /*I*/
+table tr:nth-child(82), /*J*/
+table tr:nth-child(84), /*K*/
+table tr:nth-child(87), /*L*/
+table tr:nth-child(96), /*M*/
+table tr:nth-child(104), /*N*/
+table tr:nth-child(109), /*O*/
+table tr:nth-child(112), /*P*/
+table tr:nth-child(125), /*R*/
+table tr:nth-child(129), /*S*/
+table tr:nth-child(137), /*T*/
+table tr:nth-child(153), /*U*/
+table tr:nth-child(158), /*V*/
+table tr:nth-child(160), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -116,6 +116,7 @@ The following entries contain information on topics that have been brought up du
 |[Bausch PAP &darr;](#bausch-pap) <a id="b"></a>|Patient Assistance Program|
 |[Bilirubin &darr;](#bilirubin)||
 |[BK Virus &darr;](#bk-virus)|'BK' are initials|
+|[BMP &darr;](#bmp)|basic metabolic panel|
 |[BUN Test &darr;](#bun-test)|Blood-urea-nitrogen|
 |[Camino Hospital IOP &darr;](#camino-hospital-iop) <a id="c"></a>|Intensive OutPatient|
 |[Cirrhosis &darr;](#cirrhosis)||
@@ -402,6 +403,12 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 * [1] [NKF](/source/kidneyorg/) — <https://www.kidney.org/atoz/content/bk-virus-what-transplant-patients-need-know>
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/BK_virus>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/bk-virus>
+
+### BMP
+
+« A basic metabolic panel (BMP) is a blood test that measures eight different substances in your blood. The panel provides helpful information about your body’s chemical balance and metabolism (how your body transforms the food you eat into energy). » — [1]
+
+* [1] <https://my.clevelandclinic.org/health/diagnostics/22020-basic-metabolic-panel-bmp>
 
 ### [BUN Test](#bun-test)
 
