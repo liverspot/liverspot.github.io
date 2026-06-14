@@ -51,6 +51,12 @@ collections:
     output: true
     permalink: /source/:title/
 
+header_pages:
+  - about.md
+  - sources.md
+  - stories.md
+  - topics.md
+
 
 excerpt_separator: "<!--more-->"
 
@@ -68,7 +74,7 @@ defaults:
   - scope:
       path: "" # All files in the project
     values:
-      last_modified_at: 2026-06-11
+      last_modified_at: 2026-06-14
 
 
 # Exclude from processing.
