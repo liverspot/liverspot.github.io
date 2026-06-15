@@ -400,6 +400,12 @@
   topic-slug: esophageal-varices
   path: /topics/#esophageal-varices
   description: ""
+- url: https://www.hopkinsmedicine.org/health/conditions-and-diseases/kidney-stones/extracorporeal-shock-wave-lithotripsy-eswl
+  source: hopkinsmedicineorg
+  topic-name: ESWL
+  topic-slug: eswl
+  path: /topics/#eswl
+  description: ""
 - url: https://pubmed.ncbi.nlm.nih.gov/41110610/
   source: nihgov
   topic-name: Everolimus
@@ -964,6 +970,12 @@
   topic-slug: paracentesis
   path: /topics/#paracentesis
   description: ""
+- url: https://www.mayoclinic.org/tests-procedures/percutaneous-nephrolithotomy/about/pac-20385051
+  source: mayoclinicorg
+  topic-name: PCNL
+  topic-slug: pcnl
+  path: /topics/#pcnl
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9521448/
   source: nihgov
   topic-name: Persistent Ascites
@@ -1197,6 +1209,12 @@
   topic-name: uACR
   topic-slug: uacr
   path: /topics/#uacr
+  description: ""
+- url: https://my.clevelandclinic.org/health/treatments/16213-ureteroscopy
+  source: clevelandclinicorg
+  topic-name: URS
+  topic-slug: urs
+  path: /topics/#urs
   description: ""
 - url: https://my.clevelandclinic.org/health/diseases/umbilical-hernia
   source: clevelandclinicorg
