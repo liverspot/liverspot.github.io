@@ -609,10 +609,15 @@ End-Stage Liver Disease (ESLD) is when the liver is damaged beyond repair due to
 
 * [1] [NHS](/source/nhsuk/) — <https://www.nhsbt.nhs.uk/organ-transplantation/liver/is-a-liver-transplant-right-for-you/end-stage-liver-disease/>
 
+
 ### [Esophageal Varices](#esophageal-varices)
 Esophageal varices are enlarged veins in the esophagus, the tube that connects the throat and stomach. Esophageal varices most often happen in people with serious liver diseases.
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538>
+
+### ESWL
+
+* [1] <https://www.hopkinsmedicine.org/health/conditions-and-diseases/kidney-stones/extracorporeal-shock-wave-lithotripsy-eswl>
 
 ### [Everolimus](#everolimus)
 
@@ -1219,6 +1224,11 @@ Possible treats that the medical team might like and appreciate from patients in
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Paracentesis>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/paracentesis>
 
+### PCNL
+
+* [1] <https://www.mayoclinic.org/tests-procedures/percutaneous-nephrolithotomy/about/pac-20385051>
+
+
 ### [Persistent Ascites](#persistent-ascites)
 
 «Persistent ascites (PA) after liver transplantation (LT), commonly defined as ascites lasting more than 4 wk after LT, can be expected in up to 7% of patients. » — [1]
@@ -1560,6 +1570,10 @@ So if you have:
 
 * [1] [NKF](/source/kidneyorg/) — <https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr>
 * [2]&nbsp;<https://www.mdapp.co/albumin-creatinine-ratio-calculator-461/>
+
+### URS
+
+* [1] <https://my.clevelandclinic.org/health/treatments/16213-ureteroscopy>
 
 
 ### [Umbilical Hernia](#umbilical-hernia)
