@@ -28,8 +28,8 @@ Kidney transplants _add_ a kidney into a new location in the patient's body, the
 
 When discussing trying to get the stone out of the immigrant kidney, it became obvious that two normal kidney stone treatments would not work because of the unusual immigrant kidney location.  These normal treatments are:
 
-* Extracorporeal Shock Wave Lithotripsy ([ESWL](/topics/#ESWL)) 
-* Ureteroscopy ([URS](/topics/#URS))
+* Extracorporeal Shock Wave Lithotripsy ([ESWL](/topics/#eswl)) 
+* Ureteroscopy ([URS](/topics/#urs))
 
 The first (ESWL) sends shock waves at the kidney stone and this can break it up into pieces that are small enough to work their way out through the ureter.  But the right-hip pocket is located inside a big-bone (the hip) so sending shock waves at the kidney will mostly shake up the insides of your bones.  Apparently that isn't a pleasant experience and is ineffective in breaking up the kidney stone.
 
@@ -39,7 +39,7 @@ So these common and relatively simple outpatient procedures do not work well or 
 
 ### Accessing an eccentric location
 
-The next level up to getting access to a kidney is to burrow an access hole (formally called 'catheterizing') to the kidney and then use that pathway for the same tubal access (now called a 'nephroscope').  This procedure is called Percutaneous Nephrolithotomy ([PCNL](/topics/#PCNL)) and is an overnight procedure vs. the outpaitient procedures described above.
+The next level up to getting access to a kidney is to burrow an access hole (formally called 'catheterizing') to the kidney and then use that pathway for the same tubal access (now called a 'nephroscope').  This procedure is called Percutaneous Nephrolithotomy ([PCNL](/topics/#pcnl)) and is an overnight procedure vs. the outpaitient procedures described above.
 
 Compared to spending a month enjoying the spa-like M5 and ICU units of Stanford, and another week in M5 for the transplant, this one-overnight stay was unusually brief.   I mostly hung out listening to "Murder, She Wrote" because the next bed over had it blaring all night long.  Actually I have a lot of noise-canceling devices, so the insights of Jessica Fletcher could be tuned in and out as I wished.
 
