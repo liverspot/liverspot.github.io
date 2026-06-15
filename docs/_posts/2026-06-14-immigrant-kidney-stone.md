@@ -45,13 +45,13 @@ Compared to spending a month enjoying the spa-like M5 and ICU units of Stanford,
 
 The actual procedures were straightforward: Stanford has very good staff, nurses, and doctors, and strong policies for informing patients.  And I extensively prepared to ask astute questions by watching a lot of episodes of "The Pitt".
 
-The summary of the procedures, they:
+The summary of the two procedures is that they:
 
 * bored a hole, 
 * went in with a tube to look around, 
 * aimed a laser at the stone, 
 * broke it up, 
-* "vacuumed" the larger fragments out, and 
+* vacuumed the larger fragments out, and 
 * left a stent in the ureter, in case it got stressed out about the whole experience.
 
 I know about the laser part mostly because I asked why I needed to be anesthetized (general).  The explanation "you might move while we shoot a laser at you" convinced me they were probably right.
