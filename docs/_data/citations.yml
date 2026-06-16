@@ -1210,12 +1210,6 @@
   topic-slug: uacr
   path: /topics/#uacr
   description: ""
-- url: https://my.clevelandclinic.org/health/treatments/16213-ureteroscopy
-  source: clevelandclinicorg
-  topic-name: URS
-  topic-slug: urs
-  path: /topics/#urs
-  description: ""
 - url: https://my.clevelandclinic.org/health/diseases/umbilical-hernia
   source: clevelandclinicorg
   topic-name: Umbilical Hernia
@@ -1239,6 +1233,12 @@
   topic-name: UNOS Regions
   topic-slug: unos-regions
   path: /topics/#unos-regions
+  description: ""
+- url: https://my.clevelandclinic.org/health/treatments/16213-ureteroscopy
+  source: clevelandclinicorg
+  topic-name: URS
+  topic-slug: urs
+  path: /topics/#urs
   description: ""
 - url: https://medlineplus.gov/druginfo/meds/a699047.html
   source: medlineplusgov

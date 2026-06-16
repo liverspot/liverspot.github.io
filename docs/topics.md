@@ -584,7 +584,7 @@ Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tis
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493>
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Edema>
 
-### [El Camino [Car]](#el-camino-car)
+### [El Camino Car](#el-camino-car)
 
 * <https://www.beverlyhillscarclub.com/1969-chevrolet-el-camino-c-4561.htm>
 * <https://bringatrailer.com/wp-content/uploads/2020/10/1969_chevrolet_el_camino_1610759018e4004ffa83572fda1IMG_3657.jpg?w=1790>
