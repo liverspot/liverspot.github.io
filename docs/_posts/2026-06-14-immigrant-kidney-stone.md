@@ -18,7 +18,7 @@ I have two kidneys that lived in my body since birth and these are my native kid
 
 Unfortunately, the immigrant kidney developed a _huge_ (1.2 cm) stone in the two years it did all that work.  The true cause is unclear at this point, but the stone was there and it was not coming out through any normal means.
 
-### Immigrants kidneys don't complain
+### Immigrant kidneys don't complain
 
 I had a significant kidney stone causing bodily havoc for many months.  At no point during that time did my kidney directly cause me any pain.  Until the blood test, I had no idea anything was wrong.  After the blood test, I sporadically had weird pains in my shoulder and elbow that had no cause and would move around when interacted with.  The nerves for a transplanted kidney are not reattached at the time of the transplant.  They may eventually grow back but apparently had not sufficiently in my case for me to feel any pain from the giant stone trying to get out.
 
