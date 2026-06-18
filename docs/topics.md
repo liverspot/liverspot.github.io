@@ -15,7 +15,6 @@ styles:
 /*=== Topic-section in table styling */
 /*================================== */
 
-
 table tr:nth-child(1), /*A*/
 table tr:nth-child(15), /*B*/
 table tr:nth-child(20), /*C*/
@@ -35,9 +34,9 @@ table tr:nth-child(113), /*P*/
 table tr:nth-child(127), /*R*/
 table tr:nth-child(131), /*S*/
 table tr:nth-child(139), /*T*/
-table tr:nth-child(155), /*U*/
-table tr:nth-child(161), /*V*/
-table tr:nth-child(163), /*X*/
+table tr:nth-child(156), /*U*/
+table tr:nth-child(162), /*V*/
+table tr:nth-child(164), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -249,6 +248,7 @@ The following entries contain information on topics that have been brought up du
 |[Topical Tacrolimus &darr;](#topical-tacrolimus)||
 |[Tramadol &darr;](#tramadol)|ConZip, Qdolo, Ultram|
 |[Transplant Age &darr;](#transplant-age)||
+|[Transplant Blood Type Compatibility &darr;](#transplant-blood-type-compatibility)||
 |[Transplant Games &darr;](#transplant-games)||
 |[Transplant Gender Correlations &darr;](#transplant-gender-correlations)||
 |[Transplant Survival Benefit &darr;](#transplant-survival-benefit)||
@@ -1544,7 +1544,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 «Organ transplants in which the donor and recipient Rh factors are different are performed quite often. The Rh antigen does not function as a "transplantation antigen," because it is only present on the surface of red blood cells and not on the parenchymal cells of the graft. Therefore, Rh-mismatched transplanted organs are not rejected more frequently than Rh-matched organs» — [1]
 
 * [1] <https://www.medscape.com/viewarticle/414309?form=fpf>
-* [2] [NIH](/source/nihgov/) «Liver Transplantation Across Rh Blood» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC1852383/>
+* [2] [NIH](/source/nihgov/) «Liver Transplantation Across Rh Blood 〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC1852383/>
 
 ### [Transplant Games](#transplant-games)
 
