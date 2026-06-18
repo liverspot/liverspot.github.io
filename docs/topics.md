@@ -1539,6 +1539,12 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 * [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC1421173/>
 
+### [Transplant Blood Type Compatibility](#transplant-blood-type-compatibility)
+
+«Organ transplants in which the donor and recipient Rh factors are different are performed quite often. The Rh antigen does not function as a "transplantation antigen," because it is only present on the surface of red blood cells and not on the parenchymal cells of the graft. Therefore, Rh-mismatched transplanted organs are not rejected more frequently than Rh-matched organs» — [1]
+
+* [1] <https://www.medscape.com/viewarticle/414309?form=fpf>
+* [2] [NIH](/source/nihgov/) «Liver Transplantation Across Rh Blood» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC1852383/>
 
 ### [Transplant Games](#transplant-games)
 

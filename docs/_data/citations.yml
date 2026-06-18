@@ -1186,6 +1186,12 @@
   topic-slug: transplant-age
   path: /topics/#transplant-age
   description: ""
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1852383/
+  source: nihgov
+  topic-name: Transplant Blood Type Compatibility
+  topic-slug: transplant-blood-type-compatibility
+  path: /topics/#transplant-blood-type-compatibility
+  description: "«Liver Transplantation Across Rh Blood» "
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4964018/
   source: nihgov
   topic-name: Transplant Gender Correlations
