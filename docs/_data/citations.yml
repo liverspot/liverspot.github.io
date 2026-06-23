@@ -250,6 +250,12 @@
   topic-slug: cta
   path: /topics/#cta
   description: ""
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9611668/
+  source: nihgov
+  topic-name: CYP3A4 inhibitors
+  topic-slug: cyp3a4-inhibitors
+  path: /topics/#cyp3a4-inhibitors
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3372912/
   source: nihgov
   topic-name: Deceased Organ Donation
@@ -772,6 +778,12 @@
   topic-slug: lactulose
   path: /topics/#lactulose
   description: ""
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8647701/
+  source: nihgov
+  topic-name: Lactulose vs. Miralax
+  topic-slug: lactulose-vs-miralax
+  path: /topics/#lactulose-vs-miralax
+  description: "«Comparative Effectiveness and Safety of Polyethylene Glycol Electrolyte Solution Versus Lactulose for Treatment of Hepatic Encephalopathy» "
 - url: https://www.mayoclinic.org/tests-procedures/liver-function-tests/about/pac-20394595
   source: mayoclinicorg
   topic-name: Liver Function Tests

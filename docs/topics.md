@@ -18,25 +18,25 @@ styles:
 table tr:nth-child(1), /*A*/
 table tr:nth-child(15), /*B*/
 table tr:nth-child(20), /*C*/
-table tr:nth-child(30), /*D*/
-table tr:nth-child(42), /*E*/
-table tr:nth-child(52), /*F*/
-table tr:nth-child(57), /*G*/
-table tr:nth-child(64), /*H*/
-table tr:nth-child(78), /*I*/
-table tr:nth-child(83), /*J*/
-table tr:nth-child(85), /*K*/
-table tr:nth-child(88), /*L*/
-table tr:nth-child(97), /*M*/
-table tr:nth-child(105), /*N*/
-table tr:nth-child(110), /*O*/
-table tr:nth-child(113), /*P*/
-table tr:nth-child(127), /*R*/
-table tr:nth-child(131), /*S*/
-table tr:nth-child(139), /*T*/
-table tr:nth-child(156), /*U*/
-table tr:nth-child(162), /*V*/
-table tr:nth-child(164), /*X*/
+table tr:nth-child(31), /*D*/
+table tr:nth-child(43), /*E*/
+table tr:nth-child(53), /*F*/
+table tr:nth-child(58), /*G*/
+table tr:nth-child(65), /*H*/
+table tr:nth-child(79), /*I*/
+table tr:nth-child(84), /*J*/
+table tr:nth-child(86), /*K*/
+table tr:nth-child(89), /*L*/
+table tr:nth-child(98), /*M*/
+table tr:nth-child(106), /*N*/
+table tr:nth-child(111), /*O*/
+table tr:nth-child(114), /*P*/
+table tr:nth-child(128), /*R*/
+table tr:nth-child(132), /*S*/
+table tr:nth-child(140), /*T*/
+table tr:nth-child(157), /*U*/
+table tr:nth-child(163), /*V*/
+table tr:nth-child(165), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -127,6 +127,7 @@ The following entries contain information on topics that have been brought up du
 |[Creatinine &darr;](#creatinine)||
 |[Creatinine Test &darr;](#creatinine-test)||
 |[CTA &darr;](#cta)|Computed Tomography Angiogram|
+|[CYP3A4 inhibitors &darr;](#cyp3a4-inhibitors)||
 |[Deceased Organ Donation &darr;](#deceased-organ-donation) <a id="d"></a>||
 |[Deceased-Donor Liver Size &darr;](#deceased-donor-liver-size)||
 |[Decompensated Cirrhosis &darr;](#decompensated-cirrhosis)||
@@ -186,6 +187,7 @@ The following entries contain information on topics that have been brought up du
 |[Kidney Biopsy &darr;](#kidney-biopsy)||
 |[Kt/V &darr;](#ktv)||
 |[Lactulose &darr;](#lactulose) <a id="l"></a>|Kristalose, Enulose|
+|[Lactulose vs. Miralax &darr;](#lactulose-vs-miralax)||
 |[Liver Circle &darr;](#liver-circle)||
 |[Liver Function Tests &darr;](#liver-function-tests)||
 |[Liver In A Box &darr;](#liver-in-a-box)||
@@ -499,6 +501,13 @@ California Pacific Medical Center (CPMC)
 «A CT angiogram 〚Computed Tomography Angiogram〛 is a test that checks for blockages and other problems in your arteries. It’s a CT scan with the added benefit of contrast dye. A healthcare provider injects the dye into a vein in your arm. The dye flows through your blood vessels and makes them look bright on the CT images. This means it’s easier to see blood flow and spot issues.» — [1]
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/ct-angiogram>
+
+### [CYP3A4 inhibitors](#cyp3a4-inhibitors)
+
+«An increase in the serum concentration of tacrolimus can be caused by CYP3A4 inhibitors, such as grapefruit, pomelo, clementine, pomegranate, ginger and turmeric, 〚…〛» — [1]
+
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9611668/>
+* [2] <https://www.bocsci.com/resources/what-are-cyp3a4-inhibitors-and-examples.html>
 
 ### [Deceased Organ Donation](#deceased-organ-donation)
 
@@ -975,6 +984,13 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 
 * [1] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/books/NBK536930/>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/lactulose>
+
+### [Lactulose vs. Miralax](#lactulose-vs-miralax)
+
+«Hepatic encephalopathy (HE) is a complex neuropsychiatric syndrome associated with liver failure and/or portal systemic shunting. Polyethylene glycol (PEG) electrolyte solution is a commonly used for catharsis of gut, which has been demonstrated to relieve HE in a number of randomized controlled trials. The aim of this paper was to evaluate the comparative efficacy and safety of PEG with lactulose for current HE treatment» — [1]
+
+* [1] [NIH](/source/nihgov/) «Comparative Effectiveness and Safety of Polyethylene Glycol Electrolyte Solution Versus Lactulose for Treatment of Hepatic Encephalopathy» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC8647701/>
+
 
 ### [LiverSpot.org](#liverspotorg)
 
