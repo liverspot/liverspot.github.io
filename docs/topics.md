@@ -702,7 +702,7 @@ So it is a brand name related to filgrastim
 ### [Fistula](#fistula)
 «An Arteriovenous (AV) fistula is a direct connection between an artery and a vein. Normal blood flow goes from arteries through capillaries and then into veins. The fistula’s direct connection causes much more blood flow into a vein. Surgically creating a fistula in a chronic hemodialysis patient enables more effective and safer treatment compared to using a central venous catheter.» — [3]
 
-* [1]&nbsp;<https://www.yalemedicine.org/conditions/preparing-dialysis-av-fistula>
+* [1] [Yale Medicine](/source/yalemedicineorg/) — <https://www.yalemedicine.org/conditions/preparing-dialysis-av-fistula>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/fistula>
 
@@ -1592,7 +1592,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 «A tricuspid valve clip (commonly known as the TriClip TEER device) is a minimally invasive treatment for severe tricuspid regurgitation (leaky valve).» — [1]
 
-* [1] <https://www.yalemedicine.org/news/new-minimally-invasive-procedure-can-fix-your-hearts-tricuspid-valve>
+* [1] [Yale Medicine](/source/yalemedicineorg/) — <https://www.yalemedicine.org/news/new-minimally-invasive-procedure-can-fix-your-hearts-tricuspid-valve>
 
 ### [Tumeric](#tumeric)
 

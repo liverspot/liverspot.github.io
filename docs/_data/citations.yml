@@ -460,6 +460,12 @@
   topic-slug: fine-needle-aspiration
   path: /topics/#fine-needle-aspiration
   description: ""
+- url: https://www.yalemedicine.org/conditions/preparing-dialysis-av-fistula
+  source: yalemedicineorg
+  topic-name: Fistula
+  topic-slug: fistula
+  path: /topics/#fistula
+  description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567
   source: mayoclinicorg
   topic-name: Fistula
@@ -1221,6 +1227,12 @@
   topic-name: Transplant Survival Benefit
   topic-slug: transplant-survival-benefit
   path: /topics/#transplant-survival-benefit
+  description: ""
+- url: https://www.yalemedicine.org/news/new-minimally-invasive-procedure-can-fix-your-hearts-tricuspid-valve
+  source: yalemedicineorg
+  topic-name: TriClip
+  topic-slug: triclip
+  path: /topics/#triclip
   description: ""
 - url: https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr
   source: kidneyorg

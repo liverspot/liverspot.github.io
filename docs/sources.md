@@ -63,11 +63,15 @@ The following organizations have materials that are referenced within [Topics](/
 {% assign last_citation = filtered_citations[citations_last] -%}
 {% assign topic_name = "" -%}
 
-{% if citations_count > 1 %}
-There are a total of {{citations_count}} citations in topics from [{{first_citation.topic-name}}]({{first_citation.path}})  to  [{{last_citation.topic-name}}]({{last_citation.path}})
-{% else %}
-There is one citation in [{{first_citation.topic-name}}]({{first_citation.path}})
-{% endif %}
+[//]: # ({% if citations_count > 1 %})
+
+[//]: # (There are a total of {{citations_count}} citations in topics from [{{first_citation.topic-name}}]&#40;{{first_citation.path}}&#41;  to  [{{last_citation.topic-name}}]&#40;{{last_citation.path}}&#41;)
+
+[//]: # ({% else %})
+
+[//]: # (There is one citation in [{{first_citation.topic-name}}]&#40;{{first_citation.path}}&#41;)
+
+[//]: # ({% endif %})
 
 {% endfor -%}
 
