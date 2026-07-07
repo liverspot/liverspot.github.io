@@ -1588,7 +1588,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 «Typically, people with MELD scores of 15 or higher are more likely to live longer 〚about a year longer if MELD < 20〛 if they receive new livers. This is known as life expectancy» — [3]
 
-### TriClip
+### [TriClip](#triclip)
 
 «A tricuspid valve clip (commonly known as the TriClip TEER device) is a minimally invasive treatment for severe tricuspid regurgitation (leaky valve).» — [1]
 
