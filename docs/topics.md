@@ -27,16 +27,16 @@ table tr:nth-child(79), /*I*/
 table tr:nth-child(84), /*J*/
 table tr:nth-child(86), /*K*/
 table tr:nth-child(89), /*L*/
-table tr:nth-child(98), /*M*/
-table tr:nth-child(106), /*N*/
-table tr:nth-child(111), /*O*/
-table tr:nth-child(114), /*P*/
-table tr:nth-child(128), /*R*/
-table tr:nth-child(132), /*S*/
-table tr:nth-child(140), /*T*/
-table tr:nth-child(157), /*U*/
-table tr:nth-child(163), /*V*/
-table tr:nth-child(165), /*X*/
+table tr:nth-child(99), /*M*/
+table tr:nth-child(107), /*N*/
+table tr:nth-child(112), /*O*/
+table tr:nth-child(115), /*P*/
+table tr:nth-child(129), /*R*/
+table tr:nth-child(133), /*S*/
+table tr:nth-child(141), /*T*/
+table tr:nth-child(159), /*U*/
+table tr:nth-child(165), /*V*/
+table tr:nth-child(167), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -254,6 +254,7 @@ The following entries contain information on topics that have been brought up du
 |[Transplant Games &darr;](#transplant-games)||
 |[Transplant Gender Correlations &darr;](#transplant-gender-correlations)||
 |[Transplant Survival Benefit &darr;](#transplant-survival-benefit)||
+|[TriClip &darr;](#triclip)|Tricuspid valve clip|
 |[Tumeric &darr;](#tumeric)||
 |[uACR &darr;](#uacr) <a id="u"></a>|Urine Albumine Creatinine Ratio|
 |[Umbilical Hernia &darr;](#umbilical-hernia)||
@@ -640,7 +641,7 @@ Esophageal varices are enlarged veins in the esophagus, the tube that connects t
 Everolimus works by interfering with the growth of cancer cells, which are eventually destroyed by the body. Since the growth of normal body cells may also be affected, other unwanted effects will also occur. It belongs to the group of medicines known as antineoplastics (cancer medicines).
 » — [2]
 
-«Efficacy and safety of everolimus with reduced tacrolimus» — [1]
+« Everolimus is also used together with other medicines to prevent the body from rejecting a transplanted organ (eg, kidney or liver) in patients who have received kidney or liver transplant » — [2]
 
 #### Drug Names
 
@@ -650,7 +651,7 @@ Everolimus works by interfering with the growth of cancer cells, which are event
 #### Refs
 
 
-* [1] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/41110610/>
+* [1] [NIH](/source/nihgov/) «Efficacy and safety of everolimus with reduced tacrolimus» — <https://pubmed.ncbi.nlm.nih.gov/41110610/>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/everolimus-oral-route/description/drg-20072842>
 * [3]&nbsp;<https://www.cancer.gov/publications/dictionaries/cancer-terms/def/everolimus>
 
@@ -779,6 +780,8 @@ Professional Education
 HE is short for Hepatic Encephalopathy.
 
 Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (about the brain) and ‘pathos’ (disease). Depending on severity encephalopathy can show up as symptoms from headaches to coma. Hepatic encephalopathy (HE) is caused by liver problems and accumulated toxins in the blood.
+
+«Dizziness and lightheadedness in hepatic encephalopathy (HE) are common physical symptoms caused by the brain's reaction to unprocessed toxins in the bloodstream, such as ammonia.» — [2]
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/encephalopathy>
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
@@ -1584,6 +1587,12 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S160061352203550X-gr3_lrg.jpg"> — [2]
 
 «Typically, people with MELD scores of 15 or higher are more likely to live longer 〚about a year longer if MELD < 20〛 if they receive new livers. This is known as life expectancy» — [3]
+
+### TriClip
+
+«A tricuspid valve clip (commonly known as the TriClip TEER device) is a minimally invasive treatment for severe tricuspid regurgitation (leaky valve).» — [1]
+
+* [1] <https://www.yalemedicine.org/news/new-minimally-invasive-procedure-can-fix-your-hearts-tricuspid-valve>
 
 ### [Tumeric](#tumeric)
 
