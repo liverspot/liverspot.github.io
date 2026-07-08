@@ -1580,7 +1580,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 #### Refs
 * [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4964018/>
 
-### Transplant House
+### [Transplant House](#transplant-house)
 
 «Transplant House of Seattle provides fully-furnished apartments for patients and their families who need to relocate for life-saving medical care and treatment. We provide a sense of comfort and community to those who have to uproot their lives during a time of stress and uncertainty.» — [1]
 
