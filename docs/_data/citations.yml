@@ -1072,6 +1072,12 @@
   topic-slug: recompensated
   path: /topics/#recompensated
   description: "«Validation and expansion of Baveno VII recompensation criteria in patients with cirrhosis and curable liver disease» "
+- url: https://www.sciencedirect.com/science/article/pii/S1665268123002831
+  source: sciencedirectcom
+  topic-name: Recompensated
+  topic-slug: recompensated
+  path: /topics/#recompensated
+  description: "«Evolving portal hypertension through Baveno VII recommendations» "
 - url: https://journals.lww.com/transplantationdirect/fulltext/2026/03000/consulting_r_transplant__assessment_of_reddit_use.10.aspx
   source: lwwcom
   topic-name: Reddit for Transplant Support Study

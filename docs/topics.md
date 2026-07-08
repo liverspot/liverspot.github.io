@@ -1381,6 +1381,7 @@ In order for a patient to be considered recompensated, all of the following crit
 * [3] [NIH](/source/nihgov/) «The Baveno VII concept of cirrhosis recompensation» — <https://pubmed.ncbi.nlm.nih.gov/36646527/>
 * [4] [ScienceDirect](/source/sciencedirectcom/) «The Baveno VII concept of cirrhosis recompensation» — <https://www.sciencedirect.com/science/article/pii/S159086582200860X>
 * [5] [ScienceDirect](/source/sciencedirectcom/) «Validation and expansion of Baveno VII recompensation criteria in patients with cirrhosis and curable liver disease» — <https://www.sciencedirect.com/science/article/pii/S0168827825002454>
+* [6] [ScienceDirect](/source/sciencedirectcom/) «Evolving portal hypertension through Baveno VII recommendations» — <https://www.sciencedirect.com/science/article/pii/S1665268123002831>
 
 ### [Recteq](#recteq)
 
