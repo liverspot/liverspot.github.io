@@ -36,7 +36,7 @@ table tr:nth-child(133), /*S*/
 table tr:nth-child(141), /*T*/
 table tr:nth-child(160), /*U*/
 table tr:nth-child(166), /*V*/
-table tr:nth-child(168), /*X*/
+table tr:nth-child(169), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -264,6 +264,7 @@ The following entries contain information on topics that have been brought up du
 |[URS &darr;](#urs)|Ureteroscopy|
 |[Ursodiol &darr;](#ursodiol)|Actigall, Reltone, Urso |
 |[Valcyte &darr;](#valcyte) <a id="v"></a>|Valganciclovir|
+|[Veltassa &darr;](#veltassa)|Patiromer|
 |[Vivitrol &darr;](#vivitrol)|Naltrexone|
 |[XIAFLEX &darr;](#xiaflex) <a id="x"></a>|Collagenase Clostridium histolyticum|
 |[Xifaxan &darr;](#xifaxan)|Rifaximin|
@@ -1669,6 +1670,14 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 #### Refs
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/valganciclovir-oral-route/description/drg-20066642>
+
+### [Veltessa](#veltessa)
+
+«Veltassa (patiromer) belongs to a class of medications called potassium removing agents.
+
+Veltassa is used in adults to treat hyperkalemia (high levels of potassium in your blood). It works by removing excess potassium from the body.» — [1]
+
+* [1] [Drugs.com](/source/drugscom/) — <https://www.drugs.com/veltassa.html>
 
 ### [Vivitrol](#vivitrol)
 

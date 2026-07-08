@@ -1282,6 +1282,12 @@
   topic-slug: valcyte
   path: /topics/#valcyte
   description: ""
+- url: https://www.drugs.com/veltassa.html
+  source: drugscom
+  topic-name: Veltessa
+  topic-slug: veltessa
+  path: /topics/#veltessa
+  description: ""
 - url: https://www.drugs.com/vivitrol.html
   source: drugscom
   topic-name: Vivitrol
