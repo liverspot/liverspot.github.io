@@ -330,7 +330,7 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 «Alkaline phosphatase (ALP) is an enzyme that’s found throughout your body. ALP blood tests measure the level of ALP in your blood that comes from your liver and bones, and it’s one of the tests included in a comprehensive metabolic panel. High levels of ALP in your blood may indicate liver disease or certain bone disorders» — [1]
 
-«Alkaline phosphatase (ALP) is an enzyme primarily found in your liver and bones. When a bone is injured or fractured, bone-forming cells (osteoblasts) become highly active to repair the damage. Consequently, serum ALP levels typically begin to rise within 7 to 10 days of the injury, peaking within a month before gradually returning to normal» — [AI: Google Sumary]
+«Alkaline phosphatase (ALP) is an enzyme primarily found in your liver and bones. When a bone is injured or fractured, bone-forming cells (osteoblasts) become highly active to repair the damage. Consequently, serum ALP levels typically begin to rise within 7 to 10 days of the injury, peaking within a month before gradually returning to normal» — [AI: Google Summary]
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp>
 * [2] <https://labtestsonline.org.uk/tests/alkaline-phosphatase-alp-test>
