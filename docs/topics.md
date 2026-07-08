@@ -1365,12 +1365,22 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 
 ### [Recompensated](#recompensated)
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10025679/>
-* [2]&nbsp;<https://bmcgastroenterol.biomedcentral.com/articles/10.1186/s12876-023-02956-4>
+«
+In order for a patient to be considered recompensated, all of the following criteria have to be met:
+* Sustained cure, suppression or removal of the underlying aetiology of cirrhosis.
+* Resolution of ascites and hepatic encephalopathy (HE) after discontinuation of diuretics and prophylactic therapies 〚e.g. lactulose/rifaximin〛, as well as the absence of variceal bleeding for 12 months.
+* Sustained improvement of biochemical liver function, as assessed by serum albumin, bilirubin and INR (international normalized ratio).
+» — [4]
 
 «As highlighted previously, the term recompensated cirrhosis is only limited to aetiologies where a clear cause is identified and can be targeted. This limits the application of this term to aetiologies like viral cirrhosis and ALD. According to the present evidence, patients with NAFLD by definition cannot be categorized as recompensated despite fulfilling other criteria. This may limit the application of this term as NAFLD remains the most common form of liver disease and in the future may become the leading cause of cirrhosis and its complications worldwide. There is an evidence that sustained weight loss decreases hepatic steatosis and can cause reversal of fibrosis. Defining recompensation in the context of NAFLD may need modification of the criteria mentioned above in the future. However, the pertinent question in this aspect is whether or not a patient with NAFLD can ever be considered recompensated as data regarding recompensation in NAFLD does not exist unlike other aetiologies. Conceptualizing a model to define recompensation in NAFLD cirrhosis with the current backdrop of aetiological suppression would be challenging given the dynamics of metabolic risk factors once cirrhosis sets inpatients with NAFLD.» — [1]
 
 «Adapting a concept of recompensation can have its own ethical issues, especially in countries where disease-specific scores are used to decide the timing of transplantation. Labelling a patient recompensated may lead to delisting from transplant list.» — [1]
+
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10025679/>
+* [2]&nbsp;<https://bmcgastroenterol.biomedcentral.com/articles/10.1186/s12876-023-02956-4>
+* [3] [NIH](/source/nihgov/) «The Baveno VII concept of cirrhosis recompensation» — <https://pubmed.ncbi.nlm.nih.gov/36646527/>
+* [4] [ScienceDirect](/source/sciencedirectcom/) «The Baveno VII concept of cirrhosis recompensation» — <https://www.sciencedirect.com/science/article/pii/S159086582200860X>
+* [5] [ScienceDirect](/source/sciencedirectcom/) «Validation and expansion of Baveno VII recompensation criteria in patients with cirrhosis and curable liver disease» — <https://www.sciencedirect.com/science/article/pii/S0168827825002454>
 
 ### [Recteq](#recteq)
 
