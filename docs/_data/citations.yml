@@ -886,6 +886,12 @@
   topic-slug: meld-exception-score
   path: /topics/#meld-exception-score
   description: ""
+- url: https://unos.org/wp-content/uploads/HCC-FAQ-update-Feb-018.pdf
+  source: unosorg
+  topic-name: MELD Exception Score
+  topic-slug: meld-exception-score
+  path: /topics/#meld-exception-score
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/magnetic-resonance-elastography/about/pac-20385177
   source: mayoclinicorg
   topic-name: MRE

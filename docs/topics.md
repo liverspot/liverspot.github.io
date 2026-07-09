@@ -27,16 +27,16 @@ table tr:nth-child(79), /*I*/
 table tr:nth-child(84), /*J*/
 table tr:nth-child(86), /*K*/
 table tr:nth-child(89), /*L*/
-table tr:nth-child(99), /*M*/
-table tr:nth-child(107), /*N*/
-table tr:nth-child(112), /*O*/
-table tr:nth-child(115), /*P*/
-table tr:nth-child(129), /*R*/
-table tr:nth-child(133), /*S*/
-table tr:nth-child(141), /*T*/
-table tr:nth-child(160), /*U*/
-table tr:nth-child(166), /*V*/
-table tr:nth-child(169), /*X*/
+table tr:nth-child(100), /*M*/
+table tr:nth-child(108), /*N*/
+table tr:nth-child(113), /*O*/
+table tr:nth-child(116), /*P*/
+table tr:nth-child(130), /*R*/
+table tr:nth-child(134), /*S*/
+table tr:nth-child(142), /*T*/
+table tr:nth-child(161), /*U*/
+table tr:nth-child(167), /*V*/
+table tr:nth-child(170), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -195,6 +195,7 @@ The following entries contain information on topics that have been brought up du
 |[LiverSpot.org &darr;](#liverspotorg)||
 |[Liver Spots &darr;](#liver-spots)||
 |[Living Donor Liver Transplant &darr;](#living-donor-liver-transplant)||
+|[Liver Transplant Patient Handbook &darr;](#liver-transplant-patient-handbook)||
 |[LOLA &darr;](#lola)|L‐ornithine‐L‐aspartate|
 |[Medical Marijuana &darr;](#medical-marijuana) <a id="m"></a>||
 |[MELD &darr;](#meld)|Model for end-stage liver disease|
@@ -1052,6 +1053,10 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21723-liver-spots>
 
+### [Liver Transplant Patient Handbook](#liver-transplant-patient-handbook)
+
+* [1] <https://www.ucsfbenioffchildrens.org/-/media/project/ucsf/ucsf-bch/pdf/liver-transplant-manual.pdf>
+
 ### [Living Donor Liver Transplant](#living-donor-liver-transplant)
 
 «A living-donor liver transplant is a surgery in which a portion of the liver from a healthy living person is removed and placed into someone whose liver is no longer working properly.
@@ -1122,7 +1127,13 @@ There are statistical correlations between level of liver illness (e.g. the MELD
 ### [MELD Exception Score](#meld-exception-score)
 A MELD Exception Score is a modifier to the calculated MELD score. Some transplant candidates have a medical condition, such as cancer or rare forms of chronic liver disease, where MELD or PELD will not accurately predict their short-term transplant need. If so, they may qualify for an exception score — a separately assigned score to be used instead of their calculated MELD or PELD in matching the person for available organ offers. The goal of exception scores is to make access to transplant more equitable among patients with similar levels of medical urgency.
 
+Normally an exception score is awarded at first determination of the exceptional (non-MELD based) need for the transplant, but UNOS has enacted a schedule of scores based on times/extensions for Adults with HCC (hepatocellular carcinoma) as described in [2].
+
+«Adult HCC candidates will follow a new schedule of automatic score assignment, that increases the scores on the 3rd, 4th and 5th extension compared to the previous schedule» — [2]
+
 * [1] [UNOS](/source/unosorg/) — <https://unos.org/policy/liver/exception-scores/>
+* [2] [UNOS](/source/unosorg/) — <https://unos.org/wp-content/uploads/HCC-FAQ-update-Feb-018.pdf>
+
 
 ### [MRE](#mre)
 Magnetic resonance elastography (MRE) is a technology that combines MRI imaging with low-frequency vibrations to create a visual map (elastogram) that shows stiffness of body tissues.
