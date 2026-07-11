@@ -22,7 +22,7 @@ After getting a liver and kidney transplant, most of my prior bloodwork continue
         likely.<br></p>
     <p>The whole system is complicated by the patient-specific efficacy of the drugs. &nbsp;So the doctors use try,
         discern, adjust, and repeat…<br></p>
-<h3>Tailoring Immunosuppression</h3>
+<h3 id='tailoring-immunosuppression'><a href='#tailoring-immunosuppression'>Tailoring Immunosuppression</a></h3>
     <p>One of the main goals of the frequent blood work was to tailor the amount of immunosuppressant I needed to be
         dosed with. &nbsp;After discharge I was on Tacrolimus (Prograph) and Mycophenolate Mofetil (CellCept) to prevent
         rejection of the new liver and kidney. &nbsp;There is no goal for how much of an immunosuppressant a patient
@@ -65,7 +65,7 @@ After getting a liver and kidney transplant, most of my prior bloodwork continue
     </figure>
     <p>At the same time my Tacrolimus levels were getting in better control too, as the initial graph showed.</p>
 
-<h3>Other Infections</h3>
+<h3 id='other-infections'><a href='#other-infections'>Other Infections</a></h3>
     <p>During the summer and autumn after transplant I seemed to get a number of colds (which was unusual for me) and
         they lasted for much longer than they normally last for me. &nbsp;This may be a side effect of the suppression
         or just coincidence.</p>

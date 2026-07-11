@@ -14,7 +14,7 @@ I was discharged from Stanford after the liver and kidney transplant with a new 
 
 <div>
 <p>Fortunately these drugs were somewhat familiar to me from other people&#x27;s descriptions and were thoroughly described by Stanford&#x27;s Pharmacist both verbally and in literature. They were described to both me and my family in case I needed help maintaining the regimen. </p>
-<h3>Details of the Regimen</h3>
+<h3 id='details-of-the-regimen'><a href='#details-of-the-regimen'>Details of the Regimen</a></h3>
 <p>Overall the drugs in the regimen falls into several categories:</p>
 <ul role="list">
     <li>Anti-Rejection / Immunosuppressant drugs — These prevent my immune system from rejecting the &#x27;foreign&#x27; organs</li>
@@ -25,7 +25,7 @@ I was discharged from Stanford after the liver and kidney transplant with a new 
 </ul>
 <p>This regimen was conveniently itemized as four pages worth of drugs: with dosage, regimen, constraints, and picture-augmented pill descriptions.  The descriptions are very important: you need to take the right pill every time, and because there are more than a dozen scripts many of the pills look similar and the count of them can be overwhelming.  </p>
 <p>The following sections work through the categories</p>
-<h3>Anti-Rejection / Immunosuppressant drugs</h3>
+<h3 id='anti-rejection-immunosuppressant-drugs'><a href='#anti-rejection-immunosuppressant-drugs'>Anti-Rejection / Immunosuppressant drugs</a></h3>
 <p>
     First there are the anti-rejection drugs.  For me these are primarily Prograf
     <sup>®</sup>
@@ -50,7 +50,7 @@ I was discharged from Stanford after the liver and kidney transplant with a new 
 </p>
 <h4>Insulin</h4>
 <p>The final drug is insulin, which requires a device to prick my finger, another device to measure my blood sugar, a table that translates my blood sugar to my needed insulin injection, and a third device to dole out the right amount of insulin into me.  I was not diabetic before the surgery, but some of the medications I take can cause blood sugar spikes and having high blood sugar levels increases the chance of infections.  Infections which Batman and Robin make more virulent.  Eureka’s explanation for blood sugar testing and insulin injection are fairly interesting but pricking my finger four times a day does not sound enticing.  At least the needles are tiny compared to dialysis needles.  I never did learn to cannulate myself with 15-gauge dialysis needles.</p>
-<h3>Keeping Track Of The Regimen</h3>
+<h3 id='keeping-track-of-the-regimen'><a href='#keeping-track-of-the-regimen'>Keeping Track Of The Regimen</a></h3>
 <p>Initially I used two major techniques to keep track of compliance with the regimen. A spreadsheet to sort pills on, check of consumption, and record metrics as needed. The printed version of the spreadsheet for a single day (June 1st) looked like the following:</p>
 <figure class="w-richtext-align-center w-richtext-figure-type-image">
     <div>
@@ -69,6 +69,6 @@ I was discharged from Stanford after the liver and kidney transplant with a new 
         <img loading="lazy" alt="" src="https://cdn.prod.website-files.com/654c35b90c33f91f6457b77b/65e15c13233cab20547efaa8_IMG_0852_v2_s25.png"/>
     </div>
 </figure>
-<h3>Changes to the Regimen</h3>
+<h3 id='changes-to-the-regimen'><a href='#changes-to-the-regimen'>Changes to the Regimen</a></h3>
 <p>Over time some of the drugs are removed (e.g. I was on PredniSONE for just two days and a couple of the anti-infections for three months) and others are tuned based on your body&#x27;s reaction to the drugs. Especially Tacrolimus/Prograf is very tuned to have the desired &#x27;Trough&#x27; value in your blood stream. Familiarity with the drugs and their dosage made the spreadsheet not necessary after a few weeks, and now (nine months post transplant) my main concern is just to remember if I took the morning and evening dosages at all: the quantities are all easy to remember.</p>
 </div>
