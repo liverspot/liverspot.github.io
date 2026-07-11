@@ -17,26 +17,26 @@ styles:
 
 table tr:nth-child(1), /*A*/
 table tr:nth-child(15), /*B*/
-table tr:nth-child(20), /*C*/
-table tr:nth-child(31), /*D*/
-table tr:nth-child(43), /*E*/
-table tr:nth-child(53), /*F*/
-table tr:nth-child(58), /*G*/
-table tr:nth-child(65), /*H*/
-table tr:nth-child(79), /*I*/
-table tr:nth-child(84), /*J*/
-table tr:nth-child(86), /*K*/
-table tr:nth-child(89), /*L*/
-table tr:nth-child(100), /*M*/
-table tr:nth-child(108), /*N*/
-table tr:nth-child(113), /*O*/
-table tr:nth-child(116), /*P*/
-table tr:nth-child(130), /*R*/
-table tr:nth-child(134), /*S*/
-table tr:nth-child(142), /*T*/
-table tr:nth-child(161), /*U*/
-table tr:nth-child(167), /*V*/
-table tr:nth-child(170), /*X*/
+table tr:nth-child(21), /*C*/
+table tr:nth-child(32), /*D*/
+table tr:nth-child(44), /*E*/
+table tr:nth-child(54), /*F*/
+table tr:nth-child(59), /*G*/
+table tr:nth-child(66), /*H*/
+table tr:nth-child(80), /*I*/
+table tr:nth-child(85), /*J*/
+table tr:nth-child(87), /*K*/
+table tr:nth-child(90), /*L*/
+table tr:nth-child(101), /*M*/
+table tr:nth-child(109), /*N*/
+table tr:nth-child(114), /*O*/
+table tr:nth-child(117), /*P*/
+table tr:nth-child(131), /*R*/
+table tr:nth-child(135), /*S*/
+table tr:nth-child(143), /*T*/
+table tr:nth-child(162), /*U*/
+table tr:nth-child(168), /*V*/
+table tr:nth-child(171), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -112,7 +112,8 @@ The following entries contain information on topics that have been brought up du
 |[AST &darr;](#ast)|Aspartate aminotransferase|
 |[Asterixis &darr;](#asterixis)||
 |[Atrophy &darr;](#atrophy)||
-|[Bausch PAP &darr;](#bausch-pap) <a id="b"></a>|Patient Assistance Program|
+|[BRTO &darr;](#brto) <a id="b"></a>|BATO, BRTO, CARTO, PATO, Balloon-occluded transvenous obliteration|
+|[Bausch PAP &darr;](#bausch-pap)|Patient Assistance Program|
 |[Bilirubin &darr;](#bilirubin)||
 |[BK Virus &darr;](#bk-virus)|'BK' are initials|
 |[BMP &darr;](#bmp)|basic metabolic panel|
@@ -421,6 +422,24 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 « A basic metabolic panel (BMP) is a blood test that measures eight different substances in your blood. The panel provides helpful information about your body’s chemical balance and metabolism (how your body transforms the food you eat into energy). » — [1]
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/22020-basic-metabolic-panel-bmp>
+
+### [BRTO](#brto)
+
+Balloon-occluded retrograde transvenous obliteration (BRTO)
+
+«The classic BRTO procedure has been largely supplanted by modified techniques which involve shorter procedure times. These include:
+
+* vascular plug-assisted retrograde transvenous obliteration (PARTO)
+* coil-assisted retrograde transvenous obliteration (CARTO)
+* balloon-occluded antegrade transvenous obliteration (BATO)
+
+* The techniques employed are typically adapted depending on specific portosystemic anatomy and operator experience and preference.» — [3]
+
+#### Refs
+
+* [1] <https://www.cirse.org/patients/general-information/ir-procedures/balloon-occluded-retrograde-transvenous-obliteration-brto/>
+* [2] <https://floridaradiologyconsultants.com/interventional-radiology/brto-bato/>
+* [3] <https://radiopaedia.org/articles/balloon-occluded-retrograde-transvenous-obliteration?lang=us>
 
 ### [BUN Test](#bun-test)
 
