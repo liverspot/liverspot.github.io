@@ -26,7 +26,7 @@ I kept this to a general overview, since getting into specific cases or situatio
         <li>If fibrosis builds up long enough, the liver damage becomes cirrhosis</li>
         <li>If cirrhosis continues long enough, it can become liver cancer and failure</li>
     </ol>
-    <h3>HEPATITIS</h3>
+<h3 id='hepatitis'><a href='#hepatitis'>HEPATITIS</a></h3>
     <p>
         Hepatitis is NOT a virus. Hepatitis is the irritation or swelling of liver cells from any &quot;insult&quot; to the liver which results in inflammation. A virus can be one of the infectious causes of hepatitis, but do not think &quot;virus&quot; when you hear hepatitis. 
         <strong>
@@ -59,7 +59,7 @@ I kept this to a general overview, since getting into specific cases or situatio
         <li>Physical injury</li>
     </ul>
     <p>ALL of the types of hepatitis listed above are also the causes of fibrosis in the liver.</p>
-    <h3>CIRRHOSIS</h3>
+<h3 id='cirrhosis'><a href='#cirrhosis'>CIRRHOSIS</a></h3>
     <p>Cirrhosis is severe fibrosis of the liver from an extended period (years) of hepatitis. A healthy liver might sustain one injury, develop hepatitis, rebuild itself, diminish the hepatitis, and then continue on, strong as ever. Two thirds of a healthy liver can be cut away, and that liver will rebuild itself entirely. BUT, when a liver is continually injured over an extended period of years (a chronic viral infection, ongoing alcohol consumption, autoimmune injury, etc),the hepatitis never goes away. The hepatitis remains, never subsiding, forming fibrosis all along the way. Fibrosis replaces healthy liver tissue and partially blocks the flow of blood through the liver. And the fibrosis will continue to replace healthy liver tissue as long as the injury and hepatitis continue.</p>
     <p>Fibrosis in the liver is similar to scar tissue anywhere else on or in the body. Scar tissue no longer functions like the healthy tissue it has replaced. The scar from a severe burn or cut won&#x27;t tan or sweat or grow hair like the surrounding skin. Fibrotic liver tissue doesn&#x27;t filter blood, or create and distribute nutrients, or clear the blood of drugs and other poisonous substances, or regulate blood clotting,or resist infections by making immune factors, or remove bacteria from the bloodstream. And the severe accumulation of fibrosis called Cirrhosis never will regenerate and perform those functions again. Scar tissue is tough. A scar from a traumatic laceration can grow through a healthy muscle, rendering it useless. I know this. ALL the classic cirrhosis symptoms that we know and experience result from the loss of functioning liver cells and increased resistance to blood flow through the liver (portal hypertension).</p>
 </div>

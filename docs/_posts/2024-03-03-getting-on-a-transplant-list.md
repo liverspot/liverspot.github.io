@@ -16,10 +16,10 @@ Soon after I woke up from a coma in 2021 I was told I needed to get on a liver t
 <div class="w-richtext">
             <p>There are a lot of hoops to jump through to get on the liver transplant list for a hospital.  There are a limited number or organs available and it is not guaranteed that you will be listed _at all_.  The hospital can choose whether to list you: the hospital is agreeing that if an organ is available they will do the procedure.  And if you seem a high risk of failure (but are not in imminent death) they can defer or even reject you.  Given that it seems you will die without a transplant, this is a lot of power being wielded over you.</p>
             <p>Hospital are different and the availabiity of organs is different based on UNOS regions.  This is just my experience with Stanford in California.</p>
-            <h3>Caveat</h3>
+<h3 id='caveat'><a href='#caveat'>Caveat</a></h3>
             <p>Before going into the process, you should know you _may not_ need a transplant to stay alive.  At least I did not, although I never recovered enough that a transplant wouldn&#x27;t help.  But others did not get a transplant and recovered so much they never needed it: it was no longer a good treatment of remaining symptoms.  </p>
             <p>This isn&#x27;t to discourage you from doing what is needed to get on the transplant list: all the hoops will likely help you to get in better health.  But just to possibly temper that &#x27;I will die&#x27; aspect anytime something foils you from getting on the list.  It can be stressful but ideally isn&#x27;t overwhelmingly depressing.</p>
-            <h3>Evaluation aspects of getting on the List</h3>
+<h3 id='evaluation-aspects-of-getting-on-the-list'><a href='#evaluation-aspects-of-getting-on-the-list'>Evaluation aspects of getting on the List</a></h3>
             <p>There are several aspects to getting on the transplant list at Stanford, which are likely similar to what is require at other hospital.  Note that the requirements within these aspects is from a patient perspective: for many things I am guessing on the details based on my own interactions and annecdotes from other patients.  A lot of the true details are opaquely hidden behind a ‹Review Panel› (or what I call the ‹Panel of Gods›).  </p>
             <p>The aspects fall into the categories</p>
             <ul role="list">
@@ -87,7 +87,7 @@ Soon after I woke up from a coma in 2021 I was told I needed to get on a liver t
             <p>One of the more subtle or covert aspects of listing review is patient compliance. The more a patient actively refuses to comply with medical team requests, the lower their chance of getting listed. Or I believe this is the case. </p>
             <p>If you need to be cajoled it is probably a lesser penalty. Asking for explanations or alternative possibilities should not be penalized at all. Just realize you may never really understand why something is required of you. The more they have to convince you the less compliant you are being.</p>
             <p>Somewhat like the army, if you are asked to &quot;Jump&quot;, the ideal response is &quot;How High?&quot; or just to jump however high you can.</p>
-            <h3>Stages</h3>
+<h3 id='stages'><a href='#stages'>Stages</a></h3>
             <p>Getting on the list goes through multiple stages. Ultimately there are four possible major states:</p>
             <ul role="list">
                 <li>Preparing — Before you have any official committee (POG) review and feedback</li>

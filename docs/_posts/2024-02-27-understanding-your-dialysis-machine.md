@@ -16,7 +16,7 @@ If you do dialysis in a clinic you spend many hours a week sitting next to a dia
         Understanding what the dialysis machine is doing can relieve boredom, provide education, and help avoid problems.  Potentially very painful and health-threatening problems.  Your doctor&#x27;s prescription and the clinic technicians enter the values for dialysis, and these may be the correct values.  In two years of dialysis, the values were mostly right for me.  In the last few months though (at a different dialysis center), &quot;mistakes were made&quot;.  By understanding the machine&#x27;s display I caught the errors at the start of the treatment.
         <br/>
     </p>
-    <h3>My Dialysis Machine</h3>
+<h3 id='my-dialysis-machine'><a href='#my-dialysis-machine'>My Dialysis Machine</a></h3>
     <p>My dialysis machine when I started dialysis in 2021 looked like this:</p>
     <figure class="w-richtext-align-center w-richtext-figure-type-image">
         <div>
@@ -47,7 +47,7 @@ If you do dialysis in a clinic you spend many hours a week sitting next to a dia
         <a href="https://fmcna.com/content/dam/fmcna/live/support/documents/techical-documentation/2008t-hemodialysis-systems/103324-01_Rev_B.pdf">https://fmcna.com/content/dam/fmcna/live/support/documents/techical-documentation/2008t-hemodialysis-systems/103324-01_Rev_B.pdf</a>
         <br/>
     </p>
-    <h3>What is critical</h3>
+<h3 id='what-is-critical'><a href='#what-is-critical'>What is critical</a></h3>
     <p>There are more than twenty values displayed on this screen.  The following aspects are the most critical:</p>
     <ul role="list">
         <li>Session sanity (Session Length, Blood Pump Rate)</li>
@@ -91,7 +91,7 @@ If you do dialysis in a clinic you spend many hours a week sitting next to a dia
                 <br/>
             </p>
             <p>This is a second reason you want the RTD value to not be too short.  If the UF Time value is too short and the goal is correct, the machine is going to quickly pull a lot of water.  And you will likely have increased chances and severity for cramping.</p>
-            <h3>What is interesting</h3>
+<h3 id='what-is-interesting'><a href='#what-is-interesting'>What is interesting</a></h3>
             <p>Beyond the above values, the rest are mostly &#x27;just interesting&#x27;. </p>
             <ul role="list">
                 <li>There are standard vital signs in the upper right corner: blood pressure and pulse.</li>

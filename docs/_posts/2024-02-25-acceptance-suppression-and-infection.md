@@ -53,7 +53,7 @@ After getting a liver and kidney transplant, most of my prior bloodwork continue
         </div>
     </figure>
 
-    <h3>Infection: BK Virus</h3>
+<h3 id='infection-bk-virus'><a href='#infection-bk-virus'>Infection: BK Virus</a></h3>
     <p>A few weeks after the transplant, I had no evidence of the BK Virus. &nbsp;Two weeks later, it was present.
         &nbsp;And two weeks after that it was signifcant. &nbsp;This is what drove halfing and ultimately pausing the
         CellCept dosage. &nbsp;Eventually the level of BK Virus was relatively stable and at an acceptable level, and I
