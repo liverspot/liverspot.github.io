@@ -730,6 +730,12 @@
   topic-slug: j-tube
   path: /topics/#j-tube
   description: ""
+- url: https://www.drugs.com/jardiance.html
+  source: drugscom
+  topic-name: Jardiance
+  topic-slug: jardiance
+  path: /topics/#jardiance
+  description: ""
 - url: https://medlineplus.gov/ency/article/000210.htm
   source: medlineplusgov
   topic-name: Jaundice

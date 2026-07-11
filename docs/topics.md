@@ -25,18 +25,18 @@ table tr:nth-child(59), /*G*/
 table tr:nth-child(66), /*H*/
 table tr:nth-child(80), /*I*/
 table tr:nth-child(85), /*J*/
-table tr:nth-child(87), /*K*/
-table tr:nth-child(90), /*L*/
-table tr:nth-child(101), /*M*/
-table tr:nth-child(109), /*N*/
-table tr:nth-child(114), /*O*/
-table tr:nth-child(117), /*P*/
-table tr:nth-child(131), /*R*/
-table tr:nth-child(135), /*S*/
-table tr:nth-child(143), /*T*/
-table tr:nth-child(162), /*U*/
-table tr:nth-child(168), /*V*/
-table tr:nth-child(171), /*X*/
+table tr:nth-child(88), /*K*/
+table tr:nth-child(91), /*L*/
+table tr:nth-child(102), /*M*/
+table tr:nth-child(110), /*N*/
+table tr:nth-child(115), /*O*/
+table tr:nth-child(118), /*P*/
+table tr:nth-child(132), /*R*/
+table tr:nth-child(136), /*S*/
+table tr:nth-child(144), /*T*/
+table tr:nth-child(163), /*U*/
+table tr:nth-child(169), /*V*/
+table tr:nth-child(172), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -183,6 +183,7 @@ The following entries contain information on topics that have been brought up du
 |[IOP &darr;](#iop)|Intense Outpatient Program|
 |[Itching &darr;](#itching)||
 |[J-Tube &darr;](#j-tube) <a id="j"></a>|Jejunal Tube|
+|[Jardiance &darr;](#jardiance)|Empagliflozin|
 |[Jaundice &darr;](#jaundice)||
 |[Ketorolac &darr;](#ketorolac) <a id="k"></a>|Toradol|
 |[Kidney Biopsy &darr;](#kidney-biopsy)||
@@ -956,6 +957,12 @@ A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to 
 * [1]&nbsp;<https://starship.org.nz/guidelines/gastrostomy-transgastric-jejunal-jejunal-tube-care/>
 * [2] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/ency/patientinstructions/000181.htm>
 * [3] [CHOP](/source/chopedu/) — <https://www.chop.edu/treatments/jejunostomy-tubes>
+
+### [Jardiance](#jardiance)
+
+«Jardiance (empagliflozin) is an FDA-approved tablet used to help control blood sugar levels in type 2 diabetes and is also used to reduce the risk of cardiovascular problems in adults with heart failure or cardiovascular disease with type 2 diabetes. Jardiance lowers blood glucose levels (HbA1c) by helping the kidney increase the amount of glucose passing into the urine. Jardiance should be used together with diet and exercise when prescribed for type 2 diabetes.» — [1]
+
+* [1] [Drugs.com](/source/drugscom/) — <https://www.drugs.com/jardiance.html>
 
 ### [Jaundice](#jaundice)
 
