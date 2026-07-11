@@ -18,11 +18,11 @@ I have two kidneys that lived in my body since birth and these are my native kid
 
 Unfortunately, the immigrant kidney developed a _huge_ (1.2 cm) stone in the two years it did all that work.  The true cause is unclear at this point, but the stone was there and it was not coming out through any normal means.
 
-### Immigrant kidneys don't complain
+### [Immigrant kidneys don't complain](#immigrant-kidneys-dont-complain)
 
 I had a significant kidney stone causing bodily havoc for many months.  At no point during that time did my kidney directly cause me any pain.  Until the blood test, I had no idea anything was wrong.  After the blood test, I sporadically had weird pains in my shoulder and elbow that had no cause and would move around when interacted with.  The nerves for a transplanted kidney are not reattached at the time of the transplant.  They may eventually grow back but apparently had not sufficiently in my case for me to feel any pain from the giant stone trying to get out.
 
-### Immigrant kidneys live in unusual locations
+### [Immigrant kidneys live in unusual locations](#immigrant-kidneys-live-in-unusual-locations)
 
 Kidney transplants _add_ a kidney into a new location in the patient's body, they don't replace an existing kidney.  In my case, the new kidney is in my right-hip abdominal pocket [hah], which is pretty standard.
 
@@ -37,7 +37,7 @@ The second (URS) uses a 'ureteroscope' (long, thin tube) to snake up into the ki
 
 So these common and relatively simple outpatient procedures do not work well or at all with an immigrant kidney.
 
-### Accessing an eccentric location
+### [Accessing an eccentric location](#accessing-an-eccentric-location)
 
 The next level up to getting access to a kidney is to burrow an access hole (formally called 'catheterizing') to the kidney and then use that pathway for the same tubal access (now called a 'nephroscope').  This procedure is called Percutaneous Nephrolithotomy ([PCNL](/topics/#pcnl)) and is an overnight procedure vs. the outpaitient procedures described above.
 
@@ -56,7 +56,7 @@ The summary of the two procedures is that they:
 
 I know about the laser part mostly because I asked why I needed to be anesthetized (general).  The explanation "you might move while we shoot a laser at you" convinced me they were probably right.
 
-### Final Status
+### [Final Status](#final-status)
 
 A couple of weeks later they removed the stent and we are now doing tests to determine how not to inflict me with more "Murder, She Wrote" in the future.
 
