@@ -4,6 +4,24 @@
   topic-slug: acr
   path: /topics/#acr
   description: ""
+- url: https://unos.org/news/pre-imp-notice-liver-intestinal-dist-acuity-circles-feb-4-2020/
+  source: unosorg
+  topic-name: Acuity Circles
+  topic-slug: acuity-circles
+  path: /topics/#acuity-circles
+  description: ""
+- url: https://pubmed.ncbi.nlm.nih.gov/34482614/
+  source: nihgov
+  topic-name: Acuity Circles
+  topic-slug: acuity-circles
+  path: /topics/#acuity-circles
+  description: "«The Effect of Acuity Circles on Deceased Donor Transplant 〚…〛» "
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7319877/
+  source: nihgov
+  topic-name: Acuity Circles
+  topic-slug: acuity-circles
+  path: /topics/#acuity-circles
+  description: "«Impact of Acuity Circles on Outcomes for Pediatric Liver Transplant Candidates» "
 - url: https://pubmed.ncbi.nlm.nih.gov/3912970/
   source: nihgov
   topic-name: Acyclovir

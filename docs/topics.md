@@ -16,27 +16,27 @@ styles:
 /*================================== */
 
 table tr:nth-child(1), /*A*/
-table tr:nth-child(15), /*B*/
-table tr:nth-child(21), /*C*/
-table tr:nth-child(32), /*D*/
-table tr:nth-child(44), /*E*/
-table tr:nth-child(54), /*F*/
-table tr:nth-child(59), /*G*/
-table tr:nth-child(66), /*H*/
-table tr:nth-child(80), /*I*/
-table tr:nth-child(85), /*J*/
-table tr:nth-child(88), /*K*/
-table tr:nth-child(91), /*L*/
-table tr:nth-child(102), /*M*/
-table tr:nth-child(110), /*N*/
-table tr:nth-child(115), /*O*/
-table tr:nth-child(118), /*P*/
-table tr:nth-child(132), /*R*/
-table tr:nth-child(136), /*S*/
-table tr:nth-child(144), /*T*/
-table tr:nth-child(163), /*U*/
-table tr:nth-child(169), /*V*/
-table tr:nth-child(172), /*X*/
+table tr:nth-child(16), /*B*/
+table tr:nth-child(22), /*C*/
+table tr:nth-child(33), /*D*/
+table tr:nth-child(45), /*E*/
+table tr:nth-child(55), /*F*/
+table tr:nth-child(60), /*G*/
+table tr:nth-child(67), /*H*/
+table tr:nth-child(81), /*I*/
+table tr:nth-child(86), /*J*/
+table tr:nth-child(89), /*K*/
+table tr:nth-child(92), /*L*/
+table tr:nth-child(103), /*M*/
+table tr:nth-child(111), /*N*/
+table tr:nth-child(116), /*O*/
+table tr:nth-child(119), /*P*/
+table tr:nth-child(133), /*R*/
+table tr:nth-child(137), /*S*/
+table tr:nth-child(145), /*T*/
+table tr:nth-child(164), /*U*/
+table tr:nth-child(170), /*V*/
+table tr:nth-child(173), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -99,6 +99,7 @@ The following entries contain information on topics that have been brought up du
 | Topic                                                                                                                                  | Alternate Name                                | 
 |----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
 |[ACR &darr;](#acr) <a id="a"></a>|Acute Cellular Rejection|
+|[Acuity Circles &darr;](#acuity-circles)||
 |[Acyclovir &darr;](#acyclovir)|Zovirax|
 |[AFP &darr;](#afp)|Alpha-Fetoprotein|
 |[AIH &darr;](#aih)|Autoimmune hepatitis|
@@ -293,6 +294,16 @@ Acute cellular rejection
 «High dose corticosteroids are standard of care for ACR and doses vary at different centers. Usually 500–1000 mg pulse of methylprednisolone is given for 1–3 days followed by taper» — [1]
 
 * [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC5715482/>
+
+### [Acuity Circles](#acuity-circles)
+
+«〚Acuity Circles〛 prioritize candidates of similar groupings of medical urgency within 150, 250 and 500 nautical miles from the donor hospital» — [1]
+
+« AC 〚Acuity Circles〛allocation will likely address disparities for pediatric liver transplant candidates and recipients by increasing transplants and decreasing waitlist mortality. It is more consistent with federally-mandated requirements for organ allocation.» — [3]
+
+* [1] [UNOS](/source/unosorg/) — <https://unos.org/news/pre-imp-notice-liver-intestinal-dist-acuity-circles-feb-4-2020/>
+* [2] [NIH](/source/nihgov/) «The Effect of Acuity Circles on Deceased Donor Transplant 〚…〛» — <https://pubmed.ncbi.nlm.nih.gov/34482614/>
+* [3] [NIH](/source/nihgov/) «Impact of Acuity Circles on Outcomes for Pediatric Liver Transplant Candidates» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC7319877/>
 
 ### [Acyclovir](#acyclovir)
 
