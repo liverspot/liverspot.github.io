@@ -112,11 +112,11 @@ The following entries contain information on topics that have been brought up du
 |[AST &darr;](#ast)|Aspartate aminotransferase|
 |[Asterixis &darr;](#asterixis)||
 |[Atrophy &darr;](#atrophy)||
-|[BRTO &darr;](#brto) <a id="b"></a>|BATO, BRTO, CARTO, PATO, Balloon-occluded transvenous obliteration|
-|[Bausch PAP &darr;](#bausch-pap)|Patient Assistance Program|
+|[Bausch PAP &darr;](#bausch-pap) <a id="b"></a>|Patient Assistance Program|
 |[Bilirubin &darr;](#bilirubin)||
 |[BK Virus &darr;](#bk-virus)|'BK' are initials|
 |[BMP &darr;](#bmp)|basic metabolic panel|
+|[BRTO &darr;](#brto)|BATO, BRTO, CARTO, PATO, Balloon-occluded transvenous obliteration|
 |[BUN Test &darr;](#bun-test)|Blood-urea-nitrogen|
 |[Camino Hospital IOP &darr;](#camino-hospital-iop) <a id="c"></a>|Intensive OutPatient|
 |[Cirrhosis &darr;](#cirrhosis)||
