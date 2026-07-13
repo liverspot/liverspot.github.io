@@ -842,6 +842,7 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 « Hepatic hydrothorax 〚HH〛is the paradigmatic pleural effusion in liver cirrhosis. It is defined as a pleural effusion in a patient with portal hypertension and no cardiopulmonary disease. The estimated prevalence of this complication in patients with liver cirrhosis is 5 to 6%. Its pathophysiology involves movement of ascitic fluid from the peritoneal cavity into the pleural space through diaphragmatic defects. » — [1]
 
 * [1] [NIH](/source/nihgov/) «Pleural effusion in liver disease» — <https://pubmed.ncbi.nlm.nih.gov/21213201/>
+* [2] «Pleural effusion» — <https://cirrhosiscare.ca/pleural-effusion/>
 
 ### [Hepatitis](#hepatitis)
 «Hepatitis means inflammation of the liver. Usually the term is short for one of the five Viral Hepatitis strains: Hepatitis A, B, C, D and E.»
