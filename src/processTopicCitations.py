@@ -187,8 +187,13 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
 
 # Informational output to look for new entries to add to '_sources'
 print(f"Processed citations from {len(found_sources.keys())} sources out of {len(sources.keys())} registered sources\n",  file=sys.stderr)
-print("The following are currently unregistered sources with more than 1 citation:",  file=sys.stderr)
+
+any_unregistered = False
 for key, value in found_sources.items():
     if key not in sources:
         if value["count"] > 1:
+            if not any_unregistered:
+                print("The following are currently unregistered sources with more than 1 citation:",  file=sys.stderr)
+            any_unregistered = True
+
             print(f"{key}: {value}",  file=sys.stderr)

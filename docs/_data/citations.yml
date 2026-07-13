@@ -586,6 +586,12 @@
   topic-slug: hemodialysis
   path: /topics/#hemodialysis
   description: ""
+- url: https://pubmed.ncbi.nlm.nih.gov/21213201/
+  source: nihgov
+  topic-name: Hepatic hydrothorax
+  topic-slug: hepatic-hydrothorax
+  path: /topics/#hepatic-hydrothorax
+  description: "«Pleural effusion in liver disease» "
 - url: https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis
   source: hopkinsmedicineorg
   topic-name: Hepatitis

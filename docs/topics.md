@@ -23,20 +23,20 @@ table tr:nth-child(45), /*E*/
 table tr:nth-child(55), /*F*/
 table tr:nth-child(60), /*G*/
 table tr:nth-child(67), /*H*/
-table tr:nth-child(81), /*I*/
-table tr:nth-child(86), /*J*/
-table tr:nth-child(89), /*K*/
-table tr:nth-child(92), /*L*/
-table tr:nth-child(103), /*M*/
-table tr:nth-child(111), /*N*/
-table tr:nth-child(116), /*O*/
-table tr:nth-child(119), /*P*/
-table tr:nth-child(133), /*R*/
-table tr:nth-child(137), /*S*/
-table tr:nth-child(145), /*T*/
-table tr:nth-child(164), /*U*/
-table tr:nth-child(170), /*V*/
-table tr:nth-child(173), /*X*/
+table tr:nth-child(82), /*I*/
+table tr:nth-child(87), /*J*/
+table tr:nth-child(90), /*K*/
+table tr:nth-child(93), /*L*/
+table tr:nth-child(104), /*M*/
+table tr:nth-child(112), /*N*/
+table tr:nth-child(117), /*O*/
+table tr:nth-child(120), /*P*/
+table tr:nth-child(134), /*R*/
+table tr:nth-child(138), /*S*/
+table tr:nth-child(146), /*T*/
+table tr:nth-child(165), /*U*/
+table tr:nth-child(171), /*V*/
+table tr:nth-child(174), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -168,6 +168,7 @@ The following entries contain information on topics that have been brought up du
 |[HE &darr;](#he)|Hepatic Encephalopathy|
 |[Hemochromatosis &darr;](#hemochromatosis)||
 |[Hemodialysis &darr;](#hemodialysis)||
+|[Hepatic hydrothorax &darr;](#hepatic-hydrothorax)|HH|
 |[Hepatitis &darr;](#hepatitis)||
 |[HIDA Scan &darr;](#hida-scan)|Hepatobiliary iminodiacetic acid|
 |[HLA &darr;](#hla)|Human Leukocyte Antigen|
@@ -835,6 +836,12 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 
 * [1] [NIH](/source/nihgov/) — <https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/hemodialysis>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/hemodialysis>
+
+### [Hepatic hydrothorax](#hepatic-hydrothorax)
+
+« Hepatic hydrothorax 〚HH〛is the paradigmatic pleural effusion in liver cirrhosis. It is defined as a pleural effusion in a patient with portal hypertension and no cardiopulmonary disease. The estimated prevalence of this complication in patients with liver cirrhosis is 5 to 6%. Its pathophysiology involves movement of ascitic fluid from the peritoneal cavity into the pleural space through diaphragmatic defects. » — [1]
+
+* [1] [NIH](/source/nihgov/) «Pleural effusion in liver disease» — <https://pubmed.ncbi.nlm.nih.gov/21213201/>
 
 ### [Hepatitis](#hepatitis)
 «Hepatitis means inflammation of the liver. Usually the term is short for one of the five Viral Hepatitis strains: Hepatitis A, B, C, D and E.»
