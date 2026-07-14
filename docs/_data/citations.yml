@@ -496,6 +496,24 @@
   topic-slug: fistula
   path: /topics/#fistula
   description: ""
+- url: https://www.myast.org/resources/food-safety-after-transplant
+  source: myastorg
+  topic-name: Food Safety after Transplant
+  topic-slug: food-safety-after-transplant
+  path: /topics/#food-safety-after-transplant
+  description: "«Food Safety After Transplant» "
+- url: https://www.myast.org/resources?keywords=Food
+  source: myastorg
+  topic-name: Food Safety after Transplant
+  topic-slug: food-safety-after-transplant
+  path: /topics/#food-safety-after-transplant
+  description: ""
+- url: https://www.hopkinsmedicine.org/-/media/transplant/3_lung_guide_nutrition_and_preventing_infection.pdf
+  source: hopkinsmedicineorg
+  topic-name: Food Safety after Transplant
+  topic-slug: food-safety-after-transplant
+  path: /topics/#food-safety-after-transplant
+  description: "«NUTRITION AND FOOD SAFETY» "
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452908/
   source: nihgov
   topic-name: Gabapentin
