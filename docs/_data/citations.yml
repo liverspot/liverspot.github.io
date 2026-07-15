@@ -514,6 +514,24 @@
   topic-slug: food-safety-after-transplant
   path: /topics/#food-safety-after-transplant
   description: "«NUTRITION AND FOOD SAFETY» "
+- url: https://www.mayoclinic.org/diseases-conditions/foot-drop/symptoms-causes/syc-20372628
+  source: mayoclinicorg
+  topic-name: Foot Drop
+  topic-slug: foot-drop
+  path: /topics/#foot-drop
+  description: ""
+- url: https://my.clevelandclinic.org/health/symptoms/17814-foot-drop
+  source: clevelandclinicorg
+  topic-name: Foot Drop
+  topic-slug: foot-drop
+  path: /topics/#foot-drop
+  description: ""
+- url: https://www.ninds.nih.gov/health-information/disorders/foot-drop-syndrome
+  source: nihgov
+  topic-name: Foot Drop
+  topic-slug: foot-drop
+  path: /topics/#foot-drop
+  description: "«Foot Drop Syndrome» "
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452908/
   source: nihgov
   topic-name: Gabapentin

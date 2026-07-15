@@ -21,22 +21,22 @@ table tr:nth-child(22), /*C*/
 table tr:nth-child(33), /*D*/
 table tr:nth-child(45), /*E*/
 table tr:nth-child(55), /*F*/
-table tr:nth-child(61), /*G*/
-table tr:nth-child(68), /*H*/
-table tr:nth-child(83), /*I*/
-table tr:nth-child(88), /*J*/
-table tr:nth-child(91), /*K*/
-table tr:nth-child(94), /*L*/
-table tr:nth-child(105), /*M*/
-table tr:nth-child(113), /*N*/
-table tr:nth-child(118), /*O*/
-table tr:nth-child(121), /*P*/
-table tr:nth-child(135), /*R*/
-table tr:nth-child(139), /*S*/
-table tr:nth-child(147), /*T*/
-table tr:nth-child(166), /*U*/
-table tr:nth-child(172), /*V*/
-table tr:nth-child(175), /*X*/
+table tr:nth-child(62), /*G*/
+table tr:nth-child(69), /*H*/
+table tr:nth-child(84), /*I*/
+table tr:nth-child(89), /*J*/
+table tr:nth-child(92), /*K*/
+table tr:nth-child(95), /*L*/
+table tr:nth-child(106), /*M*/
+table tr:nth-child(114), /*N*/
+table tr:nth-child(119), /*O*/
+table tr:nth-child(122), /*P*/
+table tr:nth-child(136), /*R*/
+table tr:nth-child(140), /*S*/
+table tr:nth-child(148), /*T*/
+table tr:nth-child(167), /*U*/
+table tr:nth-child(173), /*V*/
+table tr:nth-child(176), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -158,6 +158,7 @@ The following entries contain information on topics that have been brought up du
 |[Fine-Needle Aspiration &darr;](#fine-needle-aspiration)|FNA|
 |[Fistula &darr;](#fistula)||
 |[Food Safety after Transplant &darr;](#food-safety-after-transplant)||
+|[Foot Drop &darr;](#foot-drop)|Drop Foot|
 |[Gabapentin &darr;](#gabapentin) <a id="g"></a>|Neurontin|
 |[Gallbladder &darr;](#gallbladder)||
 |[Gallbladder Cancer &darr;](#gallbladder-cancer)||
@@ -753,6 +754,17 @@ So it is a brand name related to filgrastim
 * [2] [AST](/source/myastorg/) — <https://www.myast.org/resources?keywords=Food>
 * [3] [JHM](/source/hopkinsmedicineorg/) «NUTRITION AND FOOD SAFETY» — <https://www.hopkinsmedicine.org/-/media/transplant/3_lung_guide_nutrition_and_preventing_infection.pdf>
 * [4] «Food Safety For Transplant Recipients» — <https://health.ucdavis.edu/transplant/PDFs/posttransplant/Food%20Safety%20For%20Transplant%20Recipients.pdf>
+
+### [Foot Drop](#foot-drop)
+
+«Foot drop, sometimes called drop foot, is a general term for difficulty lifting the front part of the foot. If you have foot drop, the front of your foot might drag on the ground when you walk.» — [1]
+
+«Foot drop is a symptom in which you drag your toes when you walk due to weakness or paralysis of certain muscles in your foot. It has several possible causes. The most common causes are peroneal nerve injury and lumbar radiculopathy. It’s treatable in most, but not all, cases.» — [2]
+
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/foot-drop/symptoms-causes/syc-20372628>
+* [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/symptoms/17814-foot-drop>
+* [3] [NIH](/source/nihgov/) «Foot Drop Syndrome» — <https://www.ninds.nih.gov/health-information/disorders/foot-drop-syndrome>
+
 
 ### [Gabapentin](#gabapentin)
 «Gabapentin works in the brain to prevent seizures and relieve pain for certain conditions in the nervous system. It can also be used for controlling the effects of neuropathy.» — [2]
