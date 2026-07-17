@@ -268,6 +268,12 @@
   topic-slug: cta
   path: /topics/#cta
   description: ""
+- url: https://my.clevelandclinic.org/health/diagnostics/4808-ct-computed-tomography-scan
+  source: clevelandclinicorg
+  topic-name: CT Scan
+  topic-slug: ct-scan
+  path: /topics/#ct-scan
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9611668/
   source: nihgov
   topic-name: CYP3A4 inhibitors

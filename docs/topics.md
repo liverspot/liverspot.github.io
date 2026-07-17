@@ -18,25 +18,25 @@ styles:
 table tr:nth-child(1), /*A*/
 table tr:nth-child(16), /*B*/
 table tr:nth-child(22), /*C*/
-table tr:nth-child(33), /*D*/
-table tr:nth-child(45), /*E*/
-table tr:nth-child(55), /*F*/
-table tr:nth-child(62), /*G*/
-table tr:nth-child(69), /*H*/
-table tr:nth-child(84), /*I*/
-table tr:nth-child(89), /*J*/
-table tr:nth-child(92), /*K*/
-table tr:nth-child(95), /*L*/
-table tr:nth-child(106), /*M*/
-table tr:nth-child(114), /*N*/
-table tr:nth-child(119), /*O*/
-table tr:nth-child(122), /*P*/
-table tr:nth-child(136), /*R*/
-table tr:nth-child(140), /*S*/
-table tr:nth-child(148), /*T*/
-table tr:nth-child(167), /*U*/
-table tr:nth-child(173), /*V*/
-table tr:nth-child(176), /*X*/
+table tr:nth-child(34), /*D*/
+table tr:nth-child(46), /*E*/
+table tr:nth-child(56), /*F*/
+table tr:nth-child(63), /*G*/
+table tr:nth-child(70), /*H*/
+table tr:nth-child(85), /*I*/
+table tr:nth-child(90), /*J*/
+table tr:nth-child(93), /*K*/
+table tr:nth-child(96), /*L*/
+table tr:nth-child(107), /*M*/
+table tr:nth-child(115), /*N*/
+table tr:nth-child(120), /*O*/
+table tr:nth-child(123), /*P*/
+table tr:nth-child(137), /*R*/
+table tr:nth-child(141), /*S*/
+table tr:nth-child(149), /*T*/
+table tr:nth-child(169), /*U*/
+table tr:nth-child(175), /*V*/
+table tr:nth-child(178), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -129,6 +129,7 @@ The following entries contain information on topics that have been brought up du
 |[Creatinine &darr;](#creatinine)||
 |[Creatinine Test &darr;](#creatinine-test)||
 |[CTA &darr;](#cta)|Computed Tomography Angiogram|
+|[CT Scan &darr;](#ct-scan)|Computed Tomography Scan|
 |[CYP3A4 inhibitors &darr;](#cyp3a4-inhibitors)||
 |[Deceased Organ Donation &darr;](#deceased-organ-donation) <a id="d"></a>||
 |[Deceased-Donor Liver Size &darr;](#deceased-donor-liver-size)||
@@ -263,6 +264,7 @@ The following entries contain information on topics that have been brought up du
 |[Transplant House &darr;](#transplant-house)||
 |[Transplant Survival Benefit &darr;](#transplant-survival-benefit)||
 |[TriClip &darr;](#triclip)|Tricuspid valve clip|
+|[Triphasic CT Scan &darr;](#triphasic-ct-scan)|triple-phase; 3P; 3-Phase|
 |[Tumeric &darr;](#tumeric)||
 |[uACR &darr;](#uacr) <a id="u"></a>|Urine Albumine Creatinine Ratio|
 |[Umbilical Hernia &darr;](#umbilical-hernia)||
@@ -275,7 +277,6 @@ The following entries contain information on topics that have been brought up du
 |[Vivitrol &darr;](#vivitrol)|Naltrexone|
 |[XIAFLEX &darr;](#xiaflex) <a id="x"></a>|Collagenase Clostridium histolyticum|
 |[Xifaxan &darr;](#xifaxan)|Rifaximin|
-
 
 ## Entries
 
@@ -542,6 +543,12 @@ California Pacific Medical Center (CPMC)
 «A CT angiogram 〚Computed Tomography Angiogram〛 is a test that checks for blockages and other problems in your arteries. It’s a CT scan with the added benefit of contrast dye. A healthcare provider injects the dye into a vein in your arm. The dye flows through your blood vessels and makes them look bright on the CT images. This means it’s easier to see blood flow and spot issues.» — [1]
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/ct-angiogram>
+
+### [CT Scan](#ct-scan)
+
+«A CT (computed tomography) scan is an imaging test that helps healthcare providers detect diseases and injuries. It uses a series of X-rays and a computer to create detailed images of your bones and soft tissues. A CT scan is painless and noninvasive. You might go to a hospital or imaging center for your CT scan.» — [1]
+
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/4808-ct-computed-tomography-scan>
 
 ### [CYP3A4 inhibitors](#cyp3a4-inhibitors)
 
@@ -1693,6 +1700,18 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 «A tricuspid valve clip (commonly known as the TriClip TEER device) is a minimally invasive treatment for severe tricuspid regurgitation (leaky valve).» — [1]
 
 * [1] [Yale Medicine](/source/yalemedicineorg/) — <https://www.yalemedicine.org/news/new-minimally-invasive-procedure-can-fix-your-hearts-tricuspid-valve>
+
+### [Triphasic CT Scan](#triphasic-ct-scan)
+
+«The triple-phase liver CT protocol 〚Triphasic CT Scan〛 is a useful examination in the assessment of focal liver lesions, hypervascular liver metastases and endocrine tumors.
+
+It involves a dedicated late arterial phase, portal venous phase and delayed phase acquisition. Not to be confused with a four-phase which involves the addition of a non-contrast series.» — [2]
+
+«Triphasic Computed Tomography (CT) has been used extensively as a non-invasive imaging technique for the assessment of focal liver lesions, especially in cirrhotic patients where the differentiation between benign and malignant lesions continues to be important.» — [1]
+
+* [1] «Diagnostic Accuracy of Triphasic CT Scan» — <https://jpmsonline.com/article/diagnostic-accuracy-of-triphasic-ct-scan-in-differentiating-malignant-from-benign-focal-liver-lesion-by-taking-histopathology-as-gold-standard-in-cirrhotic-patients-a-systematic-review-and-meta-analysis-867/>
+* [2] «CT triple-phase liver (protocol)» — <https://radiopaedia.org/articles/ct-triple-phase-liver-protocol?lang=us>
+
 
 ### [Tumeric](#tumeric)
 
