@@ -450,7 +450,7 @@ Balloon-occluded retrograde transvenous obliteration (BRTO)
 * coil-assisted retrograde transvenous obliteration (CARTO)
 * balloon-occluded antegrade transvenous obliteration (BATO)
 
-* The techniques employed are typically adapted depending on specific portosystemic anatomy and operator experience and preference.» — [3]
+The techniques employed are typically adapted depending on specific portosystemic anatomy and operator experience and preference.» — [3]
 
 #### Refs
 
