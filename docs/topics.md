@@ -456,7 +456,7 @@ Balloon-occluded retrograde transvenous obliteration (BRTO)
 
 * [1] <https://www.cirse.org/patients/general-information/ir-procedures/balloon-occluded-retrograde-transvenous-obliteration-brto/>
 * [2] <https://floridaradiologyconsultants.com/interventional-radiology/brto-bato/>
-* [3] <https://radiopaedia.org/articles/balloon-occluded-retrograde-transvenous-obliteration?lang=us>
+* [3] [Radiopaedia](/source/radiopaediaorg/) — <https://radiopaedia.org/articles/balloon-occluded-retrograde-transvenous-obliteration?lang=us>
 
 ### [BUN Test](#bun-test)
 
@@ -1722,7 +1722,7 @@ It involves a dedicated late arterial phase, portal venous phase and delayed pha
 «Triphasic Computed Tomography (CT) has been used extensively as a non-invasive imaging technique for the assessment of focal liver lesions, especially in cirrhotic patients where the differentiation between benign and malignant lesions continues to be important.» — [1]
 
 * [1] «Diagnostic Accuracy of Triphasic CT Scan» — <https://jpmsonline.com/article/diagnostic-accuracy-of-triphasic-ct-scan-in-differentiating-malignant-from-benign-focal-liver-lesion-by-taking-histopathology-as-gold-standard-in-cirrhotic-patients-a-systematic-review-and-meta-analysis-867/>
-* [2] «CT triple-phase liver (protocol)» — <https://radiopaedia.org/articles/ct-triple-phase-liver-protocol?lang=us>
+* [2] [Radiopaedia](/source/radiopaediaorg/) «CT triple-phase liver (protocol)» — <https://radiopaedia.org/articles/ct-triple-phase-liver-protocol?lang=us>
 
 
 ### [Tumeric](#tumeric)

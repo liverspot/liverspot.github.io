@@ -178,6 +178,12 @@
   topic-slug: bmp
   path: /topics/#bmp
   description: ""
+- url: https://radiopaedia.org/articles/balloon-occluded-retrograde-transvenous-obliteration?lang=us
+  source: radiopaediaorg
+  topic-name: BRTO
+  topic-slug: brto
+  path: /topics/#brto
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821
   source: mayoclinicorg
   topic-name: BUN Test
@@ -1342,6 +1348,12 @@
   topic-slug: triclip
   path: /topics/#triclip
   description: ""
+- url: https://radiopaedia.org/articles/ct-triple-phase-liver-protocol?lang=us
+  source: radiopaediaorg
+  topic-name: Triphasic CT Scan
+  topic-slug: triphasic-ct-scan
+  path: /topics/#triphasic-ct-scan
+  description: "«CT triple-phase liver (protocol)» "
 - url: https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr
   source: kidneyorg
   topic-name: uACR
