@@ -456,7 +456,7 @@ Balloon-occluded retrograde transvenous obliteration (BRTO)
 
 * [1] <https://www.cirse.org/patients/general-information/ir-procedures/balloon-occluded-retrograde-transvenous-obliteration-brto/>
 * [2] <https://floridaradiologyconsultants.com/interventional-radiology/brto-bato/>
-* [3] [Radiopaedia](/source/radiopaediaorg/) — <https://radiopaedia.org/articles/balloon-occluded-retrograde-transvenous-obliteration?lang=us>
+* [3] [Radiopaedia](/source/radiopaediaorg/) «Balloon-occluded retrograde transvenous obliteration» — <https://radiopaedia.org/articles/balloon-occluded-retrograde-transvenous-obliteration?lang=us>
 
 ### [BUN Test](#bun-test)
 
