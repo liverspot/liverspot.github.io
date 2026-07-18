@@ -998,11 +998,11 @@ In hyponatremia, one or more factors cause the sodium in the body to be diluted.
 An Intensive Outpatient Program (IOP) is a hospital program that meets several times a week for several hours at a time. IOPs are supposed to be as effective as residential programs and can also function as a transition from an inpatient program to normal life surroundings.
 
 * [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Intensive_outpatient_program>
-* [1] <https://americanaddictioncenters.org/intensive-outpatient-programs>
+* [2] <https://americanaddictioncenters.org/intensive-outpatient-programs>
 
 #### Virtual IOP
 
-* [1] <https://www.hazeldenbettyford.org/research-studies/addiction-research/virtual-intensive-outpatient-outcomes>
+* [3] <https://www.hazeldenbettyford.org/research-studies/addiction-research/virtual-intensive-outpatient-outcomes>
 
 ### [Itching](#itching)
 «Itching is a common symptom from liver damage. Possible helpful treatments include: Cholestyramime Powder,  Hydroxyzine, and Sarna lotion .» — [2]
