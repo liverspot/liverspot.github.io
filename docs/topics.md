@@ -20,23 +20,23 @@ table tr:nth-child(16), /*B*/
 table tr:nth-child(22), /*C*/
 table tr:nth-child(34), /*D*/
 table tr:nth-child(46), /*E*/
-table tr:nth-child(56), /*F*/
-table tr:nth-child(63), /*G*/
-table tr:nth-child(70), /*H*/
-table tr:nth-child(85), /*I*/
-table tr:nth-child(90), /*J*/
-table tr:nth-child(93), /*K*/
-table tr:nth-child(96), /*L*/
-table tr:nth-child(107), /*M*/
-table tr:nth-child(115), /*N*/
-table tr:nth-child(120), /*O*/
-table tr:nth-child(123), /*P*/
-table tr:nth-child(137), /*R*/
-table tr:nth-child(141), /*S*/
-table tr:nth-child(149), /*T*/
-table tr:nth-child(169), /*U*/
-table tr:nth-child(175), /*V*/
-table tr:nth-child(178), /*X*/
+table tr:nth-child(57), /*F*/
+table tr:nth-child(64), /*G*/
+table tr:nth-child(71), /*H*/
+table tr:nth-child(86), /*I*/
+table tr:nth-child(91), /*J*/
+table tr:nth-child(94), /*K*/
+table tr:nth-child(97), /*L*/
+table tr:nth-child(108), /*M*/
+table tr:nth-child(116), /*N*/
+table tr:nth-child(121), /*O*/
+table tr:nth-child(124), /*P*/
+table tr:nth-child(138), /*R*/
+table tr:nth-child(142), /*S*/
+table tr:nth-child(150), /*T*/
+table tr:nth-child(170), /*U*/
+table tr:nth-child(176), /*V*/
+table tr:nth-child(179), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -153,6 +153,7 @@ The following entries contain information on topics that have been brought up du
 |[ESWL &darr;](#eswl)|Extracorporeal Shock Wave Lithotripsy|
 |[Everolimus &darr;](#everolimus)|Afinitor, Zortress|
 |[Excess Protein &darr;](#excess-protein)||
+|[Expanded Criteria Donor &darr;](#expanded-criteria-donor)||
 |[FIB-4 &darr;](#fib-4) <a id="f"></a>|Fibrosis-4|
 |[Fibroscan &darr;](#fibroscan)||
 |[Filgrastim &darr;](#filgrastim)|Neupogen, Nivestym, Zarxio|
@@ -705,6 +706,17 @@ Everolimus works by interfering with the growth of cancer cells, which are event
 ### [Excess Protein](#excess-protein)
 
 * <https://protealpes.com/en/whey-danger-rein-ce-que-dit-la-science/ >
+
+### [Expanded Criteria Donor](#expanded-criteria-donor)
+
+«Expanded Criteria Donor (ECD)
+
+A deceased donor over the age of 60 with mild liver abnormalities. The term "expanded" is used because an expansion of the donor pool is considered to increase transplantation. With an ECD liver, the waiting time may be shorter.» — [1]
+
+* [1] <https://stanfordhealthcare.org/medical-treatments/l/liver-transplant/types/expanded-criteria-donor.html>
+* [2] [ScienceDirect](/source/sciencedirectcom/) — <https://www.sciencedirect.com/science/article/pii/S1665268126000086>
+* [3] <https://www.ctrjournal.org/journal/view.html?uid=2381&vmd=Full>
+* [4] <https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ctrjournal.org/journal/download_pdf.php%3Fdoi%3D10.4285/ctr.26.0013&ved=2ahUKEwjZ54zj_tqVAxX1yeYEHdAHHnMQFnoECBsQAQ&usg=AOvVaw1qdO-4SoVmSVm5viaNiGr8>
 
 ### [FIB-4](#fib-4)
 Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarring in HCV and HBV patients, to assess need for biopsy.

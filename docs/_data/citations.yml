@@ -448,6 +448,12 @@
   topic-slug: everolimus
   path: /topics/#everolimus
   description: ""
+- url: https://www.sciencedirect.com/science/article/pii/S1665268126000086
+  source: sciencedirectcom
+  topic-name: Expanded Criteria Donor
+  topic-slug: expanded-criteria-donor
+  path: /topics/#expanded-criteria-donor
+  description: ""
 - url: https://www.mdcalc.com/calc/2200/fibrosis-4-fib-4-index-liver-fibrosis
   source: mdcalccom
   topic-name: FIB-4
