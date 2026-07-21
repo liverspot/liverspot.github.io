@@ -21,22 +21,22 @@ table tr:nth-child(22), /*C*/
 table tr:nth-child(34), /*D*/
 table tr:nth-child(46), /*E*/
 table tr:nth-child(57), /*F*/
-table tr:nth-child(64), /*G*/
-table tr:nth-child(71), /*H*/
-table tr:nth-child(86), /*I*/
-table tr:nth-child(91), /*J*/
-table tr:nth-child(94), /*K*/
-table tr:nth-child(97), /*L*/
-table tr:nth-child(108), /*M*/
-table tr:nth-child(116), /*N*/
-table tr:nth-child(121), /*O*/
-table tr:nth-child(124), /*P*/
-table tr:nth-child(138), /*R*/
-table tr:nth-child(142), /*S*/
-table tr:nth-child(150), /*T*/
-table tr:nth-child(170), /*U*/
-table tr:nth-child(176), /*V*/
-table tr:nth-child(179), /*X*/
+table tr:nth-child(65), /*G*/
+table tr:nth-child(72), /*H*/
+table tr:nth-child(87), /*I*/
+table tr:nth-child(92), /*J*/
+table tr:nth-child(95), /*K*/
+table tr:nth-child(98), /*L*/
+table tr:nth-child(109), /*M*/
+table tr:nth-child(117), /*N*/
+table tr:nth-child(122), /*O*/
+table tr:nth-child(125), /*P*/
+table tr:nth-child(139), /*R*/
+table tr:nth-child(143), /*S*/
+table tr:nth-child(152), /*T*/
+table tr:nth-child(172), /*U*/
+table tr:nth-child(178), /*V*/
+table tr:nth-child(181), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -159,6 +159,7 @@ The following entries contain information on topics that have been brought up du
 |[Filgrastim &darr;](#filgrastim)|Neupogen, Nivestym, Zarxio|
 |[Fine-Needle Aspiration &darr;](#fine-needle-aspiration)|FNA|
 |[Fistula &darr;](#fistula)||
+|[Furosemide &darr;](#furosemide)|Furocot, Lasix|
 |[Food Safety after Transplant &darr;](#food-safety-after-transplant)||
 |[Foot Drop &darr;](#foot-drop)|Drop Foot|
 |[Gabapentin &darr;](#gabapentin) <a id="g"></a>|Neurontin|
@@ -244,6 +245,7 @@ The following entries contain information on topics that have been brought up du
 |[Skin Cancer Risk &darr;](#skin-cancer-risk)||
 |[Skin Changes &darr;](#skin-changes)||
 |[SRTR &darr;](#srtr)|Scientific Registry of Transplant Recipients|
+|[Spironolactone &darr;](#spironolactone)|Aldactone, Carospir|
 |[Stanford KPD &darr;](#stanford-kpd)|Kidney Paired Donation|
 |[Steatotic Liver Disease &darr;](#steatotic-liver-disease)|MASLD, MASH, NAFLD, SLD, Fatty Liver Disease|
 |[St. Mary's Reno &darr;](#st-marys-reno)||
@@ -783,6 +785,19 @@ So it is a brand name related to filgrastim
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/foot-drop/symptoms-causes/syc-20372628>
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/symptoms/17814-foot-drop>
 * [3] [NIH](/source/nihgov/) «Foot Drop Syndrome» — <https://www.ninds.nih.gov/health-information/disorders/foot-drop-syndrome>
+
+### [Furosemide](#furosemide)
+
+«Furosemide belongs to a group of medicines called loop diuretics (also known as water pills). Furosemide is given to help treat fluid retention (edema) and swelling that is caused by congestive heart failure, liver disease, kidney disease, or other medical conditions. It works by acting on the kidneys to increase the flow of urine.» — [1]
+
+#### Drug Names
+
+* _Generic:_ Furosemide
+* _Brand:_ Furocot, Lasix
+
+#### Refs
+
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/furosemide-oral-route/description/drg-20071281>
 
 
 ### [Gabapentin](#gabapentin)
@@ -1543,6 +1558,21 @@ Cirrhosis can cause nutrient deficiencies that make skin more susceptible to cut
 
 * [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9257870/>
 * [2]&nbsp;<https://www.mypbcteam.com/resources/thin-skin-and-easy-bruising-are-they-symptoms-of-pbc>
+
+### [Spironolactone](#spironolactone)
+
+«Spironolactone is a potassium-sparing diuretic (water pill). It prevents your body from absorbing too much salt and keeps your potassium levels from getting too low. This medicine is also used to treat or prevent hypokalemia (low potassium levels in the blood).» — [1]
+
+«Spironolactone is used in combination with other medicines to treat high blood pressure (hypertension) and heart failure. Lowering blood pressure can reduce the risk of strokes and heart attacks. Spironolactone is also used to lessen the need for hospitalization for heart failure.» — [1]
+
+#### Drug Names
+
+* _Generic:_ Spironolactone
+* _Brand:_ Aldactone, Carospir
+
+#### Refs
+
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/spironolactone-oral-route/description/drg-20071534>
 
 ### [SRTR](#srtr)
 «The Scientific Registry of Transplant Recipients (SRTR) supports the transplant community with analyses, in an effort to better patient results and experience. Through the evaluation of national data collected by the Organ Procurement and Transplant Network (OPTN) on transplant programs and organ procurement organizations…» — [1,2]

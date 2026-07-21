@@ -550,6 +550,12 @@
   topic-slug: foot-drop
   path: /topics/#foot-drop
   description: "«Foot Drop Syndrome» "
+- url: https://www.mayoclinic.org/drugs-supplements/furosemide-oral-route/description/drg-20071281
+  source: mayoclinicorg
+  topic-name: Furosemide
+  topic-slug: furosemide
+  path: /topics/#furosemide
+  description: ""
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452908/
   source: nihgov
   topic-name: Gabapentin
@@ -1185,6 +1191,12 @@
   topic-name: Skin Changes
   topic-slug: skin-changes
   path: /topics/#skin-changes
+  description: ""
+- url: https://www.mayoclinic.org/drugs-supplements/spironolactone-oral-route/description/drg-20071534
+  source: mayoclinicorg
+  topic-name: Spironolactone
+  topic-slug: spironolactone
+  path: /topics/#spironolactone
   description: ""
 - url: https://www.dairbook.com/glossary/srtr
   source: dairbookcom
