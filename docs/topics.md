@@ -645,7 +645,7 @@ Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tis
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493>
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Edema>
 
-### eGFR
+### [eGFR](#egfr)
 
 eGFR is an estimated value of GFR (glomerular filtration rate) based on another bodily measurement.  The most common is creatinine.
 
@@ -673,8 +673,8 @@ Or more simply,
 
 #### Refs
 
-* [1] <https://www.niddk.nih.gov/research-funding/research-programs/kidney-clinical-research-epidemiology/laboratory/glomerular-filtration-rate-equations/adults>
-* [2] <https://www.kidney.org/kidney-topics/estimated-glomerular-filtration-rate-egfr>
+* [1] [NIH](/source/nihgov/) — <https://www.niddk.nih.gov/research-funding/research-programs/kidney-clinical-research-epidemiology/laboratory/glomerular-filtration-rate-equations/adults>
+* [2] [NKF](/source/kidneyorg/) — <https://www.kidney.org/kidney-topics/estimated-glomerular-filtration-rate-egfr>
 
 
 ### [El Camino Car](#el-camino-car)

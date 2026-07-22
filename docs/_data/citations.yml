@@ -382,6 +382,18 @@
   topic-slug: edema
   path: /topics/#edema
   description: ""
+- url: https://www.niddk.nih.gov/research-funding/research-programs/kidney-clinical-research-epidemiology/laboratory/glomerular-filtration-rate-equations/adults
+  source: nihgov
+  topic-name: eGFR
+  topic-slug: egfr
+  path: /topics/#egfr
+  description: ""
+- url: https://www.kidney.org/kidney-topics/estimated-glomerular-filtration-rate-egfr
+  source: kidneyorg
+  topic-name: eGFR
+  topic-slug: egfr
+  path: /topics/#egfr
+  description: ""
 - url: https://www.ninds.nih.gov/health-information/disorders/encephalitis
   source: nihgov
   topic-name: Encephalitis
