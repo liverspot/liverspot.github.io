@@ -35,6 +35,13 @@ h4 {
     line-height: 24px;
 }
 
+h4 a {
+    color: #b81d3e;
+}
+h4 a:visited {
+    color: #b81d3e;
+}
+
 h5 {
     margin-top: 10px;
     margin-bottom: 10px;
