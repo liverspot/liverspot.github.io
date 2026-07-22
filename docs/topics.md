@@ -668,8 +668,8 @@ The calculation for eGFR based on serum-creatinine (SCr) is the following formul
 
 Or more simply, 
 * about 142 / (SCr/κ)^1.2 
-
-[basically divided by the ratio of SCr to the expected baseline]
+  * Women: 90 / SCr^1.2 • {SCr > 0.7} — <https://www.desmos.com/calculator/fora3psvde>
+  * Men: 120 / SCr^1.2 • {SCr > 0.9} — <https://www.desmos.com/calculator/ugzv4wfm5h>
 
 #### Refs
 
