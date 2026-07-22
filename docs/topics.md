@@ -20,23 +20,23 @@ table tr:nth-child(16), /*B*/
 table tr:nth-child(22), /*C*/
 table tr:nth-child(34), /*D*/
 table tr:nth-child(46), /*E*/
-table tr:nth-child(57), /*F*/
-table tr:nth-child(65), /*G*/
-table tr:nth-child(72), /*H*/
-table tr:nth-child(87), /*I*/
-table tr:nth-child(92), /*J*/
-table tr:nth-child(95), /*K*/
-table tr:nth-child(98), /*L*/
-table tr:nth-child(109), /*M*/
-table tr:nth-child(117), /*N*/
-table tr:nth-child(122), /*O*/
-table tr:nth-child(125), /*P*/
-table tr:nth-child(139), /*R*/
-table tr:nth-child(143), /*S*/
-table tr:nth-child(152), /*T*/
-table tr:nth-child(172), /*U*/
-table tr:nth-child(178), /*V*/
-table tr:nth-child(181), /*X*/
+table tr:nth-child(58), /*F*/
+table tr:nth-child(66), /*G*/
+table tr:nth-child(73), /*H*/
+table tr:nth-child(88), /*I*/
+table tr:nth-child(93), /*J*/
+table tr:nth-child(96), /*K*/
+table tr:nth-child(99), /*L*/
+table tr:nth-child(110), /*M*/
+table tr:nth-child(118), /*N*/
+table tr:nth-child(123), /*O*/
+table tr:nth-child(126), /*P*/
+table tr:nth-child(140), /*R*/
+table tr:nth-child(144), /*S*/
+table tr:nth-child(153), /*T*/
+table tr:nth-child(173), /*U*/
+table tr:nth-child(179), /*V*/
+table tr:nth-child(182), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -144,6 +144,7 @@ The following entries contain information on topics that have been brought up du
 |[DXA scan &darr;](#dxa-scan)|Dual-Energy X-Ray Absorptiometry|
 |[Dysphagia &darr;](#dysphagia)||
 |[Edema &darr;](#edema) <a id="e"></a>|Oedema|
+|[eGFR &darr;](#egfr)|glomerular filtration rate|
 |[El Camino Car &darr;](#el-camino-car)||
 |[Encephalitis &darr;](#encephalitis)||
 |[Encephalopathy &darr;](#encephalopathy)||
@@ -643,6 +644,38 @@ Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tis
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493>
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Edema>
+
+### eGFR
+
+eGFR is an estimated value of GFR (glomerular filtration rate) based on another bodily measurement.  The most common is creatinine.
+
+«A calculation used to estimate how well your kidneys are filtering wastes produced by your body, such as:
+* creatinine (a waste product that comes from the normal wear and tear on muscles)
+* cystatin C (a protein that slows down the breakdown of other protein cells)
+
+» — [2]
+
+The calculation for eGFR based on serum-creatinine (SCr) is the following formula where:
+* eGFR = estimated GFR in mL/min/1.73 m2
+* SCr = standardized serum creatinine in mg/dL
+* κ = 0.7 (females) or 0.9 (males)
+* α = -0.241 (females) or -0.302 (males)
+* min = indicates the minimum of SCr/κ or 1
+* max = indicates the maximum of SCr/κ or 1
+* age = years
+
+«eGFR = 142 × min(SCr/κ,1)^α × max(SCr/κ,1)^-1.200 × 0.9938Age × 1.012 [if female]» — [1]
+
+Or more simply, 
+* about 142 / (SCr/κ)^1.2 
+
+[basically divided by the ratio of SCr to the expected baseline]
+
+#### Refs
+
+* [1] <https://www.niddk.nih.gov/research-funding/research-programs/kidney-clinical-research-epidemiology/laboratory/glomerular-filtration-rate-equations/adults>
+* [2] <https://www.kidney.org/kidney-topics/estimated-glomerular-filtration-rate-egfr>
+
 
 ### [El Camino Car](#el-camino-car)
 
