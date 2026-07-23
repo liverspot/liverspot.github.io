@@ -34,9 +34,9 @@ table tr:nth-child(126), /*P*/
 table tr:nth-child(140), /*R*/
 table tr:nth-child(144), /*S*/
 table tr:nth-child(153), /*T*/
-table tr:nth-child(173), /*U*/
-table tr:nth-child(179), /*V*/
-table tr:nth-child(182), /*X*/
+table tr:nth-child(174), /*U*/
+table tr:nth-child(180), /*V*/
+table tr:nth-child(183), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -257,6 +257,7 @@ The following entries contain information on topics that have been brought up du
 |[Tacrolimus-induced Ascites &darr;](#tacrolimus-induced-ascites)||
 |[Tattoos &darr;](#tattoos)||
 |[Thoracentesis &darr;](#thoracentesis)||
+|[Thrombocytopenia &darr;](#thrombocytopenia)|Low blood platelet count|
 |[Tinnitus &darr;](#tinnitus)||
 |[TIPS &darr;](#tips)|Transjugular intrahepatic portosystemic shunt|
 |[Topical Tacrolimus &darr;](#topical-tacrolimus)||
@@ -1689,6 +1690,12 @@ The SRTR website provides access to a very detailed group of reports and tools t
 Thoracentesis is a procedure that a provider uses to drain extra fluid from around the lungs (pleural space) with a needle. It’s used to test the fluid for infection or other illnesses and to relieve chest pressure that makes it tough to breathe. Thoracentesis is a short, low-risk procedure done while you’re awake.
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/treatments/24254-thoracentesis>
+
+### Thrombocytopenia
+
+«Thrombocytopenia is low blood platelet count. Platelets, also called thrombocytes, are colorless blood cells that help blood clot. Platelets stop bleeding by clumping together and forming plugs in blood vessel injuries.» — [1]
+
+* [1] <https://www.mayoclinic.org/diseases-conditions/thrombocytopenia/symptoms-causes/syc-20378293>
 
 ### [Tinnitus](#tinnitus)
 
