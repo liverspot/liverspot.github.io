@@ -486,7 +486,7 @@ The techniques employed are typically adapted depending on specific portosystemi
 * [4]&nbsp;<https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=aa67653>
 * [5] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/cirrhosis>
 * [6] [NIH](/source/nihgov/) «Staging of liver fibrosis or cirrhosis 〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4381184/>
-
+* [7] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/15572-cirrhosis-of-the-liver>
 
 ### [CMV](#cmv)
 
