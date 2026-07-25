@@ -748,6 +748,18 @@
   topic-slug: hyponatremia
   path: /topics/#hyponatremia
   description: ""
+- url: https://my.clevelandclinic.org/health/articles/icu-intensive-care-unit
+  source: clevelandclinicorg
+  topic-name: ICU
+  topic-slug: icu
+  path: /topics/#icu
+  description: ""
+- url: https://my.clevelandclinic.org/podcasts/respiratory-inspirations/understanding-delirium-in-patients-in-the-intensive-care-unit
+  source: clevelandclinicorg
+  topic-name: ICU Delirium
+  topic-slug: icu-delirium
+  path: /topics/#icu-delirium
+  description: ""
 - url: https://www.kidney.org/atoz/content/immuno
   source: kidneyorg
   topic-name: Immunosuppressant
@@ -1275,6 +1287,12 @@
   topic-name: Thoracentesis
   topic-slug: thoracentesis
   path: /topics/#thoracentesis
+  description: ""
+- url: https://www.mayoclinic.org/diseases-conditions/thrombocytopenia/symptoms-causes/syc-20378293
+  source: mayoclinicorg
+  topic-name: Thrombocytopenia
+  topic-slug: thrombocytopenia
+  path: /topics/#thrombocytopenia
   description: ""
 - url: https://www.mayoclinic.org/diseases-conditions/tinnitus/symptoms-causes/syc-20350156
   source: mayoclinicorg

@@ -24,19 +24,19 @@ table tr:nth-child(58), /*F*/
 table tr:nth-child(66), /*G*/
 table tr:nth-child(73), /*H*/
 table tr:nth-child(88), /*I*/
-table tr:nth-child(93), /*J*/
-table tr:nth-child(96), /*K*/
-table tr:nth-child(99), /*L*/
-table tr:nth-child(110), /*M*/
-table tr:nth-child(118), /*N*/
-table tr:nth-child(123), /*O*/
-table tr:nth-child(126), /*P*/
-table tr:nth-child(140), /*R*/
-table tr:nth-child(144), /*S*/
-table tr:nth-child(153), /*T*/
-table tr:nth-child(174), /*U*/
-table tr:nth-child(180), /*V*/
-table tr:nth-child(183), /*X*/
+table tr:nth-child(95), /*J*/
+table tr:nth-child(98), /*K*/
+table tr:nth-child(101), /*L*/
+table tr:nth-child(112), /*M*/
+table tr:nth-child(120), /*N*/
+table tr:nth-child(125), /*O*/
+table tr:nth-child(128), /*P*/
+table tr:nth-child(142), /*R*/
+table tr:nth-child(146), /*S*/
+table tr:nth-child(155), /*T*/
+table tr:nth-child(176), /*U*/
+table tr:nth-child(182), /*V*/
+table tr:nth-child(185), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -59,7 +59,7 @@ table tr:nth-child(1) /*Z*/
 #fib-4,
 #gabapentin,
 #hcc-galad-model,
-#immunosuppressant,
+#icu,
 #j-tube,
 #ketorolac,
 #lactulose,
@@ -92,7 +92,7 @@ table tr:nth-child(1) /*Z*/
 The following entries contain information on topics that have been brought up during discussions related to organ disease and treatments.
 
 * *Index:*  &nbsp;&nbsp; [A-C](#a) &nbsp;•&nbsp; [D-F](#d) &nbsp;•&nbsp; [G-H](#g) &nbsp;•&nbsp; [I-L](#i) &nbsp;•&nbsp; [M-O](#m) &nbsp;•&nbsp; [P-S](#p) &nbsp;•&nbsp; [T-U](#t) &nbsp;•&nbsp; [V-Z](#v)
-* *Entries:* &nbsp;&nbsp; [A&darr;](#acr) &nbsp;•&nbsp; [D&darr;](#deceased-organ-donation) &nbsp;•&nbsp; [G&darr;](#gabapentin) &nbsp;•&nbsp; [I&darr;](#immunosuppressant) &nbsp;•&nbsp; [M&darr;](#medical-marijuana) &nbsp;•&nbsp; [P&darr;](#paracentesis) &nbsp;•&nbsp; [T&darr;](#tace) &nbsp;•&nbsp; [V&darr;](#valcyte)
+* *Entries:* &nbsp;&nbsp; [A&darr;](#acr) &nbsp;•&nbsp; [D&darr;](#deceased-organ-donation) &nbsp;•&nbsp; [G&darr;](#gabapentin) &nbsp;•&nbsp; [I&darr;](#icu) &nbsp;•&nbsp; [M&darr;](#medical-marijuana) &nbsp;•&nbsp; [P&darr;](#paracentesis) &nbsp;•&nbsp; [T&darr;](#tace) &nbsp;•&nbsp; [V&darr;](#valcyte)
 
 ## Index
 
@@ -185,7 +185,9 @@ The following entries contain information on topics that have been brought up du
 |[Hypoalbuminemia &darr;](#hypoalbuminemia)||
 |[Hypomagnesium &darr;](#hypomagnesium)||
 |[Hyponatremia &darr;](#hyponatremia)||
-|[Immunosuppressant &darr;](#immunosuppressant) <a id="i"></a>||
+|[ICU &darr;](#icu) <a id="i"></a>|Intensive Care Unit|
+|[ICU Delirium &darr;](#icu-delirium)||
+|[Immunosuppressant &darr;](#immunosuppressant)||
 |[Immunosuppression &darr;](#immunosuppression)||
 |[INR &darr;](#inr)|International Normalized Ratio|
 |[IOP &darr;](#iop)|Intense Outpatient Program|
@@ -1020,6 +1022,17 @@ In hyponatremia, one or more factors cause the sodium in the body to be diluted.
 * [1] [NKF](/source/kidneyorg/) — <https://www.kidney.org/kidney-topics/hyponatremia-low-sodium-level-blood>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711>
 
+### [ICU](#icu)
+
+«The intensive care unit (ICU) is a unit in hospitals that provides round-the-clock monitoring and treatment for people with serious illnesses or injuries.» — [1]
+
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/articles/icu-intensive-care-unit>
+
+### [ICU Delirium](#icu-delirium)
+
+Delirium that occurs either concurrently to being in the ICU or actually caused by aspects of being in the ICU of a hospital.
+
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/podcasts/respiratory-inspirations/understanding-delirium-in-patients-in-the-intensive-care-unit>
 
 ### [Immunosuppressant](#immunosuppressant)
 «Immunosuppressants are drugs or medicines that lower the body's ability to reject a transplanted organ. Another term for these drugs is anti-rejection drugs.» — [5]
@@ -1691,11 +1704,11 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/treatments/24254-thoracentesis>
 
-### Thrombocytopenia
+### [Thrombocytopenia](#thrombocytopenia)
 
 «Thrombocytopenia is low blood platelet count. Platelets, also called thrombocytes, are colorless blood cells that help blood clot. Platelets stop bleeding by clumping together and forming plugs in blood vessel injuries.» — [1]
 
-* [1] <https://www.mayoclinic.org/diseases-conditions/thrombocytopenia/symptoms-causes/syc-20378293>
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/thrombocytopenia/symptoms-causes/syc-20378293>
 
 ### [Tinnitus](#tinnitus)
 
