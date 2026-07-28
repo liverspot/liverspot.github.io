@@ -16,27 +16,27 @@ styles:
 /*================================== */
 
 table tr:nth-child(1), /*A*/
-table tr:nth-child(16), /*B*/
-table tr:nth-child(22), /*C*/
-table tr:nth-child(34), /*D*/
-table tr:nth-child(46), /*E*/
-table tr:nth-child(58), /*F*/
-table tr:nth-child(66), /*G*/
-table tr:nth-child(73), /*H*/
-table tr:nth-child(88), /*I*/
-table tr:nth-child(95), /*J*/
-table tr:nth-child(98), /*K*/
-table tr:nth-child(101), /*L*/
-table tr:nth-child(112), /*M*/
-table tr:nth-child(120), /*N*/
-table tr:nth-child(125), /*O*/
-table tr:nth-child(128), /*P*/
-table tr:nth-child(142), /*R*/
-table tr:nth-child(146), /*S*/
-table tr:nth-child(155), /*T*/
-table tr:nth-child(176), /*U*/
-table tr:nth-child(182), /*V*/
-table tr:nth-child(185), /*X*/
+table tr:nth-child(17), /*B*/
+table tr:nth-child(23), /*C*/
+table tr:nth-child(35), /*D*/
+table tr:nth-child(47), /*E*/
+table tr:nth-child(59), /*F*/
+table tr:nth-child(67), /*G*/
+table tr:nth-child(74), /*H*/
+table tr:nth-child(89), /*I*/
+table tr:nth-child(96), /*J*/
+table tr:nth-child(99), /*K*/
+table tr:nth-child(102), /*L*/
+table tr:nth-child(113), /*M*/
+table tr:nth-child(121), /*N*/
+table tr:nth-child(126), /*O*/
+table tr:nth-child(129), /*P*/
+table tr:nth-child(143), /*R*/
+table tr:nth-child(147), /*S*/
+table tr:nth-child(156), /*T*/
+table tr:nth-child(177), /*U*/
+table tr:nth-child(183), /*V*/
+table tr:nth-child(186), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -104,6 +104,7 @@ The following entries contain information on topics that have been brought up du
 |[AFP &darr;](#afp)|Alpha-Fetoprotein|
 |[AIH &darr;](#aih)|Autoimmune hepatitis|
 |[Albumin &darr;](#albumin)||
+|[Alcohol-induced hepatitis &darr;](#alcohol-induced-hepatitis)||
 |[ALP &darr;](#alp)|Alkaline phosphatase|
 |[ALT &darr;](#alt)|Alanine aminotransferase|
 |[Ammonia Level &darr;](#ammonia-level)||
@@ -351,6 +352,19 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/22529-hypoalbuminemia>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/albumin>
+
+### [Alcohol-Induced Hepatitis](#alcohol-induced-hepatitis)
+
+«Alcohol-induced hepatitis is inflammation of the liver caused by alcohol use. Too much alcohol overloads the liver with toxins and damages the tissues.» — [1]
+
+«Alcohol is a socially accepted hepatotoxin and its use is common worldwide with geographical variability in consumption patterns driven in part by local cultures and habits. The health-related consequences of alcohol are immense and depend on a number of factors related to the patterns of alcohol consumption, as well as, an individual’s co-morbidities and genetic predisposition to alcohol’s pathophysiological effects.» — [2]
+
+«Alcohol-related liver disease (ARLD) is where your liver is damaged by drinking too much alcohol over a long time. Getting help early can stop the damage getting worse.» — [3]
+
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/17853-alcoholic-hepatitis>
+* [2] [NIH](/source/nihgov/) «Acute Alcoholic Hepatitis, the Clinical Aspects» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6130321/>
+* [3] [NHS](/source/nhsuk/) — <https://www.nhs.uk/conditions/alcohol-related-liver-disease-arld/>
+* [4] «Use of MELD scores in alcoholic hepatitis» — <https://www.thelancet.com/journals/langas/article/PIIS2468-1253(20)30194-1/abstract>
 
 
 ### [ALP](#alp)

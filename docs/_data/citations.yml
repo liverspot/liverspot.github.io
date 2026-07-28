@@ -70,6 +70,24 @@
   topic-slug: albumin
   path: /topics/#albumin
   description: ""
+- url: https://my.clevelandclinic.org/health/diseases/17853-alcoholic-hepatitis
+  source: clevelandclinicorg
+  topic-name: Alcohol-Induced Hepatitis
+  topic-slug: alcohol-induced-hepatitis
+  path: /topics/#alcohol-induced-hepatitis
+  description: ""
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6130321/
+  source: nihgov
+  topic-name: Alcohol-Induced Hepatitis
+  topic-slug: alcohol-induced-hepatitis
+  path: /topics/#alcohol-induced-hepatitis
+  description: "«Acute Alcoholic Hepatitis, the Clinical Aspects» "
+- url: https://www.nhs.uk/conditions/alcohol-related-liver-disease-arld/
+  source: nhsuk
+  topic-name: Alcohol-Induced Hepatitis
+  topic-slug: alcohol-induced-hepatitis
+  path: /topics/#alcohol-induced-hepatitis
+  description: ""
 - url: https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp
   source: clevelandclinicorg
   topic-name: ALP
