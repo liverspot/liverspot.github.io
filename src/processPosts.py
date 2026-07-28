@@ -43,17 +43,6 @@ pattern2h = r"<h(\d)([^\>]*)>(.*)</h(\d)>"
 # <a...>Topic Name</a>
 pattern2hb = r"<a([^\>]*)>(.*)</a>"
 
-
-
-# Identify Topic lines by the pattern:
-# ## Topic-Name
-pattern3 = r"\#\# (.*)"
-
-# Break apart Topic-Name if it matches
-# [Topic-Name](link)
-pattern3b = r"\[([^\[]*)\]\(([^\)]*)\)"
-
-
 # Sources found for documentation
 found_sources = {}
 
@@ -110,8 +99,8 @@ for root, _, filenames in os.walk(sources_filepath):
                                 subsection3, subsection3_url = match2b.groups()
 
                             subsection3_slug = make_anchor_name(subsection3)
-                            if not subsection3_url:
-                                subsection3_url = "#"+subsection3_slug
+                            # if not subsection3_url: # There is no reason to accept the current URL if it isn't the same as the regenerated one.
+                            subsection3_url = "#"+subsection3_slug
 
                             print(f"#{subsectionDepthStr} [{subsection3}]({subsection3_url})")
                             print("Found-hash:", subsectionDepth, subsection3_slug, subsection3_url, file=sys.stderr)
