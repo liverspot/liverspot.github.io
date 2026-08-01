@@ -20,23 +20,23 @@ table tr:nth-child(17), /*B*/
 table tr:nth-child(23), /*C*/
 table tr:nth-child(35), /*D*/
 table tr:nth-child(47), /*E*/
-table tr:nth-child(59), /*F*/
-table tr:nth-child(67), /*G*/
-table tr:nth-child(74), /*H*/
-table tr:nth-child(89), /*I*/
-table tr:nth-child(96), /*J*/
-table tr:nth-child(99), /*K*/
-table tr:nth-child(102), /*L*/
-table tr:nth-child(113), /*M*/
-table tr:nth-child(121), /*N*/
-table tr:nth-child(126), /*O*/
-table tr:nth-child(129), /*P*/
-table tr:nth-child(143), /*R*/
-table tr:nth-child(147), /*S*/
-table tr:nth-child(156), /*T*/
-table tr:nth-child(177), /*U*/
-table tr:nth-child(183), /*V*/
-table tr:nth-child(186), /*X*/
+table tr:nth-child(60), /*F*/
+table tr:nth-child(68), /*G*/
+table tr:nth-child(75), /*H*/
+table tr:nth-child(90), /*I*/
+table tr:nth-child(97), /*J*/
+table tr:nth-child(100), /*K*/
+table tr:nth-child(103), /*L*/
+table tr:nth-child(114), /*M*/
+table tr:nth-child(122), /*N*/
+table tr:nth-child(127), /*O*/
+table tr:nth-child(130), /*P*/
+table tr:nth-child(144), /*R*/
+table tr:nth-child(148), /*S*/
+table tr:nth-child(157), /*T*/
+table tr:nth-child(178), /*U*/
+table tr:nth-child(184), /*V*/
+table tr:nth-child(187), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -149,6 +149,7 @@ The following entries contain information on topics that have been brought up du
 |[El Camino Car &darr;](#el-camino-car)||
 |[Encephalitis &darr;](#encephalitis)||
 |[Encephalopathy &darr;](#encephalopathy)||
+|[ERCP &darr;](#ercp)|Endoscopic retrograde cholangiopancreatography|
 |[Erica Storm &darr;](#erica-storm)||
 |[ESLD &darr;](#esld)|End-Stage Liver Disease|
 |[Esophageal Varices &darr;](#esophageal-varices)||
@@ -712,6 +713,12 @@ Or more simply,
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/encephalopathy>
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/encephalopathy>
+
+### [ERCP ](#ercp)
+
+«Endoscopic retrograde cholangiopancreatography (ERCP) is a procedure to diagnose and treat problems in the liver, gallbladder, bile ducts, and pancreas» — [1]
+
+* [1] [JHM](/source/hopkinsmedicineorg/) — <https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/endoscopic-retrograde-cholangiopancreatography-ercp>
 
 ### [Erica Storm](#erica-storm)
 
