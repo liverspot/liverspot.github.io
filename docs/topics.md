@@ -1170,7 +1170,7 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 
 * [1] [NIH](/source/nihgov/) «Comparative Effectiveness and Safety of Polyethylene Glycol Electrolyte Solution Versus Lactulose for Treatment of Hepatic Encephalopathy» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC8647701/>
 
-### [Late Acute Rejection ](#late-acute-rejection)
+### [Late Acute Rejection](#late-acute-rejection)
 
 «Late acute rejection (LAR) is defined as an initial episode of acute rejection occurring >6 months after transplantation» — [2]
 
