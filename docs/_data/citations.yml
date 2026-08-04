@@ -934,6 +934,18 @@
   topic-slug: lactulose-vs-miralax
   path: /topics/#lactulose-vs-miralax
   description: "«Comparative Effectiveness and Safety of Polyethylene Glycol Electrolyte Solution Versus Lactulose for Treatment of Hepatic Encephalopathy» "
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4737366/
+  source: nihgov
+  topic-name: Late Acute Rejection 
+  topic-slug: late-acute-rejection
+  path: /topics/#late-acute-rejection
+  description: "«Late Acute Rejection In Liver Transplant: A Systematic Review» "
+- url: https://journals.lww.com/transplantjournal/fulltext/10.1097/01.tp.0000701028.35205.be~late-acute-rejection-after-liver-transplant-is-associated
+  source: lwwcom
+  topic-name: Late Acute Rejection 
+  topic-slug: late-acute-rejection
+  path: /topics/#late-acute-rejection
+  description: "«Late Acute Rejection After Liver Transplant Is Associated With Increased Risk Of Death» "
 - url: https://www.mayoclinic.org/tests-procedures/liver-function-tests/about/pac-20394595
   source: mayoclinicorg
   topic-name: Liver Function Tests

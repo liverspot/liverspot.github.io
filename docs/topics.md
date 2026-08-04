@@ -27,16 +27,16 @@ table tr:nth-child(90), /*I*/
 table tr:nth-child(97), /*J*/
 table tr:nth-child(100), /*K*/
 table tr:nth-child(103), /*L*/
-table tr:nth-child(114), /*M*/
-table tr:nth-child(122), /*N*/
-table tr:nth-child(127), /*O*/
-table tr:nth-child(130), /*P*/
-table tr:nth-child(144), /*R*/
-table tr:nth-child(148), /*S*/
-table tr:nth-child(157), /*T*/
-table tr:nth-child(178), /*U*/
-table tr:nth-child(184), /*V*/
-table tr:nth-child(187), /*X*/
+table tr:nth-child(115), /*M*/
+table tr:nth-child(123), /*N*/
+table tr:nth-child(128), /*O*/
+table tr:nth-child(131), /*P*/
+table tr:nth-child(145), /*R*/
+table tr:nth-child(149), /*S*/
+table tr:nth-child(158), /*T*/
+table tr:nth-child(179), /*U*/
+table tr:nth-child(185), /*V*/
+table tr:nth-child(188), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -202,6 +202,7 @@ The following entries contain information on topics that have been brought up du
 |[Kt/V &darr;](#ktv)||
 |[Lactulose &darr;](#lactulose) <a id="l"></a>|Kristalose, Enulose|
 |[Lactulose vs. Miralax &darr;](#lactulose-vs-miralax)||
+|[Late Acute Rejection &darr;](#late-acute-rejection)|LAR|
 |[Liver Circle &darr;](#liver-circle)||
 |[Liver Function Tests &darr;](#liver-function-tests)||
 |[Liver In A Box &darr;](#liver-in-a-box)||
@@ -1169,6 +1170,14 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 
 * [1] [NIH](/source/nihgov/) «Comparative Effectiveness and Safety of Polyethylene Glycol Electrolyte Solution Versus Lactulose for Treatment of Hepatic Encephalopathy» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC8647701/>
 
+### [Late Acute Rejection ](#late-acute-rejection)
+
+«Late acute rejection (LAR) is defined as an initial episode of acute rejection occurring >6 months after transplantation» — [2]
+
+«Late acute rejection has been variably defined as ocurring more than one, three, or six months after transplantation. Therefore, it differs from early acute cellular rejection, which occurs less than three months after liver transplantation» — [1]
+
+* [1] [NIH](/source/nihgov/) «Late Acute Rejection In Liver Transplant: A Systematic Review» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4737366/>
+* [2] [LWW](/source/lwwcom/) «Late Acute Rejection After Liver Transplant Is Associated With Increased Risk Of Death» — <https://journals.lww.com/transplantjournal/fulltext/10.1097/01.tp.0000701028.35205.be~late-acute-rejection-after-liver-transplant-is-associated>
 
 ### [LiverSpot.org](#liverspotorg)
 
