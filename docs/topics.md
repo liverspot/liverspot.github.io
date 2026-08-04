@@ -307,7 +307,7 @@ Acute cellular rejection
 
 «High dose corticosteroids are standard of care for ACR and doses vary at different centers. Usually 500–1000 mg pulse of methylprednisolone is given for 1–3 days followed by taper» — [1]
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC5715482/>
+* [1] [NIH](/source/nihgov/) «Acute and Chronic Rejection After Liver Transplantation: What A Clinician Needs to Know» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC5715482/>
 
 ### [Acuity Circles](#acuity-circles)
 
@@ -330,7 +330,7 @@ Acute cellular rejection
 
 #### Refs
 
-* [1] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/3912970/>
+* [1] [NIH](/source/nihgov/) «Acyclovir and renal transplantation» — <https://pubmed.ncbi.nlm.nih.gov/3912970/>
 * [2] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/druginfo/meds/a681045.html>
 * [3] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/acyclovir-oral-route-intravenous-route/description/drg-20068393>
 
@@ -513,7 +513,7 @@ The techniques employed are typically adapted depending on specific portosystemi
 For people who have weakened immune systems, CMV infection can be fatal. The risk is especially high for people who've had an organ, stem cell or bone marrow transplant.» — [1]
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358>
-* [2] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/33567734/>
+* [2] [NIH](/source/nihgov/) «Human Cytomegalovirus and Autoimmune Diseases: Where Are We?» — <https://pubmed.ncbi.nlm.nih.gov/33567734/>
 * [3] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Human_cytomegalovirus>
 
 
@@ -577,14 +577,14 @@ California Pacific Medical Center (CPMC)
 
 «An increase in the serum concentration of tacrolimus can be caused by CYP3A4 inhibitors, such as grapefruit, pomelo, clementine, pomegranate, ginger and turmeric, 〚…〛» — [1]
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9611668/>
+* [1] [NIH](/source/nihgov/) «Controversial Interactions of Tacrolimus with Dietary Supplements, Herbs and Food» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9611668/>
 * [2] <https://www.bocsci.com/resources/what-are-cyp3a4-inhibitors-and-examples.html>
 
 ### [Deceased Organ Donation](#deceased-organ-donation)
 
 «Deceased organ donation occurs in two ways: Donation after Brain Death (DBD) and Donation after Circulatory Death (DCD, sometimes called cardiac death).» — [AI:Google 'Deceased Organ Donation Brain Circulatory']
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3372912/>
+* [1] [NIH](/source/nihgov/) «Brain Death, Cardiac Death, And The Dead Donor Rule» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3372912/>
 * [2] [UNOS](/source/unosorg/) — <https://unos.org/news/understanding-donation-after-circulatory-death-dcd/>
 * [3]&nbsp;<https://giftoflifemichigan.org/blog/the-facts-brain-death-and-dcd>
 
@@ -645,7 +645,7 @@ A Donor Service Area (DSA) is a smaller portion of a UNOS Region in which organs
 
 ### [Dupuytren's contracture](#dupuytrens-contracture)
 
-* [1] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/6672504/>
+* [1] [NIH](/source/nihgov/) «Dupuytren's contracture, chronic liver disease and IgA immune complexes» — <https://pubmed.ncbi.nlm.nih.gov/6672504/>
 
 ### [DXA scan](#dxa-scan)
 
@@ -692,7 +692,7 @@ Or more simply,
 
 #### Refs
 
-* [1] [NIH](/source/nihgov/) — <https://www.niddk.nih.gov/research-funding/research-programs/kidney-clinical-research-epidemiology/laboratory/glomerular-filtration-rate-equations/adults>
+* [1] [NIH](/source/nihgov/) «eGFR Equations for Adults» — <https://www.niddk.nih.gov/research-funding/research-programs/kidney-clinical-research-epidemiology/laboratory/glomerular-filtration-rate-equations/adults>
 * [2] [NKF](/source/kidneyorg/) — <https://www.kidney.org/kidney-topics/estimated-glomerular-filtration-rate-egfr>
 
 
@@ -869,7 +869,7 @@ So it is a brand name related to filgrastim
 #### Refs
 
 
-* [1] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452908/>
+* [1] [NIH](/source/nihgov/) «Gabapentin for chronic neuropathic pain in adults» — <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452908/>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/gabapentin-oral-route/description/drg-20064011>
 * [3] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/drugs/21561-gabapentin>
 
@@ -877,7 +877,7 @@ So it is a brand name related to filgrastim
 
 « gallbladder attached to the donor liver will be detached to ensure that it does not cause problems with your new liver, and your gallbladder will also be removed. » — [1]
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6230845/>
+* [1] [NIH](/source/nihgov/) «A “reappearance” of gallbladder in a liver transplant recipient» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6230845/>
 * [2]&nbsp;<https://www.dukehealth.org/treatments/transplant-program/liver-transplant/liver-transplant-surgery>
 
 ### [Gallbladder Cancer](#gallbladder-cancer)
@@ -1060,7 +1060,7 @@ Delirium that occurs either concurrently to being in the ICU or actually caused 
 «Immunosuppressants are drugs or medicines that lower the body's ability to reject a transplanted organ. Another term for these drugs is anti-rejection drugs.» — [5]
 
 * [1] [NKF](/source/kidneyorg/) — <https://www.kidney.org/atoz/content/immuno>
-* [2] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8987166/>
+* [2] [NIH](/source/nihgov/) «Immunosuppressive Drugs» — <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8987166/>
 * [3] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/treatments/10418-immunosuppressants>
 * [4] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Immunosuppressive_drug>
 * [5] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/immunosuppressant>
@@ -1301,7 +1301,7 @@ There are statistical correlations between level of liver illness (e.g. the MELD
 
 «The Model for End-Stage Liver Disease (MELD) score, introduced in 2002, has since been refined. MELD 3.0, launched in 2023 in the United States, improves mortality prediction by incorporating sex and albumin. … » — [1]
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC12464064/>
+* [1] [NIH](/source/nihgov/) «Validation of MELD 3.0 and ReMELD-Na scoring systems: a German clinical cohort study» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC12464064/>
 
 ### [MELD Exception Score](#meld-exception-score)
 A MELD Exception Score is a modifier to the calculated MELD score. Some transplant candidates have a medical condition, such as cancer or rare forms of chronic liver disease, where MELD or PELD will not accurately predict their short-term transplant need. If so, they may qualify for an exception score — a separately assigned score to be used instead of their calculated MELD or PELD in matching the person for available organ offers. The goal of exception scores is to make access to transplant more equitable among patients with similar levels of medical urgency.
@@ -1457,7 +1457,7 @@ Possible treats that the medical team might like and appreciate from patients in
 
 «Persistent ascites (PA) after liver transplantation (LT), commonly defined as ascites lasting more than 4 wk after LT, can be expected in up to 7% of patients. » — [1]
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9521448/>
+* [1] [NIH](/source/nihgov/) «Approach to persistent ascites after liver transplantation» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9521448/>
 
 
 ### [PET](#pet)
@@ -1501,7 +1501,7 @@ The Panel-of-Gods (POG) or the Tansplant Review Board decides whether to accept 
 
 ### [Post-Transplant Relapse](#post-transplant-relapse)
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10934278/>
+* [1] [NIH](/source/nihgov/) «Understanding Alcohol Relapse in Liver Transplant Patients With Alcohol-Related Liver Disease: A Comprehensive Review» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10934278/>
 
 «The prevalence rate of alcohol relapse in liver transplant patients with ALD varies across studies. Reported post-transplant alcohol relapse rates in recipients with ALD range from 15% to 50% [5].» — [1]
 
@@ -1517,7 +1517,7 @@ The Panel-of-Gods (POG) or the Tansplant Review Board decides whether to accept 
 #### Refs
 
 * [1]&nbsp;<https://www.medicalnewstoday.com/articles/317015>
-* [2] [NIH](/source/nihgov/) — <https://pubmed.ncbi.nlm.nih.gov/22180452/>
+* [2] [NIH](/source/nihgov/) «Prednisone affects inflammation, glucose tolerance, and bone turnover within hours of treatment in healthy individuals» — <https://pubmed.ncbi.nlm.nih.gov/22180452/>
 * [3]&nbsp;<https://eyeandear.org.au/patients-visitors/fact-sheets/oral-corticosteroids-and-your-blood-sugar-levels/>
 
 
@@ -1566,7 +1566,7 @@ In order for a patient to be considered recompensated, all of the following crit
 
 «Adapting a concept of recompensation can have its own ethical issues, especially in countries where disease-specific scores are used to decide the timing of transplantation. Labelling a patient recompensated may lead to delisting from transplant list.» — [1]
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10025679/>
+* [1] [NIH](/source/nihgov/) «Prednisone affects inflammation, glucose tolerance, and bone turnover within hours of treatment in healthy individuals» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10025679/>
 * [2]&nbsp;<https://bmcgastroenterol.biomedcentral.com/articles/10.1186/s12876-023-02956-4>
 * [3] [NIH](/source/nihgov/) «The Baveno VII concept of cirrhosis recompensation» — <https://pubmed.ncbi.nlm.nih.gov/36646527/>
 * [4] [ScienceDirect](/source/sciencedirectcom/) «The Baveno VII concept of cirrhosis recompensation» — <https://www.sciencedirect.com/science/article/pii/S159086582200860X>
@@ -1622,7 +1622,7 @@ A safety net policy is for candidates who may not meet eligibility criteria for 
 
 Scar tissue reaches approximately 50% of original skin strength at 6 weeks and up to 80% at 3 months, but it never regains the full elasticity or strength of uninjured skin. — [1]
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3840475/>
+* [1] [NIH](/source/nihgov/) «Biomechanics of Scar Tissue and Uninjured Skin» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3840475/>
 
 ### [Skin Cancer Risk](#skin-cancer-risk)
 
@@ -1634,7 +1634,7 @@ At least need yearly skin checks, although someone heard it needs to be four tim
 
 Cirrhosis can cause nutrient deficiencies that make skin more susceptible to cuts and tears.  Especially 'paper skin' where whole swaths of skin come off are 'disturbing', especially when combined with poor blood clotting (see INR or PT) that can also accompany cirrhosis.
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9257870/>
+* [1] [NIH](/source/nihgov/) «Skin Changes in Cirrhosis» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9257870/>
 * [2]&nbsp;<https://www.mypbcteam.com/resources/thin-skin-and-easy-bruising-are-they-symptoms-of-pbc>
 
 ### [Spironolactone](#spironolactone)
@@ -1702,7 +1702,7 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/tacrolimus-oral-route/description/drg-20068314>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/tacrolimus>
-* [2] [NIH](/source/nihgov/) — <https://www.ncbi.nlm.nih.gov/books/NBK544318/>
+* [2] [NIH](/source/nihgov/) «Tacrolimus» — <https://www.ncbi.nlm.nih.gov/books/NBK544318/>
 
 
 ### [Tacrolimus Skin Cancer](#tacrolimus-skin-cancer)
@@ -1718,7 +1718,7 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 ### [Tacrolimus-induced Ascites](#tacrolimus-induced-ascites)
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/>
+* [1] [NIH](/source/nihgov/) «Tacrolimus-induced Ascites after Liver Transplant» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6390981/>
 
 ### [Tattoos](#tattoos)
 
@@ -1783,7 +1783,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 ### [Transplant Age](#transplant-age)
 «There is no strict, universal maximum age for a liver transplant, as candidacy is based on physiological, not chronological, age. » — AI Summary
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC1421173/>
+* [1] [NIH](/source/nihgov/) «The Elderly Liver Transplant Recipient: A Call for Caution» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC1421173/>
 
 ### [Transplant Blood Type Compatibility](#transplant-blood-type-compatibility)
 
@@ -1801,7 +1801,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 * Gender gap study: — [1]
 
 #### Refs
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4964018/>
+* [1] [NIH](/source/nihgov/) «Organ transplantation and gender differences: a paradigmatic example of intertwining between biological and sociocultural determinants» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4964018/>
 
 ### [Transplant House](#transplant-house)
 

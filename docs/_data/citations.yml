@@ -3,7 +3,7 @@
   topic-name: ACR
   topic-slug: acr
   path: /topics/#acr
-  description: ""
+  description: "«Acute and Chronic Rejection After Liver Transplantation: What A Clinician Needs to Know» "
 - url: https://unos.org/news/pre-imp-notice-liver-intestinal-dist-acuity-circles-feb-4-2020/
   source: unosorg
   topic-name: Acuity Circles
@@ -27,7 +27,7 @@
   topic-name: Acyclovir
   topic-slug: acyclovir
   path: /topics/#acyclovir
-  description: ""
+  description: "«Acyclovir and renal transplantation» "
 - url: https://medlineplus.gov/druginfo/meds/a681045.html
   source: medlineplusgov
   topic-name: Acyclovir
@@ -255,7 +255,7 @@
   topic-name: CMV
   topic-slug: cmv
   path: /topics/#cmv
-  description: ""
+  description: "«Human Cytomegalovirus and Autoimmune Diseases: Where Are We?» "
 - url: https://en.wikipedia.org/wiki/Human_cytomegalovirus
   source: wikipediaorg
   topic-name: CMV
@@ -309,13 +309,13 @@
   topic-name: CYP3A4 inhibitors
   topic-slug: cyp3a4-inhibitors
   path: /topics/#cyp3a4-inhibitors
-  description: ""
+  description: "«Controversial Interactions of Tacrolimus with Dietary Supplements, Herbs and Food» "
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3372912/
   source: nihgov
   topic-name: Deceased Organ Donation
   topic-slug: deceased-organ-donation
   path: /topics/#deceased-organ-donation
-  description: ""
+  description: "«Brain Death, Cardiac Death, And The Dead Donor Rule» "
 - url: https://unos.org/news/understanding-donation-after-circulatory-death-dcd/
   source: unosorg
   topic-name: Deceased Organ Donation
@@ -381,7 +381,7 @@
   topic-name: Dupuytren's contracture
   topic-slug: dupuytrens-contracture
   path: /topics/#dupuytrens-contracture
-  description: ""
+  description: "«Dupuytren's contracture, chronic liver disease and IgA immune complexes» "
 - url: https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test
   source: clevelandclinicorg
   topic-name: DXA scan
@@ -411,7 +411,7 @@
   topic-name: eGFR
   topic-slug: egfr
   path: /topics/#egfr
-  description: ""
+  description: "«eGFR Equations for Adults» "
 - url: https://www.kidney.org/kidney-topics/estimated-glomerular-filtration-rate-egfr
   source: kidneyorg
   topic-name: eGFR
@@ -603,7 +603,7 @@
   topic-name: Gabapentin
   topic-slug: gabapentin
   path: /topics/#gabapentin
-  description: ""
+  description: "«Gabapentin for chronic neuropathic pain in adults» "
 - url: https://www.mayoclinic.org/drugs-supplements/gabapentin-oral-route/description/drg-20064011
   source: mayoclinicorg
   topic-name: Gabapentin
@@ -621,7 +621,7 @@
   topic-name: Gallbladder
   topic-slug: gallbladder
   path: /topics/#gallbladder
-  description: ""
+  description: "«A “reappearance” of gallbladder in a liver transplant recipient» "
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8790328/
   source: nihgov
   topic-name: Gallbladder Cancer
@@ -801,7 +801,7 @@
   topic-name: Immunosuppressant
   topic-slug: immunosuppressant
   path: /topics/#immunosuppressant
-  description: ""
+  description: "«Immunosuppressive Drugs» "
 - url: https://my.clevelandclinic.org/health/treatments/10418-immunosuppressants
   source: clevelandclinicorg
   topic-name: Immunosuppressant
@@ -936,13 +936,13 @@
   description: "«Comparative Effectiveness and Safety of Polyethylene Glycol Electrolyte Solution Versus Lactulose for Treatment of Hepatic Encephalopathy» "
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4737366/
   source: nihgov
-  topic-name: Late Acute Rejection 
+  topic-name: Late Acute Rejection
   topic-slug: late-acute-rejection
   path: /topics/#late-acute-rejection
   description: "«Late Acute Rejection In Liver Transplant: A Systematic Review» "
 - url: https://journals.lww.com/transplantjournal/fulltext/10.1097/01.tp.0000701028.35205.be~late-acute-rejection-after-liver-transplant-is-associated
   source: lwwcom
-  topic-name: Late Acute Rejection 
+  topic-name: Late Acute Rejection
   topic-slug: late-acute-rejection
   path: /topics/#late-acute-rejection
   description: "«Late Acute Rejection After Liver Transplant Is Associated With Increased Risk Of Death» "
@@ -1035,7 +1035,7 @@
   topic-name: MELD 3
   topic-slug: meld-3
   path: /topics/#meld-3
-  description: ""
+  description: "«Validation of MELD 3.0 and ReMELD-Na scoring systems: a German clinical cohort study» "
 - url: https://unos.org/policy/liver/exception-scores/
   source: unosorg
   topic-name: MELD Exception Score
@@ -1161,7 +1161,7 @@
   topic-name: Persistent Ascites
   topic-slug: persistent-ascites
   path: /topics/#persistent-ascites
-  description: ""
+  description: "«Approach to persistent ascites after liver transplantation» "
 - url: https://www.dairbook.com/glossary/peth
   source: dairbookcom
   topic-name: PEth
@@ -1185,13 +1185,13 @@
   topic-name: Post-Transplant Relapse
   topic-slug: post-transplant-relapse
   path: /topics/#post-transplant-relapse
-  description: ""
+  description: "«Understanding Alcohol Relapse in Liver Transplant Patients With Alcohol-Related Liver Disease: A Comprehensive Review» "
 - url: https://pubmed.ncbi.nlm.nih.gov/22180452/
   source: nihgov
   topic-name: Prednisone
   topic-slug: prednisone
   path: /topics/#prednisone
-  description: ""
+  description: "«Prednisone affects inflammation, glucose tolerance, and bone turnover within hours of treatment in healthy individuals» "
 - url: https://en.m.wikipedia.org/wiki/Prothrombin_time
   source: wikipediaorg
   topic-name: PT
@@ -1215,7 +1215,7 @@
   topic-name: Recompensated
   topic-slug: recompensated
   path: /topics/#recompensated
-  description: ""
+  description: "«Prednisone affects inflammation, glucose tolerance, and bone turnover within hours of treatment in healthy individuals» "
 - url: https://pubmed.ncbi.nlm.nih.gov/36646527/
   source: nihgov
   topic-name: Recompensated
@@ -1251,13 +1251,13 @@
   topic-name: Scar Tissue
   topic-slug: scar-tissue
   path: /topics/#scar-tissue
-  description: ""
+  description: "«Biomechanics of Scar Tissue and Uninjured Skin» "
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9257870/
   source: nihgov
   topic-name: Skin Changes
   topic-slug: skin-changes
   path: /topics/#skin-changes
-  description: ""
+  description: "«Skin Changes in Cirrhosis» "
 - url: https://www.mayoclinic.org/drugs-supplements/spironolactone-oral-route/description/drg-20071534
   source: mayoclinicorg
   topic-name: Spironolactone
@@ -1305,7 +1305,7 @@
   topic-name: Tacrolimus
   topic-slug: tacrolimus
   path: /topics/#tacrolimus
-  description: ""
+  description: "«Tacrolimus» "
 - url: https://www.amjtransplant.org/article/S1600-6135(22)00129-0/fulltext
   source: amjtransplantorg
   topic-name: Tacrolimus Skin Cancer
@@ -1323,7 +1323,7 @@
   topic-name: Tacrolimus-induced Ascites
   topic-slug: tacrolimus-induced-ascites
   path: /topics/#tacrolimus-induced-ascites
-  description: ""
+  description: "«Tacrolimus-induced Ascites after Liver Transplant» "
 - url: https://my.clevelandclinic.org/health/treatments/24254-thoracentesis
   source: clevelandclinicorg
   topic-name: Thoracentesis
@@ -1401,7 +1401,7 @@
   topic-name: Transplant Age
   topic-slug: transplant-age
   path: /topics/#transplant-age
-  description: ""
+  description: "«The Elderly Liver Transplant Recipient: A Call for Caution» "
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1852383/
   source: nihgov
   topic-name: Transplant Blood Type Compatibility
@@ -1413,7 +1413,7 @@
   topic-name: Transplant Gender Correlations
   topic-slug: transplant-gender-correlations
   path: /topics/#transplant-gender-correlations
-  description: ""
+  description: "«Organ transplantation and gender differences: a paradigmatic example of intertwining between biological and sociocultural determinants» "
 - url: https://www.sciencedirect.com/science/article/pii/S160061352203550X
   source: sciencedirectcom
   topic-name: Transplant Survival Benefit
