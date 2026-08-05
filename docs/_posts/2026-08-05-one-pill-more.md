@@ -16,6 +16,9 @@ Recently I missed one of my morning pills and went back to take it, so the tweak
 
 With five voiced parts, here are revised lyrics to [One Day More](https://en.wikipedia.org/wiki/One_Day_More) possibly appropriate to anyone having to comply with a difficult drug regimen.  Ends with Éponine's part as that seemed appropriate.
 
+Possible singers to imagine for this [One Day More! — 
+10th anniversary](https://www.youtube.com/watch?v=ydpmzU_i2hg){:target="_blank"} :-)
+
 ```
 [A] One pill more
 [A] Another pill, another effect on me
