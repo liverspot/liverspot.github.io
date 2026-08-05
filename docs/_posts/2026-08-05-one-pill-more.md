@@ -12,6 +12,8 @@ author: Mark Fussell
 
 Recently I missed one of my morning pills and went back to take it, so the tweaked line "One Pill More" came to mind.
 
+<!--more-->
+
 With five voiced parts, here are revised lyrics to [One Day More](https://en.wikipedia.org/wiki/One_Day_More) possibly appropriate to anyone having to comply with a difficult drug regimen.  Ends with Éponine's part as that seemed appropriate.
 
 ```

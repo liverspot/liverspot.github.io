@@ -12,6 +12,8 @@ author: Mark Fussell
 
 About two years after having a simultaneous liver and kidney transplant, my urine test spiked with blood and protein.  A few months (and corroborating tests) later this led to an ultrasound to see what was going on.
 
+<!--more-->
+
 At least for me, I had spent so much time in the hospital that I was extremely comfortable, interested, and communicative when interacting with hospital staff, nurses, and doctors.  So during the ultrasound I was chatting with the technician, and they repeatedly referred to my two original kidneys as "native".  They also repeatedly referred to the new kidney as the "transplant" kidney but that isn't the obvious counterpart to "native": the obvious (and appropriately suggestive) term would be "immigrant".
 
 I have two kidneys that lived in my body since birth and these are my native kidneys.  I have one kidney that lived in someone else's body for a long time but then migrated (due to unfortunate circumstances) to my body, so that is "obviously" an immigrant kidney.  Amusingly, the immigrant kidney does all the work in my body and the two native kidneys just hang out and drink some water all day long.
