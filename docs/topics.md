@@ -715,7 +715,7 @@ Or more simply,
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/encephalopathy>
 
-### [ERCP ](#ercp)
+### [ERCP](#ercp)
 
 «Endoscopic retrograde cholangiopancreatography (ERCP) is a procedure to diagnose and treat problems in the liver, gallbladder, bile ducts, and pancreas» — [1]
 
@@ -811,7 +811,7 @@ So it is a brand name related to filgrastim
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/filgrastim-aafi-intravenous-route-subcutaneous-route/description/drg-20443903>
 
-### [Fine-Needle Aspiration ](#fine-needle-aspiration)
+### [Fine-Needle Aspiration](#fine-needle-aspiration)
 
 «Fine-needle aspiration (FNA) is a procedure healthcare providers use to get a cell sample from a suspicious lump or an abnormal area of your body. It’s also called a fine-needle biopsy. FNA involves using a thin needle and a syringe to pull out cells, tissue and fluids.» — [1]
 

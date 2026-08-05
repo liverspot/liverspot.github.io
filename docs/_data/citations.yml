@@ -462,7 +462,7 @@
   description: ""
 - url: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/endoscopic-retrograde-cholangiopancreatography-ercp
   source: hopkinsmedicineorg
-  topic-name: ERCP 
+  topic-name: ERCP
   topic-slug: ercp
   path: /topics/#ercp
   description: ""
@@ -534,7 +534,7 @@
   description: ""
 - url: https://my.clevelandclinic.org/health/diagnostics/17872-fine-needle-aspiration-fna
   source: clevelandclinicorg
-  topic-name: Fine-Needle Aspiration 
+  topic-name: Fine-Needle Aspiration
   topic-slug: fine-needle-aspiration
   path: /topics/#fine-needle-aspiration
   description: ""
