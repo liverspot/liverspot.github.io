@@ -24,7 +24,7 @@ Possible singers to imagine for this [One Day More! —
 [A] Another pill, another effect on me
 [A] This never-ending road to recovery
 [A] The doctors who seem to know my life
-[A] Will surely diagnose me another time
+[A] Will surely prescribe me more next time
 
 [A] One pill more
 [B] I would have died before today
