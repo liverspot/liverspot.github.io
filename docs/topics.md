@@ -27,16 +27,16 @@ table tr:nth-child(90), /*I*/
 table tr:nth-child(97), /*J*/
 table tr:nth-child(100), /*K*/
 table tr:nth-child(103), /*L*/
-table tr:nth-child(115), /*M*/
-table tr:nth-child(123), /*N*/
-table tr:nth-child(128), /*O*/
-table tr:nth-child(131), /*P*/
-table tr:nth-child(145), /*R*/
-table tr:nth-child(149), /*S*/
-table tr:nth-child(158), /*T*/
-table tr:nth-child(179), /*U*/
-table tr:nth-child(185), /*V*/
-table tr:nth-child(188), /*X*/
+table tr:nth-child(116), /*M*/
+table tr:nth-child(124), /*N*/
+table tr:nth-child(129), /*O*/
+table tr:nth-child(132), /*P*/
+table tr:nth-child(146), /*R*/
+table tr:nth-child(150), /*S*/
+table tr:nth-child(160), /*T*/
+table tr:nth-child(181), /*U*/
+table tr:nth-child(187), /*V*/
+table tr:nth-child(190), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -203,6 +203,7 @@ The following entries contain information on topics that have been brought up du
 |[Lactulose &darr;](#lactulose) <a id="l"></a>|Kristalose, Enulose|
 |[Lactulose vs. Miralax &darr;](#lactulose-vs-miralax)||
 |[Late Acute Rejection &darr;](#late-acute-rejection)|LAR|
+|[Letermovir &darr;](#letermovir)|Prevymis|
 |[Liver Circle &darr;](#liver-circle)||
 |[Liver Function Tests &darr;](#liver-function-tests)||
 |[Liver In A Box &darr;](#liver-in-a-box)||
@@ -248,6 +249,7 @@ The following entries contain information on topics that have been brought up du
 |[Retacrit &darr;](#retacrit)|Epoetin Alfa-epbx|
 |[Safety net &darr;](#safety-net) <a id="s"></a>||
 |[Scar Tissue &darr;](#scar-tissue)||
+|[Sepsis &darr;](#sepsis)||
 |[Skin Cancer Risk &darr;](#skin-cancer-risk)||
 |[Skin Changes &darr;](#skin-changes)||
 |[SRTR &darr;](#srtr)|Scientific Registry of Transplant Recipients|
@@ -1179,6 +1181,20 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 * [1] [NIH](/source/nihgov/) «Late Acute Rejection In Liver Transplant: A Systematic Review» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4737366/>
 * [2] [LWW](/source/lwwcom/) «Late Acute Rejection After Liver Transplant Is Associated With Increased Risk Of Death» — <https://journals.lww.com/transplantjournal/fulltext/10.1097/01.tp.0000701028.35205.be~late-acute-rejection-after-liver-transplant-is-associated>
 
+### [Letermovir](#letermovir)
+
+«Letermovir is used to help prevent cytomegalovirus (CMV) infection and disease in certain people who have received a hematopoietic stem-cell transplant (HSCT; a procedure that replaces diseased bone marrow with healthy bone marrow) and are at increased risk of developing a CMV infection. Letermovir is also used to help prevent CMV infection and disease in certain people who have received a kidney transplant and are at increased risk of developing a CMV infection. Letermovir is in a class of medications called antivirals. It works by slowing the growth of CMV.»
+
+#### Drug Names
+
+* _Generic:_ Letermovir
+* _Brand:_ Prevymis
+
+#### Refs
+
+* [1]&nbsp;<https://www.merckconnect.com/prevymis/>
+* [2] [MedlinePlus](/source/medlineplusgov/) «Letermovir» — <https://medlineplus.gov/druginfo/meds/a618006.html>
+
 ### [LiverSpot.org](#liverspotorg)
 
 <span style="float:right; padding-left:6px"><img src="/images/image_5980_w160h160.png" height="64" width="64"></span>
@@ -1623,6 +1639,15 @@ A safety net policy is for candidates who may not meet eligibility criteria for 
 Scar tissue reaches approximately 50% of original skin strength at 6 weeks and up to 80% at 3 months, but it never regains the full elasticity or strength of uninjured skin. — [1]
 
 * [1] [NIH](/source/nihgov/) «Biomechanics of Scar Tissue and Uninjured Skin» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3840475/>
+
+### [Sepsis](#sepsis)
+
+«Sepsis is a serious condition in which the body responds improperly to an infection. The infection-fighting processes turn on the body, causing the organs to work poorly.» — [2]
+
+«Sepsis in the absence of fever:» — [1]
+
+* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC12554110/>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/sepsis/symptoms-causes/syc-20351214>
 
 ### [Skin Cancer Risk](#skin-cancer-risk)
 

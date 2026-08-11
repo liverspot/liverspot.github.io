@@ -946,6 +946,12 @@
   topic-slug: late-acute-rejection
   path: /topics/#late-acute-rejection
   description: "«Late Acute Rejection After Liver Transplant Is Associated With Increased Risk Of Death» "
+- url: https://medlineplus.gov/druginfo/meds/a618006.html
+  source: medlineplusgov
+  topic-name: Letermovir
+  topic-slug: letermovir
+  path: /topics/#letermovir
+  description: "«Letermovir» "
 - url: https://www.mayoclinic.org/tests-procedures/liver-function-tests/about/pac-20394595
   source: mayoclinicorg
   topic-name: Liver Function Tests
@@ -1252,6 +1258,18 @@
   topic-slug: scar-tissue
   path: /topics/#scar-tissue
   description: "«Biomechanics of Scar Tissue and Uninjured Skin» "
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12554110/
+  source: nihgov
+  topic-name: Sepsis
+  topic-slug: sepsis
+  path: /topics/#sepsis
+  description: ""
+- url: https://www.mayoclinic.org/diseases-conditions/sepsis/symptoms-causes/syc-20351214
+  source: mayoclinicorg
+  topic-name: Sepsis
+  topic-slug: sepsis
+  path: /topics/#sepsis
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9257870/
   source: nihgov
   topic-name: Skin Changes
