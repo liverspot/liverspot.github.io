@@ -74,7 +74,7 @@ defaults:
   - scope:
       path: "" # All files in the project
     values:
-      last_modified_at: 2026-08-05
+      last_modified_at: 2026-08-10
 
 
 # Exclude from processing.
