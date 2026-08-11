@@ -1644,9 +1644,9 @@ Scar tissue reaches approximately 50% of original skin strength at 6 weeks and u
 
 «Sepsis is a serious condition in which the body responds improperly to an infection. The infection-fighting processes turn on the body, causing the organs to work poorly.» — [2]
 
-«Sepsis in the absence of fever:» — [1]
+«Sepsis in the absence of fever: Determining the criteria for and feasibility of future therapeutic temperature management trials» — [1]
 
-* [1] [NIH](/source/nihgov/) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC12554110/>
+* [1] [NIH](/source/nihgov/) «Sepsis in the absence of fever» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC12554110/>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/sepsis/symptoms-causes/syc-20351214>
 
 ### [Skin Cancer Risk](#skin-cancer-risk)
