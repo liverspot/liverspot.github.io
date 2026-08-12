@@ -262,6 +262,18 @@
   topic-slug: cmv
   path: /topics/#cmv
   description: ""
+- url: https://www.cdc.gov/cytomegalovirus/hcp/clinical-overview/index.html
+  source: cdcgov
+  topic-name: CMV
+  topic-slug: cmv
+  path: /topics/#cmv
+  description: ""
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8001800/
+  source: nihgov
+  topic-name: CMV
+  topic-slug: cmv
+  path: /topics/#cmv
+  description: "«Cytomegalovirus (CMV) Infection and Latency» "
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10523240/
   source: nihgov
   topic-name: Compensated Cirrhosis
@@ -696,6 +708,12 @@
   description: "«Pleural effusion in liver disease» "
 - url: https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis
   source: hopkinsmedicineorg
+  topic-name: Hepatitis
+  topic-slug: hepatitis
+  path: /topics/#hepatitis
+  description: ""
+- url: https://www.cdc.gov/hepatitis/abc/index.htm
+  source: cdcgov
   topic-name: Hepatitis
   topic-slug: hepatitis
   path: /topics/#hepatitis
