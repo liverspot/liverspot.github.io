@@ -28,7 +28,7 @@ Soon after I woke up from a coma in 2021 I was told I needed to get on a liver t
                 <li>Support — What infrastructure do you have available to you</li>
                 <li>Compliance — How well do you comply to medically prescribed requirements</li>
             </ul>
-            <h4>Physical Review — What is the state of your body</h4>
+<h4 id='physical-review-what-is-the-state-of-your-body'><a href='#physical-review-what-is-the-state-of-your-body'>Physical Review — What is the state of your body</a></h4>
             <p>When I went from taking pills to possibly getting a transplant, I went from having a significant number of blood and other tests done to me to having a battery of procedures that needed to be performed.  These included:</p>
             <ul role="list">
                 <li>CT Scan of my liver</li>
@@ -48,7 +48,7 @@ Soon after I woke up from a coma in 2021 I was told I needed to get on a liver t
                 <li>Success rate of a transplant</li>
             </ul>
             <p>A major aspect from this is treating symptoms that can improve your health either independently of the transplant or to handle the transplant.  An example I did not have, but is discussed quite regularly in support groups, is liver-related cancers.  If these can be controlled, you improve both your current health and your success rate for getting a transplant.  An example I did have was getting into better physical shape (e.g. improvements to cardiovascular capacity) so I could better handle a transplant.</p>
-            <h4>Mental Review — What is the state of your mind</h4>
+<h4 id='mental-review-what-is-the-state-of-your-mind'><a href='#mental-review-what-is-the-state-of-your-mind'>Mental Review — What is the state of your mind</a></h4>
             <p>The psychiatric review is one of the more nerve-wracking aspects of being evaluated.  The physical review is purely factual and independent of your ego: you can&#x27;t mentally change what an X-Ray looks like.  Psychiatric review involves people questioning your historical behavior, your current state of mind, and your behavior going forward.  The amount of disclosure required for this can be very difficult for some patients. There are also a few especially touchy areas: chemical abuse, psychiatric conditions like severe depression, and physical care.</p>
             <p>
                 I believe you can talk honestly about all of these issues if you are willing to do the work to address them sufficiently.  Note that this impression is &quot;I believe&quot; based on my interactions with my reviewers, which ultimately worked out.  Different programs or patients could have very different experiences.
@@ -81,9 +81,9 @@ Soon after I woke up from a coma in 2021 I was told I needed to get on a liver t
             </p>
             <h5>Physical Care Habits</h5>
             <p>I believe there is some amount of review of whether a patient has a healthy diet, weight, exercise, dental care, etc.   You need to be in as good a shape as possible before transplant and need to have habits that will help you get back in reasonable shape after the transplant so the outcome is as good as possible. I am not sure if this impacts being on the list, but may factor in somehow.</p>
-            <h4>Support Review — What infrastructure do you have available to you</h4>
+<h4 id='support-review-what-infrastructure-do-you-have-available-to-you'><a href='#support-review-what-infrastructure-do-you-have-available-to-you'>Support Review — What infrastructure do you have available to you</a></h4>
             <p>The better the support environment around a patient, the better able they are to deal with the physical, occupational, and mental hardship of the transplant.  I don&#x27;t believe you can be excluded from the transplant list based on missing family support, but Stanford definitely strongly encourage both you and any available family to commit to leveraging and providing that support.  In my case, family members were contracted to provide aid and I was contracted to accept that aid (even against my will).</p>
-            <h4>Compliance Review — How well do you comply to medically prescribed requirements</h4>
+<h4 id='compliance-review-how-well-do-you-comply-to-medically-prescribed-requirements'><a href='#compliance-review-how-well-do-you-comply-to-medically-prescribed-requirements'>Compliance Review — How well do you comply to medically prescribed requirements</a></h4>
             <p>One of the more subtle or covert aspects of listing review is patient compliance. The more a patient actively refuses to comply with medical team requests, the lower their chance of getting listed. Or I believe this is the case. </p>
             <p>If you need to be cajoled it is probably a lesser penalty. Asking for explanations or alternative possibilities should not be penalized at all. Just realize you may never really understand why something is required of you. The more they have to convince you the less compliant you are being.</p>
             <p>Somewhat like the army, if you are asked to &quot;Jump&quot;, the ideal response is &quot;How High?&quot; or just to jump however high you can.</p>
