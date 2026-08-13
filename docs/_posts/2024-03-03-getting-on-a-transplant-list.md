@@ -71,7 +71,7 @@ Soon after I woke up from a coma in 2021 I was told I needed to get on a liver t
                 <li>Identify if they need to be treated for any issues that could risk a successful transplant outcome</li>
                 <li>Create a baseline for the patient before the transplant</li>
                 <li>
-                    Prepare to augment/adjust treatment if the transplant (both the surgery and the post-surgery medication) has a psychiatric impace
+                    Prepare to augment/adjust treatment if the transplant (both the surgery and the post-surgery medication) has a psychiatric impact
                     <br/>
                 </li>
             </ul>
