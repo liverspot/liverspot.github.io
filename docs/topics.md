@@ -23,20 +23,20 @@ table tr:nth-child(47), /*E*/
 table tr:nth-child(60), /*F*/
 table tr:nth-child(68), /*G*/
 table tr:nth-child(75), /*H*/
-table tr:nth-child(90), /*I*/
-table tr:nth-child(97), /*J*/
-table tr:nth-child(100), /*K*/
-table tr:nth-child(103), /*L*/
-table tr:nth-child(116), /*M*/
-table tr:nth-child(124), /*N*/
-table tr:nth-child(129), /*O*/
-table tr:nth-child(132), /*P*/
-table tr:nth-child(146), /*R*/
-table tr:nth-child(150), /*S*/
-table tr:nth-child(160), /*T*/
-table tr:nth-child(181), /*U*/
-table tr:nth-child(187), /*V*/
-table tr:nth-child(190), /*X*/
+table tr:nth-child(91), /*I*/
+table tr:nth-child(98), /*J*/
+table tr:nth-child(101), /*K*/
+table tr:nth-child(104), /*L*/
+table tr:nth-child(117), /*M*/
+table tr:nth-child(125), /*N*/
+table tr:nth-child(130), /*O*/
+table tr:nth-child(133), /*P*/
+table tr:nth-child(147), /*R*/
+table tr:nth-child(151), /*S*/
+table tr:nth-child(161), /*T*/
+table tr:nth-child(182), /*U*/
+table tr:nth-child(188), /*V*/
+table tr:nth-child(191), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -174,6 +174,7 @@ The following entries contain information on topics that have been brought up du
 |[Gynecomastia &darr;](#gynecomastia)||
 |[HCC GALAD Model &darr;](#hcc-galad-model) <a id="h"></a>|Hepatocellular Carcinoma • Gender, Age, ...|
 |[HE &darr;](#he)|Hepatic Encephalopathy|
+|[Hemaglobin A1C Test &darr;](#hemaglobin-a1c-test)|HbA1C, A1C|
 |[Hemochromatosis &darr;](#hemochromatosis)||
 |[Hemodialysis &darr;](#hemodialysis)||
 |[Hepatic hydrothorax &darr;](#hepatic-hydrothorax)|HH|
@@ -940,6 +941,18 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/encephalopathy>
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
+
+### [Hemaglobin A1C Test](#hemaglobin-a1c-test)
+
+«A hemoglobin A1C (HbA1C) test is a blood test that shows your average level of blood glucose, also called blood sugar, over the past two to three months.» — [1]
+
+«An A1C test measures the average amount of sugar in your blood over the past few months. Healthcare providers use it to help diagnose prediabetes and Type 2 diabetes and to monitor how well your diabetes treatment plan is working.» — [2]
+
+«An A1C test measures your average blood sugar over the past three months. Normal is below 5.7%, prediabetes is 5.7% to 6.4%, and diabetes is 6.5% or higher. For most adults managing diabetes, the target goal is under 7%» — [2]
+
+* [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/hemoglobin-a1c-hba1c-test/>
+* [2] [Cleveland Clinic](/source/clevelandclinicorg/) «A1C Test» — <https://my.clevelandclinic.org/health/diagnostics/9731-a1c>
+
 
 ### [Hemochromatosis](#hemochromatosis)
 

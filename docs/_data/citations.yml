@@ -682,6 +682,18 @@
   topic-slug: he
   path: /topics/#he
   description: ""
+- url: https://medlineplus.gov/lab-tests/hemoglobin-a1c-hba1c-test/
+  source: medlineplusgov
+  topic-name: Hemaglobin A1C Test
+  topic-slug: hemaglobin-a1c-test
+  path: /topics/#hemaglobin-a1c-test
+  description: ""
+- url: https://my.clevelandclinic.org/health/diagnostics/9731-a1c
+  source: clevelandclinicorg
+  topic-name: Hemaglobin A1C Test
+  topic-slug: hemaglobin-a1c-test
+  path: /topics/#hemaglobin-a1c-test
+  description: "«A1C Test» "
 - url: https://www.mayoclinic.org/diseases-conditions/hemochromatosis/symptoms-causes/syc-20351443
   source: mayoclinicorg
   topic-name: Hemochromatosis
