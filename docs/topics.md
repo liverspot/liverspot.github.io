@@ -645,6 +645,9 @@ When these pouches become inflamed, the condition is called diverticulitis. Infl
 * [2] [NKF](/source/kidneyorg/) — <https://www.kidney.org/kidney-topics/writing-to-donor-families-and-living-donors-simple-guide-kidney-transplant-recipients>
 * [3]&nbsp;<https://patient.uwhealth.org/education/writing-your-donor-family>
 * [4]&nbsp;<https://caringconnectionsneds.org>
+* [5] «Why write?» — <https://lcnw.org/wp-content/uploads/2018/11/Recipient-to-Donor-Family-Writing-Instructions-WEB.pdf>
+* [6] «Donor Letter» — <https://lcnw.org/search/?q=letter>
+
 
 ### [Drug Regimen](#drug-regimen)
 «A drug regimen describes the specific instructions and schedule for administering one or more drugs to a patient. It includes factors such as drug dosage, frequency, route of administration, and duration of treatment.» — [2]
