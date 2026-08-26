@@ -641,6 +641,8 @@ When these pouches become inflamed, the condition is called diverticulitis. Infl
 
 ### [Donor Info](#donor-info)
 
+Donor and Recipient contact and letter writing resources.
+
 * [1]&nbsp;<https://giftofhope.org/wp-content/uploads/2024/10/Sample-letter_Recipient-to-Donor-Family.pdf>
 * [2] [NKF](/source/kidneyorg/) — <https://www.kidney.org/kidney-topics/writing-to-donor-families-and-living-donors-simple-guide-kidney-transplant-recipients>
 * [3]&nbsp;<https://patient.uwhealth.org/education/writing-your-donor-family>
