@@ -382,6 +382,18 @@
   topic-slug: donor-info
   path: /topics/#donor-info
   description: ""
+- url: https://lcnw.org/wp-content/uploads/2018/11/Recipient-to-Donor-Family-Writing-Instructions-WEB.pdf
+  source: lcnworg
+  topic-name: Donor Info
+  topic-slug: donor-info
+  path: /topics/#donor-info
+  description: "«Why write?» "
+- url: https://lcnw.org/search/?q=letter
+  source: lcnworg
+  topic-name: Donor Info
+  topic-slug: donor-info
+  path: /topics/#donor-info
+  description: "«Donor Letter» "
 - url: https://www.dairbook.com/glossary/drug-regimen
   source: dairbookcom
   topic-name: Drug Regimen
