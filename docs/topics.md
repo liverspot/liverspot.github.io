@@ -515,14 +515,31 @@ The techniques employed are typically adapted depending on specific portosystemi
 
 For people who have weakened immune systems, CMV infection can be fatal. The risk is especially high for people who've had an organ, stem cell or bone marrow transplant.» — [1]
 
+〚…〛
+
+«CMV is a common virus that infects people of all ages. In the United States, nearly 1 in 3 children is already infected with CMV by age 5. Over half of adults have been infected with CMV by age 40.
+
+Once CMV is in a person’s body, it stays there for life and can reactivate. A person can also be re-infected with a different strain of the virus.» — [6]
+
+〚…〛
+
+«Health conditions that stem from CMV infections can include:
+* Vision loss due to swelling called inflammation in the light-sensing layer of the eye. This condition is called retinitis.
+* Digestive system conditions. These include swelling of the colon called colitis, swelling of the esophagus called esophagitis and swelling of the liver called hepatitis.
+* Nervous system problems, including brain inflammation called encephalitis.
+* An infection in one or both lungs called pneumonia.
+» — [1]
+
+#### Alternate name
+«Human cytomegalovirus (HCMV), also called human herpesvirus 5 (HHV-5), is a species of virus in the genus Cytomegalovirus» — [3]
+
+#### Refs
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358>
 * [2] [NIH](/source/nihgov/) «Human Cytomegalovirus and Autoimmune Diseases: Where Are We?» — <https://pubmed.ncbi.nlm.nih.gov/33567734/>
 * [3] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Human_cytomegalovirus>
 * [4] [CDC](/source/cdcgov/) — <https://www.cdc.gov/cytomegalovirus/hcp/clinical-overview/index.html>
 * [5] [NIH](/source/nihgov/) «Cytomegalovirus (CMV) Infection and Latency» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC8001800/>
-
-#### Alternate name
-«Human cytomegalovirus (HCMV), also called human herpesvirus 5 (HHV-5), is a species of virus in the genus Cytomegalovirus» — [3]
+* [6] [CDC](/source/cdcgov/) — <https://www.cdc.gov/cytomegalovirus/about/index.html>
 
 ### [Compensated Cirrhosis](#compensated-cirrhosis)
 

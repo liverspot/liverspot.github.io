@@ -274,6 +274,12 @@
   topic-slug: cmv
   path: /topics/#cmv
   description: "«Cytomegalovirus (CMV) Infection and Latency» "
+- url: https://www.cdc.gov/cytomegalovirus/about/index.html
+  source: cdcgov
+  topic-name: CMV
+  topic-slug: cmv
+  path: /topics/#cmv
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10523240/
   source: nihgov
   topic-name: Compensated Cirrhosis
