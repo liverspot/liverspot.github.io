@@ -27,16 +27,16 @@ table tr:nth-child(91), /*I*/
 table tr:nth-child(98), /*J*/
 table tr:nth-child(101), /*K*/
 table tr:nth-child(104), /*L*/
-table tr:nth-child(117), /*M*/
-table tr:nth-child(125), /*N*/
-table tr:nth-child(130), /*O*/
-table tr:nth-child(133), /*P*/
-table tr:nth-child(147), /*R*/
-table tr:nth-child(151), /*S*/
-table tr:nth-child(161), /*T*/
-table tr:nth-child(182), /*U*/
-table tr:nth-child(188), /*V*/
-table tr:nth-child(191), /*X*/
+table tr:nth-child(118), /*M*/
+table tr:nth-child(126), /*N*/
+table tr:nth-child(131), /*O*/
+table tr:nth-child(134), /*P*/
+table tr:nth-child(148), /*R*/
+table tr:nth-child(152), /*S*/
+table tr:nth-child(162), /*T*/
+table tr:nth-child(183), /*U*/
+table tr:nth-child(189), /*V*/
+table tr:nth-child(192), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -213,6 +213,7 @@ The following entries contain information on topics that have been brought up du
 |[Liver Spots &darr;](#liver-spots)||
 |[Living Donor Liver Transplant &darr;](#living-donor-liver-transplant)||
 |[Liver Transplant Patient Handbook &darr;](#liver-transplant-patient-handbook)||
+|[Liver Transplant Surgery &darr;](#liver-transplant-surgery)||
 |[LOLA &darr;](#lola)|L‐ornithine‐L‐aspartate|
 |[Medical Marijuana &darr;](#medical-marijuana) <a id="m"></a>||
 |[MELD &darr;](#meld)|Model for end-stage liver disease|
@@ -1285,6 +1286,13 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 ### [Liver Transplant Patient Handbook](#liver-transplant-patient-handbook)
 
 * [1] <https://www.ucsfbenioffchildrens.org/-/media/project/ucsf/ucsf-bch/pdf/liver-transplant-manual.pdf>
+
+### [Liver Transplant Surgery](#liver-transplant-surgery)
+
+For deep information about the details of a liver transplant surgery,
+see this amazing (but very graphic) video [1] from UT Southwestern:
+
+* [1] «Liver Transplant Surgery - UT Southwestern Medical Center» — <https://www.youtube.com/watch?v=u9TSMfvq4LY>
 
 ### [Living Donor Liver Transplant](#living-donor-liver-transplant)
 
