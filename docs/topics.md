@@ -1476,6 +1476,8 @@ You must avoid all of the following:
 
 «Nystatin is used to treat fungal infections of the inside of the mouth and lining of the stomach and intestines. Nystatin is in a class of antifungal medications called polyenes. It works by stopping the growth of fungi that cause infection» — [1]
 
+«People on chemotherapy for cancer, receiving a transplant or with AIDS are at risk of fungal infections. These infections can be life‐threatening, especially when they spread throughout the body. Nystatin is sometimes given as a routine preventive measure or as treatment in these patients. The review found that nystatin was no better than placebo (no treatment).» — [3]
+
 #### Drug Names
 
 * _Generic:_ Nystatin
@@ -1485,7 +1487,7 @@ You must avoid all of the following:
 
 * [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/druginfo/meds/a682758.html>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/nystatin-oral-route/description/drg-20065146>
-
+* [3] [NIH](/source/nihgov/) «Nystatin prophylaxis and treatment in severely immunodepressed patients» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6457783/>
 
 ### [Nurse Treats](#nurse-treats)
 

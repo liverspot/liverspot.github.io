@@ -1192,6 +1192,12 @@
   topic-slug: nystatin
   path: /topics/#nystatin
   description: ""
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6457783/
+  source: nihgov
+  topic-name: Nystatin
+  topic-slug: nystatin
+  path: /topics/#nystatin
+  description: "«Nystatin prophylaxis and treatment in severely immunodepressed patients» "
 - url: https://www.hrsa.gov/optn
   source: hrsagov
   topic-name: OPTN
