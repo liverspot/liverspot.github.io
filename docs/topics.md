@@ -445,6 +445,10 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 «Bactrim and Bactrim DS are antibiotics used to treat ear infections, urinary tract infections, bronchitis, traveler's diarrhea, shigellosis, and Pneumocystis jiroveci pneumonia. Bactrim and Bactrim DS contain a combination of two antibiotics, sulfamethoxazole and trimethoprim, that treat different types of infection caused by bacteria. Bactrim DS (double strength) tablets are twice as strong as Bactrim tablets.» — [1]
 
+«Trimethoprim/sulfamethoxazole (TMP/SMX) is a combination of two antibiotics: trimethoprim and sulfamethoxazole. It is also known as cotrimoxazole. Its brand names are Bactrim or Septra. TMP/SMX is sold under many other names in different parts of the world.» — [2]
+
+«Antibiotics fight infections caused by bacteria. TMP/SMX is also used to fight infections caused by protozoa and some opportunistic infections (OIs) in people with HIV.» — [2]
+
 #### Drug Names
 
 * _Generic:_ Sulfamethoxazole and Trimethoprim
@@ -453,6 +457,7 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 #### Refs
 
 * [1] [Drugs.com](/source/drugscom/) — <https://www.drugs.com/bactrim.html>
+* [2] <https://www.iapac.org/fact-sheet/trimethoprim-sulfamethoxazole-tmp-smx-bactrim-septra/>
 
 ### [Bausch PAP](#bausch-papa)
 
@@ -1478,6 +1483,8 @@ You must avoid all of the following:
 
 «People on chemotherapy for cancer, receiving a transplant or with AIDS are at risk of fungal infections. These infections can be life‐threatening, especially when they spread throughout the body. Nystatin is sometimes given as a routine preventive measure or as treatment in these patients. The review found that nystatin was no better than placebo (no treatment).» — [3]
 
+«Oral candidiasis (OC) is a prevalent opportunistic infection in patients with human immunodeficiency virus (HIV) infection. The increasing resistance to antifungal agents in HIV-positive individuals suffering from OC raised concerns. Thus, this study aimed to investigate the prevalence of drug-resistant OC in HIV-positive patients.» — [4]
+
 #### Drug Names
 
 * _Generic:_ Nystatin
@@ -1488,6 +1495,8 @@ You must avoid all of the following:
 * [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/druginfo/meds/a682758.html>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/nystatin-oral-route/description/drg-20065146>
 * [3] [NIH](/source/nihgov/) «Nystatin prophylaxis and treatment in severely immunodepressed patients» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6457783/>
+* [4] [NIH](/source/nihgov/) «Drug-resistant oral candidiasis in patients with HIV infection: a systematic review and meta-analysis» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC11143751/>
+
 
 ### [Nurse Treats](#nurse-treats)
 
@@ -2004,6 +2013,11 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 «Valganciclovir is used to treat symptoms of cytomegalovirus (CMV) retinitis, an infection in the eyes of people with acquired immunodeficiency syndrome (AIDS). Valganciclovir will not cure this eye infection, but it may help to keep the symptoms from becoming worse.» — [1]
 
+«Valganciclovir hydrochloride is an antiviral prescription medicine approved by the U.S. Food and Drug Administration (FDA) for the treatment of cytomegalovirus retinitis (CMV retinitis) in adults with AIDS. Valganciclovir hydrochloride is also FDA-approved for the prevention of CMV disease in recipients of organ transplants who are at risk for CMV diseases.» — [2]
+
+«CMV diseases, including CMV retinitis, can be opportunistic infections (OIs) of HIV. An OI is an infection that occurs more frequently or is more severe in people with weakened immune systems—such as people with HIV—than in people with healthy immune systems. To learn more about OIs, read the HIVinfo What is an Opportunistic Infection? fact sheet.» — [2]
+
+
 #### Drug Names
 
 * _Generic:_ Valganciclovir
@@ -2012,6 +2026,7 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 #### Refs
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/valganciclovir-oral-route/description/drg-20066642>
+* [2] <https://clinicalinfo.hiv.gov/en/drugs/valganciclovir-hydrochloride/patient>
 
 ### [Veltessa](#veltessa)
 

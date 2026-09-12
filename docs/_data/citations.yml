@@ -1198,6 +1198,12 @@
   topic-slug: nystatin
   path: /topics/#nystatin
   description: "«Nystatin prophylaxis and treatment in severely immunodepressed patients» "
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11143751/
+  source: nihgov
+  topic-name: Nystatin
+  topic-slug: nystatin
+  path: /topics/#nystatin
+  description: "«Drug-resistant oral candidiasis in patients with HIV infection: a systematic review and meta-analysis» "
 - url: https://www.hrsa.gov/optn
   source: hrsagov
   topic-name: OPTN
