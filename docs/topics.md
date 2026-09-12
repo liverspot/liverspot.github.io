@@ -17,26 +17,26 @@ styles:
 
 table tr:nth-child(1), /*A*/
 table tr:nth-child(17), /*B*/
-table tr:nth-child(23), /*C*/
-table tr:nth-child(35), /*D*/
-table tr:nth-child(47), /*E*/
-table tr:nth-child(60), /*F*/
-table tr:nth-child(68), /*G*/
-table tr:nth-child(75), /*H*/
-table tr:nth-child(91), /*I*/
-table tr:nth-child(98), /*J*/
-table tr:nth-child(101), /*K*/
-table tr:nth-child(104), /*L*/
-table tr:nth-child(118), /*M*/
-table tr:nth-child(126), /*N*/
-table tr:nth-child(131), /*O*/
-table tr:nth-child(134), /*P*/
-table tr:nth-child(148), /*R*/
-table tr:nth-child(152), /*S*/
-table tr:nth-child(162), /*T*/
-table tr:nth-child(184), /*U*/
-table tr:nth-child(190), /*V*/
-table tr:nth-child(193), /*X*/
+table tr:nth-child(24), /*C*/
+table tr:nth-child(36), /*D*/
+table tr:nth-child(48), /*E*/
+table tr:nth-child(61), /*F*/
+table tr:nth-child(69), /*G*/
+table tr:nth-child(76), /*H*/
+table tr:nth-child(92), /*I*/
+table tr:nth-child(99), /*J*/
+table tr:nth-child(102), /*K*/
+table tr:nth-child(105), /*L*/
+table tr:nth-child(119), /*M*/
+table tr:nth-child(127), /*N*/
+table tr:nth-child(133), /*O*/
+table tr:nth-child(136), /*P*/
+table tr:nth-child(150), /*R*/
+table tr:nth-child(154), /*S*/
+table tr:nth-child(164), /*T*/
+table tr:nth-child(186), /*U*/
+table tr:nth-child(192), /*V*/
+table tr:nth-child(195), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -52,7 +52,7 @@ table tr:nth-child(1) /*Z*/
 
 
 #acr,
-#bausch-pap,
+#bactrim,
 #camino-hospital-iop,
 #deceased-organ-donation,
 #edema,
@@ -114,7 +114,8 @@ The following entries contain information on topics that have been brought up du
 |[AST &darr;](#ast)|Aspartate aminotransferase|
 |[Asterixis &darr;](#asterixis)||
 |[Atrophy &darr;](#atrophy)||
-|[Bausch PAP &darr;](#bausch-pap) <a id="b"></a>|Patient Assistance Program|
+|[Bactrim &darr;](#bactrim) <a id="b"></a>|Sulfamethoxazole and Trimethoprim|
+|[Bausch PAP &darr;](#bausch-pap)|Patient Assistance Program|
 |[Bilirubin &darr;](#bilirubin)||
 |[BK Virus &darr;](#bk-virus)|'BK' are initials|
 |[BMP &darr;](#bmp)|basic metabolic panel|
@@ -227,6 +228,7 @@ The following entries contain information on topics that have been brought up du
 |[NASH &darr;](#nash)|Nonalcoholic steatohepatitis|
 |[Neuropathy &darr;](#neuropathy)||
 |[Neutropenia &darr;](#neutropenia)||
+|[Nystatin &darr;](#nystatin)|Mycostatin, Nilstat, Nystex|
 |[Nurse Treats &darr;](#nurse-treats)||
 |[OPTN &darr;](#optn) <a id="o"></a>|Organ Procurement and Transplantation Network|
 |[Osmolite &darr;](#osmolite)||
@@ -438,6 +440,19 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 * [1] [LWW](/source/lwwcom/) «
   Muscle preservation during hospitalization〚…〛» — <https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx>
 * [2] [NIH](/source/nihgov/) «Hospitalization and Change in Body Composition and Strength 〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/>
+
+### [Bactrim](#bactrim)
+
+«Bactrim and Bactrim DS are antibiotics used to treat ear infections, urinary tract infections, bronchitis, traveler's diarrhea, shigellosis, and Pneumocystis jiroveci pneumonia. Bactrim and Bactrim DS contain a combination of two antibiotics, sulfamethoxazole and trimethoprim, that treat different types of infection caused by bacteria. Bactrim DS (double strength) tablets are twice as strong as Bactrim tablets.» — [1]
+
+#### Drug Names
+
+* _Generic:_ Sulfamethoxazole and Trimethoprim
+* _Brand:_ Bactrim
+
+#### Refs
+
+* [1] [Drugs.com](/source/drugscom/) — <https://www.drugs.com/bactrim.html>
 
 ### [Bausch PAP](#bausch-papa)
 
@@ -1457,6 +1472,19 @@ You must avoid all of the following:
   » — [1]
 
 
+### [Nystatin](#nystatin)
+
+«Nystatin is used to treat fungal infections of the inside of the mouth and lining of the stomach and intestines. Nystatin is in a class of antifungal medications called polyenes. It works by stopping the growth of fungi that cause infection» — [1]
+
+#### Drug Names
+
+* _Generic:_ Nystatin
+* _Brand:_ Mycostatin, Nilstat, Nystex
+
+#### Refs
+
+* [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/druginfo/meds/a682758.html>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/nystatin-oral-route/description/drg-20065146>
 
 
 ### [Nurse Treats](#nurse-treats)

@@ -160,6 +160,12 @@
   topic-slug: atrophy
   path: /topics/#atrophy
   description: "«Hospitalization and Change in Body Composition and Strength 〚…〛» "
+- url: https://www.drugs.com/bactrim.html
+  source: drugscom
+  topic-name: Bactrim
+  topic-slug: bactrim
+  path: /topics/#bactrim
+  description: ""
 - url: https://medlineplus.gov/lab-tests/bilirubin-blood-test/
   source: medlineplusgov
   topic-name: Bilirubin
@@ -1173,6 +1179,18 @@
   topic-name: Neutropenia
   topic-slug: neutropenia
   path: /topics/#neutropenia
+  description: ""
+- url: https://medlineplus.gov/druginfo/meds/a682758.html
+  source: medlineplusgov
+  topic-name: Nystatin
+  topic-slug: nystatin
+  path: /topics/#nystatin
+  description: ""
+- url: https://www.mayoclinic.org/drugs-supplements/nystatin-oral-route/description/drg-20065146
+  source: mayoclinicorg
+  topic-name: Nystatin
+  topic-slug: nystatin
+  path: /topics/#nystatin
   description: ""
 - url: https://www.hrsa.gov/optn
   source: hrsagov
