@@ -23,20 +23,20 @@ table tr:nth-child(48), /*E*/
 table tr:nth-child(61), /*F*/
 table tr:nth-child(69), /*G*/
 table tr:nth-child(76), /*H*/
-table tr:nth-child(92), /*I*/
-table tr:nth-child(99), /*J*/
-table tr:nth-child(102), /*K*/
-table tr:nth-child(105), /*L*/
-table tr:nth-child(119), /*M*/
-table tr:nth-child(127), /*N*/
-table tr:nth-child(133), /*O*/
-table tr:nth-child(136), /*P*/
-table tr:nth-child(150), /*R*/
-table tr:nth-child(154), /*S*/
-table tr:nth-child(164), /*T*/
-table tr:nth-child(186), /*U*/
-table tr:nth-child(192), /*V*/
-table tr:nth-child(195), /*X*/
+table tr:nth-child(93), /*I*/
+table tr:nth-child(100), /*J*/
+table tr:nth-child(103), /*K*/
+table tr:nth-child(106), /*L*/
+table tr:nth-child(120), /*M*/
+table tr:nth-child(128), /*N*/
+table tr:nth-child(134), /*O*/
+table tr:nth-child(137), /*P*/
+table tr:nth-child(151), /*R*/
+table tr:nth-child(155), /*S*/
+table tr:nth-child(165), /*T*/
+table tr:nth-child(187), /*U*/
+table tr:nth-child(193), /*V*/
+table tr:nth-child(196), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -58,7 +58,7 @@ table tr:nth-child(1) /*Z*/
 #edema,
 #fib-4,
 #gabapentin,
-#hcc-galad-model,
+#hcc-ablation,
 #icu,
 #j-tube,
 #ketorolac,
@@ -173,7 +173,8 @@ The following entries contain information on topics that have been brought up du
 |[GGT &darr;](#ggt)|gamma-glutamyl transferase|
 |[Gougol &darr;](#gougol)||
 |[Gynecomastia &darr;](#gynecomastia)||
-|[HCC GALAD Model &darr;](#hcc-galad-model) <a id="h"></a>|Hepatocellular Carcinoma • Gender, Age, ...|
+|[HCC Ablation &darr;](#hcc-ablation) <a id="h"></a>||
+|[HCC GALAD Model &darr;](#hcc-galad-model)|Hepatocellular Carcinoma • Gender, Age, ...|
 |[HE &darr;](#he)|Hepatic Encephalopathy|
 |[Hemaglobin A1C Test &darr;](#hemaglobin-a1c-test)|HbA1C, A1C|
 |[Hemochromatosis &darr;](#hemochromatosis)||
@@ -967,6 +968,12 @@ Professional Education
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/gynecomastia/symptoms-causes/syc-20351793>
 
+### [HCC Ablation](#hcc-ablation)
+
+«Local ablation for hepatocellular carcinoma (HCC), a non-surgical option that directly targets and destroys tumor cells, has advanced significantly since the 1990s. Therapies with different energy sources, such as radiofrequency ablation, microwave ablation, and cryoablation, employ different mechanisms to induce tumor necrosis. The precision, safety, and effectiveness of these therapies have increased with advances in guiding technologies and device improvements. Consequently, local ablation has become the firstline treatment for early-stage HCC. » — [1]
+
+* [1] «Local ablation for hepatocellular carcinoma: 2024 expert consensus-based practical recommendation of the Korean Liver Cancer Association» — <https://www.e-jlc.org/journal/view.php?number=576>
+* [2] <https://www.e-jlc.org/upload//thumbnails/jlc-2024-08-04f1.jpg>
 
 ### [HCC GALAD model](#hcc-galad-model)
 
