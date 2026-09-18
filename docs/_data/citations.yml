@@ -1588,6 +1588,12 @@
   topic-slug: valcyte
   path: /topics/#valcyte
   description: ""
+- url: https://my.clevelandclinic.org/health/diagnostics/17607-arterial--venous-mapping
+  source: clevelandclinicorg
+  topic-name: Vein Mapping
+  topic-slug: vein-mapping
+  path: /topics/#vein-mapping
+  description: "«Arterial & Venous Mapping» "
 - url: https://www.drugs.com/veltassa.html
   source: drugscom
   topic-name: Veltessa

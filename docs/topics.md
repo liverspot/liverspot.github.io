@@ -36,7 +36,7 @@ table tr:nth-child(155), /*S*/
 table tr:nth-child(165), /*T*/
 table tr:nth-child(187), /*U*/
 table tr:nth-child(193), /*V*/
-table tr:nth-child(196), /*X*/
+table tr:nth-child(197), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -291,6 +291,7 @@ The following entries contain information on topics that have been brought up du
 |[URS &darr;](#urs)|Ureteroscopy|
 |[Ursodiol &darr;](#ursodiol)|Actigall, Reltone, Urso |
 |[Valcyte &darr;](#valcyte) <a id="v"></a>|Valganciclovir|
+|[Vein Mapping &darr;](#vein-mapping)|Arterial Mapping, Vessel Mapping|
 |[Veltassa &darr;](#veltassa)|Patiromer|
 |[Vivitrol &darr;](#vivitrol)|Naltrexone|
 |[XIAFLEX &darr;](#xiaflex) <a id="x"></a>|Collagenase Clostridium histolyticum|
@@ -2034,6 +2035,15 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/valganciclovir-oral-route/description/drg-20066642>
 * [2] <https://clinicalinfo.hiv.gov/en/drugs/valganciclovir-hydrochloride/patient>
+
+### [Vein Mapping](#vein-mapping)
+
+«Vein mapping uses ultrasound imaging to see inside your blood vessels. This test uses the images to create a map of your arteries and veins and any blockages in them. Your provider may order a vein mapping test before medical procedures or to check for health conditions that affect your blood vessels» — [1]
+
+«AccuVein’s near-infrared (NIR) technology enables healthcare professionals to visualize the superficial vasculature in order to identify veins for optimal peripheral venous access or avoiding veins during aesthetic procedures» — [2]
+
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) «Arterial & Venous Mapping» — <https://my.clevelandclinic.org/health/diagnostics/17607-arterial--venous-mapping>
+* [2] <https://www.accuvein.com>
 
 ### [Veltessa](#veltessa)
 
