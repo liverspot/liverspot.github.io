@@ -1901,7 +1901,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 «An interventional radiologist uses ultrasound and X-rays to puncture the jugular vein and advance a small sheath into the vein draining the liver (hepatic vein). Through the sheath, a biopsy needle is passed through the vein wall and into the surrounding liver tissue to obtain samples. By using this technique, any bleeding that occurs from the biopsy will bleed into the hepatic vein, meaning no loss of blood by the patient.» — [1]
 
-Apparently the approach can also be used to check the Portal Vein blood pressure to confirm or refute (and quantify) portal vein hypertension.
+Apparently the approach can also be used to check the Portal Vein blood pressure (HVPG: Hepatic venous pressure gradient) to confirm or refute (and quantify) portal vein hypertension.
 
 * [1] — <https://www.uclahealth.org/medical-services/radiology/interventional-radiology/treatments-procedures/transjugular-liver-biopsy>
 
