@@ -694,6 +694,18 @@
   topic-slug: gynecomastia
   path: /topics/#gynecomastia
   description: ""
+- url: https://www.e-jlc.org/journal/view.php?number=576
+  source: e-jlcorg
+  topic-name: HCC Ablation
+  topic-slug: hcc-ablation
+  path: /topics/#hcc-ablation
+  description: "«Local ablation for hepatocellular carcinoma: 2024 expert consensus-based practical recommendation of the Korean Liver Cancer Association» "
+- url: https://www.e-jlc.org/upload//thumbnails/jlc-2024-08-04f1.jpg
+  source: e-jlcorg
+  topic-name: HCC Ablation
+  topic-slug: hcc-ablation
+  path: /topics/#hcc-ablation
+  description: ""
 - url: https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc
   source: mdcalccom
   topic-name: HCC GALAD model

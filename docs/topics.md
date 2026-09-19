@@ -973,8 +973,8 @@ Professional Education
 
 «Local ablation for hepatocellular carcinoma (HCC), a non-surgical option that directly targets and destroys tumor cells, has advanced significantly since the 1990s. Therapies with different energy sources, such as radiofrequency ablation, microwave ablation, and cryoablation, employ different mechanisms to induce tumor necrosis. The precision, safety, and effectiveness of these therapies have increased with advances in guiding technologies and device improvements. Consequently, local ablation has become the firstline treatment for early-stage HCC. » — [1]
 
-* [1] «Local ablation for hepatocellular carcinoma: 2024 expert consensus-based practical recommendation of the Korean Liver Cancer Association» — <https://www.e-jlc.org/journal/view.php?number=576>
-* [2] <https://www.e-jlc.org/upload//thumbnails/jlc-2024-08-04f1.jpg>
+* [1] [JLC](/source/e-jlcorg/) «Local ablation for hepatocellular carcinoma: 2024 expert consensus-based practical recommendation of the Korean Liver Cancer Association» — <https://www.e-jlc.org/journal/view.php?number=576>
+* [2] [JLC](/source/e-jlcorg/) — <https://www.e-jlc.org/upload//thumbnails/jlc-2024-08-04f1.jpg>
 
 ### [HCC GALAD model](#hcc-galad-model)
 
@@ -1316,6 +1316,7 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 ### [Liver Transplant Patient Handbook](#liver-transplant-patient-handbook)
 
 * [1] <https://www.ucsfbenioffchildrens.org/-/media/project/ucsf/ucsf-bch/pdf/liver-transplant-manual.pdf>
+* [2] «Your Liver Transplant Guide» — <https://healthonline.washington.edu/sites/default/files/record_pdfs/Your-Liver-Transplant-Guide_ENTIRE_11-2025.pdf>
 
 ### [Liver Transplant Surgery](#liver-transplant-surgery)
 
