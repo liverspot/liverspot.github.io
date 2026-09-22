@@ -324,6 +324,8 @@ Acute cellular rejection
 
 « AC 〚Acuity Circles〛allocation will likely address disparities for pediatric liver transplant candidates and recipients by increasing transplants and decreasing waitlist mortality. It is more consistent with federally-mandated requirements for organ allocation.» — [3]
 
+An acuity circle provides a distance-based (radius-of-circle) prioritization from the donor to potential recipients.  
+
 * [1] [UNOS](/source/unosorg/) — <https://unos.org/news/pre-imp-notice-liver-intestinal-dist-acuity-circles-feb-4-2020/>
 * [2] [NIH](/source/nihgov/) «The Effect of Acuity Circles on Deceased Donor Transplant 〚…〛» — <https://pubmed.ncbi.nlm.nih.gov/34482614/>
 * [3] [NIH](/source/nihgov/) «Impact of Acuity Circles on Outcomes for Pediatric Liver Transplant Candidates» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC7319877/>
@@ -674,6 +676,11 @@ Donor and Recipient contact and letter writing resources.
 * [5] [LCNW](/source/lcnworg/) «Why write?» — <https://lcnw.org/wp-content/uploads/2018/11/Recipient-to-Donor-Family-Writing-Instructions-WEB.pdf>
 * [6] [LCNW](/source/lcnworg/) «Donor Letter» — <https://lcnw.org/search/?q=letter>
 
+### [DRESS](#dress)
+
+«Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) Syndrome» — [1]
+
+* [1] <https://dermskinhealth.com/mohs-surgery-on-lower-leg/>
 
 ### [Drug Regimen](#drug-regimen)
 «A drug regimen describes the specific instructions and schedule for administering one or more drugs to a patient. It includes factors such as drug dosage, frequency, route of administration, and duration of treatment.» — [2]
@@ -1618,6 +1625,8 @@ The Panel-of-Gods (POG) or the Tansplant Review Board decides whether to accept 
 
 «Corticosteroid medicines such as prednisolone and dexamethasone (commonly called steroids) 〚…〛 also causes the liver to release extra sugar into the blood stream. » — [3]
 
+«Total Clearance: It takes about 5 to 5.5 half-lives for a medication to be almost completely cleared from the body. This means prednisone is generally out of your system within 16.5 to 22 hours after your last dose» — [4]
+
 #### Drug Names
 
 * _Generic:_ Prednisone
@@ -1628,7 +1637,7 @@ The Panel-of-Gods (POG) or the Tansplant Review Board decides whether to accept 
 * [1]&nbsp;<https://www.medicalnewstoday.com/articles/317015>
 * [2] [NIH](/source/nihgov/) «Prednisone affects inflammation, glucose tolerance, and bone turnover within hours of treatment in healthy individuals» — <https://pubmed.ncbi.nlm.nih.gov/22180452/>
 * [3]&nbsp;<https://eyeandear.org.au/patients-visitors/fact-sheets/oral-corticosteroids-and-your-blood-sugar-levels/>
-
+* [4] [Drugs.com](/source/drugscom/) — <https://www.drugs.com/medical-answers/prednisone-how-long-does-it-take-predesone-to-get-372449/>
 
 ### [Printed Liver](#printed-liver)
 

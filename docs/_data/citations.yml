@@ -1294,6 +1294,12 @@
   topic-slug: prednisone
   path: /topics/#prednisone
   description: "«Prednisone affects inflammation, glucose tolerance, and bone turnover within hours of treatment in healthy individuals» "
+- url: https://www.drugs.com/medical-answers/prednisone-how-long-does-it-take-predesone-to-get-372449/
+  source: drugscom
+  topic-name: Prednisone
+  topic-slug: prednisone
+  path: /topics/#prednisone
+  description: ""
 - url: https://en.m.wikipedia.org/wiki/Prothrombin_time
   source: wikipediaorg
   topic-name: PT
