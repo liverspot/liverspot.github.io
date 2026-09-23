@@ -1324,6 +1324,8 @@ The transportation of a donated liver by placing it into a 'box' (machine) that 
 
 * [1] <https://www.ucsfbenioffchildrens.org/-/media/project/ucsf/ucsf-bch/pdf/liver-transplant-manual.pdf>
 * [2] «Your Liver Transplant Guide» — <https://healthonline.washington.edu/sites/default/files/record_pdfs/Your-Liver-Transplant-Guide_ENTIRE_11-2025.pdf>
+* [3] «Northwestern Medicine Organ Transplant Center • Liver Transplantation • A Patient Handbook» —  <https://sf-transplant-nation.org/wp-content/uploads/2022/07/NMH-Transplant-patient-handbook.pdf>
+* [4] «Providing support for the transplant patient» — <https://hartfordhospital.org/file%20library/services/transplant%20services/transplant-support-guide.pdf>
 
 ### [Liver Transplant Surgery](#liver-transplant-surgery)
 
