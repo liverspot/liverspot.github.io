@@ -1879,8 +1879,11 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 ### [TIPS](#tips)
 
-«Transjugular intrahepatic portosystemic shunt (TIPS) is a procedure to create new connections between two blood vessels in your liver. You may need this procedure if you have severe liver problems.» — [2]
+Transjugular intrahepatic portosystemic shunt (TIPS) is a procedure to create a new connections between the portal vein (input) and hepatic vein (ouput) of the liver.  This makes some of the blood flow into the liver bypass the filtering done by the liver cells (e.g. hepatocytes) and immediately exit again.  This reduces portal vein pressure (HVPG) but also diminishes the amount of filtering done by the liver as the blood passes through it, potentially increasing the chance of HE (Hepatic Encephalopathy).
 
+«TIPS procedures typically take one to two hours. Your team will move you to a recovery room after the procedure. They’ll check on you as you wake up from anesthesia» — [1]
+
+#### Refs 
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/procedures/tips-procedure>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/tips>
@@ -1889,8 +1892,6 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 * [5] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/ency/images/ency/fullsize/21742.jpg>
 * [6] [UF Health](/source/medicineufledu/) — <https://gastroliver.medicine.ufl.edu/hepatology/for-patients/tips-shunt/>
 * [7] [UF Health](/source/medicineufledu/) — <https://gastroliver.medicine.ufl.edu/files/2012/07/TIPS1.jpg>
-
-«TIPS procedures typically take one to two hours. Your team will move you to a recovery room after the procedure. They’ll check on you as you wake up from anesthesia» — [1]
 
 ### [Topical Tacrolimus](#topical-tacrolimus)
 
