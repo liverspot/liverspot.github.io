@@ -28,15 +28,15 @@ table tr:nth-child(100), /*J*/
 table tr:nth-child(103), /*K*/
 table tr:nth-child(106), /*L*/
 table tr:nth-child(120), /*M*/
-table tr:nth-child(128), /*N*/
-table tr:nth-child(134), /*O*/
-table tr:nth-child(137), /*P*/
-table tr:nth-child(151), /*R*/
-table tr:nth-child(155), /*S*/
-table tr:nth-child(165), /*T*/
-table tr:nth-child(187), /*U*/
-table tr:nth-child(193), /*V*/
-table tr:nth-child(197), /*X*/
+table tr:nth-child(129), /*N*/
+table tr:nth-child(135), /*O*/
+table tr:nth-child(138), /*P*/
+table tr:nth-child(152), /*R*/
+table tr:nth-child(156), /*S*/
+table tr:nth-child(166), /*T*/
+table tr:nth-child(188), /*U*/
+table tr:nth-child(194), /*V*/
+table tr:nth-child(198), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -223,6 +223,7 @@ The following entries contain information on topics that have been brought up du
 |[MELD Exception Score &darr;](#meld-exception-score)||
 |[MRE &darr;](#mre)|Magnetic resonance elastography|
 |[MRI &darr;](#mri)|Magnetic resonance imaging|
+|[Multifocal Cancer &darr;](#multifocal-cancer)||
 |[Multiple Listing &darr;](#multiple-listing)||
 |[Mycophenolate Mofetil &darr;](#mycophenolate-mofetil)|CellCept, Myfortic|
 |[Naltrexone &darr;](#naltrexone) <a id="n"></a>|Vivitrol, ReVia|
@@ -1425,6 +1426,13 @@ Magnetic resonance imaging (MRI) is a type of diagnostic test that can create de
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768>
 
 
+### [Multifocal Cancer](#multifocal-cancer)
+
+«Multifocal lung cancer is a complex condition where more than one spot of lung cancer is present. Each of these spots could represent an individual cancer that is independent of the other spots in the lungs. Or, alternatively, the spots could mean a singular lung cancer has spread. The detection of multifocal lung cancer has increased with the use of low-dose CT scans for lung cancer screening and CT scans ordered for other conditions.» — [1]
+
+* [1] [Mayo Clinic](/source/mayoclinicorg/) «Multifocal Lung Cancer Specialty Group» — <https://www.mayoclinic.org/departments-centers/multifocal-lung-cancer-specialty-group/overview/ovc-20474869>
+
+* [2] [NIH](/source/nihgov/) «Multifocal hepatocellular carcinoma: intrahepatic metastasis or multicentric carcinogenesis?» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4293477/>
 
 ### [Multiple Listing](#multiple-listing)
 

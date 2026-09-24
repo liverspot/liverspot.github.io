@@ -1144,6 +1144,18 @@
   topic-slug: mri
   path: /topics/#mri
   description: ""
+- url: https://www.mayoclinic.org/departments-centers/multifocal-lung-cancer-specialty-group/overview/ovc-20474869
+  source: mayoclinicorg
+  topic-name: Multifocal Cancer
+  topic-slug: multifocal-cancer
+  path: /topics/#multifocal-cancer
+  description: "«Multifocal Lung Cancer Specialty Group» "
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4293477/
+  source: nihgov
+  topic-name: Multifocal Cancer
+  topic-slug: multifocal-cancer
+  path: /topics/#multifocal-cancer
+  description: "«Multifocal hepatocellular carcinoma: intrahepatic metastasis or multicentric carcinogenesis?» "
 - url: https://www.hrsa.gov/optn/patients/organ-transplants/multiple-listing
   source: hrsagov
   topic-name: Multiple Listing
