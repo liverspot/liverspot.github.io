@@ -1396,6 +1396,12 @@
   topic-slug: spironolactone
   path: /topics/#spironolactone
   description: ""
+- url: https://srtr.hrsa.gov
+  source: srtrhrsagov
+  topic-name: SRTR
+  topic-slug: srtr
+  path: /topics/#srtr
+  description: "«Main SRTR Site» "
 - url: https://www.dairbook.com/glossary/srtr
   source: dairbookcom
   topic-name: SRTR
@@ -1403,19 +1409,19 @@
   path: /topics/#srtr
   description: ""
 - url: https://srtr.hrsa.gov/transplant-center-search/center-search-results/?organ=liver&cityStateZip=utah
-  source: hrsagov
+  source: srtrhrsagov
   topic-name: SRTR
   topic-slug: srtr
   path: /topics/#srtr
   description: "«Utah Centers • Liver» "
 - url: https://srtr.hrsa.gov/interactive-report?center=UTLD&type=TX1&organ=LI
-  source: hrsagov
+  source: srtrhrsagov
   topic-name: SRTR
   topic-slug: srtr
   path: /topics/#srtr
   description: "«UTLD • Liver » "
 - url: https://srtr.hrsa.gov/interactive-report?center=UTMC&type=TX1&organ=LI
-  source: hrsagov
+  source: srtrhrsagov
   topic-name: SRTR
   topic-slug: srtr
   path: /topics/#srtr
