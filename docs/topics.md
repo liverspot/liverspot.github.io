@@ -1796,6 +1796,9 @@ The SRTR website provides access to a very detailed group of reports and tools t
 
 * [1]&nbsp;<https://www.srtr.org>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/srtr>
+* [3] [HRSA](/source/hrsagov/) «Utah Centers • Liver» — <https://srtr.hrsa.gov/transplant-center-search/center-search-results/?organ=liver&cityStateZip=utah>
+* [4] [HRSA](/source/hrsagov/) «UTLD • Liver » — <https://srtr.hrsa.gov/interactive-report?center=UTLD&type=TX1&organ=LI>
+* [5] [HRSA](/source/hrsagov/) «UTMC • Liver » — <https://srtr.hrsa.gov/interactive-report?center=UTMC&type=TX1&organ=LI>
 
 ### [Stanford KPD](#stanford-kpd)
 
@@ -2104,6 +2107,8 @@ Veltassa is used in adults to treat hyperkalemia (high levels of potassium in yo
 ### [Xifaxan](#xifaxan)
 Rifaximin (tradename Xifaxan) treats traveler's diarrhea and irritable bowel syndrome by stopping the growth of the bacteria that cause diarrhea. Rifaximin treats hepatic encephalopathy by stopping the growth of bacteria that produce toxins and that may worsen liver disease.
 
+Xifaxan is now available as a generic (Rifaxamin) in Canada.  The patent protection in the US (Until 2029?) did not happen in Canada.
+
 #### Drug Names
 
 * _Generic:_ Rifaximin
@@ -2115,9 +2120,7 @@ Rifaximin (tradename Xifaxan) treats traveler's diarrhea and irritable bowel syn
 * [2]&nbsp;<https://www.xifaxan.com/he/about-xifaxan-he/>
 * [3]&nbsp;<https://www.canadianmedcenter.com/drug/xifaxan>
 * [4]&nbsp;<https://www.canadapharmacy.com/products/xifaxan>
+* [5] [Drugs.com](/source/drugscom/) «Drug Interactions • Rifaximin» — <	https://www.drugs.com/drug-interactions/rifaximin,xifaxan-index.html>
 
-Xifaxan is now available as a generic (Rifaxamin) in Canada.  The patent protection in the US (Until 2029?) did not happen in Canada.
-
-Other brand names are: Xifaxanta/Zaxine_
 
 

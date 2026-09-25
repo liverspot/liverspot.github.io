@@ -1402,6 +1402,24 @@
   topic-slug: srtr
   path: /topics/#srtr
   description: ""
+- url: https://srtr.hrsa.gov/transplant-center-search/center-search-results/?organ=liver&cityStateZip=utah
+  source: hrsagov
+  topic-name: SRTR
+  topic-slug: srtr
+  path: /topics/#srtr
+  description: "«Utah Centers • Liver» "
+- url: https://srtr.hrsa.gov/interactive-report?center=UTLD&type=TX1&organ=LI
+  source: hrsagov
+  topic-name: SRTR
+  topic-slug: srtr
+  path: /topics/#srtr
+  description: "«UTLD • Liver » "
+- url: https://srtr.hrsa.gov/interactive-report?center=UTMC&type=TX1&organ=LI
+  source: hrsagov
+  topic-name: SRTR
+  topic-slug: srtr
+  path: /topics/#srtr
+  description: "«UTMC • Liver » "
 - url: https://my.clevelandclinic.org/health/diseases/15831-fatty-liver-disease
   source: clevelandclinicorg
   topic-name: Steatotic Liver Disease
@@ -1642,3 +1660,9 @@
   topic-slug: xifaxan
   path: /topics/#xifaxan
   description: ""
+- url: 	https://www.drugs.com/drug-interactions/rifaximin,xifaxan-index.html
+  source: drugscom
+  topic-name: Xifaxan
+  topic-slug: xifaxan
+  path: /topics/#xifaxan
+  description: "«Drug Interactions • Rifaximin» "
