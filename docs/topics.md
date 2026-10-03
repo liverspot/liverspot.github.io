@@ -31,12 +31,12 @@ table tr:nth-child(120), /*M*/
 table tr:nth-child(129), /*N*/
 table tr:nth-child(135), /*O*/
 table tr:nth-child(138), /*P*/
-table tr:nth-child(152), /*R*/
-table tr:nth-child(156), /*S*/
-table tr:nth-child(166), /*T*/
-table tr:nth-child(188), /*U*/
-table tr:nth-child(194), /*V*/
-table tr:nth-child(198), /*X*/
+table tr:nth-child(153), /*R*/
+table tr:nth-child(157), /*S*/
+table tr:nth-child(167), /*T*/
+table tr:nth-child(189), /*U*/
+table tr:nth-child(195), /*V*/
+table tr:nth-child(199), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -241,6 +241,7 @@ The following entries contain information on topics that have been brought up du
 |[PET &darr;](#pet)|Positron emission tomography|
 |[PEth &darr;](#peth)|Phosphatidylethanol|
 |[Pink Cloud &darr;](#pink-cloud)||
+|[POLST &darr;](#polst)|Physician Orders for Life-Sustaining Treatment|
 |[Pontine Stroke &darr;](#pontine-stroke)|Pontine Infarction|
 |[Post-Transplant Relapse &darr;](#post-transplant-relapse)||
 |[POG &darr;](#pog)|Panel of Gods|
@@ -1617,6 +1618,14 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 ### [POG](#pog)
 
 The Panel-of-Gods (POG) or the Tansplant Review Board decides whether to accept a patient as a transplant recipient case.  It is composed of doctors and additional staff that do a detailed evaluation of the patient along many axes.
+
+### [POLST](#polst)
+
+The California POLST (Physician Orders for Life-Sustaining Treatment) is an augmentation to DNR and other medical directives.
+
+«Physician Orders for Life-Sustaining Treatment (POLST) is a form that gives seriously-ill patients more control over their treatment during a medical crisis or at the end of life, including CPR, ventilation/intubation, scope of interventions, and tube feeding.» — [1]
+
+* [1] <https://capolst.org>
 
 ### [Pontine Stroke](#pontine-stroke)
 
