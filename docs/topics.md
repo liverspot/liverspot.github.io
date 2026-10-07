@@ -27,16 +27,16 @@ table tr:nth-child(93), /*I*/
 table tr:nth-child(100), /*J*/
 table tr:nth-child(103), /*K*/
 table tr:nth-child(106), /*L*/
-table tr:nth-child(120), /*M*/
-table tr:nth-child(129), /*N*/
-table tr:nth-child(135), /*O*/
-table tr:nth-child(138), /*P*/
-table tr:nth-child(153), /*R*/
-table tr:nth-child(157), /*S*/
-table tr:nth-child(167), /*T*/
-table tr:nth-child(189), /*U*/
-table tr:nth-child(195), /*V*/
-table tr:nth-child(199), /*X*/
+table tr:nth-child(121), /*M*/
+table tr:nth-child(130), /*N*/
+table tr:nth-child(136), /*O*/
+table tr:nth-child(139), /*P*/
+table tr:nth-child(154), /*R*/
+table tr:nth-child(158), /*S*/
+table tr:nth-child(168), /*T*/
+table tr:nth-child(190), /*U*/
+table tr:nth-child(196), /*V*/
+table tr:nth-child(200), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -216,6 +216,7 @@ The following entries contain information on topics that have been brought up du
 |[Living Donor Liver Transplant &darr;](#living-donor-liver-transplant)||
 |[Liver Transplant Patient Handbook &darr;](#liver-transplant-patient-handbook)||
 |[Liver Transplant Surgery &darr;](#liver-transplant-surgery)||
+|[Livtencity &darr;](#livtencity)|Maribavir|
 |[LOLA &darr;](#lola)|L‐ornithine‐L‐aspartate|
 |[Medical Marijuana &darr;](#medical-marijuana) <a id="m"></a>||
 |[MELD &darr;](#meld)|Model for end-stage liver disease|
@@ -1269,6 +1270,21 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 
 * [1]&nbsp;<https://www.merckconnect.com/prevymis/>
 * [2] [MedlinePlus](/source/medlineplusgov/) «Letermovir» — <https://medlineplus.gov/druginfo/meds/a618006.html>
+
+### [Livtencity](#livtencity)
+
+«Livtencity is an antiviral medicine used to treat illness caused by cytomegalovirus (CMV) in adults who have had a haematopoietic stem cell transplant or an organ transplant. It is used in patients whose CMV illness has not responded to at least one other treatment, including ganciclovir, valganciclovir, cidofovir or foscarnet.» — [1]
+
+#### Drug Names
+
+* _Generic:_ Maribavir
+* _Brand:_ Livtencity
+
+#### Refs
+
+* [1] <https://www.ema.europa.eu/en/medicines/human/EPAR/livtencity>
+* [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/maribavir-oral-route/description/drg-20526952>
+* [3] <https://pharsight.greyb.com/ingredient/maribavir-patent-expiration>
 
 ### [LiverSpot.org](#liverspotorg)
 

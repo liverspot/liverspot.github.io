@@ -1024,6 +1024,12 @@
   topic-slug: letermovir
   path: /topics/#letermovir
   description: "«Letermovir» "
+- url: https://www.mayoclinic.org/drugs-supplements/maribavir-oral-route/description/drg-20526952
+  source: mayoclinicorg
+  topic-name: Livtencity
+  topic-slug: livtencity
+  path: /topics/#livtencity
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/liver-function-tests/about/pac-20394595
   source: mayoclinicorg
   topic-name: Liver Function Tests
