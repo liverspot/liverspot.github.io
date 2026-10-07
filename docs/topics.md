@@ -818,10 +818,11 @@ Everolimus works by interfering with the growth of cancer cells, which are event
 
 #### Refs
 
-
 * [1] [NIH](/source/nihgov/) «Efficacy and safety of everolimus with reduced tacrolimus» — <https://pubmed.ncbi.nlm.nih.gov/41110610/>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/everolimus-oral-route/description/drg-20072842>
 * [3]&nbsp;<https://www.cancer.gov/publications/dictionaries/cancer-terms/def/everolimus>
+* [4] «ELIMINATE • Tacrolimus Minimization and Everolimus Monotherapy for Renal Function Preservation in Liver Transplant Recipients» — <https://www.patlynk.com/trial/NCT06280950>
+* [5] [NIH](/source/nihgov/) «Everolimus With Reduced Tacrolimus Improves Renal Function in De Novo Liver Transplant Recipients: A Randomized Controlled Trial» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3533764/>
 
 ### [Excess Protein](#excess-protein)
 

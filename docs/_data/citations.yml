@@ -538,6 +538,12 @@
   topic-slug: everolimus
   path: /topics/#everolimus
   description: ""
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3533764/
+  source: nihgov
+  topic-name: Everolimus
+  topic-slug: everolimus
+  path: /topics/#everolimus
+  description: "«Everolimus With Reduced Tacrolimus Improves Renal Function in De Novo Liver Transplant Recipients: A Randomized Controlled Trial» "
 - url: https://www.sciencedirect.com/science/article/pii/S1665268126000086
   source: sciencedirectcom
   topic-name: Expanded Criteria Donor
