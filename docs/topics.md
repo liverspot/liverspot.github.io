@@ -998,7 +998,7 @@ Professional Education
 
 HE is short for Hepatic Encephalopathy.
 
-Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (about the brain) and ‘pathos’ (disease). Depending on severity encephalopathy can show up as symptoms from headaches to coma. Hepatic encephalopathy (HE) is caused by liver problems and accumulated toxins in the blood.
+Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (about the brain) and ‘pathos’ (disease). Depending on severity encephalopathy can show up as symptoms from headaches to coma. Hepatic encephalopathy (HE) is caused by liver problems and accumulated toxins in the blood that ultimately infiltrate the brain.
 
 «Dizziness and lightheadedness in hepatic encephalopathy (HE) are common physical symptoms caused by the brain's reaction to unprocessed toxins in the bloodstream, such as ammonia.» — [2]
 
