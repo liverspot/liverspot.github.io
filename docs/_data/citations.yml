@@ -1066,6 +1066,18 @@
   topic-slug: living-donor-liver-transplant
   path: /topics/#living-donor-liver-transplant
   description: ""
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3184197/
+  source: nihgov
+  topic-name: Living Donor Liver Transplant
+  topic-slug: living-donor-liver-transplant
+  path: /topics/#living-donor-liver-transplant
+  description: "«Liver transplant recipient survival benefit with living donation in the MELD allocation era» "
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3731061/
+  source: nihgov
+  topic-name: Living Donor Liver Transplant
+  topic-slug: living-donor-liver-transplant
+  path: /topics/#living-donor-liver-transplant
+  description: "«Donor Morbidity After Living Donation for Liver Transplantation» "
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6478143/
   source: nihgov
   topic-name: LOLA

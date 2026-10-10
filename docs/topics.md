@@ -1360,6 +1360,8 @@ see this amazing (but very graphic) video [1] from UT Southwestern:
 The donor's remaining liver regrows and returns to its normal size, volume and capacity within a couple of months after the surgery. At the same time, the transplanted liver portion grows and restores normal liver function in the recipient.» — [1]
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/living-donor-liver-transplant/pyc-20384846>
+* [2] [NIH](/source/nihgov/) «Liver transplant recipient survival benefit with living donation in the MELD allocation era» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3184197/>
+* [3] [NIH](/source/nihgov/) «Donor Morbidity After Living Donation for Liver Transplantation» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3731061/>
 
 ### [LOLA](#lola)
 
