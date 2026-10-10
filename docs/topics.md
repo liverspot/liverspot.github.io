@@ -1968,8 +1968,11 @@ Apparently the approach can also be used to check the Portal Vein blood pressure
 
 «Organ transplants in which the donor and recipient Rh factors are different are performed quite often. The Rh antigen does not function as a "transplantation antigen," because it is only present on the surface of red blood cells and not on the parenchymal cells of the graft. Therefore, Rh-mismatched transplanted organs are not rejected more frequently than Rh-matched organs» — [1]
 
+Blood types 'O' and 'B' are the rarer organs when Rh factor is removes (e.g. see [3] for Kidney wait time statistic).
+
 * [1] <https://www.medscape.com/viewarticle/414309?form=fpf>
 * [2] [NIH](/source/nihgov/) «Liver Transplantation Across Rh Blood 〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC1852383/>
+* [3] «Frequently Asked Questions For Waitlisted Patients» — https://www.medstarhealth.org/-/media/project/mho/medstar/services/pdf/mgti-info-for-waitlisted-patients-revised-12-9-14.pdf
 
 ### [Transplant Games](#transplant-games)
 
