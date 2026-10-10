@@ -1972,7 +1972,7 @@ Blood types 'O' and 'B' are the rarer organs when Rh factor is removes (e.g. see
 
 * [1] <https://www.medscape.com/viewarticle/414309?form=fpf>
 * [2] [NIH](/source/nihgov/) «Liver Transplantation Across Rh Blood 〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC1852383/>
-* [3] «Frequently Asked Questions For Waitlisted Patients» — https://www.medstarhealth.org/-/media/project/mho/medstar/services/pdf/mgti-info-for-waitlisted-patients-revised-12-9-14.pdf
+* [3] «Frequently Asked Questions For Waitlisted Patients» — <https://www.medstarhealth.org/-/media/project/mho/medstar/services/pdf/mgti-info-for-waitlisted-patients-revised-12-9-14.pdf>
 
 ### [Transplant Games](#transplant-games)
 
