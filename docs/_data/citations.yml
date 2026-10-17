@@ -118,6 +118,30 @@
   topic-slug: angioplasty
   path: /topics/#angioplasty
   description: ""
+- url: https://www.cdc.gov/healthy-pets/risk-factors/index.html
+  source: cdcgov
+  topic-name: Animals after transplant
+  topic-slug: animals-after-transplant
+  path: /topics/#animals-after-transplant
+  description: "«People at Increased Risk for Illness from Animals» "
+- url: https://www.reddit.com/r/transplant/comments/1ww8ua1/i_need_advice_on_pets/
+  source: redditcom
+  topic-name: Animals after transplant
+  topic-slug: animals-after-transplant
+  path: /topics/#animals-after-transplant
+  description: ""
+- url: https://www.reddit.com/r/transplant/comments/1vh75fh/adios_mr_tortoise/
+  source: redditcom
+  topic-name: Animals after transplant
+  topic-slug: animals-after-transplant
+  path: /topics/#animals-after-transplant
+  description: ""
+- url: https://www.reddit.com/r/transplant/comments/1nakbt7/question_about_having_pets/
+  source: redditcom
+  topic-name: Animals after transplant
+  topic-slug: animals-after-transplant
+  path: /topics/#animals-after-transplant
+  description: ""
 - url: https://en.wikipedia.org/wiki/Ascites
   source: wikipediaorg
   topic-name: Ascites
@@ -1102,6 +1126,12 @@
   topic-slug: lola
   path: /topics/#lola
   description: "«Novel Drugs for the Management of Hepatic Encephalopathy〚…〛» "
+- url: https://www.reddit.com/r/Cirrhosis/comments/1oox3h7/to_the_mod_who_locked_the_thread_on_lola/
+  source: redditcom
+  topic-name: LOLA
+  topic-slug: lola
+  path: /topics/#lola
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545
   source: mayoclinicorg
   topic-name: MELD

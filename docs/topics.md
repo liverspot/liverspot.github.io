@@ -414,6 +414,27 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/treatments/22060-angioplasty>
 
+### [Animals after transplant](#animals-after-transplant)
+
+«These animals are more likely to carry germs that can make people sick:
+* Reptiles and amphibians (lizards, snakes, turtles, frogs)
+* Backyard poultry (chickens, ducks, turkeys, geese)
+* Rodents (hamsters, guinea pigs, rats, mice, and other small rodents)
+* Exotic pets (monkeys and other wild animals)
+* Even animals that look clean and healthy can carry harmful germs, and areas where animals live or roam can be contaminated – you don’t have to touch an animal to get sick.
+» — [2]
+
+«Currently 1 month since my kidney transplant and thankfully doing well. I'd like to know if anyone here are able to keep their pets after transplant? Also how long did you need to distance from your pets after transplant? My doctors don't really want me to keep my cats so I can't get a decent advice from them... it's just a non-negotiable from me to get rid of my cats.» — [5]
+
+#### Refs
+
+* [1] «Toxoplasmosis in Cats» — <https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/toxoplasmosis-cats>
+* [2] [CDC](/source/cdcgov/) «People at Increased Risk for Illness from Animals» — <https://www.cdc.gov/healthy-pets/risk-factors/index.html>
+* [3] [Reddit](/source/redditcom/) — <https://www.reddit.com/r/transplant/comments/1ww8ua1/i_need_advice_on_pets/>
+* [4] [Reddit](/source/redditcom/) — <https://www.reddit.com/r/transplant/comments/1vh75fh/adios_mr_tortoise/>
+* [5] [Reddit](/source/redditcom/) — <https://www.reddit.com/r/transplant/comments/1nakbt7/question_about_having_pets/>
+
+
 ### [Ascites](#ascites)
 «Ascites is the accumulation of water in the abdomen, commonly due to leakage from the liver’s portal vein. Ascites adds significant body weight as the water accumulates, making movement more difficult. It also pushes on internal organs, and this compression can affect ability to breath, eat, and other body activities.» — [3]
 
@@ -1377,7 +1398,7 @@ L‐ornithine‐L‐aspartate for hepatic encephalopathy
 * [4] «Hepatic Encephalopathy Treatment: Beyond Lactulose and Rifaximin
   » — <https://practicalgastro.com/2022/05/18/hepatic-encephalopathy-treatment-beyond-lactulose-and-rifaximin/>
 * [5] [NIH](/source/nihgov/) «Novel Drugs for the Management of Hepatic Encephalopathy〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9257922/>
-* [6]&nbsp;<https://www.reddit.com/r/Cirrhosis/comments/1oox3h7/to_the_mod_who_locked_the_thread_on_lola/>
+* [6] [Reddit](/source/redditcom/) — <https://www.reddit.com/r/Cirrhosis/comments/1oox3h7/to_the_mod_who_locked_the_thread_on_lola/>
 
 «Results: A total of 12 articles were ultimately included, involving 858 patients, with 433 in the treatment group and 425 in the control group. Meta-analysis results: In terms of the total effective rate (RR: 1.31, 95%CI: 1.22, 1.42), the result is statistically significant (Z = 7.15, P = 0.00001 < 0.05), and for AST, ALT, NH3, TBIL, P = 0.00001 < 0.05. The pooled (RR: 1.31 [95% CI = 1.22, 1.42]), which is statistically significant, LOLA and Lactulose is 31% more effective than Lactulose alone in the control group in treating HE.» — [2]
 
