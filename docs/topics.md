@@ -16,27 +16,27 @@ styles:
 /*================================== */
 
 table tr:nth-child(1), /*A*/
-table tr:nth-child(17), /*B*/
-table tr:nth-child(24), /*C*/
-table tr:nth-child(36), /*D*/
-table tr:nth-child(48), /*E*/
-table tr:nth-child(61), /*F*/
-table tr:nth-child(69), /*G*/
-table tr:nth-child(76), /*H*/
-table tr:nth-child(93), /*I*/
-table tr:nth-child(100), /*J*/
-table tr:nth-child(103), /*K*/
-table tr:nth-child(106), /*L*/
-table tr:nth-child(121), /*M*/
-table tr:nth-child(130), /*N*/
-table tr:nth-child(136), /*O*/
-table tr:nth-child(139), /*P*/
-table tr:nth-child(154), /*R*/
-table tr:nth-child(158), /*S*/
-table tr:nth-child(168), /*T*/
-table tr:nth-child(190), /*U*/
-table tr:nth-child(196), /*V*/
-table tr:nth-child(200), /*X*/
+table tr:nth-child(18), /*B*/
+table tr:nth-child(25), /*C*/
+table tr:nth-child(37), /*D*/
+table tr:nth-child(49), /*E*/
+table tr:nth-child(62), /*F*/
+table tr:nth-child(70), /*G*/
+table tr:nth-child(77), /*H*/
+table tr:nth-child(94), /*I*/
+table tr:nth-child(101), /*J*/
+table tr:nth-child(104), /*K*/
+table tr:nth-child(107), /*L*/
+table tr:nth-child(122), /*M*/
+table tr:nth-child(131), /*N*/
+table tr:nth-child(137), /*O*/
+table tr:nth-child(140), /*P*/
+table tr:nth-child(155), /*R*/
+table tr:nth-child(159), /*S*/
+table tr:nth-child(169), /*T*/
+table tr:nth-child(191), /*U*/
+table tr:nth-child(197), /*V*/
+table tr:nth-child(201), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -110,6 +110,7 @@ The following entries contain information on topics that have been brought up du
 |[Ammonia Level &darr;](#ammonia-level)||
 |[Angiogram &darr;](#angiogram)||
 |[Angioplasty &darr;](#angioplasty)||
+|[Animals after transplant &darr;](#animals-after-transplant)||
 |[Ascites &darr;](#ascites)||
 |[AST &darr;](#ast)|Aspartate aminotransferase|
 |[Asterixis &darr;](#asterixis)||
@@ -421,7 +422,8 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 * Backyard poultry (chickens, ducks, turkeys, geese)
 * Rodents (hamsters, guinea pigs, rats, mice, and other small rodents)
 * Exotic pets (monkeys and other wild animals)
-* Even animals that look clean and healthy can carry harmful germs, and areas where animals live or roam can be contaminated – you don’t have to touch an animal to get sick.
+
+Even animals that look clean and healthy can carry harmful germs, and areas where animals live or roam can be contaminated – you don’t have to touch an animal to get sick.
 » — [2]
 
 «Currently 1 month since my kidney transplant and thankfully doing well. I'd like to know if anyone here are able to keep their pets after transplant? Also how long did you need to distance from your pets after transplant? My doctors don't really want me to keep my cats so I can't get a decent advice from them... it's just a non-negotiable from me to get rid of my cats.» — [5]
@@ -430,9 +432,9 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 * [1] «Toxoplasmosis in Cats» — <https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/toxoplasmosis-cats>
 * [2] [CDC](/source/cdcgov/) «People at Increased Risk for Illness from Animals» — <https://www.cdc.gov/healthy-pets/risk-factors/index.html>
-* [3] [Reddit](/source/redditcom/) — <https://www.reddit.com/r/transplant/comments/1ww8ua1/i_need_advice_on_pets/>
-* [4] [Reddit](/source/redditcom/) — <https://www.reddit.com/r/transplant/comments/1vh75fh/adios_mr_tortoise/>
-* [5] [Reddit](/source/redditcom/) — <https://www.reddit.com/r/transplant/comments/1nakbt7/question_about_having_pets/>
+* [3] [Reddit](/source/redditcom/) «I need advice on pets!» — <https://www.reddit.com/r/transplant/comments/1ww8ua1/>
+* [4] [Reddit](/source/redditcom/) «Adios, Mr Tortoise» — <https://www.reddit.com/r/transplant/comments/1vh75fh/>
+* [5] [Reddit](/source/redditcom/) «Question about having pets» — <https://www.reddit.com/r/transplant/comments/1nakbt7/>
 
 
 ### [Ascites](#ascites)
@@ -1398,7 +1400,7 @@ L‐ornithine‐L‐aspartate for hepatic encephalopathy
 * [4] «Hepatic Encephalopathy Treatment: Beyond Lactulose and Rifaximin
   » — <https://practicalgastro.com/2022/05/18/hepatic-encephalopathy-treatment-beyond-lactulose-and-rifaximin/>
 * [5] [NIH](/source/nihgov/) «Novel Drugs for the Management of Hepatic Encephalopathy〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC9257922/>
-* [6] [Reddit](/source/redditcom/) — <https://www.reddit.com/r/Cirrhosis/comments/1oox3h7/to_the_mod_who_locked_the_thread_on_lola/>
+* [6] [Reddit](/source/redditcom/) «To the mod who locked the thread on LOLA» — <https://www.reddit.com/r/Cirrhosis/comments/1oox3h7/>
 
 «Results: A total of 12 articles were ultimately included, involving 858 patients, with 433 in the treatment group and 425 in the control group. Meta-analysis results: In terms of the total effective rate (RR: 1.31, 95%CI: 1.22, 1.42), the result is statistically significant (Z = 7.15, P = 0.00001 < 0.05), and for AST, ALT, NH3, TBIL, P = 0.00001 < 0.05. The pooled (RR: 1.31 [95% CI = 1.22, 1.42]), which is statistically significant, LOLA and Lactulose is 31% more effective than Lactulose alone in the control group in treating HE.» — [2]
 
