@@ -208,6 +208,18 @@
   topic-slug: brto
   path: /topics/#brto
   description: "«Balloon-occluded retrograde transvenous obliteration» "
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4139430/
+  source: nihgov
+  topic-name: BRTO
+  topic-slug: brto
+  path: /topics/#brto
+  description: "«Portosystemic Shunt Syndrome and Endovascular Management of Hepatic Encephalopathy» "
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3312157/
+  source: nihgov
+  topic-name: BRTO
+  topic-slug: brto
+  path: /topics/#brto
+  description: "«Balloon-occluded Retrograde Transvenous Obliteration (BRTO): Preprocedural Evaluation and Imaging» "
 - url: https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821
   source: mayoclinicorg
   topic-name: BUN Test

@@ -508,9 +508,12 @@ The techniques employed are typically adapted depending on specific portosystemi
 
 #### Refs
 
-* [1] <https://www.cirse.org/patients/general-information/ir-procedures/balloon-occluded-retrograde-transvenous-obliteration-brto/>
+* [1] «Balloon-occluded retrograde transvenous obliteration (BRTO)» — <https://www.cirse.org/patients/general-information/ir-procedures/balloon-occluded-retrograde-transvenous-obliteration-brto/>
 * [2] <https://floridaradiologyconsultants.com/interventional-radiology/brto-bato/>
 * [3] [Radiopaedia](/source/radiopaediaorg/) «Balloon-occluded retrograde transvenous obliteration» — <https://radiopaedia.org/articles/balloon-occluded-retrograde-transvenous-obliteration?lang=us>
+* [4] [NIH](/source/nihgov/) «Portosystemic Shunt Syndrome and Endovascular Management of Hepatic Encephalopathy» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4139430/>
+* [5] [NIH](/source/nihgov/) «Balloon-occluded Retrograde Transvenous Obliteration (BRTO): Preprocedural Evaluation and Imaging» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3312157/>
+* [6] «Retrograde Balloon Occlusion Variceal Ablation» — <https://radiologykey.com/retrograde-balloon-occlusion-variceal-ablation/
 
 ### [BUN Test](#bun-test)
 
