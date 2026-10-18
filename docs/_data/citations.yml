@@ -190,6 +190,24 @@
   topic-slug: bactrim
   path: /topics/#bactrim
   description: ""
+- url: https://www.reddit.com/r/transplant/comments/1b46xn0/
+  source: redditcom
+  topic-name: Behavior after Transplant
+  topic-slug: behavior-after-transplant
+  path: /topics/#behavior-after-transplant
+  description: "«For those who are into plants and gardening. What did you do post-transplant?» "
+- url: https://www.myast.org/findyourvoice/how-do-i-stay-healthy-after-my-transplant
+  source: myastorg
+  topic-name: Behavior after Transplant
+  topic-slug: behavior-after-transplant
+  path: /topics/#behavior-after-transplant
+  description: "«How Do I Stay Healthy After My Transplant?» "
+- url: https://www.myast.org/resources?keywords=safety
+  source: myastorg
+  topic-name: Behavior after Transplant
+  topic-slug: behavior-after-transplant
+  path: /topics/#behavior-after-transplant
+  description: "«Transplant 'Safety' Resources» "
 - url: https://medlineplus.gov/lab-tests/bilirubin-blood-test/
   source: medlineplusgov
   topic-name: Bilirubin

@@ -17,26 +17,26 @@ styles:
 
 table tr:nth-child(1), /*A*/
 table tr:nth-child(18), /*B*/
-table tr:nth-child(25), /*C*/
-table tr:nth-child(37), /*D*/
-table tr:nth-child(49), /*E*/
-table tr:nth-child(62), /*F*/
-table tr:nth-child(70), /*G*/
-table tr:nth-child(77), /*H*/
-table tr:nth-child(94), /*I*/
-table tr:nth-child(101), /*J*/
-table tr:nth-child(104), /*K*/
-table tr:nth-child(107), /*L*/
-table tr:nth-child(122), /*M*/
-table tr:nth-child(131), /*N*/
-table tr:nth-child(137), /*O*/
-table tr:nth-child(140), /*P*/
-table tr:nth-child(155), /*R*/
-table tr:nth-child(159), /*S*/
-table tr:nth-child(169), /*T*/
-table tr:nth-child(191), /*U*/
-table tr:nth-child(197), /*V*/
-table tr:nth-child(201), /*X*/
+table tr:nth-child(26), /*C*/
+table tr:nth-child(38), /*D*/
+table tr:nth-child(50), /*E*/
+table tr:nth-child(63), /*F*/
+table tr:nth-child(71), /*G*/
+table tr:nth-child(78), /*H*/
+table tr:nth-child(95), /*I*/
+table tr:nth-child(102), /*J*/
+table tr:nth-child(105), /*K*/
+table tr:nth-child(108), /*L*/
+table tr:nth-child(123), /*M*/
+table tr:nth-child(132), /*N*/
+table tr:nth-child(138), /*O*/
+table tr:nth-child(141), /*P*/
+table tr:nth-child(156), /*R*/
+table tr:nth-child(160), /*S*/
+table tr:nth-child(170), /*T*/
+table tr:nth-child(192), /*U*/
+table tr:nth-child(198), /*V*/
+table tr:nth-child(202), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -117,6 +117,7 @@ The following entries contain information on topics that have been brought up du
 |[Atrophy &darr;](#atrophy)||
 |[Bactrim &darr;](#bactrim) <a id="b"></a>|Sulfamethoxazole and Trimethoprim|
 |[Bausch PAP &darr;](#bausch-pap)|Patient Assistance Program|
+|[Behavior after transplant &darr;](#behavior-after-transplant)||
 |[Bilirubin &darr;](#bilirubin)||
 |[BK Virus &darr;](#bk-virus)|'BK' are initials|
 |[BMP &darr;](#bmp)|basic metabolic panel|
@@ -495,6 +496,21 @@ Bausch Health PAP Summary (2026)
 What it is: A program that provides Xifaxan at no cost for up to one year for eligible patients
 
 * [1]&nbsp;<https://www.bauschhealthpap.com/globalassets/pi/xifaxan550-pi.pdf>
+
+### [Behavior after Transplant](#behavior-after-transplant)
+
+Flouring after an organ transplant involves balancing between risk and meaningful existence.  You need to decide what to eat [3], whether to keep a pet [2], what hobbies to continue [1], and what safety measures to take with the many 'dangers' that will be around you ([4], [5], [6]).
+
+Generally, for the first six months your immune system is seriously compromised (weakened) to prevent rejection.  Up to about a year, you are still recovering and likely at higher immunosuppressant levels.  During these periods being very conservative can help avoid serious risks of complications and graft failure.
+
+After that first year you need to determine a balance that works for you, without knowing what the actual risks are… just that the risks are there, and you will get _much sicker_ than someone with a fully functional immune system. 
+
+* [1] [Reddit](/source/redditcom/) «For those who are into plants and gardening. What did you do post-transplant?» — <https://www.reddit.com/r/transplant/comments/1b46xn0/>
+* [2] [Animals after transplant](#animals-after-transplant)
+* [3] [Food Safety after Transplant](#food-safety-after-transplant)
+* [4] [AST](/source/myastorg/) «How Do I Stay Healthy After My Transplant?» — <https://www.myast.org/findyourvoice/how-do-i-stay-healthy-after-my-transplant>
+* [5] [Liver Transplant Patient Handbook](#liver-transplant-patient-handbook)
+* [6] [AST](/source/myastorg/) «Transplant 'Safety' Resources» — <https://www.myast.org/resources?keywords=safety>
 
 ### [Bilirubin](#bilirubin)
 «Bilirubin is a yellowish substance made during your body's normal process of breaking down old red blood cells. Bilirubin is found in bile, a fluid your liver makes that helps you digest food. If your liver is healthy, it will remove most of the bilirubin from your body.» — [2]
