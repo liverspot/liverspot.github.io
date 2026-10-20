@@ -499,7 +499,7 @@ What it is: A program that provides Xifaxan at no cost for up to one year for el
 
 ### [Behavior after Transplant](#behavior-after-transplant)
 
-Flouring after an organ transplant involves balancing between risk and meaningful existence.  You need to decide what to eat [3], whether to keep a pet [2], what hobbies to continue [1], and what safety measures to take with the many 'dangers' that will be around you ([4], [5], [6]).
+Flourishing after an organ transplant involves balancing between risk and meaningful existence.  You need to decide what to eat [3], whether to keep a pet [2], what hobbies to continue [1], and what safety measures to take with the many 'dangers' that will be around you ([4], [5], [6]).
 
 Generally, for the first six months your immune system is seriously compromised (weakened) to prevent rejection.  Up to about a year, you are still recovering and likely at higher immunosuppressant levels.  During these periods being very conservative can help avoid serious risks of complications and graft failure.
 
