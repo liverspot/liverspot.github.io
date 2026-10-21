@@ -36,7 +36,7 @@ table tr:nth-child(160), /*S*/
 table tr:nth-child(170), /*T*/
 table tr:nth-child(192), /*U*/
 table tr:nth-child(198), /*V*/
-table tr:nth-child(202), /*X*/
+table tr:nth-child(203), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -298,6 +298,7 @@ The following entries contain information on topics that have been brought up du
 |[Valcyte &darr;](#valcyte) <a id="v"></a>|Valganciclovir|
 |[Vein Mapping &darr;](#vein-mapping)|Arterial Mapping, Vessel Mapping|
 |[Veltassa &darr;](#veltassa)|Patiromer|
+|[Viral Hepatitis &darr;](#viral-hepatitis)||
 |[Vivitrol &darr;](#vivitrol)|Naltrexone|
 |[XIAFLEX &darr;](#xiaflex) <a id="x"></a>|Collagenase Clostridium histolyticum|
 |[Xifaxan &darr;](#xifaxan)|Rifaximin|
@@ -1080,7 +1081,7 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 * [2] «Pleural effusion» — <https://cirrhosiscare.ca/pleural-effusion/>
 
 ### [Hepatitis](#hepatitis)
-«Hepatitis means inflammation of the liver. Usually the term is short for one of the five Viral Hepatitis strains: Hepatitis A, B, C, D and E.»
+«Hepatitis means inflammation of the liver. Usually the term is short for one of the five [Viral Hepatitis](#viral-hepatitis) strains: Hepatitis A, B, C, D and E.»
 
 * [1] [JHM](/source/hopkinsmedicineorg/) — <https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis>
 * [2] [CDC](/source/cdcgov/) — <https://www.cdc.gov/hepatitis/abc/index.htm>
@@ -2169,6 +2170,23 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 Veltassa is used in adults to treat hyperkalemia (high levels of potassium in your blood). It works by removing excess potassium from the body.» — [1]
 
 * [1] [Drugs.com](/source/drugscom/) — <https://www.drugs.com/veltassa.html>
+
+### [Viral Hepatitis](#viral-hepatitis)
+
+Viral Hepatitis is [liver inflammation](#hepatitis) that is caused by a virus.  There are five different viruses that go simply by 'A', 'B', 'C', 'D', and 'E'.  Of these 'B' and 'C' are the most concerning to transplant patients because they can be transmitted along with the transplanted organ.
+
+Hepatitis B is not normally curable ([2]), but is manageable with drug treatment.  Given living with a transplanted organ is not curable, but is manageable (with immunosuppressant drug treatment and other regimens), this is not a significantly different situation for a transplant recipient.
+
+Hepatitis C is normally curable (95%+ success rate [2]).  It is also likely to be detected very early as part of the transplant procedure.
+
+
+#### Refs
+
+* [1] [JHM](/source/hopkinsmedicineorg/) — <https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis>
+* [2] «Treatment Options for Hepatitis B» — <https://www.hepb.org/treatment-and-management/treatment/>
+* [3] [CDC](/source/cdcgov/) «Treatment of Hepatitis C» — <https://www.cdc.gov/hepatitis-c/treatment/index.html>
+* [4] [Mayo Clinic](/source/mayoclinicorg/) «Entecavir» — <https://www.mayoclinic.org/drugs-supplements/entecavir-oral-route/description/drg-20063656>
+
 
 ### [Vivitrol](#vivitrol)
 

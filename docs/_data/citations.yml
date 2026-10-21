@@ -1738,6 +1738,24 @@
   topic-slug: veltessa
   path: /topics/#veltessa
   description: ""
+- url: https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis
+  source: hopkinsmedicineorg
+  topic-name: Viral Hepatitis
+  topic-slug: viral-hepatitis
+  path: /topics/#viral-hepatitis
+  description: ""
+- url: https://www.cdc.gov/hepatitis-c/treatment/index.html
+  source: cdcgov
+  topic-name: Viral Hepatitis
+  topic-slug: viral-hepatitis
+  path: /topics/#viral-hepatitis
+  description: "«Treatment of Hepatitis C» "
+- url: https://www.mayoclinic.org/drugs-supplements/entecavir-oral-route/description/drg-20063656
+  source: mayoclinicorg
+  topic-name: Viral Hepatitis
+  topic-slug: viral-hepatitis
+  path: /topics/#viral-hepatitis
+  description: "«Entecavir» "
 - url: https://www.drugs.com/vivitrol.html
   source: drugscom
   topic-name: Vivitrol
