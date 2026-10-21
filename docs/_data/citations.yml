@@ -820,18 +820,6 @@
   topic-slug: hepatic-hydrothorax
   path: /topics/#hepatic-hydrothorax
   description: "«Pleural effusion in liver disease» "
-- url: https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis
-  source: hopkinsmedicineorg
-  topic-name: Hepatitis
-  topic-slug: hepatitis
-  path: /topics/#hepatitis
-  description: ""
-- url: https://www.cdc.gov/hepatitis/abc/index.htm
-  source: cdcgov
-  topic-name: Hepatitis
-  topic-slug: hepatitis
-  path: /topics/#hepatitis
-  description: ""
 - url: https://www.dairbook.com/glossary/hepatitis
   source: dairbookcom
   topic-name: Hepatitis
