@@ -1081,7 +1081,7 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 * [2] «Pleural effusion» — <https://cirrhosiscare.ca/pleural-effusion/>
 
 ### [Hepatitis](#hepatitis)
-«Hepatitis means inflammation of the liver. Usually the term is short for one of the five [Viral Hepatitis](#viral-hepatitis) strains: Hepatitis A, B, C, D and E.»
+«Hepatitis means inflammation of the liver. Usually the term is short for one of the five [Viral Hepatitis](#viral-hepatitis) strains: Hepatitis A, B, C, D and E.» — [3]
 
 * [1] [JHM](/source/hopkinsmedicineorg/) — <https://www.hopkinsmedicine.org/health/conditions-and-diseases/hepatitis>
 * [2] [CDC](/source/cdcgov/) — <https://www.cdc.gov/hepatitis/abc/index.htm>
