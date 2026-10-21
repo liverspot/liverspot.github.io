@@ -1667,7 +1667,19 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 <span class='topic-arrow' >[&rarr;](/topic/peth/)</span>
 ### [PEth](/topic/peth/)
 
-«Phosphatidylethanol (PEth) testing is a reliable method to help create a picture of alcohol consumption.» — [2]
+«Phosphatidylethanol (PEth) testing is a reliable method to help create a picture of alcohol consumption.» — [1]
+
+«The gold standard of alcohol consumption testing is the PEth test.  This blood test can detect alcohol consumption over the last four weeks by the presence of phosphatidylethanol in your bloodstream.  This phosphatidylethanol is produced due to consumption of ethanol (alcohol) and stays present for much longer than the alcohol and is detectable at the nanogram level.  That is one-billionth of a gram.  A tiny amount.
+
+Even though the PEth test is at the nanogram level, they do realize that there is some error range in the test.  For Stanford the values they use are:
+
+* Less than 10 ng/mL — Not detected
+* 10 – 20 ng/mL — Abstinence or light alcohol consumption
+* 20 – 200 ng/mL — Moderate consumption
+* 200+ ng/mL — Heavy or chronic alcohol use
+» — [2]
+
+#### Refs
 
 * [1]&nbsp;<https://lextox.co.uk/blog-posts/phosphatidylethanol-peth-testing/>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/peth>
