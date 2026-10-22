@@ -1897,6 +1897,8 @@ Also owns: <https://srtr.org>
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/15831-fatty-liver-disease>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/fatty-liver-disease-masld/symptoms-causes/syc-20354567>
+* [3] [NIH](/source/nihgov/) «Nonalcoholic Fatty Liver Disease and Obesity Treatment» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6770992/>
+* [4] [Mayo Clinic](/source/mayoclinicorg/) «Fatty liver disease (MASLD) diet» — <https://www.mayoclinic.org/diseases-conditions/fatty-liver-disease-masld/in-depth/fatty-liver-disease-masld-diet/art-20588469>
 
 ### [St. Mary's Reno](#st-marys-reno)
 

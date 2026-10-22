@@ -1510,6 +1510,18 @@
   topic-slug: steatotic-liver-disease
   path: /topics/#steatotic-liver-disease
   description: ""
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6770992/
+  source: nihgov
+  topic-name: Steatotic Liver Disease
+  topic-slug: steatotic-liver-disease
+  path: /topics/#steatotic-liver-disease
+  description: "«Nonalcoholic Fatty Liver Disease and Obesity Treatment» "
+- url: https://www.mayoclinic.org/diseases-conditions/fatty-liver-disease-masld/in-depth/fatty-liver-disease-masld-diet/art-20588469
+  source: mayoclinicorg
+  topic-name: Steatotic Liver Disease
+  topic-slug: steatotic-liver-disease
+  path: /topics/#steatotic-liver-disease
+  description: "«Fatty liver disease (MASLD) diet» "
 - url: https://www.radiologyinfo.org/en/info/chemoembol
   source: radiologyinfoorg
   topic-name: TACE
