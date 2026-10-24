@@ -545,7 +545,7 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 
 ### [BRTO](#brto)
 
-Balloon-occluded retrograde transvenous obliteration (BRTO)
+Balloon-occluded retrograde transvenous obliteration (BRTO) generally of the a gastrorenal or gastrocaval shunt.
 
 «The classic BRTO procedure has been largely supplanted by modified techniques which involve shorter procedure times. These include:
 
