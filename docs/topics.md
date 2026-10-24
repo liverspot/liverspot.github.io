@@ -16,27 +16,27 @@ styles:
 /*================================== */
 
 table tr:nth-child(1), /*A*/
-table tr:nth-child(18), /*B*/
-table tr:nth-child(26), /*C*/
-table tr:nth-child(38), /*D*/
-table tr:nth-child(50), /*E*/
-table tr:nth-child(63), /*F*/
-table tr:nth-child(71), /*G*/
-table tr:nth-child(78), /*H*/
-table tr:nth-child(95), /*I*/
-table tr:nth-child(102), /*J*/
-table tr:nth-child(105), /*K*/
-table tr:nth-child(108), /*L*/
-table tr:nth-child(123), /*M*/
-table tr:nth-child(132), /*N*/
-table tr:nth-child(138), /*O*/
-table tr:nth-child(141), /*P*/
-table tr:nth-child(156), /*R*/
-table tr:nth-child(160), /*S*/
-table tr:nth-child(170), /*T*/
-table tr:nth-child(192), /*U*/
-table tr:nth-child(198), /*V*/
-table tr:nth-child(203), /*X*/
+table tr:nth-child(19), /*B*/
+table tr:nth-child(27), /*C*/
+table tr:nth-child(39), /*D*/
+table tr:nth-child(51), /*E*/
+table tr:nth-child(64), /*F*/
+table tr:nth-child(72), /*G*/
+table tr:nth-child(79), /*H*/
+table tr:nth-child(96), /*I*/
+table tr:nth-child(103), /*J*/
+table tr:nth-child(106), /*K*/
+table tr:nth-child(109), /*L*/
+table tr:nth-child(124), /*M*/
+table tr:nth-child(133), /*N*/
+table tr:nth-child(139), /*O*/
+table tr:nth-child(142), /*P*/
+table tr:nth-child(157), /*R*/
+table tr:nth-child(161), /*S*/
+table tr:nth-child(171), /*T*/
+table tr:nth-child(193), /*U*/
+table tr:nth-child(199), /*V*/
+table tr:nth-child(204), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -106,6 +106,7 @@ The following entries contain information on topics that have been brought up du
 |[Albumin &darr;](#albumin)||
 |[Alcohol-induced hepatitis &darr;](#alcohol-induced-hepatitis)||
 |[ALP &darr;](#alp)|Alkaline phosphatase|
+|[Alpha-1-antitrypsin deficiency &darr;](#alpha-1-antitrypsin-deficiency)|AATD|
 |[ALT &darr;](#alt)|Alanine aminotransferase|
 |[Ammonia Level &darr;](#ammonia-level)||
 |[Angiogram &darr;](#angiogram)||
@@ -313,7 +314,6 @@ The following entries contain information on topics that have been brought up du
 
 
 
-
 ### [ACR](#acr)
 
 Acute cellular rejection
@@ -394,6 +394,13 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp>
 * [2] <https://labtestsonline.org.uk/tests/alkaline-phosphatase-alp-test>
+
+
+### [Alpha-1-antitrypsin deficiency](#alpha-1-antitrypsin-deficiency)
+
+«Alpha-1-antitrypsin deficiency (AATD) is a condition that's passed through families, called inherited. It can cause damage to the lungs, liver, skin and blood vessels. Not everyone who has AATD develops symptoms or health concerns. People in the same family may have different symptoms.» — [1]
+
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/alpha-1-antitrypsin-deficiency/symptoms-causes/syc-20588790>
 
 ### [ALT](#alt)
 

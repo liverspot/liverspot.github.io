@@ -94,6 +94,12 @@
   topic-slug: alp
   path: /topics/#alp
   description: ""
+- url: https://www.mayoclinic.org/diseases-conditions/alpha-1-antitrypsin-deficiency/symptoms-causes/syc-20588790
+  source: mayoclinicorg
+  topic-name: Alpha-1-antitrypsin deficiency
+  topic-slug: alpha-1-antitrypsin-deficiency
+  path: /topics/#alpha-1-antitrypsin-deficiency
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/alanine-aminotransferase-alt-test/about/pac-20582729
   source: mayoclinicorg
   topic-name: ALT
