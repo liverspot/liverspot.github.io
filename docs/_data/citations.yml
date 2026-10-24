@@ -100,6 +100,12 @@
   topic-slug: alpha-1-antitrypsin-deficiency
   path: /topics/#alpha-1-antitrypsin-deficiency
   description: ""
+- url: https://my.clevelandclinic.org/health/diseases/21175-alpha-1-antitrypsin-deficiency
+  source: clevelandclinicorg
+  topic-name: Alpha-1-antitrypsin deficiency
+  topic-slug: alpha-1-antitrypsin-deficiency
+  path: /topics/#alpha-1-antitrypsin-deficiency
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/alanine-aminotransferase-alt-test/about/pac-20582729
   source: mayoclinicorg
   topic-name: ALT

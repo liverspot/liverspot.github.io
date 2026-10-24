@@ -401,6 +401,8 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 «Alpha-1-antitrypsin deficiency (AATD) is a condition that's passed through families, called inherited. It can cause damage to the lungs, liver, skin and blood vessels. Not everyone who has AATD develops symptoms or health concerns. People in the same family may have different symptoms.» — [1]
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/alpha-1-antitrypsin-deficiency/symptoms-causes/syc-20588790>
+* [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21175-alpha-1-antitrypsin-deficiency>
+* [3] <https://alpha1.org/what-is-alpha1/>
 
 ### [ALT](#alt)
 
