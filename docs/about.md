@@ -9,7 +9,7 @@ LiverSpot is a community for people with a diseased liver, kidney, lung, heart, 
 
 ## Translation and Terminology
 
-This site is written in American English with medical terminology commonly used in the United States.  The narrative and expository can be translated to other languages with various levels of success through Google Translate (see below) or browser capabilities, but the terminology translation is beyond these tools.   Apologies for any difficulties this cause.
+This site is written in American English with medical terminology commonly used in the United States.  The narrative and expository can be translated to other languages with various levels of success through Google Translate (see below) or browser capabilities, but the terminology translation is beyond these tools.   Apologies for any difficulties this causes.
 
 Switch site from
 <span class="notranslate">&nbsp;<a onclick="location.href='{{site.url}}{{page.url}}'" class="notranslate">EN</a>&nbsp;</span> 
