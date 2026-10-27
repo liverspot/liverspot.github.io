@@ -832,8 +832,8 @@ Or more simply, expressing in percent of 100:
 «Epstein-Barr virus (EBV) is a very common viral infection that spreads through saliva and body fluids. EBV is a type of herpesvirus called herpesvirus 4. Most cases of EBV don’t cause symptoms. Other cases, especially in adolescents and young adults, can lead to infectious mononucleosis.» — [1]
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/23469-epstein-barr-virus>
-
-
+* [2] [ScienceDirect](/source/sciencedirectcom/) «Epstein-Barr virus infection in liver transplantation patients 〚…〛» — <https://www.sciencedirect.com/science/article/abs/pii/004681779390264H>
+	
 ### [ERCP](#ercp)
 
 «Endoscopic retrograde cholangiopancreatography (ERCP) is a procedure to diagnose and treat problems in the liver, gallbladder, bile ducts, and pancreas» — [1]

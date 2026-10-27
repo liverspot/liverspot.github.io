@@ -568,6 +568,12 @@
   topic-slug: epstein-barr-virus
   path: /topics/#epstein-barr-virus
   description: ""
+- url: https://www.sciencedirect.com/science/article/abs/pii/004681779390264H
+  source: sciencedirectcom
+  topic-name: Epstein-Barr Virus
+  topic-slug: epstein-barr-virus
+  path: /topics/#epstein-barr-virus
+  description: "«Epstein-Barr virus infection in liver transplantation patients 〚…〛» "
 - url: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/endoscopic-retrograde-cholangiopancreatography-ercp
   source: hopkinsmedicineorg
   topic-name: ERCP
