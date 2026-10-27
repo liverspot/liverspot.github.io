@@ -20,23 +20,23 @@ table tr:nth-child(19), /*B*/
 table tr:nth-child(27), /*C*/
 table tr:nth-child(39), /*D*/
 table tr:nth-child(51), /*E*/
-table tr:nth-child(64), /*F*/
-table tr:nth-child(72), /*G*/
-table tr:nth-child(79), /*H*/
-table tr:nth-child(96), /*I*/
-table tr:nth-child(103), /*J*/
-table tr:nth-child(106), /*K*/
-table tr:nth-child(109), /*L*/
-table tr:nth-child(124), /*M*/
-table tr:nth-child(133), /*N*/
-table tr:nth-child(139), /*O*/
-table tr:nth-child(142), /*P*/
-table tr:nth-child(157), /*R*/
-table tr:nth-child(161), /*S*/
-table tr:nth-child(171), /*T*/
-table tr:nth-child(193), /*U*/
-table tr:nth-child(199), /*V*/
-table tr:nth-child(204), /*X*/
+table tr:nth-child(65), /*F*/
+table tr:nth-child(73), /*G*/
+table tr:nth-child(80), /*H*/
+table tr:nth-child(97), /*I*/
+table tr:nth-child(104), /*J*/
+table tr:nth-child(107), /*K*/
+table tr:nth-child(110), /*L*/
+table tr:nth-child(125), /*M*/
+table tr:nth-child(134), /*N*/
+table tr:nth-child(140), /*O*/
+table tr:nth-child(143), /*P*/
+table tr:nth-child(158), /*R*/
+table tr:nth-child(162), /*S*/
+table tr:nth-child(172), /*T*/
+table tr:nth-child(194), /*U*/
+table tr:nth-child(200), /*V*/
+table tr:nth-child(205), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -153,6 +153,7 @@ The following entries contain information on topics that have been brought up du
 |[El Camino Car &darr;](#el-camino-car)||
 |[Encephalitis &darr;](#encephalitis)||
 |[Encephalopathy &darr;](#encephalopathy)||
+|[Epstein-Barr virus &darr;](#epstein-barr-virus)|EBV|
 |[ERCP &darr;](#ercp)|Endoscopic retrograde cholangiopancreatography|
 |[Erica Storm &darr;](#erica-storm)||
 |[ESLD &darr;](#esld)|End-Stage Liver Disease|
@@ -825,6 +826,13 @@ Or more simply, expressing in percent of 100:
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/encephalopathy>
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/encephalopathy>
+
+### [Epstein-Barr Virus](#epstein-barr-virus)
+
+«Epstein-Barr virus (EBV) is a very common viral infection that spreads through saliva and body fluids. EBV is a type of herpesvirus called herpesvirus 4. Most cases of EBV don’t cause symptoms. Other cases, especially in adolescents and young adults, can lead to infectious mononucleosis.» — [1]
+
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/23469-epstein-barr-virus>
+
 
 ### [ERCP](#ercp)
 
