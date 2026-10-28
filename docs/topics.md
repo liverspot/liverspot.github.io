@@ -1532,7 +1532,8 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/mycophenolate-mofetil-oral-route/description/drg-20073191>
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Mycophenolic_acid>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/mycophenolate-mofetil>
-
+* [4] [MedlinePlus](/source/medlineplusgov/) «Mycophenolate» — <https://medlineplus.gov/druginfo/meds/a601081.html>
+* [5] «CELLCEPT (mycophenolate mofetil) GUIDE FOR PATIENTS: information about risks to the unborn baby» — <https://www.medicines.org.uk/emc/rmm/392/Document>
 
 ### [Naltrexone](#naltrexone)
 

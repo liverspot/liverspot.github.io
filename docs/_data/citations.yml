@@ -1276,6 +1276,12 @@
   topic-slug: mycophenolate-mofetil
   path: /topics/#mycophenolate-mofetil
   description: ""
+- url: https://medlineplus.gov/druginfo/meds/a601081.html
+  source: medlineplusgov
+  topic-name: Mycophenolate Mofetil
+  topic-slug: mycophenolate-mofetil
+  path: /topics/#mycophenolate-mofetil
+  description: "«Mycophenolate» "
 - url: https://www.drugs.com/naltrexone.html
   source: drugscom
   topic-name: Naltrexone
