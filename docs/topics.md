@@ -1730,7 +1730,7 @@ The California POLST (Physician Orders for Life-Sustaining Treatment) is an augm
 
 «Cancers in solid organ recipients may be classified as donor transmitted, donor derived, de novo or recurrent. The risk of donor-transmitted cancer is very low and can be reduced by careful screening of the donor but cannot be abolished and, in the United Kingdom series is less than 0.03%.» — [1]
 
-* [1] «Donor transmitted and de novo cancer after liver transplantation» — https://pmc.ncbi.nlm.nih.gov/articles/PMC4033455/
+* [1] [NIH](/source/nihgov/) «Donor transmitted and de novo cancer after liver transplantation» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4033455/>
 
 ### [Post-Transplant Relapse](#post-transplant-relapse)
 

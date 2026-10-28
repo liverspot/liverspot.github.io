@@ -1396,6 +1396,12 @@
   topic-slug: pontine-stroke
   path: /topics/#pontine-stroke
   description: ""
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4033455/
+  source: nihgov
+  topic-name: Post-transplant cancer
+  topic-slug: post-transplant-cancer
+  path: /topics/#post-transplant-cancer
+  description: "«Donor transmitted and de novo cancer after liver transplantation» "
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10934278/
   source: nihgov
   topic-name: Post-Transplant Relapse
