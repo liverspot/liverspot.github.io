@@ -31,12 +31,12 @@ table tr:nth-child(125), /*M*/
 table tr:nth-child(134), /*N*/
 table tr:nth-child(140), /*O*/
 table tr:nth-child(143), /*P*/
-table tr:nth-child(158), /*R*/
-table tr:nth-child(162), /*S*/
-table tr:nth-child(172), /*T*/
-table tr:nth-child(194), /*U*/
-table tr:nth-child(200), /*V*/
-table tr:nth-child(205), /*X*/
+table tr:nth-child(159), /*R*/
+table tr:nth-child(163), /*S*/
+table tr:nth-child(173), /*T*/
+table tr:nth-child(195), /*U*/
+table tr:nth-child(201), /*V*/
+table tr:nth-child(206), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -248,6 +248,7 @@ The following entries contain information on topics that have been brought up du
 | [Pink Cloud &darr;](#pink-cloud)                                                   ||
 | [POLST &darr;](#polst)                                                             |Physician Orders for Life-Sustaining Treatment|
 | [Pontine Stroke &darr;](#pontine-stroke)                                           |Pontine Infarction|
+| [Post-transplant Cancer &darr;](#post-transplant-cancer)                           ||
 | [Post-Transplant Relapse &darr;](#post-transplant-relapse)                         ||
 | [POG &darr;](#pog)                                                                 |Panel of Gods|
 | [Prednisone &darr;](#prednisone)                                                   ||
@@ -303,7 +304,7 @@ The following entries contain information on topics that have been brought up du
 | [Viral Hepatitis &darr;](#viral-hepatitis)                                         ||
 | [Vivitrol &darr;](#vivitrol)                                                       |Naltrexone|
 | [XIAFLEX &darr;](#xiaflex) <a id="x"></a>                                          |Collagenase Clostridium histolyticum|
-| [Xifaxan &darr;](#xifaxan)                                                         |Rifaximin|
+| [Xifaxan &darr;](#xifaxan)                                                         |Rifaximin|                                                      |Rifaximin|
 
 ## Entries
 
@@ -731,6 +732,7 @@ Donor and Recipient contact and letter writing resources.
 * [4]&nbsp;<https://caringconnectionsneds.org>
 * [5] [LCNW](/source/lcnworg/) «Why write?» — <https://lcnw.org/wp-content/uploads/2018/11/Recipient-to-Donor-Family-Writing-Instructions-WEB.pdf>
 * [6] [LCNW](/source/lcnworg/) «Donor Letter» — <https://lcnw.org/search/?q=letter>
+
 
 ### [DRESS](#dress)
 
@@ -1723,6 +1725,12 @@ The California POLST (Physician Orders for Life-Sustaining Treatment) is an augm
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/pontine-stroke>
 
+
+### [Post-transplant cancer](#post-transplant-cancer)
+
+«Cancers in solid organ recipients may be classified as donor transmitted, donor derived, de novo or recurrent. The risk of donor-transmitted cancer is very low and can be reduced by careful screening of the donor but cannot be abolished and, in the United Kingdom series is less than 0.03%.» — [1]
+
+* [1] «Donor transmitted and de novo cancer after liver transplantation» — https://pmc.ncbi.nlm.nih.gov/articles/PMC4033455/
 
 ### [Post-Transplant Relapse](#post-transplant-relapse)
 
