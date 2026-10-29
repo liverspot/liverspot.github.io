@@ -1734,7 +1734,7 @@ The California POLST (Physician Orders for Life-Sustaining Treatment) is an augm
 
 ### [Post-Transplant Relapse](#post-transplant-relapse)
 
-Relapse/recidivism of alcohol use after a liver transplant is surprisingly large.
+Relapse/recidivism of alcohol use after a liver transplant is surprisingly common and a major problem with long-term transplant success.
 
 «The prevalence rate of alcohol relapse in liver transplant patients with ALD varies across studies. Reported post-transplant alcohol relapse rates in recipients with ALD range from 15% to 50% [5].» — [1]
 
