@@ -1408,6 +1408,12 @@
   topic-slug: post-transplant-relapse
   path: /topics/#post-transplant-relapse
   description: "«Understanding Alcohol Relapse in Liver Transplant Patients With Alcohol-Related Liver Disease: A Comprehensive Review» "
+- url: https://journals.lww.com/lt/abstract/10.1097/lvt.0000000000000902~preemptive-anticraving-therapies-reduce-alcohol-relapse
+  source: lwwcom
+  topic-name: Post-Transplant Relapse
+  topic-slug: post-transplant-relapse
+  path: /topics/#post-transplant-relapse
+  description: "«Preemptive anticraving therapies reduce alcohol relapse after liver transplantation in high-risk individuals» "
 - url: https://pubmed.ncbi.nlm.nih.gov/22180452/
   source: nihgov
   topic-name: Prednisone

@@ -1734,9 +1734,14 @@ The California POLST (Physician Orders for Life-Sustaining Treatment) is an augm
 
 ### [Post-Transplant Relapse](#post-transplant-relapse)
 
-* [1] [NIH](/source/nihgov/) «Understanding Alcohol Relapse in Liver Transplant Patients With Alcohol-Related Liver Disease: A Comprehensive Review» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10934278/>
+Relapse/recidivism of alcohol use after a liver transplant is surprisingly large.
 
 «The prevalence rate of alcohol relapse in liver transplant patients with ALD varies across studies. Reported post-transplant alcohol relapse rates in recipients with ALD range from 15% to 50% [5].» — [1]
+
+«Alcohol relapse occurs in approximately 25% within 1 year, with harmful use in 10%-17%, though true relapse rates are likely higher due to under-reporting and inconsistent post-LT surveillance.» — [2]
+
+* [1] [NIH](/source/nihgov/) «Understanding Alcohol Relapse in Liver Transplant Patients With Alcohol-Related Liver Disease: A Comprehensive Review» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10934278/>
+* [2] [LWW](/source/lwwcom/) «Preemptive anticraving therapies reduce alcohol relapse after liver transplantation in high-risk individuals» — <https://journals.lww.com/lt/abstract/10.1097/lvt.0000000000000902~preemptive-anticraving-therapies-reduce-alcohol-relapse>
 
 ### [Prednisone](#prednisone)
 
