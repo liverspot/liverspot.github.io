@@ -850,6 +850,18 @@
   topic-slug: hepatitis
   path: /topics/#hepatitis
   description: ""
+- url: https://www.mayoclinic.org/diseases-conditions/hepatopulmonary-syndrome/symptoms-causes/syc-20373350
+  source: mayoclinicorg
+  topic-name: Hepatopulmonary Syndrome
+  topic-slug: hepatopulmonary-syndrome
+  path: /topics/#hepatopulmonary-syndrome
+  description: ""
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3992191/
+  source: nihgov
+  topic-name: Hepatopulmonary Syndrome
+  topic-slug: hepatopulmonary-syndrome
+  path: /topics/#hepatopulmonary-syndrome
+  description: "«Impact of the Hepatopulmonary Syndrome MELD Exception Policy on Outcomes of Patients After Liver Transplantation: An Analysis of the UNOS Database» "
 - url: https://my.clevelandclinic.org/health/diagnostics/17099-hida-scan
   source: clevelandclinicorg
   topic-name: HIDA Scan
