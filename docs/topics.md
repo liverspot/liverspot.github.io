@@ -1114,6 +1114,8 @@ Hepatopulmonary syndrome is among the conditions that utilizes MELD Exception Sc
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/hepatopulmonary-syndrome/symptoms-causes/syc-20373350>
 * [2] [NIH](/source/nihgov/) «Impact of the Hepatopulmonary Syndrome MELD Exception Policy on Outcomes of Patients After Liver Transplantation: An Analysis of the UNOS Database» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3992191/>
 * [3] «Why do we use the model for end-stage liver disease (MELD) score?: Part 2» — <https://www.aasld.org/liver-fellow-network/core-series/why-series/why-do-we-use-model-end-stage-liver-disease-meld-0>
+* [4] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/24190-hepatopulmonary-syndrome>
+* [5] [ScienceDirect](/source/sciencedirectcom/) «Hepatopulmonary syndrome» — <https://www.sciencedirect.com/science/article/pii/S2589555922000994>
 
 ### [HIDA Scan](#hida-scan)
 
