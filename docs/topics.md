@@ -496,16 +496,14 @@ Even animals that look clean and healthy can carry harmful germs, and areas wher
 * Adults with chronic immune thrombocytopenia (ITP) when other treatments have not worked well enough.
 * Children 1 year and older with persistent or chronic ITP when other treatments have not worked well enough» — [1]
 
-#### Refs
-
-* [1] <https://doptelet.com/support-and-resources/itp-patient-resources/>
-
-#### ()
-
 #### Drug Names
 
 * _Generic:_ Avatrombopag
 * _Brand:_ Doptelet
+
+#### Refs
+
+* [1] <https://doptelet.com/support-and-resources/itp-patient-resources/>
 
 ### [Bactrim](#bactrim)
 
