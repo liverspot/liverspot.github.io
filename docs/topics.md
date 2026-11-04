@@ -16,9 +16,9 @@ styles:
 /*================================== */
 
 table tr:nth-child(1), /*A*/
-table tr:nth-child(19), /*B*/
-table tr:nth-child(27), /*C*/
-table tr:nth-child(39), /*D*/
+table tr:nth-child(20), /*B*/
+table tr:nth-child(28), /*C*/
+table tr:nth-child(40), /*D*/
 table tr:nth-child(52), /*E*/
 table tr:nth-child(66), /*F*/
 table tr:nth-child(74), /*G*/
@@ -116,6 +116,7 @@ The following entries contain information on topics that have been brought up du
 |[AST &darr;](#ast)|Aspartate aminotransferase|
 |[Asterixis &darr;](#asterixis)||
 |[Atrophy &darr;](#atrophy)||
+|[Avatrombopag &darr;](#avatrombopag)|Doptelet|
 |[Bactrim &darr;](#bactrim) <a id="b"></a>|Sulfamethoxazole and Trimethoprim|
 |[Bausch PAP &darr;](#bausch-pap)|Patient Assistance Program|
 |[Behavior after transplant &darr;](#behavior-after-transplant)||
@@ -142,7 +143,6 @@ The following entries contain information on topics that have been brought up du
 |[Dialysis &darr;](#dialysis)||
 |[Diverticulitis &darr;](#diverticulitis)||
 |[Donor Info &darr;](#donor-info)||
-|[Doptelet &darr;](#doptelet)||
 |[Drug Regimen &darr;](#drug-regimen)||
 |[DSA &darr;](#dsa)|Donor Service Area|
 |[Duncan Mills &darr;](#duncan-mills)||
@@ -308,7 +308,7 @@ The following entries contain information on topics that have been brought up du
 |[Viral Hepatitis &darr;](#viral-hepatitis)||
 |[Vivitrol &darr;](#vivitrol)|Naltrexone|
 |[XIAFLEX &darr;](#xiaflex) <a id="x"></a>|Collagenase Clostridium histolyticum|
-|[Xifaxan &darr;](#xifaxan)|Rifaximin|                                               |Rifaximin|                                                      |Rifaximin|
+|[Xifaxan &darr;](#xifaxan)|Rifaximin|
 
 ## Entries
 
@@ -487,6 +487,25 @@ Even animals that look clean and healthy can carry harmful germs, and areas wher
 * [1] [LWW](/source/lwwcom/) «
   Muscle preservation during hospitalization〚…〛» — <https://journals.lww.com/co-clinicalnutrition/fulltext/2025/11000/muscle_preservation_during_hospitalization__energy.3.aspx>
 * [2] [NIH](/source/nihgov/) «Hospitalization and Change in Body Composition and Strength 〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/>
+
+### [Avatrombopag](#avatrombopag)
+
+«DOPTELET is a prescription medicine used to treat low blood platelet counts in:
+
+* Adults with long-lasting (chronic) liver disease (CLD) who are scheduled to have a medical or dental procedure
+* Adults with chronic immune thrombocytopenia (ITP) when other treatments have not worked well enough.
+* Children 1 year and older with persistent or chronic ITP when other treatments have not worked well enough» — [1]
+
+#### Refs
+
+* [1] <https://doptelet.com/support-and-resources/itp-patient-resources/>
+
+#### ()
+
+#### Drug Names
+
+* _Generic:_ Avatrombopag
+* _Brand:_ Doptelet
 
 ### [Bactrim](#bactrim)
 
@@ -736,18 +755,6 @@ Donor and Recipient contact and letter writing resources.
 * [4]&nbsp;<https://caringconnectionsneds.org>
 * [5] [LCNW](/source/lcnworg/) «Why write?» — <https://lcnw.org/wp-content/uploads/2018/11/Recipient-to-Donor-Family-Writing-Instructions-WEB.pdf>
 * [6] [LCNW](/source/lcnworg/) «Donor Letter» — <https://lcnw.org/search/?q=letter>
-
-### [Doptelet](#doptelet)
-
-«DOPTELET is a prescription medicine used to treat low blood platelet counts in:
-
-* Adults with long-lasting (chronic) liver disease (CLD) who are scheduled to have a medical or dental procedure
-* Adults with chronic immune thrombocytopenia (ITP) when other treatments have not worked well enough.
-* Children 1 year and older with persistent or chronic ITP when other treatments have not worked well enough» — [1]
-
-#### Refs 
-
-* [1] <https://doptelet.com/support-and-resources/itp-patient-resources/>
 
 ### [DRESS](#dress)
 
