@@ -19,24 +19,24 @@ table tr:nth-child(1), /*A*/
 table tr:nth-child(19), /*B*/
 table tr:nth-child(27), /*C*/
 table tr:nth-child(39), /*D*/
-table tr:nth-child(51), /*E*/
-table tr:nth-child(65), /*F*/
-table tr:nth-child(73), /*G*/
-table tr:nth-child(80), /*H*/
-table tr:nth-child(98), /*I*/
-table tr:nth-child(105), /*J*/
-table tr:nth-child(108), /*K*/
-table tr:nth-child(111), /*L*/
-table tr:nth-child(126), /*M*/
-table tr:nth-child(135), /*N*/
-table tr:nth-child(141), /*O*/
-table tr:nth-child(144), /*P*/
-table tr:nth-child(160), /*R*/
-table tr:nth-child(164), /*S*/
-table tr:nth-child(174), /*T*/
-table tr:nth-child(196), /*U*/
-table tr:nth-child(202), /*V*/
-table tr:nth-child(207), /*X*/
+table tr:nth-child(52), /*E*/
+table tr:nth-child(66), /*F*/
+table tr:nth-child(74), /*G*/
+table tr:nth-child(81), /*H*/
+table tr:nth-child(99), /*I*/
+table tr:nth-child(107), /*J*/
+table tr:nth-child(110), /*K*/
+table tr:nth-child(113), /*L*/
+table tr:nth-child(128), /*M*/
+table tr:nth-child(137), /*N*/
+table tr:nth-child(143), /*O*/
+table tr:nth-child(146), /*P*/
+table tr:nth-child(162), /*R*/
+table tr:nth-child(167), /*S*/
+table tr:nth-child(177), /*T*/
+table tr:nth-child(199), /*U*/
+table tr:nth-child(205), /*V*/
+table tr:nth-child(210), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -142,6 +142,7 @@ The following entries contain information on topics that have been brought up du
 |[Dialysis &darr;](#dialysis)||
 |[Diverticulitis &darr;](#diverticulitis)||
 |[Donor Info &darr;](#donor-info)||
+|[Doptelet &darr;](#doptelet)||
 |[Drug Regimen &darr;](#drug-regimen)||
 |[DSA &darr;](#dsa)|Donor Service Area|
 |[Duncan Mills &darr;](#duncan-mills)||
@@ -200,6 +201,7 @@ The following entries contain information on topics that have been brought up du
 |[Immunosuppressant &darr;](#immunosuppressant)||
 |[Immunosuppression &darr;](#immunosuppression)||
 |[INR &darr;](#inr)|International Normalized Ratio|
+|[Intravenous Immunoglobulin &darr;](#intravenous-immunoglobulin)|IVIG|
 |[IOP &darr;](#iop)|Intense Outpatient Program|
 |[Itching &darr;](#itching)||
 |[J-Tube &darr;](#j-tube) <a id="j"></a>|Jejunal Tube|
@@ -261,6 +263,7 @@ The following entries contain information on topics that have been brought up du
 |[Recteq &darr;](#recteq)||
 |[Reddit for Transplant Support Study &darr;](#reddit-for-transplant-support-study)||
 |[Retacrit &darr;](#retacrit)|Epoetin Alfa-epbx|
+|[Rituximab &darr;](#rituximab)||
 |[Safety net &darr;](#safety-net) <a id="s"></a>||
 |[Scar Tissue &darr;](#scar-tissue)||
 |[Sepsis &darr;](#sepsis)||
@@ -305,7 +308,7 @@ The following entries contain information on topics that have been brought up du
 |[Viral Hepatitis &darr;](#viral-hepatitis)||
 |[Vivitrol &darr;](#vivitrol)|Naltrexone|
 |[XIAFLEX &darr;](#xiaflex) <a id="x"></a>|Collagenase Clostridium histolyticum|
-|[Xifaxan &darr;](#xifaxan)|Rifaximin|                                                 |Rifaximin|                                                      |Rifaximin|
+|[Xifaxan &darr;](#xifaxan)|Rifaximin|                                               |Rifaximin|                                                      |Rifaximin|
 
 ## Entries
 
@@ -734,6 +737,17 @@ Donor and Recipient contact and letter writing resources.
 * [5] [LCNW](/source/lcnworg/) «Why write?» — <https://lcnw.org/wp-content/uploads/2018/11/Recipient-to-Donor-Family-Writing-Instructions-WEB.pdf>
 * [6] [LCNW](/source/lcnworg/) «Donor Letter» — <https://lcnw.org/search/?q=letter>
 
+### [Doptelet](#doptelet)
+
+«DOPTELET is a prescription medicine used to treat low blood platelet counts in:
+
+* Adults with long-lasting (chronic) liver disease (CLD) who are scheduled to have a medical or dental procedure
+* Adults with chronic immune thrombocytopenia (ITP) when other treatments have not worked well enough.
+* Children 1 year and older with persistent or chronic ITP when other treatments have not worked well enough» — [1]
+
+#### Refs 
+
+* [1] <https://doptelet.com/support-and-resources/itp-patient-resources/>
 
 ### [DRESS](#dress)
 
@@ -1228,6 +1242,12 @@ Delirium that occurs either concurrently to being in the ICU or actually caused 
 * [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/inr>
+
+### [Intravenous Immunoglobulin](#intravenous-immunoglobulin)
+
+«Intravenous immunoglobulin (IVIG) is a dose of donated immune system antibodies. Your provider will infuse IVIG through a vein in your arm. You may need IVIG if a health condition or treatment weakens your natural immune system. It’s safe, effective and low-risk. Side effects are rare and usually mild.» — [1]
+
+* [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/treatments/ivig-intravenous-immunoglobulin>
 
 ### [IOP](#iop)
 
@@ -1852,6 +1872,22 @@ In order for a patient to be considered recompensated, all of the following crit
 
 * [1]&nbsp;<https://retacrit.pfizerpro.com>
 * [2]&nbsp;<https://www.healio.com/clinical-guidance/drugs/retacrit>
+
+### [Rituximab](#rituximab)
+
+«Rituximab is an antibody that is designed to target and bind to a protein on the surface of B-cells (also known as B-lymphocytes).
+
+In ITP, B-cells are responsible for producing antibodies (similar to rituximab) that happen to destroy your platelets, instead of fighting infection.
+
+When rituximab binds to B-cells, it helps your immune system destroy the B-cell. By decreasing these B-lymphocytes, the production of antibodies that attack platelets decreases or goes away altogether.» — [1]
+
+#### Refs
+
+* [1] <https://www.chemoexperts.com/rituximab-rituxan-itp.html>
+
+#### Drug Names
+* _Generic:_ Rituximab
+* _Brand:_ Rituxan®, Truxima®, Ruxience®, Riabni®
 
 
 ### [Safety Net](#safety-net)

@@ -1006,6 +1006,12 @@
   topic-slug: inr
   path: /topics/#inr
   description: ""
+- url: https://my.clevelandclinic.org/health/treatments/ivig-intravenous-immunoglobulin
+  source: clevelandclinicorg
+  topic-name: Intravenous Immunoglobulin
+  topic-slug: intravenous-immunoglobulin
+  path: /topics/#intravenous-immunoglobulin
+  description: ""
 - url: https://en.wikipedia.org/wiki/Intensive_outpatient_program
   source: wikipediaorg
   topic-name: IOP
