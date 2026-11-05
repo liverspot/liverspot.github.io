@@ -2003,6 +2003,8 @@ Also owns: <https://srtr.org>
 
 «The average elimination half-life of tacrolimus is about 12 hours» — [3]
 
+«ENVARSUS XR is an extended-release tablet and is not the same as once-daily tacrolimus extended-release capsules (Astagraf XL®) or twice-daily tacrolimus immediate-release capsules (Prograf® or generic tacrolimus).» — [4]
+
 #### Drug Names
 
 * _Generic:_ Tacrolimus
@@ -2012,8 +2014,8 @@ Also owns: <https://srtr.org>
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/tacrolimus-oral-route/description/drg-20068314>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/tacrolimus>
-* [2] [NIH](/source/nihgov/) «Tacrolimus» — <https://www.ncbi.nlm.nih.gov/books/NBK544318/>
-
+* [3] [NIH](/source/nihgov/) «Tacrolimus» — <https://www.ncbi.nlm.nih.gov/books/NBK544318/>
+* [4] <https://www.envarsusxr.com/why-envarsus-xr>
 
 ### [Tacrolimus Skin Cancer](#tacrolimus-skin-cancer)
 
