@@ -26,17 +26,17 @@ table tr:nth-child(81), /*H*/
 table tr:nth-child(99), /*I*/
 table tr:nth-child(107), /*J*/
 table tr:nth-child(110), /*K*/
-table tr:nth-child(113), /*L*/
-table tr:nth-child(128), /*M*/
-table tr:nth-child(137), /*N*/
-table tr:nth-child(143), /*O*/
-table tr:nth-child(146), /*P*/
-table tr:nth-child(162), /*R*/
-table tr:nth-child(167), /*S*/
-table tr:nth-child(177), /*T*/
-table tr:nth-child(199), /*U*/
-table tr:nth-child(205), /*V*/
-table tr:nth-child(210), /*X*/
+table tr:nth-child(114), /*L*/
+table tr:nth-child(129), /*M*/
+table tr:nth-child(138), /*N*/
+table tr:nth-child(144), /*O*/
+table tr:nth-child(147), /*P*/
+table tr:nth-child(163), /*R*/
+table tr:nth-child(168), /*S*/
+table tr:nth-child(178), /*T*/
+table tr:nth-child(200), /*U*/
+table tr:nth-child(206), /*V*/
+table tr:nth-child(211), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -209,6 +209,7 @@ The following entries contain information on topics that have been brought up du
 |[Jaundice &darr;](#jaundice)||
 |[Ketorolac &darr;](#ketorolac) <a id="k"></a>|Toradol|
 |[Kidney Biopsy &darr;](#kidney-biopsy)||
+|[Kidney Failure &darr;](#kidney-failure)||
 |[Kt/V &darr;](#ktv)||
 |[Lactulose &darr;](#lactulose) <a id="l"></a>|Kristalose, Enulose|
 |[Lactulose vs. Miralax &darr;](#lactulose-vs-miralax)||
@@ -1318,6 +1319,11 @@ A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/kidney-biopsy/about/pac-20394494>
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/procedures/21160-kidney-biopsy>
 
+### [Kidney Failure](#kidney-failure)
+
+«Your kidneys' primary function is to filter and excrete waste products. To find out how well your kidneys are doing, we measure the quantity of waste that circulates in your blood» — [1]
+
+* [1] «The Kidney Failure Risk Equation» — <https://kidneyfailurerisk.com>
 
 ### [Kt/V](#ktv)
 The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo or peritoneal)
