@@ -190,6 +190,12 @@
   topic-slug: asterixis
   path: /topics/#asterixis
   description: ""
+- url: https://www.mayoclinic.org/drugs-supplements/atovaquone-oral-route/description/drg-20062055
+  source: mayoclinicorg
+  topic-name: Atovaquone
+  topic-slug: atovaquone
+  path: /topics/#atovaquone
+  description: ""
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3059115/
   source: nihgov
   topic-name: Atrophy

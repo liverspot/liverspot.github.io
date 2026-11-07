@@ -16,27 +16,27 @@ styles:
 /*================================== */
 
 table tr:nth-child(1), /*A*/
-table tr:nth-child(20), /*B*/
-table tr:nth-child(29), /*C*/
-table tr:nth-child(41), /*D*/
-table tr:nth-child(53), /*E*/
-table tr:nth-child(67), /*F*/
-table tr:nth-child(75), /*G*/
-table tr:nth-child(82), /*H*/
-table tr:nth-child(100), /*I*/
-table tr:nth-child(108), /*J*/
-table tr:nth-child(111), /*K*/
-table tr:nth-child(115), /*L*/
-table tr:nth-child(130), /*M*/
-table tr:nth-child(139), /*N*/
-table tr:nth-child(145), /*O*/
-table tr:nth-child(148), /*P*/
-table tr:nth-child(164), /*R*/
-table tr:nth-child(169), /*S*/
-table tr:nth-child(179), /*T*/
-table tr:nth-child(201), /*U*/
-table tr:nth-child(207), /*V*/
-table tr:nth-child(212), /*X*/
+table tr:nth-child(21), /*B*/
+table tr:nth-child(30), /*C*/
+table tr:nth-child(42), /*D*/
+table tr:nth-child(54), /*E*/
+table tr:nth-child(68), /*F*/
+table tr:nth-child(76), /*G*/
+table tr:nth-child(83), /*H*/
+table tr:nth-child(101), /*I*/
+table tr:nth-child(109), /*J*/
+table tr:nth-child(112), /*K*/
+table tr:nth-child(116), /*L*/
+table tr:nth-child(131), /*M*/
+table tr:nth-child(140), /*N*/
+table tr:nth-child(146), /*O*/
+table tr:nth-child(149), /*P*/
+table tr:nth-child(165), /*R*/
+table tr:nth-child(170), /*S*/
+table tr:nth-child(180), /*T*/
+table tr:nth-child(202), /*U*/
+table tr:nth-child(208), /*V*/
+table tr:nth-child(213), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -115,6 +115,7 @@ The following entries contain information on topics that have been brought up du
 |[Ascites &darr;](#ascites)||
 |[AST &darr;](#ast)|Aspartate aminotransferase|
 |[Asterixis &darr;](#asterixis)||
+|[Atovaquone &darr;](#atovaquone)|Mepron|
 |[Atrophy &darr;](#atrophy)||
 |[Avatrombopag &darr;](#avatrombopag)|Doptelet|
 |[Bactrim &darr;](#bactrim) <a id="b"></a>|Sulfamethoxazole and Trimethoprim|
@@ -476,6 +477,22 @@ Even animals that look clean and healthy can carry harmful germs, and areas wher
 * [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Asterixis>
 * [2]&nbsp;<https://www.osmosis.org/answers/asterixis>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/asterixis>
+
+### [Atovaquone](#atovaquone)
+
+«Atovaquone is used to prevent and treat Pneumocystis jirovecii pneumonia (PCP) in patients who cannot tolerate other medicines (eg, trimethoprim-sulfamethoxazole). PCP is a very serious type of pneumonia that occurs usually in patients who have a weak immune system, including cancer patients, transplant patients, and patients with acquired immune deficiency syndrome (AIDS). » 
+
+
+#### Drug Names
+
+* _Generic:_ Atovaquone
+* _Brand:_ Mepron
+
+#### Refs
+
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/drugs-supplements/atovaquone-oral-route/description/drg-20062055>
+
+
 
 ### [Atrophy](#atrophy)
 
