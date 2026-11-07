@@ -274,6 +274,18 @@
   topic-slug: brto
   path: /topics/#brto
   description: "«Balloon-occluded Retrograde Transvenous Obliteration (BRTO): Preprocedural Evaluation and Imaging» "
+- url: https://www.chelwest.nhs.uk/your-visit/patient-leaflets/medicine-services/bubble-contrast-echocardiogram-echo
+  source: nhsuk
+  topic-name: Bubble contrast echocardiogram
+  topic-slug: bubble-contrast-echocardiogram
+  path: /topics/#bubble-contrast-echocardiogram
+  description: ""
+- url: https://my.clevelandclinic.org/health/diagnostics/bubble-study
+  source: clevelandclinicorg
+  topic-name: Bubble contrast echocardiogram
+  topic-slug: bubble-contrast-echocardiogram
+  path: /topics/#bubble-contrast-echocardiogram
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821
   source: mayoclinicorg
   topic-name: BUN Test

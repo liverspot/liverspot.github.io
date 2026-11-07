@@ -17,26 +17,26 @@ styles:
 
 table tr:nth-child(1), /*A*/
 table tr:nth-child(20), /*B*/
-table tr:nth-child(28), /*C*/
-table tr:nth-child(40), /*D*/
-table tr:nth-child(52), /*E*/
-table tr:nth-child(66), /*F*/
-table tr:nth-child(74), /*G*/
-table tr:nth-child(81), /*H*/
-table tr:nth-child(99), /*I*/
-table tr:nth-child(107), /*J*/
-table tr:nth-child(110), /*K*/
-table tr:nth-child(114), /*L*/
-table tr:nth-child(129), /*M*/
-table tr:nth-child(138), /*N*/
-table tr:nth-child(144), /*O*/
-table tr:nth-child(147), /*P*/
-table tr:nth-child(163), /*R*/
-table tr:nth-child(168), /*S*/
-table tr:nth-child(178), /*T*/
-table tr:nth-child(200), /*U*/
-table tr:nth-child(206), /*V*/
-table tr:nth-child(211), /*X*/
+table tr:nth-child(29), /*C*/
+table tr:nth-child(41), /*D*/
+table tr:nth-child(53), /*E*/
+table tr:nth-child(67), /*F*/
+table tr:nth-child(75), /*G*/
+table tr:nth-child(82), /*H*/
+table tr:nth-child(100), /*I*/
+table tr:nth-child(108), /*J*/
+table tr:nth-child(111), /*K*/
+table tr:nth-child(115), /*L*/
+table tr:nth-child(130), /*M*/
+table tr:nth-child(139), /*N*/
+table tr:nth-child(145), /*O*/
+table tr:nth-child(148), /*P*/
+table tr:nth-child(164), /*R*/
+table tr:nth-child(169), /*S*/
+table tr:nth-child(179), /*T*/
+table tr:nth-child(201), /*U*/
+table tr:nth-child(207), /*V*/
+table tr:nth-child(212), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -124,6 +124,7 @@ The following entries contain information on topics that have been brought up du
 |[BK Virus &darr;](#bk-virus)|'BK' are initials|
 |[BMP &darr;](#bmp)|basic metabolic panel|
 |[BRTO &darr;](#brto)|BATO, BRTO, CARTO, PATO, Balloon-occluded transvenous obliteration|
+|[Bubble contrast echocardiogram &darr;](#bubble-contrast-echocardiogram)|Bubble Study; |
 |[BUN Test &darr;](#bun-test)|Blood-urea-nitrogen|
 |[Camino Hospital IOP &darr;](#camino-hospital-iop) <a id="c"></a>|Intensive OutPatient|
 |[Cirrhosis &darr;](#cirrhosis)||
@@ -587,6 +588,24 @@ The techniques employed are typically adapted depending on specific portosystemi
 * [4] [NIH](/source/nihgov/) «Portosystemic Shunt Syndrome and Endovascular Management of Hepatic Encephalopathy» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4139430/>
 * [5] [NIH](/source/nihgov/) «Balloon-occluded Retrograde Transvenous Obliteration (BRTO): Preprocedural Evaluation and Imaging» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3312157/>
 * [6] «Retrograde Balloon Occlusion Variceal Ablation» — <https://radiologykey.com/retrograde-balloon-occlusion-variceal-ablation/
+
+### [Bubble contrast echocardiogram](#bubble-contrast-echocardiogram)
+
+«What is a bubble contrast echocardiogram?
+
+You may have already had an echocardiogram performed. This is a non-invasive imaging test using ultrasound to look at your heart. Ultrasound is made of high-frequency sound waves which cannot be heard by the human ear. It is used to gain information regarding the structure and function of the heart muscles, chambers of the heart and structures within the heart such as the valves. The test involves placing a probe on the chest and does not use radioactivity.
+
+A bubble contrast echocardiogram uses ultrasound combined with an injection of microbubbles to help determine additional information.» — [1]
+
+«A. A bubble study, which is done during an echocardiogram (heart ultrasound), can provide added information about blood flow through your heart. Doctors often do bubble studies on people who experience an unexpected stroke — that is, those who have no obvious stroke risk factors, such as high blood pressure or atrial fibrillation. The results can provide clues about a possible cause and may affect the treatment you receive.
+
+During the test, a technician injects a solution into a vein in your arm. The fluid contains tiny bubbles of air, which then circulate through your bloodstream to the right side of your heart. You'll be asked to cough or bear down, which briefly increases the pressure in the heart's right side. On the ultrasound image, the bubbles can be seen traveling into the heart's upper chamber (atrium), then down to the lower chamber (ventricle), and then out through the pulmonary artery into the lungs, where they are filtered out of the blood.» — [2]
+
+«A bubble study is an ultrasound test that uses a contrast agent, called agitated saline, to examine blood flow in your heart and lungs. The saline contains tiny bubbles (microbubbles) that appear in the images and can show if blood is flowing the wrong way. It’s a common test for diagnosing a patent foramen ovale, which is a hole in your heart.» — [3]
+
+* [1] [NHS](/source/nhsuk/) — <https://www.chelwest.nhs.uk/your-visit/patient-leaflets/medicine-services/bubble-contrast-echocardiogram-echo>
+* [2] <https://www.harvardhealth.org/heart-health/what-is-a-bubble-study>
+* [3] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/bubble-study>
 
 ### [BUN Test](#bun-test)
 
