@@ -2363,7 +2363,7 @@ Xifaxan is now available as a generic (Rifaxamin) in Canada.  The patent protect
 * [2]&nbsp;<https://www.xifaxan.com/he/about-xifaxan-he/>
 * [3]&nbsp;<https://www.canadianmedcenter.com/drug/xifaxan>
 * [4]&nbsp;<https://www.canadapharmacy.com/products/xifaxan>
-* [5] [Drugs.com](/source/drugscom/) «Drug Interactions • Rifaximin» — <	https://www.drugs.com/drug-interactions/rifaximin,xifaxan-index.html>
+* [5] [Drugs.com](/source/drugscom/) «Drug Interactions • Rifaximin» — <https://www.drugs.com/drug-interactions/rifaximin,xifaxan-index.html>
 
 
 
