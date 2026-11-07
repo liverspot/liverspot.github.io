@@ -1408,6 +1408,12 @@
   topic-slug: persistent-ascites
   path: /topics/#persistent-ascites
   description: "«Approach to persistent ascites after liver transplantation» "
+- url: https://my.clevelandclinic.org/health/diagnostics/10123-pet-scan
+  source: clevelandclinicorg
+  topic-name: PET
+  topic-slug: pet
+  path: /topics/#pet
+  description: ""
 - url: https://www.dairbook.com/glossary/peth
   source: dairbookcom
   topic-name: PEth

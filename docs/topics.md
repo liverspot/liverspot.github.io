@@ -1713,7 +1713,7 @@ Possible treats that the medical team might like and appreciate from patients in
 
 ### [PET](#pet)
 
-PET (positron emission tomography) scans producse pictures of the inside of the body
+PET (positron emission tomography) scans produce pictures of the inside of the body
 
 «A PET scan uses a radioactive chemical called a radiotracer (or tracer) and a PET scan machine to produce images that help a doctor understand how tissues or organs are functioning. PET scans are most often used to:
 
@@ -1723,9 +1723,12 @@ PET (positron emission tomography) scans producse pictures of the inside of the 
 * assess the state of coronary artery disease.
   » — [1]
 
+«Positron emission tomography (PET) scans detect early signs of cancer, heart disease and brain conditions. It involves an injection of a safe radioactive tracer that helps detect diseased cells.» — [2]
+
 #### Refs
 
 * [1]&nbsp;<https://www.baptisthealth.com/blog/health-and-wellness/pet-scan-vs-mri-what-s-the-difference>
+* [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/10123-pet-scan>
 
 <span class='topic-arrow' >[&rarr;](/topic/peth/)</span>
 ### [PEth](/topic/peth/)
