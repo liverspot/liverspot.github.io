@@ -331,6 +331,10 @@ Acute cellular rejection
 
 «High dose corticosteroids are standard of care for ACR and doses vary at different centers. Usually 500–1000 mg pulse of methylprednisolone is given for 1–3 days followed by taper» — [1]
 
+* _Alternate Names:_ Acute Cellular Rejection
+
+#### Refs 
+
 * [1] [NIH](/source/nihgov/) «Acute and Chronic Rejection After Liver Transplantation: What A Clinician Needs to Know» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC5715482/>
 
 ### [Acuity Circles](#acuity-circles)
@@ -371,6 +375,10 @@ An acuity circle provides a distance-based (radius-of-circle) prioritization fro
 
 «Autoimmune hepatitis 〚AIH〛 is a liver disease that happens when the body's immune system attacks the liver. This can cause swelling, irritation and damage to the liver. The exact cause of autoimmune hepatitis is unclear, but genetic and environmental factors appear to interact over time to trigger the disease.» — [1]
 
+* _Alternate Names:_ Autoimmune hepatitis
+
+#### Refs
+
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/autoimmune-hepatitis/symptoms-causes/syc-20352153>
 
 Interestingly, the treatment for AIH is similar to the treatment for a post-transplant renal replacement procedure: in both cases the body needs to be prevented from attacking the liver but still function effectively against pathogens.
@@ -400,6 +408,10 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 «Alkaline phosphatase (ALP) is an enzyme that’s found throughout your body. ALP blood tests measure the level of ALP in your blood that comes from your liver and bones, and it’s one of the tests included in a comprehensive metabolic panel. High levels of ALP in your blood may indicate liver disease or certain bone disorders» — [1]
 
 «Alkaline phosphatase (ALP) is an enzyme primarily found in your liver and bones. When a bone is injured or fractured, bone-forming cells (osteoblasts) become highly active to repair the damage. Consequently, serum ALP levels typically begin to rise within 7 to 10 days of the injury, peaking within a month before gradually returning to normal» — [AI: Google Summary]
+
+* _Alternate Names:_ Alkaline phosphatase
+
+#### Refs
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/22029-alkaline-phosphatase-alp>
 * [2] <https://labtestsonline.org.uk/tests/alkaline-phosphatase-alp-test>
@@ -467,6 +479,10 @@ Even animals that look clean and healthy can carry harmful germs, and areas wher
 ### [AST](#ast)
 
 «An aspartate aminotransferase test, also called an AST test, is a blood test. It's commonly used to check the health of the liver. AST is a substance found mostly in the liver. But it's also in the heart, kidneys, muscles and other organs. When tissues in these organs are damaged, AST can leak into the blood. So the AST level goes up.» — [1]
+
+* _Alternate Names:_ Aspartate aminotransferase
+
+#### Refs
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/aspartate-aminotransferase-ast-test/about/pac-20583406>
 
@@ -547,6 +563,11 @@ Even animals that look clean and healthy can carry harmful germs, and areas wher
 Bausch Health PAP Summary (2026)
 What it is: A program that provides Xifaxan at no cost for up to one year for eligible patients
 
+
+* _Alternate Names:_ Patient Assistance Program
+
+#### Refs
+
 * [1]&nbsp;<https://www.bauschhealthpap.com/globalassets/pi/xifaxan550-pi.pdf>
 
 ### [Behavior after Transplant](#behavior-after-transplant)
@@ -575,6 +596,8 @@ After that first year you need to determine a balance that works for you, withou
 
 When you take anti-rejection medications due to an organ transplant, the BK Virus can become active to the point that it will damage kidneys.» — [3]
 
+The 'BK' are initials for a patient and do not stand for any drug or condition.
+
 * [1] [NKF](/source/kidneyorg/) — <https://www.kidney.org/atoz/content/bk-virus-what-transplant-patients-need-know>
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/BK_virus>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/bk-virus>
@@ -582,6 +605,10 @@ When you take anti-rejection medications due to an organ transplant, the BK Viru
 ### [BMP](#bmp)
 
 « A basic metabolic panel (BMP) is a blood test that measures eight different substances in your blood. The panel provides helpful information about your body’s chemical balance and metabolism (how your body transforms the food you eat into energy). » — [1]
+
+* _Alternate Names:_ Basic Metabolic Panel
+
+#### Refs
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/22020-basic-metabolic-panel-bmp>
 
@@ -596,6 +623,8 @@ Balloon-occluded retrograde transvenous obliteration (BRTO) generally of the a g
 * balloon-occluded antegrade transvenous obliteration (BATO)
 
 The techniques employed are typically adapted depending on specific portosystemic anatomy and operator experience and preference.» — [3]
+
+* _Alternate Names:_ BATO; BRTO; CARTO; PATO; Balloon-occluded transvenous obliteration
 
 #### Refs
 
@@ -620,17 +649,30 @@ During the test, a technician injects a solution into a vein in your arm. The fl
 
 «A bubble study is an ultrasound test that uses a contrast agent, called agitated saline, to examine blood flow in your heart and lungs. The saline contains tiny bubbles (microbubbles) that appear in the images and can show if blood is flowing the wrong way. It’s a common test for diagnosing a patent foramen ovale, which is a hole in your heart.» — [3]
 
+
+* _Alternate Names:_ Bubble Study
+
+#### Refs
+
 * [1] [NHS](/source/nhsuk/) — <https://www.chelwest.nhs.uk/your-visit/patient-leaflets/medicine-services/bubble-contrast-echocardiogram-echo>
 * [2] <https://www.harvardhealth.org/heart-health/what-is-a-bubble-study>
 * [3] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/bubble-study>
 
 ### [BUN Test](#bun-test)
 
+* _Alternate Names:_ Blood-urea-nitrogen
+
+#### Refs
+
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/blood-urea-nitrogen/about/pac-20384821>
 
 ### [Camino Hospital IOP](#camino-hospital-iop)
 
 «The Scrivner Center for Mental Health & Addiction Services’ evening outpatient Addiction Services Program offers expert care and support for adults seeking help for a substance-use disorder or chemical dependency.» — [1]
+
+* _Alternate Names:_ Intensive OutPatient
+
+#### Refs
 
 * [1]&nbsp;<https://www.elcaminohealth.org/services/mental-health/specialty-programs/addiction-services>
 
@@ -671,8 +713,9 @@ Once CMV is in a person’s body, it stays there for life and can reactivate. A 
 * An infection in one or both lungs called pneumonia.
 » — [1]
 
-#### Alternate name
 «Human cytomegalovirus (HCMV), also called human herpesvirus 5 (HHV-5), is a species of virus in the genus Cytomegalovirus» — [3]
+
+* _Alternate Names:_ Human CytoMegaloVirus; HCMV
 
 #### Refs
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358>
@@ -710,6 +753,9 @@ Once CMV is in a person’s body, it stays there for life and can reactivate. A 
 
 California Pacific Medical Center (CPMC)  
 
+* _Alternate Names:_ California Pacific Medical Center
+
+#### Refs
 * [1]&nbsp;<https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
 
 <span class='topic-arrow' >[&rarr;](/topic/creatinine/)</span>
@@ -727,11 +773,21 @@ California Pacific Medical Center (CPMC)
 
 «A CT angiogram 〚Computed Tomography Angiogram〛 is a test that checks for blockages and other problems in your arteries. It’s a CT scan with the added benefit of contrast dye. A healthcare provider injects the dye into a vein in your arm. The dye flows through your blood vessels and makes them look bright on the CT images. This means it’s easier to see blood flow and spot issues.» — [1]
 
+
+* _Alternate Names:_ Computed Tomography Angiogram
+
+#### Refs
+
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/ct-angiogram>
 
 ### [CT Scan](#ct-scan)
 
 «A CT (computed tomography) scan is an imaging test that helps healthcare providers detect diseases and injuries. It uses a series of X-rays and a computer to create detailed images of your bones and soft tissues. A CT scan is painless and noninvasive. You might go to a hospital or imaging center for your CT scan.» — [1]
+
+
+* _Alternate Names:_ Computed Tomography Scan
+
+#### Refs
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/4808-ct-computed-tomography-scan>
 
@@ -807,6 +863,11 @@ Donor and Recipient contact and letter writing resources.
 ### [DSA](#dsa)
 A Donor Service Area (DSA) is a smaller portion of a UNOS Region in which organs can be transported successfully.
 
+
+* _Alternate Names:_ Donor Service Area
+
+#### Refs
+
 * [1] <https://www.organdonationalliance.org/glossary/dsa/>
 
 ### [Duncan Mills](#duncan-mills)
@@ -823,6 +884,10 @@ A Donor Service Area (DSA) is a smaller portion of a UNOS Region in which organs
 
 «A DXA scan is an imaging test that measures the strength of your bones. It uses X-rays to measure your bone density. DXA is an abbreviation for dual-energy X-ray absorptiometry.» — [1]
 
+
+* _Alternate Names:_ Dual-Energy X-Ray Absorptiometry
+
+#### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test>
 
 ### [Dysphagia](#dysphagia)
@@ -833,6 +898,10 @@ Dysphagia is an inability to swallow properly. Food and liquids orally taken can
 ### [Edema](#edema)
 Edema (or Oedema) is swelling caused by too much fluid trapped in the body's tissues. Edema can affect any part of the body. But it's more likely to show up in the legs and feet.
 
+
+* _Alternate Names:_ Oedema
+
+#### Refs
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493>
 * [2] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Edema>
 
@@ -860,6 +929,10 @@ The calculation for eGFR based on serum-creatinine (SCr) is the following formul
 Or more simply, expressing in percent of 100: 
   * Women: 90% / SCr^1.2 • {SCr > 0.7} — <https://www.desmos.com/calculator/x0i9pjl68i>
   * Men: 120% / SCr^1.2 • {SCr > 0.9} — <https://www.desmos.com/calculator/kvjclma4yr>
+
+#### Additional Info
+
+* _Alternate Names:_ Estimated Glomerular Filtration Rate
 
 #### Refs
 
@@ -890,6 +963,10 @@ Or more simply, expressing in percent of 100:
 
 «Epstein-Barr virus (EBV) is a very common viral infection that spreads through saliva and body fluids. EBV is a type of herpesvirus called herpesvirus 4. Most cases of EBV don’t cause symptoms. Other cases, especially in adolescents and young adults, can lead to infectious mononucleosis.» — [1]
 
+* * _Alternate Names:_ EBV
+
+#### Refs
+
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/23469-epstein-barr-virus>
 * [2] [ScienceDirect](/source/sciencedirectcom/) «Epstein-Barr virus infection in liver transplantation patients 〚…〛» — <https://www.sciencedirect.com/science/article/abs/pii/004681779390264H>
 	
@@ -897,6 +974,10 @@ Or more simply, expressing in percent of 100:
 
 «Endoscopic retrograde cholangiopancreatography (ERCP) is a procedure to diagnose and treat problems in the liver, gallbladder, bile ducts, and pancreas» — [1]
 
+
+* _Alternate Names:_ Endoscopic retrograde cholangiopancreatography
+
+#### Refs
 * [1] [JHM](/source/hopkinsmedicineorg/) — <https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/endoscopic-retrograde-cholangiopancreatography-ercp>
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/4951-ercp-endoscopic-retrograde-cholangiopancreatography>
 
@@ -907,6 +988,10 @@ Or more simply, expressing in percent of 100:
 ### [ESLD](#esld)
 End-Stage Liver Disease (ESLD) is when the liver is damaged beyond repair due to chronic liver disease or acute liver failure.
 
+
+* _Alternate Names:_ End-Stage Liver Disease
+
+#### Refs
 * [1] [NHS](/source/nhsuk/) — <https://www.nhsbt.nhs.uk/organ-transplantation/liver/is-a-liver-transplant-right-for-you/end-stage-liver-disease/>
 
 
@@ -919,6 +1004,9 @@ Esophageal varices are enlarged veins in the esophagus, the tube that connects t
 
 «Extracorporeal shock wave lithotripsy 〚ESWL〛is a procedure to break up stones inside the urinary tract, bile ducts or pancreatic duct with a series of shock waves generated by a machine called a lithotripter.» — [1]
 
+* _Alternate Names:_ Extracorporeal Shock Wave Lithotripsy
+
+#### Refs
 * [1] [JHM](/source/hopkinsmedicineorg/) — <https://www.hopkinsmedicine.org/health/conditions-and-diseases/kidney-stones/extracorporeal-shock-wave-lithotripsy-eswl>
 
 ### [Everolimus](#everolimus)
@@ -963,6 +1051,9 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 
 «We use FIB-4 as an initial assessment. In chronic HCV, when combined with APRI, it has excellent negative predictive value for excluding advanced fibrosis. The positive predictive value is less clear.  Those with FIB-4 >1.5 and/or APRI >0.5 often go on to liver elastography.» — [1]
 
+* _Alternate Names:_ Fibrosis-4
+
+#### Refs
 * [1] [MDCalc](/source/mdcalccom/) — <https://www.mdcalc.com/calc/2200/fibrosis-4-fib-4-index-liver-fibrosis>
 
 ### [Fibroscan](#fibroscan)
@@ -984,7 +1075,7 @@ So it is a brand name related to filgrastim
 #### Drug Names
 
 * _Generic:_ Filgrastim
-* _Brand:_ NIVESTYM
+* _Brand:_ Neupogen, Nivestym, Zarxio
 
 #### Refs
 
@@ -995,6 +1086,10 @@ So it is a brand name related to filgrastim
 
 «Fine-needle aspiration (FNA) is a procedure healthcare providers use to get a cell sample from a suspicious lump or an abnormal area of your body. It’s also called a fine-needle biopsy. FNA involves using a thin needle and a syringe to pull out cells, tissue and fluids.» — [1]
 
+
+* _Alternate Names:_ FNA
+
+#### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/17872-fine-needle-aspiration-fna>
 
 
@@ -1020,6 +1115,10 @@ So it is a brand name related to filgrastim
 
 «Foot drop is a symptom in which you drag your toes when you walk due to weakness or paralysis of certain muscles in your foot. It has several possible causes. The most common causes are peroneal nerve injury and lumbar radiculopathy. It’s treatable in most, but not all, cases.» — [2]
 
+
+* _Alternate Names:_ Drop Foot
+
+#### Refs
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/foot-drop/symptoms-causes/syc-20372628>
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/symptoms/17814-foot-drop>
 * [3] [NIH](/source/nihgov/) «Foot Drop Syndrome» — <https://www.ninds.nih.gov/health-information/disorders/foot-drop-syndrome>
@@ -1071,6 +1170,10 @@ Hilar/perihilar cholangiocarcinoma (pCCA) [Sometimes incorrectly concidered gall
 
 «This paper discusses the known effects of ageing on GFR 〚Glomerular Filtration Rate〛and the consequences of using a classification system for defining CKD that does not take into account the normal decline of GFR with ageing» — [1]
 
+
+* _Alternate Names:_ Glomerular Filtration Rate
+
+#### Refs
 * [1] [NIH](/source/nihgov/) «Ageing and the Glomerular Filtration Rate» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC2744545/>
 
 
@@ -1078,6 +1181,10 @@ Hilar/perihilar cholangiocarcinoma (pCCA) [Sometimes incorrectly concidered gall
 
 «A gamma-glutamyl transferase (GGT) test measures the amount of GGT in your blood GGT is an enzyme. Enzymes are proteins that speed up certain chemical reactions in your body. Thousands of enzymes play an important role in all of your body functions. The GGT enzyme is found throughout your body, but it is mainly found in your liver.» — [1]
 
+
+* _Alternate Names:_ Gamma-glutamyl Transferase
+
+#### Refs
 * [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/>
 
 ### [Gougol](#gougol)
@@ -1110,6 +1217,9 @@ Professional Education
 
 « The GALAD model has been demonstrated to have higher diagnostic accuracy for the detection of hepatocellular carcinoma (HCC) when compared to the use AFP, AFP-L3, and DCP markers alone or in combination. The performance of the GALAD score has also been reported to be superior to ultrasound for HCC detection» — [1]
 
+* _Alternate Names:_ Hepatocellular Carcinoma: Gender, Age, L3, AFP, DCP
+
+#### Refs
 * [1]&nbsp;<https://www.mayocliniclabs.com/test-catalog/overview/606585>
 * [2] [MDCalc](/source/mdcalccom/) — <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>
 
@@ -1121,6 +1231,9 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 
 «Dizziness and lightheadedness in hepatic encephalopathy (HE) are common physical symptoms caused by the brain's reaction to unprocessed toxins in the bloodstream, such as ammonia.» — [2]
 
+* _Alternate Names:_ Hepatic Encephalopathy
+
+#### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/encephalopathy>
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy>
 
@@ -1132,6 +1245,10 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 
 «An A1C test measures your average blood sugar over the past three months. Normal is below 5.7%, prediabetes is 5.7% to 6.4%, and diabetes is 6.5% or higher. For most adults managing diabetes, the target goal is under 7%» — [2]
 
+
+* _Alternate Names:_ HbA1C, A1C
+
+#### Refs
 * [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/hemoglobin-a1c-hba1c-test/>
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) «A1C Test» — <https://my.clevelandclinic.org/health/diagnostics/9731-a1c>
 
@@ -1153,6 +1270,10 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 
 « Hepatic hydrothorax 〚HH〛is the paradigmatic pleural effusion in liver cirrhosis. It is defined as a pleural effusion in a patient with portal hypertension and no cardiopulmonary disease. The estimated prevalence of this complication in patients with liver cirrhosis is 5 to 6%. Its pathophysiology involves movement of ascitic fluid from the peritoneal cavity into the pleural space through diaphragmatic defects. » — [1]
 
+
+* _Alternate Names:_ HH
+
+#### Refs
 * [1] [NIH](/source/nihgov/) «Pleural effusion in liver disease» — <https://pubmed.ncbi.nlm.nih.gov/21213201/>
 * [2] «Pleural effusion» — <https://cirrhosiscare.ca/pleural-effusion/>
 
@@ -1167,6 +1288,18 @@ Hemochromatosis (he-moe-kroe-muh-TOE-sis) causes your body to absorb too much ir
 
 Hepatopulmonary syndrome is among the conditions that utilizes MELD Exception Scores / Points [2,3]
 
+«
+* Hepatocellular carcinoma (HCC)
+* Hepatopulmonary syndrome
+* Portopulmonary hypertension
+* Familial amyloid polyneuropathy
+* Primary hyperoxaluria*
+* Cystic fibrosis
+* Hilar/perihilar cholangiocarcinoma
+* Hepatic artery thrombosis*
+» — [3]
+
+#### Refs
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/hepatopulmonary-syndrome/symptoms-causes/syc-20373350>
 * [2] [NIH](/source/nihgov/) «Impact of the Hepatopulmonary Syndrome MELD Exception Policy on Outcomes of Patients After Liver Transplantation: An Analysis of the UNOS Database» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3992191/>
 * [3] «Why do we use the model for end-stage liver disease (MELD) score?: Part 2» — <https://www.aasld.org/liver-fellow-network/core-series/why-series/why-do-we-use-model-end-stage-liver-disease-meld-0>
@@ -1177,6 +1310,10 @@ Hepatopulmonary syndrome is among the conditions that utilizes MELD Exception Sc
 
 «A hepatobiliary iminodiacetic acid (HIDA) scan is an imaging procedure that shows how well your liver, bile ducts and gallbladder are functioning. It can help diagnose certain conditions, such as cholecystitis, biliary leak and biliary atresia.» — [1]
 
+
+* _Alternate Names:_ Hepatobiliary iminodiacetic acid
+
+#### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/17099-hida-scan>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/hida-scan/about/pac-20384701>
 
@@ -1185,12 +1322,19 @@ Hepatopulmonary syndrome is among the conditions that utilizes MELD Exception Sc
 
 «HLA DSA (Human Leukocyte Antigen Donor-Specific Antibody) refers to antibodies in a transplant recipient's bloodstream that specifically target and attack the unique HLA proteins of a donor. These are routinely monitored because they can trigger immune rejection of a transplanted organ or stem cells» — [AI:Google]
 
+
+* _Alternate Names:_ Human Leukocyte Antigen
+
+#### Refs
 * [1] [ScienceDirect](/source/sciencedirectcom/) — <https://www.sciencedirect.com/topics/medicine-and-dentistry/hla-antigen>
 * [2] [NIH](/source/nihgov/) «Donor specific anti-HLA antibodies in hematopoietic stem cell transplantation 〚…〛» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10920073/>
 * [3]&nbsp;<https://mlabs.umich.edu/tests/hla-donor-specific-antibody>
 
 ### [HPMV](#hpmv)
 
+* _Alternate Names:_ Human Metapneumovirus
+
+#### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/22443-human-metapneumovirus-hmpv>
 
 ### [Hyper](#hyper)
@@ -1256,6 +1400,9 @@ In hyponatremia, one or more factors cause the sodium in the body to be diluted.
 
 «The intensive care unit (ICU) is a unit in hospitals that provides round-the-clock monitoring and treatment for people with serious illnesses or injuries.» — [1]
 
+* _Alternate Names:_ Intensive Care Unit
+
+#### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/articles/icu-intensive-care-unit>
 
 ### [ICU Delirium](#icu-delirium)
@@ -1281,6 +1428,9 @@ Delirium that occurs either concurrently to being in the ICU or actually caused 
 ### [INR](#inr)
 «An International Normalized Ratio (INR) test calculates how long it takes for blood to clot compared to a normal healthy person (with a value of ‘1’). Blood thinners and illness can cause blood to take several times longer than normal to clot.» — [3]
 
+* _Alternate Names:_ International Normalized Ratio
+
+#### Refs
 * [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/inr>
@@ -1289,12 +1439,20 @@ Delirium that occurs either concurrently to being in the ICU or actually caused 
 
 «Intravenous immunoglobulin (IVIG) is a dose of donated immune system antibodies. Your provider will infuse IVIG through a vein in your arm. You may need IVIG if a health condition or treatment weakens your natural immune system. It’s safe, effective and low-risk. Side effects are rare and usually mild.» — [1]
 
+
+* _Alternate Names:_ IVIG
+
+#### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/treatments/ivig-intravenous-immunoglobulin>
 
 ### [IOP](#iop)
 
 An Intensive Outpatient Program (IOP) is a hospital program that meets several times a week for several hours at a time. IOPs are supposed to be as effective as residential programs and can also function as a transition from an inpatient program to normal life surroundings.
 
+
+* _Alternate Names:_ Intensive Outpatient Program
+
+#### Refs
 * [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Intensive_outpatient_program>
 * [2] <https://americanaddictioncenters.org/intensive-outpatient-programs>
 
@@ -1312,6 +1470,9 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 ### [J-Tube](#j-tube)
 A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to your duodenum (small intestine). It is used to deliver food and medicines to people who are incapable of orally consuming them.
 
+* _Alternate Names:_ Jejunal Tube
+
+#### Refs
 * [1]&nbsp;<https://starship.org.nz/guidelines/gastrostomy-transgastric-jejunal-jejunal-tube-care/>
 * [2] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/ency/patientinstructions/000181.htm>
 * [3] [CHOP](/source/chopedu/) — <https://www.chop.edu/treatments/jejunostomy-tubes>
@@ -1320,6 +1481,11 @@ A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to 
 
 «Jardiance (empagliflozin) is an FDA-approved tablet used to help control blood sugar levels in type 2 diabetes and is also used to reduce the risk of cardiovascular problems in adults with heart failure or cardiovascular disease with type 2 diabetes. Jardiance lowers blood glucose levels (HbA1c) by helping the kidney increase the amount of glucose passing into the urine. Jardiance should be used together with diet and exercise when prescribed for type 2 diabetes.» — [1]
 
+#### Drug Names
+* _Generic:_ Empagliflozin
+* _Brand:_ Jardiance
+
+#### Refs
 * [1] [Drugs.com](/source/drugscom/) — <https://www.drugs.com/jardiance.html>
 
 ### [Jaundice](#jaundice)
@@ -1395,6 +1561,9 @@ The parameter Kt/V is a measurement of the efficacy of a dialysis session (hemo 
 
 «Late acute rejection has been variably defined as ocurring more than one, three, or six months after transplantation. Therefore, it differs from early acute cellular rejection, which occurs less than three months after liver transplantation» — [1]
 
+* _Alternate Names:_ LAR
+
+#### Refs
 * [1] [NIH](/source/nihgov/) «Late Acute Rejection In Liver Transplant: A Systematic Review» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4737366/>
 * [2] [LWW](/source/lwwcom/) «Late Acute Rejection After Liver Transplant Is Associated With Increased Risk Of Death» — <https://journals.lww.com/transplantjournal/fulltext/10.1097/01.tp.0000701028.35205.be~late-acute-rejection-after-liver-transplant-is-associated>
 
@@ -1508,6 +1677,9 @@ The donor's remaining liver regrows and returns to its normal size, volume and c
 L‐ornithine‐L‐aspartate for hepatic encephalopathy
 
 
+* _Alternate Names:_ L‐ornithine‐L‐aspartate
+
+#### Refs
 * [1] [NIH](/source/nihgov/) «L‐ornithine‐L‐aspartate for hepatic encephalopathy» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6478143/>
 * [2] «Efficacy and safety of L-ornithine L-aspartate〚…〛»— <https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1581792/full>
 * [3] «Intravenous versus oral ‘L-ornithine-L-aspartate’ in overt hepatic encephalopathy〚…〛» — <https://www.nature.com/articles/s41598-024-62293-8>
@@ -1546,6 +1718,9 @@ There are statistical correlations between level of liver illness (e.g. the MELD
 * 10 or less — Once a year.
   » — [7]
 
+#### Additional Information
+* _Alternate Names:_ Model for end-stage liver disease
+
 #### Refs
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
@@ -1570,18 +1745,39 @@ Normally an exception score is awarded at first determination of the exceptional
 
 «Adult HCC candidates will follow a new schedule of automatic score assignment, that increases the scores on the 3rd, 4th and 5th extension compared to the previous schedule» — [2]
 
+Conditions that can cause an exception score:
+
+«
+* Hepatocellular carcinoma (HCC)
+* Hepatopulmonary syndrome
+* Portopulmonary hypertension
+* Familial amyloid polyneuropathy
+* Primary hyperoxaluria*
+* Cystic fibrosis
+* Hilar/perihilar cholangiocarcinoma
+* Hepatic artery thrombosis*
+  » — [3]
+
+#### Refs
 * [1] [UNOS](/source/unosorg/) — <https://unos.org/policy/liver/exception-scores/>
 * [2] [UNOS](/source/unosorg/) — <https://unos.org/wp-content/uploads/HCC-FAQ-update-Feb-018.pdf>
+* [3] «Why do we use the model for end-stage liver disease (MELD) score?: Part 2» — <https://www.aasld.org/liver-fellow-network/core-series/why-series/why-do-we-use-model-end-stage-liver-disease-meld-0>
 
 
 ### [MRE](#mre)
 Magnetic resonance elastography (MRE) is a technology that combines MRI imaging with low-frequency vibrations to create a visual map (elastogram) that shows stiffness of body tissues.
 
+* _Alternate Names:_ Magnetic resonance elastography
+
+#### Refs
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/magnetic-resonance-elastography/about/pac-20385177>
 
 ### [MRI](#mri)
 Magnetic resonance imaging (MRI) is a type of diagnostic test that can create detailed images of nearly every structure and organ inside the body. MRI uses magnets and radio waves to produce images on a computer.
 
+* _Alternate Names:_ Magnetic resonance imaging
+
+#### Refs
 * [1] [JHM](/source/hopkinsmedicineorg/) — <https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/magnetic-resonance-imaging-mri>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768>
 
@@ -1633,6 +1829,9 @@ In general, candidates listed at hospitals closest to the donor hospital will ge
 ### [NASH](#nash)
 «Nonalcoholic steatohepatitis (NASH) is the most severe form of nonalcoholic fatty liver disease (NAFLD), a condition in which the liver builds up excessive fat deposits.» — [2]
 
+* _Alternate Names:_ Nonalcoholic steatohepatitis
+
+#### Refs
 * [1]&nbsp;<https://www.pfizer.com/disease-and-conditions/nash>
 * [2]&nbsp;<https://www.acsh.org/news/2024/03/12/new-drug-offers-hope-common-life-threatening-liver-disease-17662>
 
@@ -1701,6 +1900,9 @@ Possible treats that the medical team might like and appreciate from patients in
 ### [OPTN](#optn)
 «Organ Procurement and Transplantation Network (OPTN) is a unique public-private partnership that links all professionals involved in the U.S. donation and transplantation system. Also crucial to the system are individuals who sign organ donor cards, people who comment on policy proposals and countless volunteers who support donation and transplantation, among many others.» — [1]
 
+* _Alternate Names:_ Organ Procurement and Transplantation Network
+
+#### Refs
 * [1] [HRSA](/source/hrsagov/) — <https://www.hrsa.gov/optn>
 * [2] [HRSA](/source/hrsagov/) — <https://optn.transplant.hrsa.gov/about/>
 
@@ -1737,6 +1939,9 @@ Possible treats that the medical team might like and appreciate from patients in
 "Percutaneous" means through the skin. The procedure creates a passageway from the skin on the back to the kidney. A surgeon uses special instruments passed through a tiny tube in your back to locate and remove stones from the kidney.
 » — [1] 
 
+* _Alternate Names:_ Percutaneous Nephrolithotomy
+
+#### Refs
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/percutaneous-nephrolithotomy/about/pac-20385051>
 
 
@@ -1761,6 +1966,8 @@ PET (positron emission tomography) scans produce pictures of the inside of the b
 
 «Positron emission tomography (PET) scans detect early signs of cancer, heart disease and brain conditions. It involves an injection of a safe radioactive tracer that helps detect diseased cells.» — [2]
 
+* _Alternate Names:_ Positron emission tomography
+
 #### Refs
 
 * [1]&nbsp;<https://www.baptisthealth.com/blog/health-and-wellness/pet-scan-vs-mri-what-s-the-difference>
@@ -1781,6 +1988,10 @@ Even though the PEth test is at the nanogram level, they do realize that there i
 * 200+ ng/mL — Heavy or chronic alcohol use
 » — [2]
 
+#### Additional Information
+
+* _Alternate Names:_ Phosphatidylethanol
+
 #### Refs
 
 * [1]&nbsp;<https://lextox.co.uk/blog-posts/phosphatidylethanol-peth-testing/>
@@ -1800,12 +2011,18 @@ The California POLST (Physician Orders for Life-Sustaining Treatment) is an augm
 
 «Physician Orders for Life-Sustaining Treatment (POLST) is a form that gives seriously-ill patients more control over their treatment during a medical crisis or at the end of life, including CPR, ventilation/intubation, scope of interventions, and tube feeding.» — [1]
 
+* _Alternate Names:_ Physician Orders for Life-Sustaining Treatment
+
+#### Refs
 * [1] <https://capolst.org>
 
 ### [Pontine Stroke](#pontine-stroke)
 
 « A pontine stroke (infarction) happens when there’s a blood flow blockage to a part of your brainstem called the pons. It’s a type of ischemic stroke. The blockage may be sudden (acute) or develop over time (chronic).» — [1]
 
+* _Alternate Names:_ Punctate Stroke
+
+#### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/pontine-stroke>
 
 
@@ -2005,6 +2222,9 @@ Cirrhosis can cause nutrient deficiencies that make skin more susceptible to cut
 
 The SRTR website provides access to a very detailed group of reports and tools to review organ transplant data. This information can be used by patients, family members / caregivers, and living donors / potential living donors, as well as transplant professionals, industry professionals, government regulators, and others.
 
+* _Alternate Names:_ Scientific Registry of Transplant Recipients
+
+#### Refs
 * [1] [SRTR](/source/srtrhrsagov/) «Main SRTR Site» — <https://srtr.hrsa.gov>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/srtr>
 * [3] [SRTR](/source/srtrhrsagov/) «Utah Centers • Liver» — <https://srtr.hrsa.gov/transplant-center-search/center-search-results/?organ=liver&cityStateZip=utah>
@@ -2025,6 +2245,9 @@ Also owns: <https://srtr.org>
 
 «Metabolic dysfunction-associated steatotic liver disease (MASLD), formerly called nonalcoholic fatty liver disease (NAFLD), is a liver condition that affects people with excess weight, obesity or other metabolic conditions, such as type 2 diabetes, high blood pressure or high cholesterol. In MASLD, too much fat builds up in the liver.»
 
+* _Alternate Names:_ MASLD; MASH; NAFLD; SLD; Fatty Liver Disease
+
+#### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/15831-fatty-liver-disease>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/fatty-liver-disease-masld/symptoms-causes/syc-20354567>
 * [3] [NIH](/source/nihgov/) «Nonalcoholic Fatty Liver Disease and Obesity Treatment» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC6770992/>
@@ -2039,6 +2262,9 @@ Also owns: <https://srtr.org>
 
 «Y-90 therapy, also known as selective internal radiation therapy or SIRT, is a minimally invasive, image-guided approach treating malignant lesions in the liver. The procedure uses a catheter to deliver tiny radioactive beads into the blood vessels that lead directly to the tumor. This allows doctors to treat tumors that are not accessible using conventional surgery or radiation treatments. A Y-90 procedure typically takes about two hours, but requires an overnight stay for observation.» — [2]
 
+* _Alternate Names:_ Transarterial chemoembolization
+
+#### Refs
 * [1] [RadiologyInfo.org](/source/radiologyinfoorg/) — <https://www.radiologyinfo.org/en/info/chemoembol>
 * [2]&nbsp;<https://www.massgeneral.org/interventional-radiology/treatments-and-services/y-90>
 * [3]&nbsp;<https://www.columbiaradiology.org/patients/services/interventional-radiology/y90-treatment-radioembolization>
@@ -2096,6 +2322,9 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 
 «Thrombocytopenia is low blood platelet count. Platelets, also called thrombocytes, are colorless blood cells that help blood clot. Platelets stop bleeding by clumping together and forming plugs in blood vessel injuries.» — [1]
 
+* _Alternate Names:_ Low blood platelet count
+
+#### Refs
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/thrombocytopenia/symptoms-causes/syc-20378293>
 
 ### [Tinnitus](#tinnitus)
@@ -2111,7 +2340,9 @@ Transjugular intrahepatic portosystemic shunt (TIPS) is a procedure to create a 
 
 «TIPS procedures typically take one to two hours. Your team will move you to a recovery room after the procedure. They’ll check on you as you wake up from anesthesia» — [1]
 
-#### Refs 
+* _Alternate Names:_ Transjugular intrahepatic portosystemic shunt
+
+#### Refs
 
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/procedures/tips-procedure>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/tips>
