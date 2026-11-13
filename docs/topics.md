@@ -2005,6 +2005,8 @@ Even though the PEth test is at the nanogram level, they do realize that there i
 
 The Panel-of-Gods (POG) or the Tansplant Review Board decides whether to accept a patient as a transplant recipient case.  It is composed of doctors and additional staff that do a detailed evaluation of the patient along many axes.
 
+* _Alternate Names:_ Panel-of-Gods
+
 ### [POLST](#polst)
 
 The California POLST (Physician Orders for Life-Sustaining Treatment) is an augmentation to DNR and other medical directives.
@@ -2070,12 +2072,20 @@ Could 3D-printed livers make transplant lists a thing of the past?
 ### [PT](#pt)
 Prothrombin Time (PT) is a measure of blood coagulation.
 
+* _Alternate Names:_ Prothrombin Time
+
+#### Refs
+
 * [1] [Wikipedia](/source/wikipediaorg/) — <https://en.m.wikipedia.org/wiki/Prothrombin_time>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/prothrombin-time/about/pac-20384661>
 
 ### [PTPVS](#ptpvs)
 
 « Technical success was achieved in all patients. No procedure-related   complications occurred. Liver function was normalized gradually and the symptoms of PHT also improved following PTPVS. » — [1]
+
+* _Alternate Names:_ Percutaneous portal venoplasty and stenting
+
+#### Refs
 
 * [1] [NIH](/source/nihgov/) «Percutaneous portal venoplasty and stenting 〚PTPVS〛 for anastomotic stenosis after liver transplantation» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC2670417/>
 
@@ -2087,6 +2097,9 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 
 
 
+* _Alternate Names:_ Punctate Strokes
+
+#### Refs
 * [1]&nbsp;«〚…〛Incidence and Etiology of Punctate Infarcts〚…〛» — <https://www.ahajournals.org/doi/10.1161/str.46.suppl_1.tmp58>
 * [2]&nbsp;«Progression From Early Multiterritorial Punctate
   Infarcts to Massive Stroke» — <https://assets.cureus.com/uploads/case_report/pdf/392439/20250817-465288-h29q8a.pdf>
@@ -2236,6 +2249,10 @@ Also owns: <https://srtr.org>
 ### [Stanford KPD](#stanford-kpd)
 
 «StanfordKPD is a platform for kidney paired donation (KPD). It allows hospitals to store patient and donor information and find matches using an intelligent matching algorithm.» — [1]
+
+* _Alternate Names:_ kidney paired donation
+
+#### Refs
 
 * [1]&nbsp;<https://stanfordkpd.org>
 
@@ -2460,6 +2477,10 @@ So if you have:
 
 «Albumin Creatinine Ratio = Albumin in mg/dL / Creatinine in g/dL» — [2]
 
+* _Alternate Names:_ Urine Albumine Creatinine Ratio
+
+#### Refs
+
 * [1] [NKF](/source/kidneyorg/) — <https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr>
 * [2]&nbsp;<https://www.mdapp.co/albumin-creatinine-ratio-calculator-461/>
 
@@ -2472,6 +2493,9 @@ So if you have:
 ### [UNOS](#unos)
 «United Network for Organ Sharing (UNOS) manages the transplant system for the United States.» — [2]
 
+* _Alternate Names:_ United Network for Organ Sharing
+
+#### Refs
 * [1] [UNOS](/source/unosorg/) — <https://unos.org>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/unos>
 
@@ -2483,6 +2507,9 @@ So if you have:
 
 «A ureteroscopy 〚URS〛 is a procedure in which a healthcare provider uses a tool to look inside your kidneys and ureters. Providers use ureteroscopy (yoo-ree-tuh-ROS-keh-pee) to evaluate and treat blockages and abnormalities in your urinary system.» — [1]
 
+* _Alternate Names:_ Ureteroscopy
+
+#### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/treatments/16213-ureteroscopy>
 
 ### [Ursodiol](#ursodiol)
@@ -2532,6 +2559,12 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 Veltassa is used in adults to treat hyperkalemia (high levels of potassium in your blood). It works by removing excess potassium from the body.» — [1]
 
+#### Drug Names
+
+* _Generic:_ Patiromer
+* _Brand:_ Veltessa
+
+#### Refs
 * [1] [Drugs.com](/source/drugscom/) — <https://www.drugs.com/veltassa.html>
 
 ### [Viral Hepatitis](#viral-hepatitis)
