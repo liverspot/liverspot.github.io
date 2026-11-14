@@ -132,7 +132,7 @@ An acuity circle provides a distance-based (radius-of-circle) prioritization fro
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/autoimmune-hepatitis/symptoms-causes/syc-20352153>
 
-Interestingly, the treatment for AIH is similar to the treatment for a post-transplant renal replacement procedure: in both cases the body needs to be prevented from attacking the liver but still function effectively against pathogens.
+Interestingly, the treatment for AIH is similar to the treatment for a post-transplant hepatic replacement procedure: in both cases the body needs to be prevented from attacking the liver but still function effectively against pathogens.
 
 ### [Albumin](#albumin)
 «Albumin is responsible for transporting vitamins, enzymes and hormones throughout your body. Albumin makes up 50% of the proteins found in your plasma. When your albumin levels are low, hormones and other important compounds aren’t able to get to where they need to go in your body to fulfill their duties.» — [2]
