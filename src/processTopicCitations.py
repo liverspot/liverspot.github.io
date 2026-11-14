@@ -31,6 +31,7 @@ sources = {}
 topics_filepath = "./docs/topics.md"
 citation_filepath = "./docs/_data/citations.yml"
 sources_filepath = "./docs/_sources"
+includes_filepath = "./docs/_includes/topics"
 
 
 # Identify citation lines by the pattern:
@@ -230,25 +231,34 @@ for key, value in found_sources.items():
 relevant_keys = ['generic','brand','alternate-names']
 current_prefix = ''
 current_count = ''
-for key, value in found_topics.items():
-    #     result = " ".join(value.values())original.keys() & target_keys
-    relevant_values = [value[k] for k in relevant_keys if k in value]
-    # print(f"{key}: {"; ".join(relevant_values)}",  file=sys.stderr)
-    subsection3_prefix = value['prefix']
-    subsection3_count = value['count']
-    subsection3_slug = value['slug']
-    subsection3_key = value['key']
 
-    # print(f"{key}: {value} • {subsection3_prefix} • {"; ".join(relevant_values)}",  file=sys.stderr)
-    if current_prefix != subsection3_prefix:
-        current_prefix = subsection3_prefix
-        current_count = subsection3_count
-        current_slug = subsection3_slug
-        print(f"table tr:nth-child({current_count}), /*{current_prefix}*/",  file=sys.stderr)
-        print(f"#{current_slug}, ",  file=sys.stderr)
-        print(f"|[{subsection3_key} &darr;](#{subsection3_slug}) <a id=\"{current_prefix}\"></a>|{"; ".join(relevant_values)}|",  file=sys.stderr)
-    else:
-        print(f"|[{subsection3_key} &darr;](#{subsection3_slug})|{"; ".join(relevant_values)}|",  file=sys.stderr)
+outfile_table = f"{includes_filepath}/toc_table.txt"
+outfile_table_style = f"{includes_filepath}/toc_table_style.txt"
+outfile_header_style = f"{includes_filepath}/toc_header_style.txt"
+
+with open(outfile_table, "w", encoding="utf-8") as outfile_table_file, \
+    open(outfile_table_style, "w", encoding="utf-8") as outfile_table_style_file, \
+        open(outfile_header_style, "w", encoding="utf-8") as outfile_header_style_file:
+
+        for key, value in found_topics.items():
+            #     result = " ".join(value.values())original.keys() & target_keys
+            relevant_values = [value[k] for k in relevant_keys if k in value]
+            # print(f"{key}: {"; ".join(relevant_values)}",  file=sys.stderr)
+            subsection3_prefix = value['prefix']
+            subsection3_count = value['count']
+            subsection3_slug = value['slug']
+            subsection3_key = value['key']
+
+            # print(f"{key}: {value} • {subsection3_prefix} • {"; ".join(relevant_values)}",  file=sys.stderr)
+            if current_prefix != subsection3_prefix:
+                current_prefix = subsection3_prefix
+                current_count = subsection3_count
+                current_slug = subsection3_slug
+                print(f"table tr:nth-child({current_count}), /*{current_prefix}*/",  file=outfile_table_style_file)
+                print(f"#{current_slug}, ",  file=outfile_header_style_file)
+                print(f"|[{subsection3_key} &darr;](#{subsection3_slug}) <a id=\"{subsection3_prefix}\"></a>|{"; ".join(relevant_values)}|",  file=outfile_table_file)
+            else:
+                print(f"|[{subsection3_key} &darr;](#{subsection3_slug})|{"; ".join(relevant_values)}|",  file=outfile_table_file)
 
 
 

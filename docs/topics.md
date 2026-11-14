@@ -15,28 +15,28 @@ styles:
 /*=== Topic-section in table styling */
 /*================================== */
 
-table tr:nth-child(1), /*A*/
-table tr:nth-child(21), /*B*/
-table tr:nth-child(30), /*C*/
-table tr:nth-child(42), /*D*/
-table tr:nth-child(55), /*E*/
-table tr:nth-child(69), /*F*/
-table tr:nth-child(77), /*G*/
-table tr:nth-child(84), /*H*/
-table tr:nth-child(102), /*I*/
-table tr:nth-child(110), /*J*/
-table tr:nth-child(113), /*K*/
-table tr:nth-child(117), /*L*/
-table tr:nth-child(132), /*M*/
-table tr:nth-child(141), /*N*/
-table tr:nth-child(147), /*O*/
-table tr:nth-child(150), /*P*/
-table tr:nth-child(166), /*R*/
-table tr:nth-child(171), /*S*/
-table tr:nth-child(181), /*T*/
-table tr:nth-child(203), /*U*/
-table tr:nth-child(209), /*V*/
-table tr:nth-child(214), /*X*/
+table tr:nth-child(1), /*a*/
+table tr:nth-child(21), /*b*/
+table tr:nth-child(30), /*c*/
+table tr:nth-child(42), /*d*/
+table tr:nth-child(55), /*e*/
+table tr:nth-child(69), /*f*/
+table tr:nth-child(77), /*g*/
+table tr:nth-child(84), /*h*/
+table tr:nth-child(102), /*i*/
+table tr:nth-child(110), /*j*/
+table tr:nth-child(113), /*k*/
+table tr:nth-child(117), /*l*/
+table tr:nth-child(132), /*m*/
+table tr:nth-child(141), /*n*/
+table tr:nth-child(147), /*o*/
+table tr:nth-child(150), /*p*/
+table tr:nth-child(166), /*r*/
+table tr:nth-child(171), /*s*/
+table tr:nth-child(181), /*t*/
+table tr:nth-child(203), /*u*/
+table tr:nth-child(209), /*v*/
+table tr:nth-child(214), /*x*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -51,28 +51,29 @@ table tr:nth-child(1) /*Z*/
 /*================================== */
 
 
-#acr,
-#bactrim,
-#camino-hospital-iop,
-#deceased-organ-donation,
-#edema,
-#fib-4,
-#gabapentin,
-#hcc-ablation,
-#icu,
-#j-tube,
-#ketorolac,
-#lactulose,
-#medical-marijuana,
-#naltrexone,
-#optn,
-#paracentesis,
-#recompensated,
-#safety-net,
-#tace,
-#uacr,
-#valcyte,
-#xiaflex,
+#acr, 
+#bactrim, 
+#camino-hospital-iop, 
+#deceased-organ-donation, 
+#edema, 
+#fib-4, 
+#gabapentin, 
+#hcc-ablation, 
+#icu, 
+#j-tube, 
+#ketorolac, 
+#lactulose, 
+#medical-marijuana, 
+#naltrexone, 
+#optn, 
+#paracentesis, 
+#recompensated, 
+#safety-net, 
+#tace, 
+#uacr, 
+#valcyte, 
+#xiaflex, 
+
 #zzz
 {
     color: #2e6da4;
@@ -100,11 +101,11 @@ The following entries contain information on topics that have been brought up du
 |------------------------------------------------------------------------------------|-----------------------------------------------|
 |[ACR &darr;](#acr) <a id="a"></a>|Acute Cellular Rejection|
 |[Acuity Circles &darr;](#acuity-circles)||
-|[Acyclovir &darr;](#acyclovir)|Zovirax|
+|[Acyclovir &darr;](#acyclovir)|Acyclovir; Zovirax|
 |[AFP &darr;](#afp)|Alpha-Fetoprotein|
 |[AIH &darr;](#aih)|Autoimmune hepatitis|
 |[Albumin &darr;](#albumin)||
-|[Alcohol-induced hepatitis &darr;](#alcohol-induced-hepatitis)||
+|[Alcohol-Induced Hepatitis &darr;](#alcohol-induced-hepatitis)||
 |[ALP &darr;](#alp)|Alkaline phosphatase|
 |[Alpha-1-antitrypsin deficiency &darr;](#alpha-1-antitrypsin-deficiency)|AATD|
 |[ALT &darr;](#alt)|Alanine aminotransferase|
@@ -115,21 +116,21 @@ The following entries contain information on topics that have been brought up du
 |[Ascites &darr;](#ascites)||
 |[AST &darr;](#ast)|Aspartate aminotransferase|
 |[Asterixis &darr;](#asterixis)||
-|[Atovaquone &darr;](#atovaquone)|Mepron|
+|[Atovaquone &darr;](#atovaquone)|Atovaquone; Mepron|
 |[Atrophy &darr;](#atrophy)||
-|[Avatrombopag &darr;](#avatrombopag)|Doptelet|
-|[Bactrim &darr;](#bactrim) <a id="b"></a>|Sulfamethoxazole and Trimethoprim|
+|[Avatrombopag &darr;](#avatrombopag)|Avatrombopag; Doptelet|
+|[Bactrim &darr;](#bactrim) <a id="b"></a>|Sulfamethoxazole and Trimethoprim; Bactrim|
 |[Bausch PAP &darr;](#bausch-pap)|Patient Assistance Program|
-|[Behavior after transplant &darr;](#behavior-after-transplant)||
+|[Behavior after Transplant &darr;](#behavior-after-transplant)||
 |[Bilirubin &darr;](#bilirubin)||
-|[BK Virus &darr;](#bk-virus)|'BK' are initials|
-|[BMP &darr;](#bmp)|basic metabolic panel|
-|[BRTO &darr;](#brto)|BATO, BRTO, CARTO, PATO, Balloon-occluded transvenous obliteration|
-|[Bubble contrast echocardiogram &darr;](#bubble-contrast-echocardiogram)|Bubble Study; |
+|[BK Virus &darr;](#bk-virus)||
+|[BMP &darr;](#bmp)|Basic Metabolic Panel|
+|[BRTO &darr;](#brto)|BATO; BRTO; CARTO; PATO; Balloon-occluded transvenous obliteration|
+|[Bubble contrast echocardiogram &darr;](#bubble-contrast-echocardiogram)|Bubble Study|
 |[BUN Test &darr;](#bun-test)|Blood-urea-nitrogen|
 |[Camino Hospital IOP &darr;](#camino-hospital-iop) <a id="c"></a>|Intensive OutPatient|
 |[Cirrhosis &darr;](#cirrhosis)||
-|[CMV &darr;](#cmv)|[Human] CytoMegaloVirus|
+|[CMV &darr;](#cmv)|Human CytoMegaloVirus; HCMV|
 |[Compensated Cirrhosis &darr;](#compensated-cirrhosis)||
 |[Corewell Health &darr;](#corewell-health)||
 |[CostPlus &darr;](#costplus)||
@@ -145,6 +146,7 @@ The following entries contain information on topics that have been brought up du
 |[Dialysis &darr;](#dialysis)||
 |[Diverticulitis &darr;](#diverticulitis)||
 |[Donor Info &darr;](#donor-info)||
+|[DRESS &darr;](#dress)|Drug Reaction with Eosinophilia and Systemic Symptoms|
 |[Drug Regimen &darr;](#drug-regimen)||
 |[DSA &darr;](#dsa)|Donor Service Area|
 |[Duncan Mills &darr;](#duncan-mills)||
@@ -152,36 +154,36 @@ The following entries contain information on topics that have been brought up du
 |[DXA scan &darr;](#dxa-scan)|Dual-Energy X-Ray Absorptiometry|
 |[Dysphagia &darr;](#dysphagia)||
 |[Edema &darr;](#edema) <a id="e"></a>|Oedema|
-|[eGFR &darr;](#egfr)|glomerular filtration rate|
+|[eGFR &darr;](#egfr)|Estimated Glomerular Filtration Rate|
 |[El Camino Car &darr;](#el-camino-car)||
 |[Encephalitis &darr;](#encephalitis)||
 |[Encephalopathy &darr;](#encephalopathy)||
-|[Epstein-Barr virus &darr;](#epstein-barr-virus)|EBV|
+|[Epstein-Barr Virus &darr;](#epstein-barr-virus)||
 |[ERCP &darr;](#ercp)|Endoscopic retrograde cholangiopancreatography|
 |[Erica Storm &darr;](#erica-storm)||
 |[ESLD &darr;](#esld)|End-Stage Liver Disease|
 |[Esophageal Varices &darr;](#esophageal-varices)||
 |[ESWL &darr;](#eswl)|Extracorporeal Shock Wave Lithotripsy|
-|[Everolimus &darr;](#everolimus)|Afinitor, Zortress|
+|[Everolimus &darr;](#everolimus)|Everolimus; Afinitor, Zortress|
 |[Excess Protein &darr;](#excess-protein)||
 |[Expanded Criteria Donor &darr;](#expanded-criteria-donor)||
 |[FIB-4 &darr;](#fib-4) <a id="f"></a>|Fibrosis-4|
 |[Fibroscan &darr;](#fibroscan)||
-|[Filgrastim &darr;](#filgrastim)|Neupogen, Nivestym, Zarxio|
+|[Filgrastim &darr;](#filgrastim)|Filgrastim; Neupogen, Nivestym, Zarxio|
 |[Fine-Needle Aspiration &darr;](#fine-needle-aspiration)|FNA|
 |[Fistula &darr;](#fistula)||
-|[Furosemide &darr;](#furosemide)|Furocot, Lasix|
 |[Food Safety after Transplant &darr;](#food-safety-after-transplant)||
 |[Foot Drop &darr;](#foot-drop)|Drop Foot|
-|[Gabapentin &darr;](#gabapentin) <a id="g"></a>|Neurontin|
+|[Furosemide &darr;](#furosemide)|Furosemide; Furocot, Lasix|
+|[Gabapentin &darr;](#gabapentin) <a id="g"></a>|Gabapentin; Neurontin|
 |[Gallbladder &darr;](#gallbladder)||
 |[Gallbladder Cancer &darr;](#gallbladder-cancer)||
 |[GFR and Aging &darr;](#gfr-and-aging)|Glomerular Filtration Rate|
-|[GGT &darr;](#ggt)|gamma-glutamyl transferase|
+|[GGT &darr;](#ggt)|Gamma-glutamyl Transferase|
 |[Gougol &darr;](#gougol)||
 |[Gynecomastia &darr;](#gynecomastia)||
 |[HCC Ablation &darr;](#hcc-ablation) <a id="h"></a>||
-|[HCC GALAD Model &darr;](#hcc-galad-model)|Hepatocellular Carcinoma • Gender, Age, ...|
+|[HCC GALAD model &darr;](#hcc-galad-model)|Hepatocellular Carcinoma: Gender, Age, L3, AFP, DCP|
 |[HE &darr;](#he)|Hepatic Encephalopathy|
 |[Hemaglobin A1C Test &darr;](#hemaglobin-a1c-test)|HbA1C, A1C|
 |[Hemochromatosis &darr;](#hemochromatosis)||
@@ -192,7 +194,7 @@ The following entries contain information on topics that have been brought up du
 |[HIDA Scan &darr;](#hida-scan)|Hepatobiliary iminodiacetic acid|
 |[HLA &darr;](#hla)|Human Leukocyte Antigen|
 |[HPMV &darr;](#hpmv)|Human Metapneumovirus|
-|[Hyper  &darr;](#hyper-)||
+|[Hyper &darr;](#hyper)||
 |[Hyperbilirubinemia &darr;](#hyperbilirubinemia)||
 |[Hypo &darr;](#hypo)||
 |[Hypoalbuminemia &darr;](#hypoalbuminemia)||
@@ -204,29 +206,29 @@ The following entries contain information on topics that have been brought up du
 |[Immunosuppression &darr;](#immunosuppression)||
 |[INR &darr;](#inr)|International Normalized Ratio|
 |[Intravenous Immunoglobulin &darr;](#intravenous-immunoglobulin)|IVIG|
-|[IOP &darr;](#iop)|Intense Outpatient Program|
+|[IOP &darr;](#iop)|Intensive Outpatient Program|
 |[Itching &darr;](#itching)||
 |[J-Tube &darr;](#j-tube) <a id="j"></a>|Jejunal Tube|
-|[Jardiance &darr;](#jardiance)|Empagliflozin|
+|[Jardiance &darr;](#jardiance)|Empagliflozin; Jardiance|
 |[Jaundice &darr;](#jaundice)||
-|[Ketorolac &darr;](#ketorolac) <a id="k"></a>|Toradol|
+|[Ketorolac &darr;](#ketorolac) <a id="k"></a>|Ketorolac; Toradol|
 |[Kidney Biopsy &darr;](#kidney-biopsy)||
 |[Kidney Failure &darr;](#kidney-failure)||
 |[Kt/V &darr;](#ktv)||
-|[Lactulose &darr;](#lactulose) <a id="l"></a>|Kristalose, Enulose|
+|[Lactulose &darr;](#lactulose) <a id="l"></a>|Lactulose; Kristalose, Enulose|
 |[Lactulose vs. Miralax &darr;](#lactulose-vs-miralax)||
 |[Late Acute Rejection &darr;](#late-acute-rejection)|LAR|
-|[Letermovir &darr;](#letermovir)|Prevymis|
+|[Letermovir &darr;](#letermovir)|Letermovir; Prevymis|
+|[Livtencity &darr;](#livtencity)|Maribavir; Livtencity|
+|[LiverSpot.org &darr;](#liverspotorg)||
 |[Liver Circle &darr;](#liver-circle)||
 |[Liver Function Tests &darr;](#liver-function-tests)||
 |[Liver In A Box &darr;](#liver-in-a-box)||
 |[Liver Pain &darr;](#liver-pain)||
-|[LiverSpot.org &darr;](#liverspotorg)||
 |[Liver Spots &darr;](#liver-spots)||
-|[Living Donor Liver Transplant &darr;](#living-donor-liver-transplant)||
 |[Liver Transplant Patient Handbook &darr;](#liver-transplant-patient-handbook)||
 |[Liver Transplant Surgery &darr;](#liver-transplant-surgery)||
-|[Livtencity &darr;](#livtencity)|Maribavir|
+|[Living Donor Liver Transplant &darr;](#living-donor-liver-transplant)||
 |[LOLA &darr;](#lola)|L‐ornithine‐L‐aspartate|
 |[Medical Marijuana &darr;](#medical-marijuana) <a id="m"></a>||
 |[MELD &darr;](#meld)|Model for end-stage liver disease|
@@ -236,28 +238,28 @@ The following entries contain information on topics that have been brought up du
 |[MRI &darr;](#mri)|Magnetic resonance imaging|
 |[Multifocal Cancer &darr;](#multifocal-cancer)||
 |[Multiple Listing &darr;](#multiple-listing)||
-|[Mycophenolate Mofetil &darr;](#mycophenolate-mofetil)|CellCept, Myfortic|
-|[Naltrexone &darr;](#naltrexone) <a id="n"></a>|Vivitrol, ReVia|
+|[Mycophenolate Mofetil &darr;](#mycophenolate-mofetil)|Mycophenolate Mofetil; CellCept, Myfortic|
+|[Naltrexone &darr;](#naltrexone) <a id="n"></a>|Naltrexone; Vivitrol, ReVia|
 |[NASH &darr;](#nash)|Nonalcoholic steatohepatitis|
 |[Neuropathy &darr;](#neuropathy)||
 |[Neutropenia &darr;](#neutropenia)||
-|[Nystatin &darr;](#nystatin)|Mycostatin, Nilstat, Nystex|
+|[Nystatin &darr;](#nystatin)|Nystatin; Mycostatin, Nilstat, Nystex|
 |[Nurse Treats &darr;](#nurse-treats)||
 |[OPTN &darr;](#optn) <a id="o"></a>|Organ Procurement and Transplantation Network|
 |[Osmolite &darr;](#osmolite)||
-|[Oxycodone &darr;](#oxycodone)|OxyContin, Percocet|
+|[Oxycodone &darr;](#oxycodone)|Oxycodone; OxyContin, Percocet|
 |[Paracentesis &darr;](#paracentesis) <a id="p"></a>||
 |[PCNL &darr;](#pcnl)|Percutaneous Nephrolithotomy|
 |[Persistent Ascites &darr;](#persistent-ascites)||
 |[PET &darr;](#pet)|Positron emission tomography|
 |[PEth &darr;](#peth)|Phosphatidylethanol|
 |[Pink Cloud &darr;](#pink-cloud)||
+|[POG &darr;](#pog)|Panel-of-Gods|
 |[POLST &darr;](#polst)|Physician Orders for Life-Sustaining Treatment|
 |[Pontine Stroke &darr;](#pontine-stroke)|Pontine Infarction|
-|[Post-transplant Cancer &darr;](#post-transplant-cancer)||
+|[Post-transplant cancer &darr;](#post-transplant-cancer)||
 |[Post-Transplant Relapse &darr;](#post-transplant-relapse)||
-|[POG &darr;](#pog)|Panel of Gods|
-|[Prednisone &darr;](#prednisone)||
+|[Prednisone &darr;](#prednisone)|Prednisone; Deltasone|
 |[Printed Liver &darr;](#printed-liver)||
 |[PT &darr;](#pt)|Prothrombin Time|
 |[PTPVS &darr;](#ptpvs)|Percutaneous portal venoplasty and stenting|
@@ -368,6 +370,9 @@ An acuity circle provides a distance-based (radius-of-circle) prioritization fro
 
 «An AFP tumor marker test is a blood test that measures the level of AFP (alpha-fetoprotein) in a sample of your blood. It's usually used to help diagnose certain types of cancer and to check how well treatment is working.» —  [1]
 
+* _Alternate Names:_ Alpha-Fetoprotein
+
+#### Refs
 * [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/>
 * [2] [URochester](/source/rochesteredu/) — <https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&contentid=alpha_fetoprotein_tumor_marker>
 
@@ -421,6 +426,9 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 «Alpha-1-antitrypsin deficiency (AATD) is a condition that's passed through families, called inherited. It can cause damage to the lungs, liver, skin and blood vessels. Not everyone who has AATD develops symptoms or health concerns. People in the same family may have different symptoms.» — [1]
 
+* _Alternate Names:_ AATD
+
+#### Refs
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/alpha-1-antitrypsin-deficiency/symptoms-causes/syc-20588790>
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21175-alpha-1-antitrypsin-deficiency>
 * [3] <https://alpha1.org/what-is-alpha1/>
@@ -429,6 +437,9 @@ Interestingly, the treatment for AIH is similar to the treatment for a post-tran
 
 «An alanine aminotransferase test, also called an ALT test, is a blood test to check the health of your liver. ALT is a substance found mostly in the liver. If your liver is OK, the ALT level usually stays low. But when liver cells are irritated or damaged, ALT can leak into the bloodstream. So the ALT level can go up.» — [1]
 
+* _Alternate Names:_ Alanine aminotransferase
+
+#### Refs
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/alanine-aminotransferase-alt-test/about/pac-20582729>
 
 ### [Ammonia Level](#ammonia-level)
@@ -2025,7 +2036,7 @@ The California POLST (Physician Orders for Life-Sustaining Treatment) is an augm
 
 « A pontine stroke (infarction) happens when there’s a blood flow blockage to a part of your brainstem called the pons. It’s a type of ischemic stroke. The blockage may be sudden (acute) or develop over time (chronic).» — [1]
 
-* _Alternate Names:_ Punctate Stroke
+* _Alternate Names:_ Pontine Infarction
 
 #### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/pontine-stroke>
@@ -2099,8 +2110,7 @@ Prothrombin Time (PT) is a measure of blood coagulation.
 «Background/Objective: Punctate infarcts (PI) 〚Punctate Strokes〛 are increasingly seen on DWI of patients with intracerebral hemorrhage (ICH) due to small vessel disease (SVD). We aimed to determine their incidence and potential causes in a large ischemic stroke (IS) cohort that had thorough etiologic workup.» — [1]
 
 
-
-* _Alternate Names:_ Punctate Strokes
+* _Alternate Names:_ Punctate Stroke
 
 #### Refs
 * [1]&nbsp;«〚…〛Incidence and Etiology of Punctate Infarcts〚…〛» — <https://www.ahajournals.org/doi/10.1161/str.46.suppl_1.tmp58>
