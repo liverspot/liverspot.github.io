@@ -19,24 +19,24 @@ table tr:nth-child(1), /*A*/
 table tr:nth-child(21), /*B*/
 table tr:nth-child(30), /*C*/
 table tr:nth-child(42), /*D*/
-table tr:nth-child(54), /*E*/
-table tr:nth-child(68), /*F*/
-table tr:nth-child(76), /*G*/
-table tr:nth-child(83), /*H*/
-table tr:nth-child(101), /*I*/
-table tr:nth-child(109), /*J*/
-table tr:nth-child(112), /*K*/
-table tr:nth-child(116), /*L*/
-table tr:nth-child(131), /*M*/
-table tr:nth-child(140), /*N*/
-table tr:nth-child(146), /*O*/
-table tr:nth-child(149), /*P*/
-table tr:nth-child(165), /*R*/
-table tr:nth-child(170), /*S*/
-table tr:nth-child(180), /*T*/
-table tr:nth-child(202), /*U*/
-table tr:nth-child(208), /*V*/
-table tr:nth-child(213), /*X*/
+table tr:nth-child(55), /*E*/
+table tr:nth-child(69), /*F*/
+table tr:nth-child(77), /*G*/
+table tr:nth-child(84), /*H*/
+table tr:nth-child(102), /*I*/
+table tr:nth-child(110), /*J*/
+table tr:nth-child(113), /*K*/
+table tr:nth-child(117), /*L*/
+table tr:nth-child(132), /*M*/
+table tr:nth-child(141), /*N*/
+table tr:nth-child(147), /*O*/
+table tr:nth-child(150), /*P*/
+table tr:nth-child(166), /*R*/
+table tr:nth-child(171), /*S*/
+table tr:nth-child(181), /*T*/
+table tr:nth-child(203), /*U*/
+table tr:nth-child(209), /*V*/
+table tr:nth-child(214), /*X*/
 
 table tr:nth-child(1), /*Y*/
 table tr:nth-child(1) /*Z*/
@@ -265,20 +265,20 @@ The following entries contain information on topics that have been brought up du
 |[Recompensated &darr;](#recompensated) <a id="r"></a>||
 |[Recteq &darr;](#recteq)||
 |[Reddit for Transplant Support Study &darr;](#reddit-for-transplant-support-study)||
-|[Retacrit &darr;](#retacrit)|Epoetin Alfa-epbx|
-|[Rituximab &darr;](#rituximab)||
-|[Safety net &darr;](#safety-net) <a id="s"></a>||
+|[Retacrit &darr;](#retacrit)|Epoetin Alfa-epbx; Retacrit|
+|[Rituximab &darr;](#rituximab)|Rituximab; Rituxan®, Truxima®, Ruxience®, Riabni®|
+|[Safety Net &darr;](#safety-net) <a id="s"></a>||
 |[Scar Tissue &darr;](#scar-tissue)||
 |[Sepsis &darr;](#sepsis)||
 |[Skin Cancer Risk &darr;](#skin-cancer-risk)||
 |[Skin Changes &darr;](#skin-changes)||
+|[Spironolactone &darr;](#spironolactone)|Spironolactone; Aldactone, Carospir|
 |[SRTR &darr;](#srtr)|Scientific Registry of Transplant Recipients|
-|[Spironolactone &darr;](#spironolactone)|Aldactone, Carospir|
 |[Stanford KPD &darr;](#stanford-kpd)|Kidney Paired Donation|
-|[Steatotic Liver Disease &darr;](#steatotic-liver-disease)|MASLD, MASH, NAFLD, SLD, Fatty Liver Disease|
+|[Steatotic Liver Disease &darr;](#steatotic-liver-disease)|MASLD; MASH; NAFLD; SLD; Fatty Liver Disease|
 |[St. Mary's Reno &darr;](#st-marys-reno)||
 |[TACE &darr;](#tace) <a id="t"></a>|Transarterial chemoembolization|
-|[Tacrolimus &darr;](#tacrolimus)|Prograf, Astagraf, Envarsus|
+|[Tacrolimus &darr;](#tacrolimus)|Tacrolimus; Prograf, Astagraf, Envarsus|
 |[Tacrolimus Skin Cancer &darr;](#tacrolimus-skin-cancer)||
 |[Tacrolimus vs. CellCept &darr;](#tacrolimus-vs-cellcept)||
 |[Tacrolimus-induced Ascites &darr;](#tacrolimus-induced-ascites)||
@@ -288,7 +288,7 @@ The following entries contain information on topics that have been brought up du
 |[Tinnitus &darr;](#tinnitus)||
 |[TIPS &darr;](#tips)|Transjugular intrahepatic portosystemic shunt|
 |[Topical Tacrolimus &darr;](#topical-tacrolimus)||
-|[Tramadol &darr;](#tramadol)|ConZip, Qdolo, Ultram|
+|[Tramadol &darr;](#tramadol)|Tramadol; ConZip, Qdolo, Ultram|
 |[Transjugular Liver Biopsy &darr;](#transjugular-liver-biopsy)||
 |[Transplant Age &darr;](#transplant-age)||
 |[Transplant Blood Type Compatibility &darr;](#transplant-blood-type-compatibility)||
@@ -297,21 +297,21 @@ The following entries contain information on topics that have been brought up du
 |[Transplant House &darr;](#transplant-house)||
 |[Transplant Survival Benefit &darr;](#transplant-survival-benefit)||
 |[TriClip &darr;](#triclip)|Tricuspid valve clip|
-|[Triphasic CT Scan &darr;](#triphasic-ct-scan)|triple-phase; 3P; 3-Phase|
+|[Triphasic CT Scan &darr;](#triphasic-ct-scan)|Triple-phase; 3P; 3-Phase|
 |[Turmeric &darr;](#turmeric)||
 |[uACR &darr;](#uacr) <a id="u"></a>|Urine Albumine Creatinine Ratio|
 |[Umbilical Hernia &darr;](#umbilical-hernia)||
 |[UNOS &darr;](#unos)|United Network for Organ Sharing|
 |[UNOS Regions &darr;](#unos-regions)||
 |[URS &darr;](#urs)|Ureteroscopy|
-|[Ursodiol &darr;](#ursodiol)|Actigall, Reltone, Urso |
-|[Valcyte &darr;](#valcyte) <a id="v"></a>|Valganciclovir|
+|[Ursodiol &darr;](#ursodiol)|Ursodiol; Actigall, Reltone, Urso|
+|[Valcyte &darr;](#valcyte) <a id="v"></a>|Valganciclovir; Valcyte|
 |[Vein Mapping &darr;](#vein-mapping)|Arterial Mapping, Vessel Mapping|
-|[Veltassa &darr;](#veltassa)|Patiromer|
+|[Veltassa &darr;](#veltassa)|Patiromer; Veltassa|
 |[Viral Hepatitis &darr;](#viral-hepatitis)||
-|[Vivitrol &darr;](#vivitrol)|Naltrexone|
-|[XIAFLEX &darr;](#xiaflex) <a id="x"></a>|Collagenase Clostridium histolyticum|
-|[Xifaxan &darr;](#xifaxan)|Rifaximin|
+|[Vivitrol &darr;](#vivitrol)|Naltrexone; Vivitrol|
+|[XIAFLEX &darr;](#xiaflex) <a id="x"></a>|Collagenase Clostridium Histolyticum; XIAFLEX|
+|[Xifaxan &darr;](#xifaxan)|Rifaximin; Xifaxan, Xifaxanta, Zaxine|
 
 ## Entries
 
@@ -851,6 +851,9 @@ Donor and Recipient contact and letter writing resources.
 
 «Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) Syndrome» — [1]
 
+* _Alternate Names:_ Drug Reaction with Eosinophilia and Systemic Symptoms
+
+#### Refs
 * [1] <https://dermskinhealth.com/mohs-surgery-on-lower-leg/>
 
 ### [Drug Regimen](#drug-regimen)
@@ -2250,7 +2253,7 @@ Also owns: <https://srtr.org>
 
 «StanfordKPD is a platform for kidney paired donation (KPD). It allows hospitals to store patient and donor information and find matches using an intelligent matching algorithm.» — [1]
 
-* _Alternate Names:_ kidney paired donation
+* _Alternate Names:_ Kidney Paired Donation
 
 #### Refs
 
@@ -2448,6 +2451,9 @@ The benefits of a transplant as a treatment for liver dysfunction depend on the 
 
 «A tricuspid valve clip (commonly known as the TriClip TEER device) is a minimally invasive treatment for severe tricuspid regurgitation (leaky valve).» — [1]
 
+* _Alternate Names:_ Tricuspid valve clip
+
+#### Refs
 * [1] [Yale Medicine](/source/yalemedicineorg/) — <https://www.yalemedicine.org/news/new-minimally-invasive-procedure-can-fix-your-hearts-tricuspid-valve>
 
 ### [Triphasic CT Scan](#triphasic-ct-scan)
@@ -2457,6 +2463,10 @@ The benefits of a transplant as a treatment for liver dysfunction depend on the 
 It involves a dedicated late arterial phase, portal venous phase and delayed phase acquisition. Not to be confused with a four-phase which involves the addition of a non-contrast series.» — [2]
 
 «Triphasic Computed Tomography (CT) has been used extensively as a non-invasive imaging technique for the assessment of focal liver lesions, especially in cirrhotic patients where the differentiation between benign and malignant lesions continues to be important.» — [1]
+
+* _Alternate Names:_ Triple-phase; 3P; 3-Phase
+
+#### Refs
 
 * [1] «Diagnostic Accuracy of Triphasic CT Scan» — <https://jpmsonline.com/article/diagnostic-accuracy-of-triphasic-ct-scan-in-differentiating-malignant-from-benign-focal-liver-lesion-by-taking-histopathology-as-gold-standard-in-cirrhotic-patients-a-systematic-review-and-meta-analysis-867/>
 * [2] [Radiopaedia](/source/radiopaediaorg/) «CT triple-phase liver (protocol)» — <https://radiopaedia.org/articles/ct-triple-phase-liver-protocol?lang=us>
@@ -2550,10 +2560,13 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 «AccuVein’s near-infrared (NIR) technology enables healthcare professionals to visualize the superficial vasculature in order to identify veins for optimal peripheral venous access or avoiding veins during aesthetic procedures» — [2]
 
+* _Alternate Names:_ Arterial Mapping, Vessel Mapping
+
+#### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) «Arterial & Venous Mapping» — <https://my.clevelandclinic.org/health/diagnostics/17607-arterial--venous-mapping>
 * [2] <https://www.accuvein.com>
 
-### [Veltessa](#veltessa)
+### [Veltassa](#veltassa)
 
 «Veltassa (patiromer) belongs to a class of medications called potassium removing agents.
 
@@ -2562,7 +2575,7 @@ Veltassa is used in adults to treat hyperkalemia (high levels of potassium in yo
 #### Drug Names
 
 * _Generic:_ Patiromer
-* _Brand:_ Veltessa
+* _Brand:_ Veltassa
 
 #### Refs
 * [1] [Drugs.com](/source/drugscom/) — <https://www.drugs.com/veltassa.html>

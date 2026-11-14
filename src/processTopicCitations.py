@@ -49,9 +49,14 @@ pattern2 = r"\#\#\# (.*)"
 # [Topic-Name](link)
 pattern2b = r"\[([^\[]*)\]\(([^\)]*)\)"
 
+#* _Alternate Names:_
+#* _Generic:_ Tacrolimus
+
+pattern3 = r"\*\s+\_([^\_]+)\_\s*"
+
 # Sources found for documentation
 found_sources = {}
-
+found_topics = {}
 
 def make_anchor_name(name: str) -> str:
     # 1. Convert to lowercase and strip leading/trailing whitespace
@@ -102,11 +107,14 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
     # This moves the original 'topics_filepath' to a '.bak' version, and writes a new version of 'topics_filepath'
     with fileinput.input(files=topics_filepath, inplace=True, backup=".bak") as file:
         # Loop over all the lines in the file
+        subsection3_count = 0
         for line in file:
             # Check for subsection match
             match2 = re.match(pattern2, line)
             if match2:
                 subsection3 = match2.group(1)
+                subsection3_count += 1
+                # found_topics[subsection3]={}
                 subsection3_url = ""
                 match2b = re.match(pattern2b, subsection3)
                 if match2b:
@@ -117,8 +125,28 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
                     subsection3_url = "#"+subsection3_slug
 
                 print(f"### [{subsection3}]({subsection3_url})")
-###                print("Found:", subsection3_slug, subsection3_url, file=sys.stderr)
 
+                subsection3_prefix = subsection3[0].lower()
+
+                found_topics[subsection3]= {'key': subsection3, 'slug': subsection3_slug,'count': subsection3_count, 'prefix': subsection3_prefix}
+                print("Found Subsection:", found_topics[subsection3], file=sys.stderr)
+                continue
+
+            # Check for citation match
+            match3 = re.match(pattern3, line)
+            if match3:
+                #found_topics[subsection3]
+
+                keyword = make_anchor_name(match3.group(1))
+                text_after : str = line[match3.end():]
+                if subsection3:
+                    topic_entry = found_topics[subsection3]
+                    topic_entry[keyword]=text_after.strip()
+                    print("   * Found Subsection Entry:", subsection3, topic_entry,  file=sys.stderr)
+                else:
+                    print("   * Found Subsection Info:", subsection3, keyword, text_after,  file=sys.stderr)
+
+                print(line, end="")
                 continue
 
             # Check for citation match
@@ -197,3 +225,77 @@ for key, value in found_sources.items():
             any_unregistered = True
 
             print(f"{key}: {value}",  file=sys.stderr)
+
+
+relevant_keys = ['generic','brand','alternate-names']
+current_prefix = ''
+current_count = ''
+for key, value in found_topics.items():
+    #     result = " ".join(value.values())original.keys() & target_keys
+    relevant_values = [value[k] for k in relevant_keys if k in value]
+    # print(f"{key}: {"; ".join(relevant_values)}",  file=sys.stderr)
+    subsection3_prefix = value['prefix']
+    subsection3_count = value['count']
+    subsection3_slug = value['slug']
+    subsection3_key = value['key']
+
+    # print(f"{key}: {value} • {subsection3_prefix} • {"; ".join(relevant_values)}",  file=sys.stderr)
+    if current_prefix != subsection3_prefix:
+        current_prefix = subsection3_prefix
+        current_count = subsection3_count
+        current_slug = subsection3_slug
+        print(f"table tr:nth-child({current_count}), /*{current_prefix}*/",  file=sys.stderr)
+        print(f"#{current_slug}, ",  file=sys.stderr)
+        print(f"|[{subsection3_key} &darr;](#{subsection3_slug}) <a id=\"{current_prefix}\"></a>|{"; ".join(relevant_values)}|",  file=sys.stderr)
+    else:
+        print(f"|[{subsection3_key} &darr;](#{subsection3_slug})|{"; ".join(relevant_values)}|",  file=sys.stderr)
+
+
+
+
+# table tr:nth-child(1), /*A*/
+# table tr:nth-child(21), /*B*/
+# table tr:nth-child(30), /*C*/
+# table tr:nth-child(42), /*D*/
+# table tr:nth-child(54), /*E*/
+# table tr:nth-child(68), /*F*/
+# table tr:nth-child(76), /*G*/
+# table tr:nth-child(83), /*H*/
+# table tr:nth-child(101), /*I*/
+# table tr:nth-child(109), /*J*/
+# table tr:nth-child(112), /*K*/
+# table tr:nth-child(116), /*L*/
+# table tr:nth-child(131), /*M*/
+# table tr:nth-child(140), /*N*/
+# table tr:nth-child(146), /*O*/
+# table tr:nth-child(149), /*P*/
+# table tr:nth-child(165), /*R*/
+# table tr:nth-child(170), /*S*/
+# table tr:nth-child(180), /*T*/
+# table tr:nth-child(202), /*U*/
+# table tr:nth-child(208), /*V*/
+# table tr:nth-child(213), /*X*/
+
+
+#acr,
+#bactrim,
+#camino-hospital-iop,
+#deceased-organ-donation,
+#edema,
+#fib-4,
+#gabapentin,
+#hcc-ablation,
+#icu,
+#j-tube,
+#ketorolac,
+#lactulose,
+#medical-marijuana,
+#naltrexone,
+#optn,
+#paracentesis,
+#recompensated,
+#safety-net,
+#tace,
+#uacr,
+#valcyte,
+#xiaflex,
