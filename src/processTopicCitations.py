@@ -236,9 +236,15 @@ outfile_table = f"{includes_filepath}/toc_table.txt"
 outfile_table_style = f"{includes_filepath}/toc_table_style.txt"
 outfile_header_style = f"{includes_filepath}/toc_header_style.txt"
 
+table_header = """| Topic                                                                              | Alternate Name                                |
+|------------------------------------------------------------------------------------|-----------------------------------------------|"""
+
 with open(outfile_table, "w", encoding="utf-8") as outfile_table_file, \
     open(outfile_table_style, "w", encoding="utf-8") as outfile_table_style_file, \
         open(outfile_header_style, "w", encoding="utf-8") as outfile_header_style_file:
+
+
+        print(table_header,  file=outfile_table_file)
 
         for key, value in found_topics.items():
             #     result = " ".join(value.values())original.keys() & target_keys
