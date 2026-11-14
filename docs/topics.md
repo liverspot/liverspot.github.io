@@ -723,7 +723,7 @@ Or more simply, expressing in percent of 100:
 
 «Epstein-Barr virus (EBV) is a very common viral infection that spreads through saliva and body fluids. EBV is a type of herpesvirus called herpesvirus 4. Most cases of EBV don’t cause symptoms. Other cases, especially in adolescents and young adults, can lead to infectious mononucleosis.» — [1]
 
-* * _Alternate Names:_ EBV
+* _Alternate Names:_ EBV
 
 #### Refs
 
@@ -1546,8 +1546,8 @@ Magnetic resonance imaging (MRI) is a type of diagnostic test that can create de
 
 «Multifocal lung cancer is a complex condition where more than one spot of lung cancer is present. Each of these spots could represent an individual cancer that is independent of the other spots in the lungs. Or, alternatively, the spots could mean a singular lung cancer has spread. The detection of multifocal lung cancer has increased with the use of low-dose CT scans for lung cancer screening and CT scans ordered for other conditions.» — [1]
 
+#### Refs
 * [1] [Mayo Clinic](/source/mayoclinicorg/) «Multifocal Lung Cancer Specialty Group» — <https://www.mayoclinic.org/departments-centers/multifocal-lung-cancer-specialty-group/overview/ovc-20474869>
-
 * [2] [NIH](/source/nihgov/) «Multifocal hepatocellular carcinoma: intrahepatic metastasis or multicentric carcinogenesis?» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC4293477/>
 
 ### [Multiple Listing](#multiple-listing)
@@ -1604,9 +1604,6 @@ Peripheral neuropathy happens when the nerves that are located outside of the br
 
 «Neutropenia involves having lower-than-normal levels of neutrophils (a type of white blood cell) in your blood. It’s especially common among people receiving cancer treatments, like chemotherapy. Neutrophils help fight infections. If you have neutropenia, it’s important to take extra precautions to avoid germs that may make you sick.» — [2]
 
-* [1] [UPMC](/source/upmccom/) — <https://hillman.upmc.com/patients/community-support/education/miscellaneous/neutropenia>
-* [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>
-
 «
 Hand washing should be done:
 Before eating, drinking, and taking medicine
@@ -1621,6 +1618,12 @@ You must avoid all of the following:
   Long periods of bed rest
   Hot and humid environments, such as saunas, greenhouses, and pools
   » — [1]
+
+#### Refs
+* [1] [UPMC](/source/upmccom/) — <https://hillman.upmc.com/patients/community-support/education/miscellaneous/neutropenia>
+* [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/21058-neutropenia>
+
+
 
 
 ### [Nystatin](#nystatin)
