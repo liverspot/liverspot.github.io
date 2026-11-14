@@ -59,7 +59,7 @@
 |[El Camino Car &darr;](#el-camino-car)||
 |[Encephalitis &darr;](#encephalitis)||
 |[Encephalopathy &darr;](#encephalopathy)||
-|[Epstein-Barr Virus &darr;](#epstein-barr-virus)||
+|[Epstein-Barr Virus &darr;](#epstein-barr-virus)|EBV|
 |[ERCP &darr;](#ercp)|Endoscopic retrograde cholangiopancreatography|
 |[Erica Storm &darr;](#erica-storm)||
 |[ESLD &darr;](#esld)|End-Stage Liver Disease|

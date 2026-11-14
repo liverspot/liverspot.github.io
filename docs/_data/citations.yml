@@ -880,6 +880,12 @@
   topic-slug: hepatopulmonary-syndrome
   path: /topics/#hepatopulmonary-syndrome
   description: "«Impact of the Hepatopulmonary Syndrome MELD Exception Policy on Outcomes of Patients After Liver Transplantation: An Analysis of the UNOS Database» "
+- url: https://www.aasld.org/liver-fellow-network/core-series/why-series/why-do-we-use-model-end-stage-liver-disease-meld-0
+  source: aasldorg
+  topic-name: Hepatopulmonary Syndrome
+  topic-slug: hepatopulmonary-syndrome
+  path: /topics/#hepatopulmonary-syndrome
+  description: "«Why do we use the model for end-stage liver disease (MELD) score?: Part 2» "
 - url: https://my.clevelandclinic.org/health/diseases/24190-hepatopulmonary-syndrome
   source: clevelandclinicorg
   topic-name: Hepatopulmonary Syndrome
@@ -1005,6 +1011,12 @@
   topic-name: Immunosuppressant
   topic-slug: immunosuppressant
   path: /topics/#immunosuppressant
+  description: ""
+- url: https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression
+  source: aasldorg
+  topic-name: Immunosuppression
+  topic-slug: immunosuppression
+  path: /topics/#immunosuppression
   description: ""
 - url: https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/
   source: medlineplusgov
@@ -1270,6 +1282,12 @@
   topic-slug: meld-exception-score
   path: /topics/#meld-exception-score
   description: ""
+- url: https://www.aasld.org/liver-fellow-network/core-series/why-series/why-do-we-use-model-end-stage-liver-disease-meld-0
+  source: aasldorg
+  topic-name: MELD Exception Score
+  topic-slug: meld-exception-score
+  path: /topics/#meld-exception-score
+  description: "«Why do we use the model for end-stage liver disease (MELD) score?: Part 2» "
 - url: https://www.mayoclinic.org/tests-procedures/magnetic-resonance-elastography/about/pac-20385177
   source: mayoclinicorg
   topic-name: MRE

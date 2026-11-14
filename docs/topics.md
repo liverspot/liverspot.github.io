@@ -1062,7 +1062,7 @@ Hepatopulmonary syndrome is among the conditions that utilizes MELD Exception Sc
 #### Refs
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/hepatopulmonary-syndrome/symptoms-causes/syc-20373350>
 * [2] [NIH](/source/nihgov/) «Impact of the Hepatopulmonary Syndrome MELD Exception Policy on Outcomes of Patients After Liver Transplantation: An Analysis of the UNOS Database» — <https://pmc.ncbi.nlm.nih.gov/articles/PMC3992191/>
-* [3] «Why do we use the model for end-stage liver disease (MELD) score?: Part 2» — <https://www.aasld.org/liver-fellow-network/core-series/why-series/why-do-we-use-model-end-stage-liver-disease-meld-0>
+* [3] [AASLD](/source/aasldorg/) «Why do we use the model for end-stage liver disease (MELD) score?: Part 2» — <https://www.aasld.org/liver-fellow-network/core-series/why-series/why-do-we-use-model-end-stage-liver-disease-meld-0>
 * [4] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/24190-hepatopulmonary-syndrome>
 * [5] [ScienceDirect](/source/sciencedirectcom/) «Hepatopulmonary syndrome» — <https://www.sciencedirect.com/science/article/pii/S2589555922000994>
 
@@ -1183,7 +1183,7 @@ Delirium that occurs either concurrently to being in the ICU or actually caused 
 <span class='topic-arrow' >[&rarr;](/topic/immunosuppression/)</span>
 ### [Immunosuppression](/topic/immunosuppression/)
 
-* [1] <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
+* [1] [AASLD](/source/aasldorg/) — <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
 
 ### [INR](#inr)
 «An International Normalized Ratio (INR) test calculates how long it takes for blood to clot compared to a normal healthy person (with a value of ‘1’). Blood thinners and illness can cause blood to take several times longer than normal to clot.» — [3]
@@ -1521,7 +1521,7 @@ Conditions that can cause an exception score:
 #### Refs
 * [1] [UNOS](/source/unosorg/) — <https://unos.org/policy/liver/exception-scores/>
 * [2] [UNOS](/source/unosorg/) — <https://unos.org/wp-content/uploads/HCC-FAQ-update-Feb-018.pdf>
-* [3] «Why do we use the model for end-stage liver disease (MELD) score?: Part 2» — <https://www.aasld.org/liver-fellow-network/core-series/why-series/why-do-we-use-model-end-stage-liver-disease-meld-0>
+* [3] [AASLD](/source/aasldorg/) «Why do we use the model for end-stage liver disease (MELD) score?: Part 2» — <https://www.aasld.org/liver-fellow-network/core-series/why-series/why-do-we-use-model-end-stage-liver-disease-meld-0>
 
 
 ### [MRE](#mre)
