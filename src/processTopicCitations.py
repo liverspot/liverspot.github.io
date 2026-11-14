@@ -101,7 +101,7 @@ for entry in extracted_data:
     # print(entry['identifier'], entry['name'], file=sys.stderr)
     sources[entry['identifier']]=entry['short-name']
 
-print(f"Found {len(sources.keys())} registered sources\n",  file=sys.stderr)
+# print(f"Found {len(sources.keys())} registered sources\n",  file=sys.stderr)
 
 with open(citation_filepath, "w", encoding="utf-8") as citations_file:
 
@@ -130,7 +130,7 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
                 subsection3_prefix = subsection3[0].lower()
 
                 found_topics[subsection3]= {'key': subsection3, 'slug': subsection3_slug,'count': subsection3_count, 'prefix': subsection3_prefix}
-                print("Found Subsection:", found_topics[subsection3], file=sys.stderr)
+                # print("Found Subsection:", found_topics[subsection3], file=sys.stderr)
                 continue
 
             # Check for citation match
@@ -143,9 +143,9 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
                 if subsection3:
                     topic_entry = found_topics[subsection3]
                     topic_entry[keyword]=text_after.strip()
-                    print("   * Found Subsection Entry:", subsection3, topic_entry,  file=sys.stderr)
-                else:
-                    print("   * Found Subsection Info:", subsection3, keyword, text_after,  file=sys.stderr)
+                    # print("   * Found Subsection Entry:", subsection3, topic_entry,  file=sys.stderr)
+                # else:
+                #     print("   * Found Subsection Info:", subsection3, keyword, text_after,  file=sys.stderr)
 
                 print(line, end="")
                 continue
