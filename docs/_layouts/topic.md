@@ -17,10 +17,8 @@ styles:
 
 {{ content }}
 
-<p>Topic Entry: <a href="{{ site.baseurl }}/topics#{{page.slug}}">{{ page.name }}</a>
+<p><i>Topics Entry Link:</i> <a href="{{ site.baseurl }}/topics#{{page.slug}}">{{ page.name }}</a>
 </p>
-
-
 
 <h2>Stories</h2>
 

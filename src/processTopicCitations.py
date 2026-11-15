@@ -28,6 +28,7 @@ sources = {}
 
 # Current collection of topics: derived from '_topics' directory metadata information
 topics = {}
+topic_entries = {}
 
 # Filepaths relative to the 'home' directory of the project
 # Expecting the script to be called from there.
@@ -138,13 +139,23 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
     # This moves the original 'topics_filepath' to a '.bak' version, and writes a new version of 'topics_filepath'
     with fileinput.input(files=topics_file_filepath, inplace=True, backup=".bak") as file:
         # Loop over all the lines in the file
+        subsection3 = ""
         subsection3_count = 0
+        subsection3_text = ""
+
         for line in file:
             # Check for subsection match
             match2 = re.match(pattern2, line)
             if match2:
+                # New subsection — save old one if it exists
+                if subsection3:
+                    found_topics[subsection3]['text']=subsection3_text
+                    # print("Saving Subsection:", found_topics[subsection3], file=sys.stderr)
+
                 subsection3 = match2.group(1)
                 subsection3_count += 1
+                subsection3_text = ""
+
                 # found_topics[subsection3]={}
                 subsection3_url = ""
                 match2b = re.match(pattern2b, subsection3)
@@ -159,9 +170,15 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
 
                 subsection3_prefix = subsection3[0].lower()
 
-                found_topics[subsection3]= {'key': subsection3, 'slug': subsection3_slug,'count': subsection3_count, 'prefix': subsection3_prefix}
+                topics_entry = topics.get(subsection3_slug)
+                found_topics[subsection3]= {'key': subsection3, 'slug': subsection3_slug,'count': subsection3_count, 'prefix': subsection3_prefix, 'entry': topics_entry}
+                # topics[entry['identifier']]=entry['name']
+
                 # print("Found Subsection:", found_topics[subsection3], file=sys.stderr)
                 continue
+
+            if subsection3:
+                subsection3_text += line
 
             # Check for citation match
             match3 = re.match(pattern3, line)
@@ -284,6 +301,7 @@ with open(outfile_table, "w", encoding="utf-8") as outfile_table_file, \
             subsection3_count = value['count']
             subsection3_slug = value['slug']
             subsection3_key = value['key']
+            subsection3_entry = value['entry']
 
             # print(f"{key}: {value} • {subsection3_prefix} • {"; ".join(relevant_values)}",  file=sys.stderr)
             if current_prefix != subsection3_prefix:
@@ -295,6 +313,16 @@ with open(outfile_table, "w", encoding="utf-8") as outfile_table_file, \
                 print(f"|[{subsection3_key} &darr;](#{subsection3_slug}) <a id=\"{subsection3_prefix}\"></a>|{"; ".join(relevant_values)}|",  file=outfile_table_file)
             else:
                 print(f"|[{subsection3_key} &darr;](#{subsection3_slug})|{"; ".join(relevant_values)}|",  file=outfile_table_file)
+
+            if subsection3_entry:
+                print(f"{key}: {subsection3_slug} • {subsection3_entry}",  file=sys.stderr)
+                outfile_entry = f"{topics_includes_filepath}/{subsection3_slug}__entry.txt"
+                subsection3_text = value['text']
+                with open(outfile_entry, "w", encoding="utf-8") as outfile_entry_file:
+                    print(subsection3_text,  file=outfile_entry_file)
+
+
+
 
 
 
