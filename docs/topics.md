@@ -244,6 +244,7 @@ Even animals that look clean and healthy can carry harmful germs, and areas wher
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/aspartate-aminotransferase-ast-test/about/pac-20583406>
 
 
+<span class='topic-arrow' >[&rarr;](/topic/asterixis/)</span>
 ### [Asterixis](#asterixis)
 «Asterixis is an inability to maintain sustained posture, commonly causing hands to flap when the wrist is extended. It is a symptom of hepatic encephalopathy and is why a doctor may ask a patient to hold out their hands.» — [3]
 

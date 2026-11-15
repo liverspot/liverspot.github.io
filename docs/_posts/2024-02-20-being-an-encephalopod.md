@@ -6,6 +6,7 @@ categories:
   - story
 tags:
   - cirrhosis
+  - asterixis
 author: Mark Fussell
 ---
 
