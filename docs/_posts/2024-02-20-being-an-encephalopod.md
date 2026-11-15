@@ -35,7 +35,7 @@ In March of 2021 I was at Stanford hospital in the M5 Liver and Kidney clinic de
 <ul role="list">
     <li>
         Hand flapping caused by 
-        <a href="/glossary/asterixis">Asterixis</a>
+        <a href="/topics/#asterixis">Asterixis</a>
          — You hold your hands out palms forward, and they may flap up and down without you being able to stop it
     </li>
     <li>Inability to remember where you are, why you are there, etc.</li>
