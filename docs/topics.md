@@ -984,6 +984,7 @@ Professional Education
 * [1]&nbsp;<https://www.mayocliniclabs.com/test-catalog/overview/606585>
 * [2] [MDCalc](/source/mdcalccom/) — <https://www.mdcalc.com/calc/10094/galad-model-hepatocellular-carcinoma-hcc>
 
+<span class='topic-arrow' >[&rarr;](/topic/he/)</span>
 ### [HE](#he)
 
 HE is short for Hepatic Encephalopathy.

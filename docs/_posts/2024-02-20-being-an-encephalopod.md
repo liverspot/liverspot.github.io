@@ -5,8 +5,9 @@ date:   2024-02-20 07:00:00 -0700
 categories:
   - story
 tags:
-  - cirrhosis
   - asterixis
+  - cirrhosis
+  - he
 author: Mark Fussell
 ---
 
