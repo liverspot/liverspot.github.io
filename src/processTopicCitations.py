@@ -26,12 +26,17 @@ import json
 # Current collection of sources: derived from '_sources' directory metadata information
 sources = {}
 
+# Current collection of topics: derived from '_topics' directory metadata information
+topics = {}
+
 # Filepaths relative to the 'home' directory of the project
 # Expecting the script to be called from there.
-topics_filepath = "./docs/topics.md"
+topics_file_filepath = "./docs/topics.md"
 citation_filepath = "./docs/_data/citations.yml"
 sources_filepath = "./docs/_sources"
-includes_filepath = "./docs/_includes/topics"
+topics_filepath = "./docs/_topics"
+topics_file_includes_filepath = "./docs/_includes/topics_file"
+topics_includes_filepath = "./docs/_includes/topics"
 
 
 # Identify citation lines by the pattern:
@@ -101,12 +106,37 @@ for entry in extracted_data:
     # print(entry['identifier'], entry['name'], file=sys.stderr)
     sources[entry['identifier']]=entry['short-name']
 
+extracted_data = []
+
+for filename in os.listdir(topics_filepath):
+    if filename.endswith('.md'):
+        identifer_length = len(filename)-3
+        identifier = filename[0:identifer_length]
+        file_path = os.path.join(topics_filepath, filename)
+
+        # Parse front matter and content
+        with open(file_path, 'r', encoding='utf-8') as f:
+            post = frontmatter.load(f)
+
+            # Fetch all front matter attributes as a dictionary
+            metadata = post.metadata
+            metadata['filename'] = filename
+            metadata['identifier'] = identifier
+            # Optional: capture the markdown body text as well
+            # metadata['content_body'] = post.content
+
+            extracted_data.append(metadata)
+
+for entry in extracted_data:
+    print(entry['identifier'], entry['name'], file=sys.stderr)
+    topics[entry['identifier']]=entry['name']
+
 # print(f"Found {len(sources.keys())} registered sources\n",  file=sys.stderr)
 
 with open(citation_filepath, "w", encoding="utf-8") as citations_file:
 
     # This moves the original 'topics_filepath' to a '.bak' version, and writes a new version of 'topics_filepath'
-    with fileinput.input(files=topics_filepath, inplace=True, backup=".bak") as file:
+    with fileinput.input(files=topics_file_filepath, inplace=True, backup=".bak") as file:
         # Loop over all the lines in the file
         subsection3_count = 0
         for line in file:
@@ -232,9 +262,9 @@ relevant_keys = ['generic','brand','alternate-names']
 current_prefix = ''
 current_count = ''
 
-outfile_table = f"{includes_filepath}/toc_table.txt"
-outfile_table_style = f"{includes_filepath}/toc_table_style.txt"
-outfile_header_style = f"{includes_filepath}/toc_header_style.txt"
+outfile_table = f"{topics_file_includes_filepath}/toc_table.txt"
+outfile_table_style = f"{topics_file_includes_filepath}/toc_table_style.txt"
+outfile_header_style = f"{topics_file_includes_filepath}/toc_header_style.txt"
 
 table_header = """| Topic                                                                              | Alternate Name                                |
 |------------------------------------------------------------------------------------|-----------------------------------------------|"""
