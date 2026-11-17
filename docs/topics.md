@@ -248,6 +248,9 @@ Even animals that look clean and healthy can carry harmful germs, and areas wher
 ### [Asterixis](#asterixis)
 «Asterixis is an inability to maintain sustained posture, commonly causing hands to flap when the wrist is extended. It is a symptom of hepatic encephalopathy and is why a doctor may ask a patient to hold out their hands.» — [3]
 
+* _Topic Page:_ <a href="/topic/asterixis/">/topic/asterixis/</a>
+
+#### Refs
 * [1] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Asterixis>
 * [2]&nbsp;<https://www.osmosis.org/answers/asterixis>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/asterixis>
@@ -435,11 +438,14 @@ During the test, a technician injects a solution into a vein in your arm. The fl
 * [1]&nbsp;<https://www.elcaminohealth.org/services/mental-health/specialty-programs/addiction-services>
 
 <span class='topic-arrow' >[&rarr;](/topic/cirrhosis/)</span>
-### [Cirrhosis](/topic/cirrhosis/)
+### [Cirrhosis](#cirrhosis)
 «Cirrhosis is a condition in which your liver is scarred and permanently damaged. Scar tissue replaces healthy liver tissue and prevents your liver from working normally. As cirrhosis gets worse, your liver begins to fail.» — [5]
 
 «Liver cirrhosis (LC) is defined as an advanced stage of liver fibrosis with distortion of the hepatic vasculature and architecture. Histologically, regenerative nodules with fibrous tissues form in response to chronic injury and lead to LC[4,5]. Consequently, disruption of the liver architecture due to liver fibrosis and/or cirrhosis causes hemodynamic instability and portal hypertension. The development of portal hypertension is a hallmark of LC.» — [6]
 
+* _Topic Page:_ <a href="/topic/cirrhosis/">/topic/cirrhosis/</a>
+
+#### Refs
 * [1] [NIH](/source/nihgov/) — <https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487>
 * [3] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Cirrhosis>
@@ -517,9 +523,12 @@ California Pacific Medical Center (CPMC)
 * [1]&nbsp;<https://www.sutterhealth.org/about-us/our-hospitals/california-pacific-medical-center>
 
 <span class='topic-arrow' >[&rarr;](/topic/creatinine/)</span>
-### [Creatinine](/topic/creatinine/)
+### [Creatinine](#creatinine)
 «Creatinine is the waste byproduct of the muscles processing energy from creatine. Properly functioning kidneys remove creatinine from the blood supply.» — [2]
 
+* _Topic Page:_ <a href="/topic/creatinine/">/topic/creatinine/</a>
+
+#### Refs
 * [1] [Mount Sinai](/source/mountsinaiorg/) — <https://www.mountsinai.org/health-library/tests/creatinine-blood-test>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/creatinine>
 
@@ -578,10 +587,12 @@ Liver damage and severe scarring can progress to the point where the liver can n
 * [3] [NIH](/source/nihgov/) «Management of decompensated cirrhosis» — <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334027/>
 
 <span class='topic-arrow' >[&rarr;](/topic/dialysis/)</span>
-
-### [Dialysis](/topic/dialysis/)
+### [Dialysis](#dialysis)
 «Dialysis functions as a very effective but partial replacement for the processes of the kidneys. The main capability is the removal of waste products (e.g. see Creatinine above) from the blood supply. A secondary capability is the removal of water from the blood supply, and through that, from areas water is over-accumulating.» — [3]
 
+* _Topic Page:_ <a href="/topic/dialysis/">/topic/dialysis/</a>
+
+#### Refs
 * [1] [NHS](/source/nhsuk/) — <https://www.nhs.uk/conditions/dialysis/>
 * [2] [NKF](/source/kidneyorg/) — <https://www.kidney.org/atoz/content/dialysisinfo>
 * [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/dialysis>
@@ -994,6 +1005,8 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 «Dizziness and lightheadedness in hepatic encephalopathy (HE) are common physical symptoms caused by the brain's reaction to unprocessed toxins in the bloodstream, such as ammonia.» — [2]
 
 * _Alternate Names:_ Hepatic Encephalopathy
+* _Topic Page:_ <a href="/topic/he/">/topic/he/</a>
+
 
 #### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/encephalopathy>
@@ -1183,8 +1196,11 @@ Delirium that occurs either concurrently to being in the ICU or actually caused 
 * [5] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/immunosuppressant>
 
 <span class='topic-arrow' >[&rarr;](/topic/immunosuppression/)</span>
-### [Immunosuppression](/topic/immunosuppression/)
+### [Immunosuppression](#immunosuppression)
 
+* _Topic Page:_ <a href="/topic/immunosuppression/">/topic/immunosuppression/</a>
+
+#### Refs
 * [1] [AASLD](/source/aasldorg/) — <https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/beginners-guide-liver-transplant-immunosuppression>
 
 ### [INR](#inr)
@@ -1462,7 +1478,7 @@ LOLA is not FDA approved for HE at all, although it wouldn't really be possible 
 
 
 <span class='topic-arrow' >[&rarr;](/topic/meld/)</span>
-### [MELD](/topic/meld/)
+### [MELD](#meld)
 
 «The model for end-stage liver disease (MELD) score helps decide how urgently someone needs a liver transplant in the next three months. The score ranges from 6 to 40. A person with a higher score needs a liver transplant sooner than does a person with a lower score.» — [1]
 
@@ -1482,6 +1498,7 @@ There are statistical correlations between level of liver illness (e.g. the MELD
 
 #### Additional Information
 * _Alternate Names:_ Model for end-stage liver disease
+* _Topic Page:_ <a href="/topic/meld/">/topic/meld/</a>
 
 #### Refs
 
@@ -1739,7 +1756,7 @@ PET (positron emission tomography) scans produce pictures of the inside of the b
 * [2] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diagnostics/10123-pet-scan>
 
 <span class='topic-arrow' >[&rarr;](/topic/peth/)</span>
-### [PEth](/topic/peth/)
+### [PEth](#peth)
 
 «Phosphatidylethanol (PEth) testing is a reliable method to help create a picture of alcohol consumption.» — [1]
 
@@ -1756,6 +1773,7 @@ Even though the PEth test is at the nanogram level, they do realize that there i
 #### Additional Information
 
 * _Alternate Names:_ Phosphatidylethanol
+* _Topic Page:_ <a href="/topic/peth/">/topic/peth/</a>
 
 #### Refs
 
