@@ -998,13 +998,15 @@ Professional Education
 <span class='topic-arrow' >[&rarr;](/topic/he/)</span>
 ### [HE](#he)
 
-HE is short for Hepatic Encephalopathy.
+«Hepatic encephalopathy 〚(HE)〛, also called portosystemic encephalopathy, happens when your liver isn’t filtering toxins as it should. These toxins build up in your blood and affect your brain, causing confusion, disorientation and other changes. Hepatic encephalopathy can get better with treatment, but it can be life-threatening without.» — [2]
 
 Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (about the brain) and ‘pathos’ (disease). Depending on severity encephalopathy can show up as symptoms from headaches to coma. Hepatic encephalopathy (HE) is caused by liver problems and accumulated toxins in the blood that ultimately infiltrate the brain.
 
 «Dizziness and lightheadedness in hepatic encephalopathy (HE) are common physical symptoms caused by the brain's reaction to unprocessed toxins in the bloodstream, such as ammonia.» — [2]
 
-* _Alternate Names:_ Hepatic Encephalopathy
+«Can your brain recover from hepatic encephalopathy? With timely treatment, recovery is possible, but how much your brain recovers can vary. … » — [2]
+
+* _Alternate Names:_ Hepatic Encephalopathy; Portosystemic Encephalopathy
 * _Topic Page:_ <a href="/topic/he/">/topic/he/</a>
 
 
@@ -1021,7 +1023,7 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 «An A1C test measures your average blood sugar over the past three months. Normal is below 5.7%, prediabetes is 5.7% to 6.4%, and diabetes is 6.5% or higher. For most adults managing diabetes, the target goal is under 7%» — [2]
 
 
-* _Alternate Names:_ HbA1C, A1C
+* _Alternate Names:_ HbA1C; A1C
 
 #### Refs
 * [1] [MedlinePlus](/source/medlineplusgov/) — <https://medlineplus.gov/lab-tests/hemoglobin-a1c-hba1c-test/>
@@ -2372,7 +2374,7 @@ Ursodiol is a bile thinner that helps your body recover from the removal of the 
 
 «AccuVein’s near-infrared (NIR) technology enables healthcare professionals to visualize the superficial vasculature in order to identify veins for optimal peripheral venous access or avoiding veins during aesthetic procedures» — [2]
 
-* _Alternate Names:_ Arterial Mapping, Vessel Mapping
+* _Alternate Names:_ Arterial Mapping; Vessel Mapping
 
 #### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) «Arterial & Venous Mapping» — <https://my.clevelandclinic.org/health/diagnostics/17607-arterial--venous-mapping>
