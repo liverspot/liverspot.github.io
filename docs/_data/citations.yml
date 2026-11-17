@@ -1060,6 +1060,12 @@
   topic-slug: itching
   path: /topics/#itching
   description: ""
+- url: https://www.dairbook.com/stories/jacobus-20171029a
+  source: dairbookcom
+  topic-name: Itching
+  topic-slug: itching
+  path: /topics/#itching
+  description: ""
 - url: https://medlineplus.gov/ency/patientinstructions/000181.htm
   source: medlineplusgov
   topic-name: J-Tube

@@ -6,6 +6,8 @@ Encephalopathy is disease affecting the brain, from the Greek ‘enkephalos’ (
 «Dizziness and lightheadedness in hepatic encephalopathy (HE) are common physical symptoms caused by the brain's reaction to unprocessed toxins in the bloodstream, such as ammonia.» — [2]
 
 * _Alternate Names:_ Hepatic Encephalopathy
+* _Topic Page:_ <a href="/topic/he/">/topic/he/</a>
+
 
 #### Refs
 * [1] [Cleveland Clinic](/source/clevelandclinicorg/) — <https://my.clevelandclinic.org/health/diseases/encephalopathy>

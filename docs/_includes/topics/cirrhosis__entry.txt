@@ -2,6 +2,9 @@
 
 «Liver cirrhosis (LC) is defined as an advanced stage of liver fibrosis with distortion of the hepatic vasculature and architecture. Histologically, regenerative nodules with fibrous tissues form in response to chronic injury and lead to LC[4,5]. Consequently, disruption of the liver architecture due to liver fibrosis and/or cirrhosis causes hemodynamic instability and portal hypertension. The development of portal hypertension is a hallmark of LC.» — [6]
 
+* _Topic Page:_ <a href="/topic/cirrhosis/">/topic/cirrhosis/</a>
+
+#### Refs
 * [1] [NIH](/source/nihgov/) — <https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis>
 * [2] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487>
 * [3] [Wikipedia](/source/wikipediaorg/) — <https://en.wikipedia.org/wiki/Cirrhosis>

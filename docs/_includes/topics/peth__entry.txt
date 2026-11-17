@@ -14,6 +14,7 @@ Even though the PEth test is at the nanogram level, they do realize that there i
 #### Additional Information
 
 * _Alternate Names:_ Phosphatidylethanol
+* _Topic Page:_ <a href="/topic/peth/">/topic/peth/</a>
 
 #### Refs
 

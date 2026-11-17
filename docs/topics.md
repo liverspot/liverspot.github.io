@@ -1241,9 +1241,42 @@ An Intensive Outpatient Program (IOP) is a hospital program that meets several t
 ### [Itching](#itching)
 «Itching is a common symptom from liver damage. Possible helpful treatments include: Cholestyramime Powder,  Hydroxyzine, and Sarna lotion .» — [2]
 
+«PRESCRIPTION DRUGS
+* Cholestyramine, Colestyramine, Questran, Prevalite (different names-same drug).
+* Eucrisa
+* Hydrocortisone.
+* Hydroxine, Vistaril, Atarax (different names-same drug).
+* Lidocaine ointment (lower percentages of Lidocaine treatments available OTC).
+* Naltrexone.
+* Rifampin.
+* Zoloft.» — [3]
+
+«OVER THE COUNTER TREATMENTS
+* Allegra.
+* Aloe vera lotion.
+* Aveeno with oatmeal bath.
+* Aveeno with oatmeal lotion.
+* Benadryl lotion.
+* Benadryl tablets.
+* Bengay.
+* Cetaphil lotion.
+* Claritin.
+* Eucerin Intensive Repair.
+* Gold Bond anti-itch cream.
+* Icyhot.
+* Lidocaine-based treatments: •  Desitin Maximum Strength •  Aspercreme with Lidocaine •  Solarcain sunburn spray •  (cremes with higher percentages of Lidocaine by prescription).
+* Plain soaps like Ivory or Dove.
+* Quinol Liquid CoQ10
+* SARNA with Pramoxine Hydrochloride 1% Lotion
+* Tricalm Hydrogel • 5x more effective than hydrocortisone • 6x more effective than diphenhydramine
+* Zim's Max-Freeze spray.
+* Zyrtec, Cetirizine Hydrochloride (different names-same drug).
+» — [3]
+
+#### Refs
 * [1] [Healthline](/source/healthlinecom/) — <https://www.healthline.com/health/liver-disease-and-itching>
 * [2] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/glossary/itching>
-
+* [3] [DAIR](/source/dairbookcom/) — <https://www.dairbook.com/stories/jacobus-20171029a>
 
 ### [J-Tube](#j-tube)
 A Jejunal Tube (J-Tube) is a one-meter tube extending from outside your nose to your duodenum (small intestine). It is used to deliver food and medicines to people who are incapable of orally consuming them.
