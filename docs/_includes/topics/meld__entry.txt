@@ -17,7 +17,6 @@ There are statistical correlations between level of liver illness (e.g. the MELD
 
 #### Additional Information
 * _Alternate Names:_ Model for end-stage liver disease
-* _Topic Page:_ <a href="/topic/meld/">/topic/meld/</a>
 
 #### Refs
 

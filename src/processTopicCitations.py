@@ -177,25 +177,30 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
                 # print("Found Subsection:", found_topics[subsection3], file=sys.stderr)
                 continue
 
-            if subsection3:
-                subsection3_text += line
-
-            # Check for citation match
+            # Check for additional information
             match3 = re.match(pattern3, line)
             if match3:
-                #found_topics[subsection3]
-
                 keyword = make_anchor_name(match3.group(1))
                 text_after : str = line[match3.end():]
                 if subsection3:
                     topic_entry = found_topics[subsection3]
                     topic_entry[keyword]=text_after.strip()
-                    # print("   * Found Subsection Entry:", subsection3, topic_entry,  file=sys.stderr)
+
+                    if keyword == "topic-page":
+                       print("   * Found Subsection Info:", subsection3, keyword, text_after,  file=sys.stderr)
+                    else:
+                        subsection3_text += line
+
+                # print("   * Found Subsection Entry:", subsection3, topic_entry,  file=sys.stderr)
                 # else:
                 #     print("   * Found Subsection Info:", subsection3, keyword, text_after,  file=sys.stderr)
 
+
                 print(line, end="")
                 continue
+
+            if subsection3:
+                subsection3_text += line
 
             # Check for citation match
             match1 = re.match(pattern1, line)
