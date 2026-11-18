@@ -41,7 +41,6 @@ table tr:nth-child(1) /*Z*/
     font-weight: bold;
     background-color: #deedf4;
     width: 100%;
-    padding: 10px 10px; 
 }
 
 /*================================== */
@@ -978,6 +977,7 @@ Professional Education
 
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/gynecomastia/symptoms-causes/syc-20351793>
 
+<span class='topic-arrow' >[&rarr;](/topic/hcc-ablation/)</span>
 ### [HCC Ablation](#hcc-ablation)
 
 «Local ablation for hepatocellular carcinoma (HCC), a non-surgical option that directly targets and destroys tumor cells, has advanced significantly since the 1990s. Therapies with different energy sources, such as radiofrequency ablation, microwave ablation, and cryoablation, employ different mechanisms to induce tumor necrosis. The precision, safety, and effectiveness of these therapies have increased with advances in guiding technologies and device improvements. Consequently, local ablation has become the firstline treatment for early-stage HCC. » — [1]
