@@ -2168,6 +2168,7 @@ Thoracentesis is a procedure that a provider uses to drain extra fluid from arou
 * [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/tinnitus/symptoms-causes/syc-20350156>
 
 
+<span class='topic-arrow' >[&rarr;](/topic/tips/)</span>
 ### [TIPS](#tips)
 
 Transjugular intrahepatic portosystemic shunt (TIPS) is a procedure to create a new connections between the portal vein (input) and hepatic vein (ouput) of the liver.  This makes some of the blood flow into the liver bypass the filtering done by the liver cells (e.g. hepatocytes) and immediately exit again.  This reduces portal vein pressure (HVPG) but also diminishes the amount of filtering done by the liver as the blood passes through it, potentially increasing the chance of HE (Hepatic Encephalopathy).
@@ -2244,6 +2245,7 @@ Blood types 'O' and 'B' are the rarer organs when Rh factor is removed (e.g. see
 
 * [1] <https://transplanthouse.org>
 
+<span class='topic-arrow' >[&rarr;](/topic/transplant-survival-benefit/)</span>
 ### [Transplant Survival Benefit](#transplant-survival-benefit)
 
 The benefits of a transplant as a treatment for liver dysfunction depend on the patient but statistical research has correlated life expectancy with patient MELD-scores.  As the MELD score falls below 20, either the benefits are minimal to life expectancy, or the transplant will statistically shorten the patient's life.

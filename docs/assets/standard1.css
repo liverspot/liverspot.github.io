@@ -8,6 +8,12 @@
     background-color: #deedf4;
 }
 
+.topics-arrow {
+    float:right;
+    color: #2e6da4;
+}
+
+
 a {
     overflow-wrap: break-word;
 }
