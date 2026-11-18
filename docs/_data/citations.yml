@@ -658,7 +658,13 @@
   topic-slug: fibroscan
   path: /topics/#fibroscan
   description: ""
-- url: https://tawazunhealth.com/wp-content/uploads/2021/03/Wbe-Stiffness-2021.png
+- url: https://tawazunhealth.com/wp-content/uploads/2024/07/Liver-Stiffness-ranges-1.png
+  source: tawazunhealthcom
+  topic-name: Fibroscan
+  topic-slug: fibroscan
+  path: /topics/#fibroscan
+  description: ""
+- url: https://tawazunhealth.com/wp-content/uploads/2024/07/Liver-Steatosis-Ranges.png
   source: tawazunhealthcom
   topic-name: Fibroscan
   topic-slug: fibroscan

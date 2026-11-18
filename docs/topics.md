@@ -827,13 +827,18 @@ Fibrosis-4 (FIB-4) Index for Liver Fibrosis. Noninvasive estimate of liver scarr
 #### Refs
 * [1] [MDCalc](/source/mdcalccom/) — <https://www.mdcalc.com/calc/2200/fibrosis-4-fib-4-index-liver-fibrosis>
 
+<span class='topic-arrow' >[&rarr;](/topic/fibroscan/)</span>
 ### [Fibroscan](#fibroscan)
 «FibroScan is a special ultrasound technology that measures liver stiffness (hardness) and fatty changes in your liver. These measurements help your healthcare provider learn more about your liver disease» — [1]
 
+* _Topic Page:_ <a href="/topic/fibroscan/">/topic/fibroscan/</a>
+
+#### Refs
 * [1]&nbsp;<https://www.mskcc.org/cancer-care/patient-education/understanding-your-fibroscan-results>
 * [2]&nbsp;<https://agcosprings.com/procedures/fibroscan/>
 * [3] [Tawazun Health](/source/tawazunhealthcom/) — <https://tawazunhealth.com/fibrosscan-stiffness-results/>
-* [4] [Tawazun Health](/source/tawazunhealthcom/) — <https://tawazunhealth.com/wp-content/uploads/2021/03/Wbe-Stiffness-2021.png>
+* [4] [Tawazun Health](/source/tawazunhealthcom/) — <https://tawazunhealth.com/wp-content/uploads/2024/07/Liver-Stiffness-ranges-1.png>
+* [5] [Tawazun Health](/source/tawazunhealthcom/) — <https://tawazunhealth.com/wp-content/uploads/2024/07/Liver-Steatosis-Ranges.png>
 
 ### [Filgrastim](#filgrastim)
 
