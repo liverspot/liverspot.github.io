@@ -2175,6 +2175,7 @@ Transjugular intrahepatic portosystemic shunt (TIPS) is a procedure to create a 
 «TIPS procedures typically take one to two hours. Your team will move you to a recovery room after the procedure. They’ll check on you as you wake up from anesthesia» — [1]
 
 * _Alternate Names:_ Transjugular intrahepatic portosystemic shunt
+* _Topic Page:_ <a href="/topic/tips/">/topic/tips/</a>
 
 #### Refs
 

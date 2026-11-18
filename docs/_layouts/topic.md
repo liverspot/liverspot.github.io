@@ -20,8 +20,6 @@ styles:
 <p><i>Topics Entry Link:</i> <a href="{{ site.baseurl }}/topics#{{page.slug}}">{{ page.name }}</a>
 </p>
 
-<h2>Stories</h2>
-
 {% assign filtered_posts = site.posts | where_exp: "item", "item.tags contains page.slug" %}
 
 

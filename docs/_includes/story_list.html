@@ -1,5 +1,8 @@
 {% capture my_text %}
 
+{% if include.posts.size > 0 %}
+<h2>Stories</h2>
+
 | Story | Date  | Author |
 |-------|-------|--------|
 {% for post in include.posts -%}
@@ -36,6 +39,7 @@
 
 {{post.excerpt}}
 {% endfor -%}
+{% endif %}
 
 {% endcapture %}
 {{ my_text | markdownify }}
