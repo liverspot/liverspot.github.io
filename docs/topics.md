@@ -2252,15 +2252,14 @@ The benefits of a transplant as a treatment for liver dysfunction depend on the 
 
 «Typically, people with MELD scores of 15 or higher are more likely to live longer 〚about a year longer if MELD < 20〛 if they receive new livers. This is known as life expectancy» — [3]
 
+* _Topic Page:_ <a href="/topic/transplant-survival-benefit/">/topic/transplant-survival-benefit/</a>
+
 #### Refs
 
 * [1] [ScienceDirect](/source/sciencedirectcom/) — <https://www.sciencedirect.com/science/article/pii/S160061352203550X>
 * [2]&nbsp;<https://ars.els-cdn.com/content/image/1-s2.0-S160061352203550X-gr3_lrg.jpg>
 * [3] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/tests-procedures/meld-score-liver-disease/about/pac-20590545>
 
-#### Annex
-
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S160061352203550X-gr3_lrg.jpg"> — [2]
 
 ### [TriClip](#triclip)
 
