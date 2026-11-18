@@ -10,6 +10,8 @@
 
 .topics-arrow {
     float:right;
+    margin-top: 4px;
+    padding-top: 4px;
     color: #2e6da4;
 }
 
