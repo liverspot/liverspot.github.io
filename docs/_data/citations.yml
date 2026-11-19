@@ -298,6 +298,12 @@
   topic-slug: bun-test
   path: /topics/#bun-test
   description: ""
+- url: https://www.mayoclinic.org/diseases-conditions/cholangiocarcinoma/symptoms-causes/syc-20352408
+  source: mayoclinicorg
+  topic-name: Cholangiocarcinoma
+  topic-slug: cholangiocarcinoma
+  path: /topics/#cholangiocarcinoma
+  description: ""
 - url: https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis
   source: nihgov
   topic-name: Cirrhosis

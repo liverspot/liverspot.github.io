@@ -436,6 +436,19 @@ During the test, a technician injects a solution into a vein in your arm. The fl
 
 * [1]&nbsp;<https://www.elcaminohealth.org/services/mental-health/specialty-programs/addiction-services>
 
+### [Cholangiocarcinoma](#cholangiocarcinoma)
+
+«Cholangiocarcinoma is a type of cancer that forms in the slender tubes (bile ducts) that carry the digestive fluid bile. Bile ducts connect your liver to your gallbladder and to your small intestine.
+
+Cholangiocarcinoma, also known as bile duct cancer, occurs mostly in people older than age 50, though it can occur at any age.
+» — [1]
+
+* _Alternate Names:_ Bile Duct Cancer
+
+#### Refs
+
+* [1] [Mayo Clinic](/source/mayoclinicorg/) — <https://www.mayoclinic.org/diseases-conditions/cholangiocarcinoma/symptoms-causes/syc-20352408>
+
 <span class='topic-arrow' >[&rarr;](/topic/cirrhosis/)</span>
 ### [Cirrhosis](#cirrhosis)
 «Cirrhosis is a condition in which your liver is scarred and permanently damaged. Scar tissue replaces healthy liver tissue and prevents your liver from working normally. As cirrhosis gets worse, your liver begins to fail.» — [5]
