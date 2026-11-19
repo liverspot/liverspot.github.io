@@ -1180,6 +1180,12 @@
   topic-slug: livtencity
   path: /topics/#livtencity
   description: ""
+- url: https://www.amjtransplant.org/article/S1600-6135(24)01032-3/fulltext
+  source: amjtransplantorg
+  topic-name: Liver Donor Age
+  topic-slug: liver-donor-age
+  path: /topics/#liver-donor-age
+  description: ""
 - url: https://www.mayoclinic.org/tests-procedures/liver-function-tests/about/pac-20394595
   source: mayoclinicorg
   topic-name: Liver Function Tests

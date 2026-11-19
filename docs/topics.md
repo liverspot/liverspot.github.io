@@ -1448,7 +1448,7 @@ This is the world The Liver Circle, Inc. (TLC) is building.  We're more than an 
 
 «Conclusion: Age of liver grafts matters and older grafts have a shorter “life” expectancy compared to younger grafts. Patient survival seemed however non affected, confirming the benefit of an older graft when no other choice is available.» — [1]
 
-* [1] https://www.amjtransplant.org/article/S1600-6135(24)01032-3/fulltext
+* [1] [AJT](/source/amjtransplantorg/) — <https://www.amjtransplant.org/article/S1600-6135(24)01032-3/fulltext>
 
 ### [Liver Function Tests](#liver-function-tests)
 
