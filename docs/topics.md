@@ -1444,6 +1444,12 @@ This is the world The Liver Circle, Inc. (TLC) is building.  We're more than an 
 
 * [1] <https://www.thelivercircle.org>
 
+### [Liver Donor Age](#liver-donor-age)
+
+«Conclusion: Age of liver grafts matters and older grafts have a shorter “life” expectancy compared to younger grafts. Patient survival seemed however non affected, confirming the benefit of an older graft when no other choice is available.» — [1]
+
+* [1] https://www.amjtransplant.org/article/S1600-6135(24)01032-3/fulltext
+
 ### [Liver Function Tests](#liver-function-tests)
 
 «Liver function tests are blood tests used to help find the cause of your symptoms and monitor liver disease or damage. The tests measure the levels of certain enzymes and proteins in your blood.
