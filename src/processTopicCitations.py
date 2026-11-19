@@ -36,7 +36,7 @@ topics_file_filepath = "./docs/topics.md"
 citation_filepath = "./docs/_data/citations.yml"
 sources_filepath = "./docs/_sources"
 topics_filepath = "./docs/_topics"
-topics_file_includes_filepath = "./docs/_includes/topics_file"
+topics_file_includes_filepath = "./docs/_includes/topics"
 topics_includes_filepath = "./docs/_includes/topics"
 
 
@@ -174,7 +174,7 @@ with open(citation_filepath, "w", encoding="utf-8") as citations_file:
                 found_topics[subsection3]= {'key': subsection3, 'slug': subsection3_slug,'count': subsection3_count, 'prefix': subsection3_prefix, 'entry': topics_entry}
                 # topics[entry['identifier']]=entry['name']
 
-                # print("Found Subsection:", found_topics[subsection3], file=sys.stderr)
+                print("Found Subsection:", found_topics[subsection3], file=sys.stderr)
                 continue
 
             # Check for additional information

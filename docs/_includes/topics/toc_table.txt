@@ -30,6 +30,7 @@
 |[Bubble contrast echocardiogram &darr;](#bubble-contrast-echocardiogram)|Bubble Study|
 |[BUN Test &darr;](#bun-test)|Blood-urea-nitrogen|
 |[Camino Hospital IOP &darr;](#camino-hospital-iop) <a id="c"></a>|Intensive OutPatient|
+|[Cholangiocarcinoma &darr;](#cholangiocarcinoma)|Bile Duct Cancer|
 |[Cirrhosis &darr;](#cirrhosis)||
 |[CMV &darr;](#cmv)|Human CytoMegaloVirus; HCMV|
 |[Compensated Cirrhosis &darr;](#compensated-cirrhosis)||
@@ -85,8 +86,8 @@
 |[Gynecomastia &darr;](#gynecomastia)||
 |[HCC Ablation &darr;](#hcc-ablation) <a id="h"></a>||
 |[HCC GALAD model &darr;](#hcc-galad-model)|Hepatocellular Carcinoma: Gender, Age, L3, AFP, DCP|
-|[HE &darr;](#he)|Hepatic Encephalopathy|
-|[Hemaglobin A1C Test &darr;](#hemaglobin-a1c-test)|HbA1C, A1C|
+|[HE &darr;](#he)|Hepatic Encephalopathy; Portosystemic Encephalopathy|
+|[Hemaglobin A1C Test &darr;](#hemaglobin-a1c-test)|HbA1C; A1C|
 |[Hemochromatosis &darr;](#hemochromatosis)||
 |[Hemodialysis &darr;](#hemodialysis)||
 |[Hepatic hydrothorax &darr;](#hepatic-hydrothorax)|HH|
@@ -123,6 +124,7 @@
 |[Livtencity &darr;](#livtencity)|Maribavir; Livtencity|
 |[LiverSpot.org &darr;](#liverspotorg)||
 |[Liver Circle &darr;](#liver-circle)||
+|[Liver Donor Age &darr;](#liver-donor-age)||
 |[Liver Function Tests &darr;](#liver-function-tests)||
 |[Liver In A Box &darr;](#liver-in-a-box)||
 |[Liver Pain &darr;](#liver-pain)||
@@ -209,7 +211,7 @@
 |[URS &darr;](#urs)|Ureteroscopy|
 |[Ursodiol &darr;](#ursodiol)|Ursodiol; Actigall, Reltone, Urso|
 |[Valcyte &darr;](#valcyte) <a id="v"></a>|Valganciclovir; Valcyte|
-|[Vein Mapping &darr;](#vein-mapping)|Arterial Mapping, Vessel Mapping|
+|[Vein Mapping &darr;](#vein-mapping)|Arterial Mapping; Vessel Mapping|
 |[Veltassa &darr;](#veltassa)|Patiromer; Veltassa|
 |[Viral Hepatitis &darr;](#viral-hepatitis)||
 |[Vivitrol &darr;](#vivitrol)|Naltrexone; Vivitrol|
